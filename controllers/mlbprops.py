@@ -22,12 +22,12 @@ import unicodedata
 mlbprops_blueprint = Blueprint('mlbprops', __name__, template_folder='views')
 
 prefix = ""
-if os.path.exists("/home/zhecht/playerprops"):
+if os.path.exists("/home/zhecht/props"):
 	# if on linux aka prod
-	prefix = "/home/zhecht/playerprops/"
-elif os.path.exists("/home/playerprops/playerprops"):
+	prefix = "/home/zhecht/props/"
+elif os.path.exists("/home/props/props"):
 	# if on linux aka prod
-	prefix = "/home/playerprops/playerprops/"
+	prefix = "/home/props/props/"
 
 def convertDKTeam(team):
 	if team == "cws":
@@ -1334,7 +1334,7 @@ def strip_accents(text):
 	return str(text)
 
 def writeBPPlayerProps(date):
-	url = f"https://www.ballparkpal.com/PlayerProps.php?date={date}"
+	url = f"https://www.ballparkpal.com/props.php?date={date}"
 
 	playerProps = {}
 	outfile = "outmlb2"

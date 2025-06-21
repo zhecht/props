@@ -26,8 +26,8 @@ except:
   import urllib.request as urllib
 
 prefix = ""
-if os.path.exists("/home/zhecht/playerprops"):
-	prefix = "/home/zhecht/playerprops/"
+if os.path.exists("/home/zhecht/props"):
+	prefix = "/home/zhecht/props/"
 
 def write_schedule(date):
 	url = f"https://www.espn.com/soccer/scoreboard/_/league/FIFA.WORLD/date/{date.replace('-','')}"

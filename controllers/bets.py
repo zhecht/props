@@ -24,9 +24,9 @@ except:
 bets_blueprint = Blueprint('bets', __name__, template_folder='views')
 
 prefix = ""
-if os.path.exists("/home/zhecht/playerprops"):
+if os.path.exists("/home/zhecht/props"):
 	# if on linux aka prod
-	prefix = "/home/zhecht/playerprops/"
+	prefix = "/home/zhecht/props/"
 
 @bets_blueprint.route('/updatebets', methods=["POST"])
 def bets_post_route():

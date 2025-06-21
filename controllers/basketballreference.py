@@ -27,11 +27,11 @@ except:
   import urllib.request as urllib
 
 prefix = ""
-if os.path.exists("/home/zhecht/playerprops"):
-	prefix = "/home/zhecht/playerprops/"
-elif os.path.exists("/home/playerprops/playerprops"):
+if os.path.exists("/home/zhecht/props"):
+	prefix = "/home/zhecht/props/"
+elif os.path.exists("/home/props/props"):
 	# if on linux aka prod
-	prefix = "/home/playerprops/playerprops/"
+	prefix = "/home/props/props/"
 
 def write_stats(date):
 	with open(f"{prefix}static/basketballreference/boxscores.json") as fh:

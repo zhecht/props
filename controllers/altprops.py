@@ -16,8 +16,8 @@ import re
 altprops_blueprint = Blueprint('altprops', __name__, template_folder='views')
 
 prefix = ""
-if os.path.exists("/home/zhecht/playerprops"):
-	prefix = "/home/zhecht/playerprops/"
+if os.path.exists("/home/zhecht/props"):
+	prefix = "/home/zhecht/props/"
 
 def convertPropTeam(team):
 	if team == "ny":

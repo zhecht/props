@@ -74,12 +74,12 @@ def convertAmericanOdds(avg):
 	return round(avg)
 
 prefix = ""
-if os.path.exists("/home/zhecht/playerprops"):
+if os.path.exists("/home/zhecht/props"):
 	# if on linux aka prod
-	prefix = "/home/zhecht/playerprops/"
-elif os.path.exists("/home/playerprops/playerprops"):
+	prefix = "/home/zhecht/props/"
+elif os.path.exists("/home/props/props"):
 	# if on linux aka prod
-	prefix = "/home/playerprops/playerprops/"
+	prefix = "/home/props/props/"
 
 
 def writeBet365():

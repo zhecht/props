@@ -23,9 +23,9 @@ except:
 prefix = ""
 if os.path.exists("/home/zhecht/fantasy"):
   prefix = "/home/zhecht/fantasy/"
-elif os.path.exists("/home/playerprops/fantasy"):
+elif os.path.exists("/home/props/fantasy"):
 	# if on linux aka prod
-	prefix = "/home/playerprops/fantasy/"
+	prefix = "/home/props/fantasy/"
 elif os.path.exists("/mnt/c/Users/Zack/Documents/fantasy"):
   prefix = "/mnt/c/Users/Zack/Documents/fantasy/"
 

@@ -18,12 +18,12 @@ from twilio.rest import Client
 soccerprops_blueprint = Blueprint('soccerprops', __name__, template_folder='views')
 
 prefix = ""
-if os.path.exists("/home/zhecht/playerprops"):
+if os.path.exists("/home/zhecht/props"):
 	# if on linux aka prod
-	prefix = "/home/zhecht/playerprops/"
-elif os.path.exists("/home/playerprops/playerprops"):
+	prefix = "/home/zhecht/props/"
+elif os.path.exists("/home/props/props"):
 	# if on linux aka prod
-	prefix = "/home/playerprops/playerprops/"
+	prefix = "/home/props/props/"
 
 def parsePlayer(player):
 	player = strip_accents(player).lower().replace(".", "").replace("'", "").replace("-", " ").replace(" jr", "").replace(" iii", "").replace(" ii", "")
@@ -3412,7 +3412,7 @@ def printEV(propArg):
 		arr.extend([f"{hitL10}%", f"{hit}%", row[-1]['log'], row[-1]["lineupStatus"], row[-1]['minLog']])
 		output += "\t".join([str(x) for x in arr])+"\n"
 
-	with open("static/soccer/playerProps.csv", "w") as fh:
+	with open("static/soccer/props.csv", "w") as fh:
 		fh.write(output)
 
 	output = "\t".join(["EV", "EV Book", "Imp", "Game", "Prop", "O/U", "FD", "DK", "MGM", "Bet365", "CZ", "PN", "Kambi", "ESPN", "L10% Over", "% Over", "Splits"]) + "\n"

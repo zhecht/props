@@ -26,11 +26,11 @@ except:
 from datetime import datetime
 
 prefix = ""
-if os.path.exists("/home/zhecht/playerprops"):
-	prefix = "/home/zhecht/playerprops/"
-elif os.path.exists("/home/playerprops/playerprops"):
+if os.path.exists("/home/zhecht/props"):
+	prefix = "/home/zhecht/props/"
+elif os.path.exists("/home/props/props"):
 	# if on linux aka prod
-	prefix = "/home/playerprops/playerprops/"
+	prefix = "/home/props/props/"
 
 def merge_two_dicts(x, y):
 	z = x.copy()
