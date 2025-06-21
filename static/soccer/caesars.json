@@ -1,0 +1,2562 @@
+{
+    "lille v dortmund": {
+        "btts": "-135/105",
+        "spread": {
+            "0.5": "-190/140"
+        },
+        "total": {
+            "2.5": "-120/-110",
+            "0.5": "-1600/700",
+            "1.5": "-340/240",
+            "3.5": "200/-280",
+            "4.5": "450/-800",
+            "5.5": "900/-2500"
+        },
+        "atgs": {
+            "aissa mandi": "1400",
+            "alexsandro ribeiro": "1200",
+            "almugera kabar": "1400",
+            "andre gomes": "400",
+            "angel gomes": "750",
+            "ayman azhil": "1100",
+            "ayyoub bouaddi": "800",
+            "bafode diakite": "1200",
+            "benjamin andre": "750",
+            "chuba akpom": "280",
+            "emre can": "900",
+            "ethan mbappe  lottin": "550",
+            "gabriel gudmundsson": "750",
+            "giovanni reyna": "475",
+            "hakon arnar haraldsson": "450",
+            "ismaily": "750",
+            "jamie bynoe gittens": "425",
+            "jonathan david": "165",
+            "julian brandt": "450",
+            "julian ryerson": "1400",
+            "julien duranville": "425",
+            "karim adeyemi": "450",
+            "kjell arik watjen": "800",
+            "marcel sabitzer": "650",
+            "matias fernandez": "320",
+            "maximilian beier": "450",
+            "mitchel bakker": "750",
+            "ngal ayel mukau": "800",
+            "nico schlotterbeck": "1600",
+            "niklas sule": "1800",
+            "osame sahraoui": "425",
+            "pascal gross": "900",
+            "ramy bensebaini": "1000",
+            "remy cabella": "425",
+            "salih ozcan": "1400",
+            "serhou guirassy": "180",
+            "thomas meunier": "800",
+            "waldemar anton": "1800",
+            "william cole campbell": "475",
+            "yan couto": "1600",
+            "yannik luhrs": "1000"
+        },
+        "1h_ml": "210/115/200",
+        "2h_ml": "190/135/180",
+        "team_fgs": {
+            "aissa mandi": "2000",
+            "alexsandro ribeiro": "1800",
+            "andre gomes": "600",
+            "angel gomes": "1200",
+            "ayyoub bouaddi": "1200",
+            "bafode diakite": "1800",
+            "benjamin andre": "1100",
+            "chuba akpom": "425",
+            "ethan mbappe  lottin": "900",
+            "gabriel gudmundsson": "1100",
+            "hakon arnar haraldsson": "700",
+            "ismaily": "1100",
+            "jonathan david": "260",
+            "matias fernandez": "500",
+            "mitchel bakker": "1100",
+            "ngal ayel mukau": "1200",
+            "osame sahraoui": "650",
+            "remy cabella": "650",
+            "thomas meunier": "1200",
+            "almugera kabar": "1800",
+            "ayman azhil": "1600",
+            "emre can": "1200",
+            "giovanni reyna": "700",
+            "jamie bynoe gittens": "650",
+            "julian brandt": "700",
+            "julian ryerson": "1800",
+            "julien duranville": "650",
+            "karim adeyemi": "650",
+            "kjell arik watjen": "1100",
+            "marcel sabitzer": "900",
+            "maximilian beier": "700",
+            "nico schlotterbeck": "2200",
+            "niklas sule": "2500",
+            "pascal gross": "1200",
+            "ramy bensebaini": "1400",
+            "salih ozcan": "1800",
+            "serhou guirassy": "260",
+            "waldemar anton": "2500",
+            "william cole campbell": "700",
+            "yan couto": "2200",
+            "yannik luhrs": "1400"
+        },
+        "header": {
+            "serhou guirassy": "800",
+            "benjamin andre": "1200",
+            "chuba akpom": "1200",
+            "bafode diakite": "1400",
+            "alexsandro ribeiro": "1600",
+            "aissa mandi": "2200",
+            "nico schlotterbeck": "2200",
+            "jonathan david": "2200",
+            "hakon arnar haraldsson": "2200",
+            "andre gomes": "2200",
+            "waldemar anton": "2500",
+            "maximilian beier": "2500",
+            "giovanni reyna": "2500",
+            "emre can": "2500",
+            "ramy bensebaini": "3000",
+            "niklas sule": "3000",
+            "thomas meunier": "3000",
+            "salih ozcan": "3500",
+            "remy cabella": "3500",
+            "julian brandt": "3500",
+            "marcel sabitzer": "4000",
+            "karim adeyemi": "4000",
+            "ismaily": "4000",
+            "gabriel gudmundsson": "4000",
+            "mitchel bakker": "5000",
+            "julian ryerson": "5000",
+            "yan couto": "5000",
+            "jamie bynoe gittens": "5000",
+            "pascal gross": "6000",
+            "angel gomes": "8000"
+        },
+        "player_shots": {
+            "benjamin andre": {
+                "0.5": "-140",
+                "1.5": "340"
+            },
+            "jonathan david": {
+                "1.5": "-380",
+                "2.5": "-125",
+                "3.5": "190"
+            },
+            "alexsandro ribeiro": {
+                "0.5": "-125",
+                "1.5": "380"
+            },
+            "marcel sabitzer": {
+                "0.5": "-200",
+                "1.5": "240"
+            },
+            "julian brandt": {
+                "0.5": "-240",
+                "1.5": "175"
+            },
+            "bafode diakite": {
+                "0.5": "120",
+                "1.5": "650"
+            },
+            "ramy bensebaini": {
+                "0.5": "-150",
+                "1.5": "320"
+            },
+            "jamie bynoe gittens": {
+                "0.5": "-800",
+                "1.5": "-160",
+                "2.5": "175"
+            },
+            "thomas meunier": {
+                "0.5": "-260",
+                "1.5": "190"
+            },
+            "serhou guirassy": {
+                "1.5": "-400",
+                "2.5": "-135",
+                "3.5": "170"
+            },
+            "hakon arnar haraldsson": {
+                "0.5": "-600",
+                "1.5": "-125",
+                "2.5": "240"
+            },
+            "karim adeyemi": {
+                "0.5": "-1000",
+                "1.5": "-170",
+                "2.5": "160"
+            },
+            "pascal gross": {
+                "0.5": "-135",
+                "1.5": "360"
+            }
+        },
+        "player_shots_on_target": {
+            "hakon arnar haraldsson": {
+                "0.5": "-110",
+                "1.5": "500"
+            },
+            "jamie bynoe gittens": {
+                "0.5": "-110",
+                "1.5": "500"
+            },
+            "serhou guirassy": {
+                "0.5": "-210",
+                "1.5": "220"
+            },
+            "thomas meunier": {
+                "0.5": "220"
+            },
+            "benjamin andre": {
+                "0.5": "240"
+            },
+            "marcel sabitzer": {
+                "0.5": "220"
+            },
+            "pascal gross": {
+                "0.5": "280"
+            },
+            "jonathan david": {
+                "0.5": "-320",
+                "1.5": "145"
+            },
+            "bafode diakite": {
+                "0.5": "300"
+            },
+            "julian brandt": {
+                "0.5": "170"
+            },
+            "karim adeyemi": {
+                "0.5": "-125",
+                "1.5": "425"
+            }
+        },
+        "player_tackles": {
+            "thomas meunier": {
+                "1.5": "-800",
+                "2.5": "-220",
+                "3.5": "115"
+            },
+            "alexsandro ribeiro": {
+                "0.5": "-700",
+                "1.5": "-135",
+                "2.5": "220"
+            },
+            "ismaily": {
+                "1.5": "-800",
+                "2.5": "-230",
+                "3.5": "105"
+            },
+            "julian ryerson": {
+                "1.5": "-600",
+                "2.5": "-180",
+                "3.5": "140"
+            },
+            "nico schlotterbeck": {
+                "0.5": "-1600",
+                "1.5": "-230",
+                "2.5": "135"
+            },
+            "benjamin andre": {
+                "2.5": "-300",
+                "3.5": "-115",
+                "4.5": "200"
+            },
+            "ayyoub bouaddi": {
+                "2.5": "-300",
+                "3.5": "-115",
+                "4.5": "200"
+            },
+            "emre can": {
+                "1.5": "-380",
+                "2.5": "-125",
+                "3.5": "210"
+            },
+            "ramy bensebaini": {
+                "1.5": "-600",
+                "2.5": "-180",
+                "3.5": "140"
+            },
+            "pascal gross": {
+                "1.5": "-525",
+                "2.5": "-165",
+                "3.5": "150"
+            }
+        },
+        "dnb": "-110/-120",
+        "home_shots": {
+            "9.5": "-280",
+            "11.5": "-120",
+            "13.5": "170"
+        },
+        "away_shots": {
+            "9.5": "-320",
+            "11.5": "-150",
+            "13.5": "135"
+        },
+        "home_shots_on_target": {
+            "2.5": "-360",
+            "3.5": "-150",
+            "4.5": "150"
+        },
+        "away_shots_on_target": {
+            "2.5": "-380",
+            "3.5": "-150",
+            "4.5": "150"
+        },
+        "home_tackles": {
+            "17.5": "-500",
+            "20.5": "-170",
+            "23.5": "155"
+        },
+        "away_tackles": {
+            "17.5": "-300",
+            "20.5": "100",
+            "23.5": "240"
+        },
+        "game_shots": {
+            "20.5": "-320",
+            "23.5": "-135",
+            "26.5": "155"
+        },
+        "game_shots_on_target": {
+            "6.5": "-250",
+            "7.5": "-140",
+            "8.5": "125"
+        },
+        "game_tackles": {
+            "38.5": "-240",
+            "41.5": "-120",
+            "44.5": "160"
+        },
+        "corners": {
+            "9.5": "120/-162"
+        },
+        "1h_corners": {
+            "4.5": "110/-150"
+        },
+        "2h_corners": {
+            "4.5": "-120/-115"
+        },
+        "home_corners": {
+            "4.5": "-137/100"
+        },
+        "away_corners": {
+            "4.5": "130/-175"
+        },
+        "1h_home_corners": {
+            "2.5": "125/-167"
+        },
+        "1h_away_corners": {
+            "2.5": "175/-250"
+        },
+        "2h_home_corners": {
+            "2.5": "100/-137"
+        },
+        "2h_away_corners": {
+            "2.5": "150/-200"
+        }
+    },
+    "aston villa v club brugge": {
+        "btts": "-145/115",
+        "spread": {
+            "-0.5": "-170/130"
+        },
+        "total": {
+            "2.5": "-145/120",
+            "0.5": "-2500/900",
+            "1.5": "-450/300",
+            "3.5": "160/-210",
+            "4.5": "340/-550",
+            "5.5": "700/-1600"
+        },
+        "atgs": {
+            "ardon jashari": "1200",
+            "axel disasi": "1100",
+            "boubacar kamara": "800",
+            "brandon mechele": "1600",
+            "casper nielsen": "550",
+            "chemsdine talbi": "475",
+            "christos tzolis": "425",
+            "ezri konsa": "1400",
+            "ferran jutgla": "320",
+            "gustaf nilsson": "320",
+            "hans vanaken": "550",
+            "hugo siquet": "1200",
+            "hugo vetlesen": "700",
+            "ian maatsen": "700",
+            "jacob ramsey": "340",
+            "joel ordonez": "2000",
+            "john mcginn": "450",
+            "jorne spileers": "1600",
+            "kortney hause": "700",
+            "lamare bogarde": "700",
+            "leon bailey": "280",
+            "lucas digne": "1100",
+            "marco asensio": "220",
+            "marcus rashford": "200",
+            "matty cash": "700",
+            "maxime de cuyper": "900",
+            "michal skoras": "475",
+            "morgan rogers": "220",
+            "ollie watkins": "115",
+            "pau torres": "1100",
+            "raphael onyedika": "1000",
+            "romeo vermant": "380",
+            "tyrone mings": "1100",
+            "youri tielemans": "525",
+            "zaid romero": "1600"
+        },
+        "1h_ml": "105/140/360",
+        "2h_ml": "-110/165/340",
+        "team_fgs": {
+            "axel disasi": "2000",
+            "boubacar kamara": "1400",
+            "ezri konsa": "2500",
+            "ian maatsen": "1400",
+            "jacob ramsey": "700",
+            "john mcginn": "900",
+            "kortney hause": "1200",
+            "lamare bogarde": "1400",
+            "leon bailey": "550",
+            "lucas digne": "2000",
+            "marco asensio": "450",
+            "marcus rashford": "400",
+            "matty cash": "1400",
+            "morgan rogers": "450",
+            "ollie watkins": "240",
+            "pau torres": "2000",
+            "tyrone mings": "2000",
+            "youri tielemans": "1000",
+            "ardon jashari": "1600",
+            "brandon mechele": "1800",
+            "casper nielsen": "750",
+            "chemsdine talbi": "650",
+            "christos tzolis": "600",
+            "ferran jutgla": "425",
+            "gustaf nilsson": "425",
+            "hans vanaken": "750",
+            "hugo siquet": "1600",
+            "hugo vetlesen": "1000",
+            "joel ordonez": "2200",
+            "jorne spileers": "1800",
+            "maxime de cuyper": "1200",
+            "michal skoras": "650",
+            "raphael onyedika": "1400",
+            "romeo vermant": "525",
+            "zaid romero": "1800"
+        },
+        "header": {
+            "ollie watkins": "550",
+            "kortney hause": "1000",
+            "gustaf nilsson": "1000",
+            "tyrone mings": "1400",
+            "casper nielsen": "1600",
+            "morgan rogers": "1800",
+            "pau torres": "1800",
+            "brandon mechele": "1800",
+            "ferran jutgla": "2000",
+            "leon bailey": "2000",
+            "marcus rashford": "2200",
+            "ezri konsa": "2200",
+            "hans vanaken": "2200",
+            "michal skoras": "2200",
+            "axel disasi": "2200",
+            "john mcginn": "2200",
+            "boubacar kamara": "3000",
+            "marco asensio": "3000",
+            "hugo siquet": "3000",
+            "matty cash": "3000",
+            "hugo vetlesen": "3500",
+            "christos tzolis": "3500",
+            "raphael onyedika": "4000",
+            "ian maatsen": "5000",
+            "jacob ramsey": "5000",
+            "youri tielemans": "6000",
+            "lucas digne": "8000"
+        },
+        "player_shots": {
+            "raphael onyedika": {
+                "0.5": "-135",
+                "1.5": "360"
+            },
+            "marcus rashford": {
+                "0.5": "-1600",
+                "1.5": "-280",
+                "2.5": "105"
+            },
+            "lucas digne": {
+                "0.5": "-110",
+                "1.5": "450"
+            },
+            "john mcginn": {
+                "0.5": "-260",
+                "1.5": "190"
+            },
+            "hans vanaken": {
+                "0.5": "-210",
+                "1.5": "220"
+            },
+            "ollie watkins": {
+                "1.5": "-500",
+                "2.5": "-165",
+                "3.5": "145"
+            },
+            "leon bailey": {
+                "0.5": "-700",
+                "1.5": "-150",
+                "2.5": "200"
+            },
+            "tyrone mings": {
+                "0.5": "115",
+                "1.5": "600"
+            },
+            "chemsdine talbi": {
+                "0.5": "-360",
+                "1.5": "130"
+            },
+            "christos tzolis": {
+                "1.5": "-320",
+                "2.5": "-110",
+                "3.5": "210"
+            },
+            "morgan rogers": {
+                "0.5": "-800",
+                "1.5": "-165",
+                "2.5": "170"
+            },
+            "ferran jutgla": {
+                "0.5": "-1000",
+                "1.5": "-180",
+                "2.5": "155"
+            },
+            "maxime de cuyper": {
+                "0.5": "-140",
+                "1.5": "340"
+            },
+            "youri tielemans": {
+                "0.5": "-240",
+                "1.5": "175"
+            },
+            "joel ordonez": {
+                "0.5": "145"
+            }
+        },
+        "player_shots_on_target": {
+            "raphael onyedika": {
+                "0.5": "400"
+            },
+            "marcus rashford": {
+                "0.5": "-180",
+                "1.5": "280"
+            },
+            "ferran jutgla": {
+                "0.5": "-140",
+                "1.5": "340"
+            },
+            "leon bailey": {
+                "0.5": "-105",
+                "1.5": "500"
+            },
+            "hans vanaken": {
+                "0.5": "175"
+            },
+            "maxime de cuyper": {
+                "0.5": "260"
+            },
+            "ollie watkins": {
+                "0.5": "-320",
+                "1.5": "145"
+            },
+            "christos tzolis": {
+                "0.5": "-140",
+                "1.5": "340"
+            },
+            "youri tielemans": {
+                "0.5": "210"
+            },
+            "lucas digne": {
+                "0.5": "380"
+            },
+            "morgan rogers": {
+                "0.5": "-115",
+                "1.5": "450"
+            },
+            "tyrone mings": {
+                "0.5": "320"
+            },
+            "john mcginn": {
+                "0.5": "190"
+            },
+            "chemsdine talbi": {
+                "0.5": "145"
+            }
+        },
+        "player_tackles": {
+            "ezri konsa": {
+                "0.5": "-1000",
+                "1.5": "-190",
+                "2.5": "150"
+            },
+            "axel disasi": {
+                "0.5": "-300",
+                "1.5": "160"
+            },
+            "morgan rogers": {
+                "0.5": "-300",
+                "1.5": "160"
+            },
+            "raphael onyedika": {
+                "2.5": "-280",
+                "3.5": "100",
+                "4.5": "210"
+            },
+            "christos tzolis": {
+                "0.5": "-600",
+                "1.5": "-125",
+                "2.5": "260"
+            },
+            "brandon mechele": {
+                "1.5": "-320",
+                "2.5": "100",
+                "3.5": "260"
+            },
+            "lucas digne": {
+                "0.5": "-1600",
+                "1.5": "-230",
+                "2.5": "125"
+            },
+            "youri tielemans": {
+                "1.5": "-700",
+                "2.5": "-210",
+                "3.5": "115"
+            },
+            "maxime de cuyper": {
+                "1.5": "-700",
+                "2.5": "-200",
+                "3.5": "125"
+            }
+        },
+        "dnb": "-380/260",
+        "home_shots": {
+            "11.5": "-240",
+            "13.5": "-115",
+            "15.5": "170"
+        },
+        "away_shots": {
+            "7.5": "-500",
+            "9.5": "-190",
+            "11.5": "115"
+        },
+        "home_shots_on_target": {
+            "4.5": "-280",
+            "5.5": "-130",
+            "6.5": "140"
+        },
+        "away_shots_on_target": {
+            "2.5": "-380",
+            "3.5": "-150",
+            "4.5": "140"
+        },
+        "home_tackles": {
+            "13.5": "-230",
+            "15.5": "-120",
+            "17.5": "155"
+        },
+        "away_tackles": {
+            "17.5": "-320",
+            "20.5": "-110",
+            "23.5": "240"
+        },
+        "game_shots": {
+            "20.5": "-360",
+            "23.5": "-150",
+            "26.5": "145"
+        },
+        "game_shots_on_target": {
+            "8.5": "-230",
+            "9.5": "-130",
+            "10.5": "125"
+        },
+        "game_tackles": {
+            "32.5": "-280",
+            "35.5": "-125",
+            "38.5": "155"
+        },
+        "corners": {
+            "8.5": "-133/-105"
+        },
+        "1h_corners": {
+            "4.5": "120/-162"
+        },
+        "2h_corners": {
+            "4.5": "-110/-125"
+        },
+        "home_corners": {
+            "5.5": "125/-167"
+        },
+        "away_corners": {
+            "3.5": "-120/-115"
+        },
+        "1h_home_corners": {
+            "2.5": "110/-150"
+        },
+        "1h_away_corners": {
+            "1.5": "-133/-105"
+        },
+        "2h_home_corners": {
+            "2.5": "-118/-118"
+        },
+        "2h_away_corners": {
+            "1.5": "-162/120"
+        }
+    },
+    "arsenal v psv": {
+        "btts": "100/-130",
+        "spread": {
+            "-1.5": "110/-140"
+        },
+        "total": {
+            "2.5": "-140/110",
+            "0.5": "-2500/900",
+            "1.5": "-450/300",
+            "3.5": "165/-220",
+            "4.5": "380/-600",
+            "5.5": "700/-1600"
+        },
+        "atgs": {
+            "adamo nagalo": "2200",
+            "armando obispo": "2200",
+            "ben white": "1600",
+            "declan rice": "400",
+            "emmanuel van de blaak": "1800",
+            "ethan nwaneri": "200",
+            "gabriel magalhaes": "750",
+            "gabriel martinelli": "220",
+            "guus til": "750",
+            "isaac babadi": "1100",
+            "ismael saibari": "700",
+            "ivan perisic": "750",
+            "jakub kiwior": "1600",
+            "jerdy schouten": "1800",
+            "joey veerman": "1200",
+            "johan bakayoko": "600",
+            "jorginho": "600",
+            "jurrien timber": "1600",
+            "kieran tierney": "900",
+            "leandro trossard": "165",
+            "luuk de jong": "360",
+            "martin odegaard": "240",
+            "mauro junior": "1600",
+            "mikel merino": "200",
+            "myles lewis skelly": "600",
+            "noa lang": "600",
+            "oleksandr zinchenko": "600",
+            "olivier boscagli": "3000",
+            "raheem sterling": "220",
+            "riccardo calafiori": "1100",
+            "richard ledezma": "1400",
+            "rick karsdorp": "3000",
+            "ryan flamingo": "1800",
+            "thomas partey": "900",
+            "tygo land": "750",
+            "tyrell malacia": "2200",
+            "william saliba": "1600"
+        },
+        "2h_ml": "-145/165/550",
+        "1h_ml": "-130/140/600",
+        "team_fgs": {
+            "ben white": "3000",
+            "declan rice": "900",
+            "ethan nwaneri": "450",
+            "gabriel magalhaes": "1600",
+            "gabriel martinelli": "525",
+            "jakub kiwior": "3000",
+            "jorginho": "1200",
+            "jurrien timber": "3000",
+            "kieran tierney": "1800",
+            "leandro trossard": "360",
+            "martin odegaard": "550",
+            "mikel merino": "450",
+            "myles lewis skelly": "1200",
+            "oleksandr zinchenko": "1200",
+            "raheem sterling": "475",
+            "riccardo calafiori": "2200",
+            "thomas partey": "1800",
+            "william saliba": "3000",
+            "adamo nagalo": "2500",
+            "armando obispo": "2500",
+            "emmanuel van de blaak": "2000",
+            "guus til": "900",
+            "isaac babadi": "1200",
+            "ismael saibari": "800",
+            "ivan perisic": "900",
+            "jerdy schouten": "2000",
+            "joey veerman": "1400",
+            "johan bakayoko": "750",
+            "luuk de jong": "425",
+            "mauro junior": "1800",
+            "noa lang": "750",
+            "olivier boscagli": "3000",
+            "richard ledezma": "1600",
+            "rick karsdorp": "3000",
+            "ryan flamingo": "2000",
+            "tygo land": "900",
+            "tyrell malacia": "2500"
+        },
+        "header": {
+            "mikel merino": "700",
+            "luuk de jong": "750",
+            "gabriel martinelli": "1200",
+            "gabriel magalhaes": "1200",
+            "riccardo calafiori": "1400",
+            "raheem sterling": "1600",
+            "declan rice": "2000",
+            "jurrien timber": "2000",
+            "jakub kiwior": "2000",
+            "william saliba": "2200",
+            "armando obispo": "2500",
+            "ismael saibari": "3000",
+            "richard ledezma": "3000",
+            "thomas partey": "3000",
+            "leandro trossard": "3000",
+            "olivier boscagli": "3000",
+            "martin odegaard": "3000",
+            "ivan perisic": "3000",
+            "johan bakayoko": "3500",
+            "kieran tierney": "4000",
+            "jerdy schouten": "4000",
+            "guus til": "4000",
+            "mauro junior": "4000",
+            "oleksandr zinchenko": "4000",
+            "joey veerman": "5000",
+            "tyrell malacia": "5000",
+            "ben white": "6000",
+            "noa lang": "6000",
+            "jorginho": "8000",
+            "rick karsdorp": "10000"
+        },
+        "player_shots": {
+            "noa lang": {
+                "0.5": "-300",
+                "1.5": "160"
+            },
+            "thomas partey": {
+                "0.5": "-300",
+                "1.5": "160"
+            },
+            "leandro trossard": {
+                "1.5": "-320",
+                "2.5": "100",
+                "3.5": "240"
+            },
+            "luuk de jong": {
+                "0.5": "-800",
+                "1.5": "-155",
+                "2.5": "190"
+            },
+            "declan rice": {
+                "0.5": "-240",
+                "1.5": "175"
+            },
+            "ethan nwaneri": {
+                "0.5": "-1400",
+                "1.5": "-210",
+                "2.5": "135"
+            },
+            "jerdy schouten": {
+                "0.5": "165"
+            },
+            "olivier boscagli": {
+                "0.5": "115",
+                "1.5": "600"
+            },
+            "guus til": {
+                "0.5": "-300",
+                "1.5": "155"
+            },
+            "mikel merino": {
+                "0.5": "-1000",
+                "1.5": "-165",
+                "2.5": "175"
+            },
+            "ivan perisic": {
+                "0.5": "-260",
+                "1.5": "190"
+            },
+            "martin odegaard": {
+                "0.5": "-700",
+                "1.5": "-150",
+                "2.5": "200"
+            },
+            "gabriel magalhaes": {
+                "0.5": "-260",
+                "1.5": "190"
+            }
+        },
+        "player_shots_on_target": {
+            "myles lewis skelly": {
+                "0.5": "280"
+            },
+            "guus til": {
+                "0.5": "150"
+            },
+            "ethan nwaneri": {
+                "0.5": "-150",
+                "1.5": "340"
+            },
+            "gabriel magalhaes": {
+                "0.5": "165"
+            },
+            "ivan perisic": {
+                "0.5": "165"
+            },
+            "luuk de jong": {
+                "0.5": "-125",
+                "1.5": "425"
+            },
+            "declan rice": {
+                "0.5": "180"
+            },
+            "mikel merino": {
+                "0.5": "-140",
+                "1.5": "380"
+            },
+            "noa lang": {
+                "0.5": "150"
+            },
+            "martin odegaard": {
+                "0.5": "-115",
+                "1.5": "450"
+            },
+            "leandro trossard": {
+                "0.5": "-180",
+                "1.5": "280"
+            }
+        },
+        "player_tackles": {
+            "jurrien timber": {
+                "1.5": "-525",
+                "2.5": "-170",
+                "3.5": "145"
+            },
+            "william saliba": {
+                "0.5": "-800",
+                "1.5": "-155",
+                "2.5": "200"
+            },
+            "richard ledezma": {
+                "0.5": "-1400",
+                "1.5": "-190",
+                "2.5": "160"
+            },
+            "jerdy schouten": {
+                "1.5": "-320",
+                "2.5": "100",
+                "3.5": "260"
+            },
+            "thomas partey": {
+                "1.5": "-525",
+                "2.5": "-170",
+                "3.5": "145"
+            },
+            "luuk de jong": {
+                "0.5": "-600",
+                "1.5": "-120",
+                "2.5": "280"
+            },
+            "olivier boscagli": {
+                "0.5": "-1000",
+                "1.5": "-190",
+                "2.5": "165"
+            },
+            "declan rice": {
+                "0.5": "-1000",
+                "1.5": "-190",
+                "2.5": "155"
+            },
+            "myles lewis skelly": {
+                "0.5": "-1600",
+                "1.5": "-280",
+                "2.5": "105"
+            },
+            "tyrell malacia": {
+                "2.5": "-380",
+                "3.5": "-145",
+                "4.5": "150"
+            }
+        },
+        "dnb": "-800/450",
+        "home_shots": {
+            "11.5": "-320",
+            "13.5": "-145",
+            "15.5": "130"
+        },
+        "away_shots": {
+            "7.5": "-320",
+            "9.5": "-130",
+            "11.5": "170"
+        },
+        "home_shots_on_target": {
+            "3.5": "-380",
+            "4.5": "-170",
+            "5.5": "120"
+        },
+        "away_shots_on_target": {
+            "1.5": "-700",
+            "2.5": "-220",
+            "3.5": "110"
+        },
+        "home_tackles": {
+            "15.5": "-300",
+            "17.5": "-145",
+            "19.5": "135"
+        },
+        "away_tackles": {
+            "17.5": "-475",
+            "20.5": "-150",
+            "23.5": "175"
+        },
+        "game_shots": {
+            "20.5": "-320",
+            "23.5": "-140",
+            "26.5": "155"
+        },
+        "game_shots_on_target": {
+            "7.5": "-200",
+            "8.5": "-110",
+            "9.5": "150"
+        },
+        "game_tackles": {
+            "35.5": "-320",
+            "38.5": "-145",
+            "41.5": "135"
+        },
+        "corners": {
+            "10.5": "110/-150"
+        },
+        "1h_corners": {
+            "4.5": "-137/100"
+        },
+        "2h_corners": {
+            "5.5": "115/-154"
+        },
+        "home_corners": {
+            "6.5": "100/-137"
+        },
+        "away_corners": {
+            "3.5": "-125/-110"
+        },
+        "1h_home_corners": {
+            "3.5": "150/-200"
+        },
+        "1h_away_corners": {
+            "1.5": "-137/100"
+        },
+        "2h_home_corners": {
+            "3.5": "120/-162"
+        },
+        "2h_away_corners": {
+            "1.5": "-162/120"
+        }
+    },
+    "atletico madrid v real madrid": {
+        "btts": "-180/135",
+        "spread": {
+            "-0.5": "140/-190"
+        },
+        "total": {
+            "2.5": "-145/115",
+            "0.5": "-2500/900",
+            "1.5": "-500/320",
+            "3.5": "160/-210",
+            "4.5": "380/-600",
+            "5.5": "700/-1600"
+        },
+        "atgs": {
+            "alexander sorloth": "190",
+            "angel correa": "220",
+            "antoine griezmann": "210",
+            "antonio rudiger": "1000",
+            "arda guler": "260",
+            "aurelien tchouameni": "900",
+            "axel witsel": "1800",
+            "brahim diaz": "425",
+            "cesar azpilicueta": "1600",
+            "clement lenglet": "1200",
+            "conor gallagher": "475",
+            "david alaba": "2000",
+            "eduardo camavinga": "900",
+            "endrick felipe moreira de sousa": "210",
+            "federico valverde": "750",
+            "ferland mendy": "2500",
+            "francisco garcia": "900",
+            "giuliano simeone": "220",
+            "javi galan": "1000",
+            "javier serrano": "700",
+            "jesus vallejo": "2000",
+            "jose maria gimenez": "1600",
+            "jude bellingham": "260",
+            "julian alvarez": "175",
+            "koke": "1000",
+            "kylian mbappe": "155",
+            "lino": "320",
+            "lucas vazquez": "900",
+            "luka modric": "700",
+            "marcos llorente": "800",
+            "nahuel molina": "750",
+            "pablo barrios rivas": "600",
+            "raul asencio del rosario": "900",
+            "reinildo mandava": "1200",
+            "robin le normand": "1600",
+            "rodrigo de paul": "800",
+            "rodrigo riquelme": "425",
+            "rodrygo": "320",
+            "thomas lemar": "700",
+            "vinicius junior": "240"
+        },
+        "2h_ml": "175/145/180",
+        "1h_ml": "200/125/190",
+        "team_fgs": {
+            "alexander sorloth": "320",
+            "angel correa": "380",
+            "antoine griezmann": "360",
+            "axel witsel": "2500",
+            "cesar azpilicueta": "2200",
+            "clement lenglet": "1800",
+            "conor gallagher": "800",
+            "giuliano simeone": "380",
+            "javi galan": "1600",
+            "javier serrano": "1100",
+            "jose maria gimenez": "2200",
+            "julian alvarez": "300",
+            "koke": "1400",
+            "lino": "525",
+            "marcos llorente": "1200",
+            "nahuel molina": "1200",
+            "pablo barrios rivas": "1000",
+            "reinildo mandava": "1800",
+            "robin le normand": "2200",
+            "rodrigo de paul": "1200",
+            "rodrigo riquelme": "700",
+            "thomas lemar": "1100",
+            "antonio rudiger": "1600",
+            "arda guler": "425",
+            "aurelien tchouameni": "1400",
+            "brahim diaz": "700",
+            "david alaba": "3000",
+            "eduardo camavinga": "1400",
+            "endrick felipe moreira de sousa": "360",
+            "federico valverde": "1200",
+            "ferland mendy": "3500",
+            "francisco garcia": "1400",
+            "jesus vallejo": "3000",
+            "jude bellingham": "425",
+            "kylian mbappe": "260",
+            "lucas vazquez": "1400",
+            "luka modric": "1100",
+            "raul asencio del rosario": "1400",
+            "rodrygo": "550",
+            "vinicius junior": "400"
+        },
+        "header": {
+            "alexander sorloth": "800",
+            "jude bellingham": "1000",
+            "endrick felipe moreira de sousa": "1100",
+            "giuliano simeone": "1400",
+            "arda guler": "1400",
+            "antonio rudiger": "1600",
+            "julian alvarez": "1600",
+            "clement lenglet": "1600",
+            "pablo barrios rivas": "1600",
+            "javier serrano": "1800",
+            "jose maria gimenez": "1800",
+            "aurelien tchouameni": "2000",
+            "robin le normand": "2000",
+            "jesus vallejo": "2000",
+            "antoine griezmann": "2000",
+            "angel correa": "2000",
+            "kylian mbappe": "2500",
+            "vinicius junior": "2500",
+            "rodrygo": "2500",
+            "reinildo mandava": "3000",
+            "javi galan": "3000",
+            "conor gallagher": "3500",
+            "lino": "3500",
+            "brahim diaz": "3500",
+            "rodrigo riquelme": "4000",
+            "koke": "4000",
+            "thomas lemar": "4000",
+            "cesar azpilicueta": "4000",
+            "marcos llorente": "5000",
+            "francisco garcia": "5000",
+            "david alaba": "5000",
+            "nahuel molina": "6000",
+            "luka modric": "6000",
+            "lucas vazquez": "6000",
+            "axel witsel": "6000",
+            "federico valverde": "6000",
+            "eduardo camavinga": "6000",
+            "ferland mendy": "8000",
+            "rodrigo de paul": "12500"
+        },
+        "player_shots": {
+            "federico valverde": {
+                "0.5": "-320",
+                "1.5": "155"
+            },
+            "julian alvarez": {
+                "1.5": "-425",
+                "2.5": "-145",
+                "3.5": "165"
+            },
+            "luka modric": {
+                "0.5": "-180",
+                "1.5": "280"
+            },
+            "antoine griezmann": {
+                "1.5": "-360",
+                "2.5": "-115",
+                "3.5": "200"
+            },
+            "antonio rudiger": {
+                "0.5": "-125",
+                "1.5": "380"
+            },
+            "giuliano simeone": {
+                "0.5": "-240",
+                "1.5": "175"
+            },
+            "rodrygo": {
+                "0.5": "-1000",
+                "1.5": "-180",
+                "2.5": "160"
+            },
+            "brahim diaz": {
+                "0.5": "-360",
+                "1.5": "140"
+            },
+            "lino": {
+                "0.5": "-1000",
+                "1.5": "-200",
+                "2.5": "140"
+            },
+            "conor gallagher": {
+                "0.5": "-160",
+                "1.5": "280"
+            },
+            "marcos llorente": {
+                "0.5": "-150",
+                "1.5": "320"
+            },
+            "aurelien tchouameni": {
+                "0.5": "-135",
+                "1.5": "380"
+            },
+            "vinicius junior": {
+                "1.5": "-380",
+                "2.5": "-130",
+                "3.5": "175"
+            },
+            "robin le normand": {
+                "0.5": "135"
+            },
+            "pablo barrios rivas": {
+                "0.5": "-320",
+                "1.5": "145"
+            },
+            "kylian mbappe": {
+                "2.5": "-280",
+                "3.5": "-110",
+                "4.5": "185"
+            },
+            "jose maria gimenez": {
+                "0.5": "135",
+                "1.5": "750"
+            },
+            "jude bellingham": {
+                "0.5": "-800",
+                "1.5": "-150",
+                "2.5": "190"
+            }
+        },
+        "player_shots_on_target": {
+            "giuliano simeone": {
+                "0.5": "160"
+            },
+            "aurelien tchouameni": {
+                "0.5": "300"
+            },
+            "brahim diaz": {
+                "0.5": "120",
+                "1.5": "650"
+            },
+            "jose maria gimenez": {
+                "0.5": "450"
+            },
+            "marcos llorente": {
+                "0.5": "260"
+            },
+            "luka modric": {
+                "0.5": "190"
+            },
+            "federico valverde": {
+                "0.5": "150"
+            },
+            "robin le normand": {
+                "0.5": "450"
+            },
+            "antoine griezmann": {
+                "0.5": "-160",
+                "1.5": "300"
+            },
+            "jude bellingham": {
+                "0.5": "-125",
+                "1.5": "400"
+            },
+            "antonio rudiger": {
+                "0.5": "475"
+            },
+            "conor gallagher": {
+                "0.5": "240"
+            },
+            "vinicius junior": {
+                "0.5": "-200",
+                "1.5": "220"
+            },
+            "lino": {
+                "0.5": "-110",
+                "1.5": "475"
+            },
+            "pablo barrios rivas": {
+                "0.5": "155"
+            },
+            "kylian mbappe": {
+                "0.5": "-475",
+                "1.5": "100",
+                "2.5": "320"
+            },
+            "rodrygo": {
+                "0.5": "-135",
+                "1.5": "360"
+            },
+            "julian alvarez": {
+                "0.5": "-260",
+                "1.5": "190"
+            }
+        },
+        "player_tackles": {
+            "javi galan": {
+                "1.5": "-1000",
+                "2.5": "-240",
+                "3.5": "100"
+            },
+            "aurelien tchouameni": {
+                "1.5": "-500",
+                "2.5": "-160",
+                "3.5": "150"
+            },
+            "brahim diaz": {
+                "0.5": "-1600",
+                "1.5": "-230",
+                "2.5": "125"
+            },
+            "lino": {
+                "1.5": "-380",
+                "2.5": "-120",
+                "3.5": "200"
+            },
+            "marcos llorente": {
+                "1.5": "-700",
+                "2.5": "-190",
+                "3.5": "125"
+            },
+            "conor gallagher": {
+                "1.5": "-800",
+                "2.5": "-230",
+                "3.5": "105"
+            },
+            "federico valverde": {
+                "0.5": "-1600",
+                "1.5": "-260",
+                "2.5": "110"
+            },
+            "luka modric": {
+                "0.5": "-800",
+                "1.5": "-165",
+                "2.5": "185"
+            },
+            "rodrygo": {
+                "0.5": "-700",
+                "1.5": "-135",
+                "2.5": "220"
+            },
+            "pablo barrios rivas": {
+                "0.5": "-2000",
+                "1.5": "-300",
+                "2.5": "105"
+            }
+        },
+        "dnb": "-125/-105",
+        "home_shots": {
+            "11.5": "-360",
+            "13.5": "-165",
+            "15.5": "115"
+        },
+        "away_shots": {
+            "11.5": "-200",
+            "13.5": "105",
+            "15.5": "210"
+        },
+        "home_shots_on_target": {
+            "3.5": "-300",
+            "4.5": "-130",
+            "5.5": "155"
+        },
+        "away_shots_on_target": {
+            "3.5": "-300",
+            "4.5": "-130",
+            "5.5": "155"
+        },
+        "home_tackles": {
+            "17.5": "-500",
+            "20.5": "-155",
+            "23.5": "165"
+        },
+        "away_tackles": {
+            "15.5": "-230",
+            "17.5": "-120",
+            "19.5": "160"
+        },
+        "game_shots": {
+            "23.5": "-360",
+            "26.5": "-155",
+            "29.5": "130"
+        },
+        "game_shots_on_target": {
+            "8.5": "-200",
+            "9.5": "-115",
+            "10.5": "135"
+        },
+        "game_tackles": {
+            "35.5": "-280",
+            "38.5": "-130",
+            "41.5": "150"
+        },
+        "corners": {
+            "10.5": "100/-137"
+        },
+        "1h_corners": {
+            "4.5": "-150/110"
+        },
+        "2h_corners": {
+            "5.5": "105/-143"
+        },
+        "home_corners": {
+            "5.5": "-133/-105"
+        },
+        "away_corners": {
+            "4.5": "-105/-133"
+        },
+        "1h_home_corners": {
+            "2.5": "-133/-105"
+        },
+        "1h_away_corners": {
+            "2.5": "150/-200"
+        },
+        "2h_home_corners": {
+            "3.5": "150/-200"
+        },
+        "2h_away_corners": {
+            "2.5": "120/-162"
+        }
+    },
+    "hull v oxford united": {
+        "btts": "115/-145",
+        "spread": {
+            "-0.5": "-135/105"
+        },
+        "total": {
+            "2.5": "135/-180",
+            "0.5": "-1200/600",
+            "1.5": "-220/165",
+            "3.5": "320/-500",
+            "4.5": "700/-1600",
+            "5.5": "1200/-7500"
+        },
+        "atgs": {
+            "alex matos": "1200",
+            "alfie jones": "1400",
+            "cameron brannagan": "900",
+            "charlie hughes": "1200",
+            "ciaron brown": "1400",
+            "cody drameh": "1100",
+            "elliott moore": "1600",
+            "finley burns": "1400",
+            "gatlin o donkor": "360",
+            "gustavo puerta": "750",
+            "harry vaughan": "700",
+            "hidde ter avest": "1400",
+            "idris el mizouni": "900",
+            "james golding": "1800",
+            "joe bennett": "2200",
+            "joe gelhardt": "240",
+            "john egan": "1200",
+            "jordan thorniley": "2200",
+            "josh mceachran": "1400",
+            "joshua johnson": "1400",
+            "kasey palmer": "280",
+            "kyle joseph": "185",
+            "lewie coyle": "750",
+            "mark thomas harris": "380",
+            "mason burstow": "220",
+            "matt crooks": "260",
+            "matt phillips": "900",
+            "matty jacobs": "1200",
+            "max woltman": "500",
+            "michal helik": "1400",
+            "peter kioso": "2200",
+            "przemyslaw placheta": "800",
+            "regan slater": "340",
+            "ruben da rocha rodrigues": "800",
+            "sam long": "2000",
+            "sean mcloughlin": "1200",
+            "siriki dembele": "800",
+            "stanley mills": "600",
+            "steven alzate": "525",
+            "tyler charlie goodrham": "700",
+            "will vaulks": "1600"
+        },
+        "1h_ml": "125/100/450",
+        "2h_ml": "115/125/360",
+        "team_fgs": {
+            "alfie jones": "2000",
+            "charlie hughes": "1800",
+            "cody drameh": "1600",
+            "finley burns": "2000",
+            "gustavo puerta": "1100",
+            "harry vaughan": "1100",
+            "joe gelhardt": "400",
+            "john egan": "1800",
+            "kasey palmer": "450",
+            "kyle joseph": "300",
+            "lewie coyle": "1200",
+            "mason burstow": "360",
+            "matt crooks": "425",
+            "matty jacobs": "1800",
+            "regan slater": "550",
+            "sean mcloughlin": "1800",
+            "steven alzate": "800",
+            "alex matos": "1400",
+            "cameron brannagan": "1100",
+            "ciaron brown": "1600",
+            "elliott moore": "1800",
+            "gatlin o donkor": "425",
+            "hidde ter avest": "1600",
+            "idris el mizouni": "1000",
+            "james golding": "2200",
+            "joe bennett": "2500",
+            "jordan thorniley": "2500",
+            "josh mceachran": "1600",
+            "joshua johnson": "1600",
+            "mark thomas harris": "475",
+            "matt phillips": "1100",
+            "max woltman": "600",
+            "michal helik": "1600",
+            "peter kioso": "2500",
+            "przemyslaw placheta": "1000",
+            "ruben da rocha rodrigues": "900",
+            "sam long": "2200",
+            "siriki dembele": "1000",
+            "stanley mills": "750",
+            "tyler charlie goodrham": "800",
+            "will vaulks": "1800"
+        },
+        "dnb": "-340/240"
+    },
+    "watford v swansea": {
+        "btts": "-110/-120",
+        "spread": {
+            "-0.5": "125/-160"
+        },
+        "total": {
+            "2.5": "120/-150",
+            "0.5": "-1200/600",
+            "1.5": "-260/190",
+            "3.5": "280/-400",
+            "4.5": "600/-1200",
+            "5.5": "1100/-5000"
+        },
+        "atgs": {
+            "angelo ogbonna": "2000",
+            "ben cabango": "1800",
+            "cyrus christie": "1400",
+            "edo kayembe": "300",
+            "eom ji sung": "525",
+            "florian bianchini": "320",
+            "francisco sierralta": "1600",
+            "giorgi chakvetadze": "360",
+            "goncalo franco": "400",
+            "hannes delcroix": "2500",
+            "imran louza": "650",
+            "james abankwah": "2000",
+            "james william morris": "1600",
+            "jay fulton": "700",
+            "jeremy ngakia": "1200",
+            "joe allen": "1400",
+            "josh ginnelly": "380",
+            "josh key": "1800",
+            "josh tymon": "1800",
+            "kyle naughton": "1800",
+            "lewis obrien": "1000",
+            "liam cullen": "320",
+            "matthew pollock": "1600",
+            "moussa sissoko": "900",
+            "nathan tjoe a on": "1400",
+            "oliver cooper": "475",
+            "rocco vata": "320",
+            "ronald pereira martins": "425",
+            "ryan andrews": "600",
+            "samuel kalu": "320",
+            "tom dele bashiru": "550",
+            "tom ince": "340",
+            "vakoun issouf bayo": "210",
+            "yasser larouci": "1100",
+            "zan vipotnik": "340"
+        },
+        "1h_ml": "185/105/250",
+        "2h_ml": "160/120/250",
+        "team_fgs": {
+            "angelo ogbonna": "3000",
+            "edo kayembe": "500",
+            "francisco sierralta": "2200",
+            "giorgi chakvetadze": "600",
+            "imran louza": "1000",
+            "james abankwah": "3000",
+            "james william morris": "2200",
+            "jeremy ngakia": "1800",
+            "matthew pollock": "2200",
+            "moussa sissoko": "1400",
+            "rocco vata": "500",
+            "ryan andrews": "900",
+            "samuel kalu": "525",
+            "tom dele bashiru": "800",
+            "tom ince": "550",
+            "vakoun issouf bayo": "320",
+            "yasser larouci": "1600",
+            "ben cabango": "2200",
+            "cyrus christie": "2000",
+            "eom ji sung": "700",
+            "florian bianchini": "425",
+            "goncalo franco": "550",
+            "hannes delcroix": "3000",
+            "jay fulton": "900",
+            "joe allen": "2000",
+            "josh ginnelly": "500",
+            "josh key": "2200",
+            "josh tymon": "2200",
+            "kyle naughton": "2200",
+            "lewis obrien": "1200",
+            "liam cullen": "450",
+            "nathan tjoe a on": "2000",
+            "oliver cooper": "650",
+            "ronald pereira martins": "600",
+            "zan vipotnik": "450"
+        },
+        "dnb": "-160/125"
+    },
+    "leeds v millwall": {
+        "btts": "150/-200",
+        "spread": {
+            "-1.5": "-105/-125"
+        },
+        "total": {
+            "2.5": "-115/-115",
+            "0.5": "-1600/700",
+            "1.5": "-340/240",
+            "3.5": "210/-300",
+            "4.5": "500/-900",
+            "5.5": "1000/-3500"
+        },
+        "atgs": {
+            "aaron connolly": "900",
+            "aidomo emakhu": "900",
+            "ao tanaka": "550",
+            "billy mitchell": "1800",
+            "brenden aaronson": "240",
+            "casper de norre": "1800",
+            "daniel james": "190",
+            "degnand wilfried gnonto": "210",
+            "duncan watmore": "800",
+            "femi azeez": "900",
+            "george honeyman": "1200",
+            "george saville": "2000",
+            "ilia gruev": "800",
+            "jake cooper": "1600",
+            "japhet tanganga": "1800",
+            "jayden bogle": "750",
+            "joe bryan": "2000",
+            "joe rodon": "1200",
+            "joe rothwell": "800",
+            "joel piroe": "135",
+            "josh coburn": "525",
+            "josuha guilavogui": "800",
+            "junior firpo": "1100",
+            "largie ramazani": "220",
+            "liam cooper": "600",
+            "luke cundle": "1600",
+            "manor solomon": "190",
+            "mateo joseph fernandez": "170",
+            "mihailo ivanovic": "700",
+            "murray wallace": "2000",
+            "pascal struijk": "380",
+            "ryan wintle": "1800",
+            "sam byram": "800",
+            "shaun hutchinson": "2500",
+            "tristan crama": "2200",
+            "wes harding": "2500"
+        },
+        "2h_ml": "-160/160/700",
+        "1h_ml": "-140/130/800",
+        "team_fgs": {
+            "ao tanaka": "1100",
+            "brenden aaronson": "500",
+            "daniel james": "425",
+            "degnand wilfried gnonto": "450",
+            "ilia gruev": "1600",
+            "jayden bogle": "1400",
+            "joe rodon": "2200",
+            "joe rothwell": "1400",
+            "joel piroe": "300",
+            "josuha guilavogui": "1600",
+            "junior firpo": "2000",
+            "largie ramazani": "475",
+            "liam cooper": "1200",
+            "manor solomon": "425",
+            "mateo joseph fernandez": "380",
+            "pascal struijk": "750",
+            "sam byram": "1600",
+            "aaron connolly": "900",
+            "aidomo emakhu": "1000",
+            "billy mitchell": "1800",
+            "casper de norre": "1800",
+            "duncan watmore": "800",
+            "femi azeez": "900",
+            "george honeyman": "1200",
+            "george saville": "2000",
+            "jake cooper": "1600",
+            "japhet tanganga": "1800",
+            "joe bryan": "2200",
+            "josh coburn": "550",
+            "luke cundle": "1600",
+            "mihailo ivanovic": "800",
+            "murray wallace": "2200",
+            "ryan wintle": "1800",
+            "shaun hutchinson": "2500",
+            "tristan crama": "2500",
+            "wes harding": "2500"
+        },
+        "dnb": "-1400/650"
+    },
+    "portsmouth v plymouth": {
+        "btts": "110/-140",
+        "spread": {
+            "-0.5": "-150/120"
+        },
+        "total": {
+            "2.5": "115/-145",
+            "0.5": "-1400/650",
+            "1.5": "-280/200",
+            "3.5": "260/-380",
+            "4.5": "600/-1200",
+            "5.5": "1100/-5000"
+        },
+        "atgs": {
+            "abdoulaye kamara": "1000",
+            "adil aouchiche": "260",
+            "andre dozzell": "750",
+            "bali mumba": "1100",
+            "caleb roberts": "1200",
+            "callum wright": "525",
+            "christian saydee": "240",
+            "cohen bramall": "1000",
+            "colby bishop": "165",
+            "connor ogilvie": "600",
+            "conor shaughnessy": "1000",
+            "darko gyabi": "750",
+            "freddie potts": "600",
+            "frederick issaka": "525",
+            "isaac hayden": "550",
+            "jacob farrell": "750",
+            "joe edwards": "1800",
+            "joe morrell": "525",
+            "jordan houghton": "1200",
+            "josh murphy": "190",
+            "julio pleguezuelo": "2500",
+            "kusini yengi": "190",
+            "mark omahony": "240",
+            "marlon pack": "600",
+            "matt ritchie": "280",
+            "matthew sorinola": "1800",
+            "michael baidoo": "525",
+            "michael obafemi": "380",
+            "mustapha bundu": "360",
+            "nathanael ogbeta": "1800",
+            "nikola katic": "2500",
+            "regan poole": "750",
+            "ryan hardie": "425",
+            "ryley towler": "1200",
+            "saxon earley": "1800",
+            "terry devlin": "600",
+            "tymoteusz puchacz": "1800",
+            "victor palsson": "1400",
+            "zak swanson": "1000"
+        },
+        "1h_ml": "115/110/450",
+        "2h_ml": "100/130/425",
+        "team_fgs": {
+            "abdoulaye kamara": "1600",
+            "adil aouchiche": "475",
+            "andre dozzell": "1200",
+            "christian saydee": "425",
+            "cohen bramall": "1600",
+            "colby bishop": "300",
+            "connor ogilvie": "1000",
+            "conor shaughnessy": "1600",
+            "freddie potts": "1000",
+            "isaac hayden": "900",
+            "jacob farrell": "1200",
+            "joe morrell": "900",
+            "josh murphy": "340",
+            "kusini yengi": "340",
+            "mark omahony": "425",
+            "marlon pack": "1000",
+            "matt ritchie": "500",
+            "regan poole": "1200",
+            "ryley towler": "2000",
+            "terry devlin": "1000",
+            "zak swanson": "1600",
+            "bali mumba": "1400",
+            "caleb roberts": "1400",
+            "callum wright": "650",
+            "darko gyabi": "900",
+            "frederick issaka": "650",
+            "joe edwards": "2200",
+            "jordan houghton": "1400",
+            "julio pleguezuelo": "3000",
+            "matthew sorinola": "2200",
+            "michael baidoo": "650",
+            "michael obafemi": "475",
+            "mustapha bundu": "425",
+            "nathanael ogbeta": "2200",
+            "nikola katic": "3000",
+            "ryan hardie": "525",
+            "saxon earley": "2200",
+            "tymoteusz puchacz": "2200",
+            "victor palsson": "1800"
+        },
+        "dnb": "-450/300"
+    },
+    "stoke v blackburn": {
+        "btts": "-115/-115",
+        "spread": {
+            "-0.5": "160/-210"
+        },
+        "total": {
+            "2.5": "115/-145",
+            "0.5": "-1200/600",
+            "1.5": "-260/190",
+            "3.5": "280/-400",
+            "4.5": "600/-1200",
+            "5.5": "1100/-5000"
+        },
+        "atgs": {
+            "adam forshaw": "1400",
+            "ali al hamadi": "280",
+            "amario cozier duberry": "475",
+            "andre vidigal": "320",
+            "andy moran": "525",
+            "ashley phillips": "1200",
+            "bae joon ho": "550",
+            "ben wilmot": "1000",
+            "callum brittain": "1000",
+            "cauley woodrow": "320",
+            "dion sanderson": "2500",
+            "dominic hyam": "2000",
+            "emre tezgel": "280",
+            "enda stevens": "1400",
+            "eric junior bocat": "1100",
+            "hayden carter": "1400",
+            "joe rankin costello": "475",
+            "john buckley": "750",
+            "jordan thompson": "1000",
+            "junior tchamadeu": "1200",
+            "lewis koumas": "340",
+            "lewis travis": "750",
+            "makhtar gueye": "260",
+            "matty litherland": "1400",
+            "michael rose": "1400",
+            "million manhoef": "380",
+            "nathan lowe": "240",
+            "ryan hedges": "425",
+            "sam gallagher": "320",
+            "sondre trondstad": "1400",
+            "tatsuki seko": "1000",
+            "todd cantwell": "400",
+            "tyrhys dolan": "360",
+            "wouter burger": "550"
+        },
+        "2h_ml": "185/115/220",
+        "1h_ml": "220/100/220",
+        "team_fgs": {
+            "ali al hamadi": "400",
+            "andre vidigal": "475",
+            "andy moran": "750",
+            "ashley phillips": "1600",
+            "bae joon ho": "800",
+            "ben wilmot": "1400",
+            "emre tezgel": "400",
+            "enda stevens": "2000",
+            "eric junior bocat": "1600",
+            "jordan thompson": "1400",
+            "junior tchamadeu": "1600",
+            "lewis koumas": "475",
+            "michael rose": "2000",
+            "million manhoef": "550",
+            "nathan lowe": "360",
+            "sam gallagher": "475",
+            "tatsuki seko": "1400",
+            "wouter burger": "800",
+            "adam forshaw": "1800",
+            "amario cozier duberry": "650",
+            "callum brittain": "1200",
+            "cauley woodrow": "425",
+            "dion sanderson": "3000",
+            "dominic hyam": "2500",
+            "hayden carter": "1800",
+            "joe rankin costello": "650",
+            "john buckley": "1000",
+            "lewis travis": "1000",
+            "makhtar gueye": "340",
+            "matty litherland": "1800",
+            "ryan hedges": "550",
+            "sondre trondstad": "1800",
+            "todd cantwell": "525",
+            "tyrhys dolan": "500"
+        },
+        "dnb": "-120/-110"
+    },
+    "dukla prague v karvina": {
+        "btts": "-135/105",
+        "spread": {
+            "0.5": "-170/130"
+        },
+        "total": {
+            "2.5": "-110/-120",
+            "0.5": "-1600/800",
+            "1.5": "-320/240",
+            "3.5": "225/-300",
+            "4.5": "525/-850",
+            "5.5": "1000/-2500"
+        },
+        "1h_ml": "235/115/175",
+        "2h_ml": "200/130/180",
+        "dnb": "110/-140"
+    },
+    "liepaja v tukums": {
+        "btts": "-130/100",
+        "spread": {
+            "-1.5": "110/-140"
+        },
+        "total": {
+            "2.5": "-155/122",
+            "0.5": "-3300/1100",
+            "1.5": "-500/340",
+            "3.5": "155/-195",
+            "4.5": "330/-475",
+            "5.5": "675/-1300"
+        },
+        "2h_ml": "-145/175/490",
+        "1h_ml": "-125/150/480",
+        "dnb": "-750/475"
+    },
+    "super nova v metta lu": {
+        "btts": "-135/105",
+        "spread": {
+            "-0.5": "122/-155"
+        },
+        "total": {
+            "2.5": "-110/-120",
+            "0.5": "-1400/700",
+            "1.5": "-330/250",
+            "3.5": "220/-290",
+            "4.5": "500/-800",
+            "5.5": "1000/-2500"
+        },
+        "1h_ml": "175/110/250",
+        "2h_ml": "165/130/220",
+        "dnb": "-170/130"
+    },
+    "floriana v birkirkara": {
+        "btts": "-105/-125",
+        "1h_ml": "180/103/260",
+        "2h_ml": "165/120/240",
+        "total": {
+            "0.5": "-1000/600",
+            "1.5": "-230/175",
+            "2.5": "130/-170",
+            "3.5": "290/-425",
+            "4.5": "675/-1300",
+            "5.5": "1300/-5000"
+        }
+    },
+    "cliftonville v dungannon": {
+        "btts": "-135/105",
+        "spread": {
+            "-0.5": "-120/-110"
+        },
+        "total": {
+            "2.5": "-120/-110",
+            "0.5": "-1800/850",
+            "1.5": "-370/270",
+            "3.5": "205/-270",
+            "4.5": "450/-700",
+            "5.5": "900/-2000"
+        },
+        "2h_ml": "130/140/270",
+        "1h_ml": "135/122/310",
+        "dnb": "-250/190"
+    },
+    "glentoran v glenavon": {
+        "btts": "-110/-120",
+        "spread": {
+            "-0.5": "-130/100"
+        },
+        "total": {
+            "2.5": "-110/-120",
+            "0.5": "-1400/700",
+            "1.5": "-300/225",
+            "3.5": "250/-330",
+            "4.5": "575/-950",
+            "5.5": "1100/-3300"
+        },
+        "1h_ml": "128/118/340",
+        "2h_ml": "107/135/370",
+        "dnb": "-300/225"
+    },
+    "ofk belgrade v pancevo": {
+        "btts": "-125/-105",
+        "spread": {
+            "-0.5": "120/-150"
+        },
+        "total": {
+            "2.5": "105/-135",
+            "0.5": "-1200/650",
+            "1.5": "-280/210",
+            "3.5": "260/-350",
+            "4.5": "600/-1000",
+            "5.5": "1200/-4000"
+        },
+        "1h_ml": "160/113/265",
+        "2h_ml": "150/130/240",
+        "dnb": "-175/135"
+    },
+    "primorje v maribor": {
+        "btts": "-105/-125",
+        "spread": {
+            "0.5": "122/-155"
+        },
+        "total": {
+            "2.5": "-105/-125",
+            "0.5": "-1400/700",
+            "1.5": "-320/240",
+            "3.5": "230/-310",
+            "4.5": "525/-850",
+            "5.5": "1100/-3300"
+        },
+        "2h_ml": "410/140/-104",
+        "1h_ml": "460/118/105",
+        "dnb": "290/-425"
+    },
+    "olimpija v mura": {
+        "btts": "110/-140",
+        "spread": {
+            "-1.5": "145/-185"
+        },
+        "total": {
+            "2.5": "-105/-125",
+            "0.5": "-1400/700",
+            "1.5": "-300/225",
+            "3.5": "250/-330",
+            "4.5": "575/-950",
+            "5.5": "1100/-3300"
+        },
+        "1h_ml": "-106/121/525",
+        "2h_ml": "-109/135/450",
+        "dnb": "-600/400"
+    },
+    "monterrey v vancouver whitecaps": {
+        "btts": "-125/-105",
+        "spread": {
+            "-0.5": "-175/135"
+        },
+        "total": {
+            "2.5": "-125/-105",
+            "0.5": "-2000/900",
+            "1.5": "-380/275",
+            "3.5": "190/-250",
+            "4.5": "440/-675",
+            "5.5": "850/-1800"
+        },
+        "2h_ml": "-109/150/390",
+        "1h_ml": "108/125/400",
+        "dnb": "-450/310"
+    },
+    "club america v guadalajara": {
+        "btts": "-110/-120",
+        "spread": {
+            "-0.5": "-165/127"
+        },
+        "total": {
+            "2.5": "-110/-120",
+            "0.5": "-1600/800",
+            "1.5": "-320/240",
+            "3.5": "225/-300",
+            "4.5": "525/-850",
+            "5.5": "1000/-2500"
+        },
+        "2h_ml": "-102/140/400",
+        "1h_ml": "123/115/375",
+        "dnb": "-425/290"
+    },
+    "la galaxy v herediano": {
+        "btts": "-110/-120",
+        "spread": {
+            "-1.5": "120/-150"
+        },
+        "total": {
+            "2.5": "-135/105",
+            "0.5": "-2500/1000",
+            "1.5": "-425/290",
+            "3.5": "180/-240",
+            "4.5": "400/-600",
+            "5.5": "850/-1800"
+        },
+        "1h_ml": "-109/130/490",
+        "2h_ml": "-135/160/500",
+        "dnb": "-700/450"
+    },
+    "club america women v puebla women": {
+        "btts": "190/-250",
+        "spread": {
+            "-4.5": "100/-130"
+        },
+        "total": {
+            "5.5": "115/-145",
+            "1.5": "-6000/1400",
+            "2.5": "-1100/625",
+            "3.5": "-400/280",
+            "4.5": "-175/135"
+        },
+        "2h_ml": "-1800/650/2300",
+        "1h_ml": "-1200/525/2200"
+    },
+    "pachuca women v unam women": {
+        "btts": "-140/110",
+        "spread": {
+            "-1.5": "130/-170"
+        },
+        "total": {
+            "2.5": "-165/127",
+            "0.5": "-3300/1100",
+            "1.5": "-525/350",
+            "3.5": "145/-185",
+            "4.5": "310/-450",
+            "5.5": "650/-1200"
+        },
+        "1h_ml": "-111/150/410",
+        "2h_ml": "-125/170/410",
+        "dnb": "-500/340"
+    },
+    "cerro porteno v melgar": {
+        "btts": "122/-155",
+        "spread": {
+            "-0.5": "-145/115"
+        },
+        "total": {
+            "2.5": "127/-165",
+            "0.5": "-1000/600",
+            "1.5": "-230/175",
+            "3.5": "310/-450",
+            "4.5": "700/-1400",
+            "5.5": "1400/-6000"
+        },
+        "2h_ml": "110/121/410",
+        "1h_ml": "125/105/420",
+        "dnb": "-380/275"
+    },
+    "corinthians v barcelona guayaquil": {
+        "btts": "-125/-105",
+        "spread": {
+            "-1.5": "-105/-125"
+        },
+        "total": {
+            "3.5": "135/-175",
+            "0.5": "-4000/1200",
+            "1.5": "-550/360",
+            "2.5": "-180/140",
+            "4.5": "290/-425",
+            "5.5": "625/-1100"
+        },
+        "1h_ml": "-140/160/525",
+        "2h_ml": "-165/190/525",
+        "dnb": "-700/450"
+    },
+    "ec vitoria ba v nautico": {
+        "btts": "120/-150",
+        "spread": {
+            "-1.5": "120/-150"
+        },
+        "total": {
+            "2.5": "-105/-125",
+            "0.5": "-1600/800",
+            "1.5": "-310/230",
+            "3.5": "240/-320",
+            "4.5": "550/-900",
+            "5.5": "1000/-2500"
+        },
+        "1h_ml": "-128/129/700",
+        "2h_ml": "-127/145/525",
+        "dnb": "-800/500"
+    },
+    "operario pr v tombense": {
+        "btts": "145/-185",
+        "spread": {
+            "-0.5": "-125/-105"
+        },
+        "total": {
+            "1.5": "-165/135",
+            "0.5": "-750/475",
+            "2.5": "180/-240",
+            "3.5": "440/-675",
+            "4.5": "1000/-2500"
+        },
+        "1h_ml": "145/-114/450",
+        "2h_ml": "135/102/390",
+        "dnb": "-310/230"
+    },
+    "athletic club minas gerais v gremio": {
+        "btts": "-120/-110",
+        "spread": {
+            "0.5": "-110/-120"
+        },
+        "total": {
+            "2.5": "-105/-125",
+            "0.5": "-1600/800",
+            "1.5": "-310/230",
+            "3.5": "240/-320",
+            "4.5": "550/-900",
+            "5.5": "1000/-2500"
+        },
+        "1h_ml": "340/116/129",
+        "2h_ml": "300/130/127",
+        "dnb": "200/-260"
+    },
+    "maracana v ceilandia": {
+        "btts": "115/-145",
+        "spread": {
+            "-0.5": "105/-135"
+        },
+        "total": {
+            "1.5": "-190/155",
+            "0.5": "-900/550",
+            "2.5": "150/-190",
+            "3.5": "360/-550",
+            "4.5": "850/-1800",
+            "5.5": "1500/-7500"
+        },
+        "1h_ml": "170/-106/320",
+        "2h_ml": "155/109/290",
+        "dnb": "-210/165"
+    },
+    "capital v porto velho": {
+        "btts": "115/-145",
+        "spread": {
+            "-0.5": "-140/110"
+        },
+        "total": {
+            "2.5": "130/-170",
+            "0.5": "-1100/625",
+            "1.5": "-230/175",
+            "3.5": "310/-450",
+            "4.5": "700/-1400",
+            "5.5": "1400/-6000"
+        },
+        "1h_ml": "126/103/430",
+        "2h_ml": "111/119/420",
+        "dnb": "-370/270"
+    },
+    "ceara v confianca se": {
+        "btts": "130/-170",
+        "spread": {
+            "-1.5": "122/-155"
+        },
+        "total": {
+            "2.5": "110/-140",
+            "0.5": "-1400/700",
+            "1.5": "-280/210",
+            "3.5": "270/-370",
+            "4.5": "575/-950",
+            "5.5": "1200/-4000"
+        },
+        "1h_ml": "-112/118/625",
+        "2h_ml": "-123/140/550",
+        "dnb": "-800/500"
+    },
+    "atletico go v retro": {
+        "btts": "122/-155",
+        "spread": {
+            "-0.5": "-150/120"
+        },
+        "total": {
+            "2.5": "127/-165",
+            "0.5": "-1100/625",
+            "1.5": "-240/180",
+            "3.5": "290/-425",
+            "4.5": "700/-1400",
+            "5.5": "1400/-6000"
+        },
+        "1h_ml": "120/111/410",
+        "2h_ml": "106/127/400",
+        "dnb": "-425/290"
+    },
+    "gwangju v vissel kobe": {
+        "btts": "-105/-125",
+        "spread": {
+            "0.5": "-170/130"
+        },
+        "total": {
+            "2.5": "125/-160",
+            "0.5": "-1000/600",
+            "1.5": "-240/180",
+            "3.5": "310/-450",
+            "4.5": "700/-1400",
+            "5.5": "1400/-6000"
+        },
+        "2h_ml": "260/116/160",
+        "1h_ml": "245/103/190",
+        "dnb": "122/-155"
+    },
+    "kawasaki frontale v shanghai shenhua": {
+        "btts": "-120/-110",
+        "spread": {
+            "-1.5": "-115/-115"
+        },
+        "total": {
+            "3.5": "135/-170",
+            "0.5": "-4000/1200",
+            "1.5": "-575/380",
+            "2.5": "-190/150",
+            "4.5": "280/-400",
+            "5.5": "575/-950"
+        },
+        "2h_ml": "-160/175/575",
+        "1h_ml": "-150/155/650",
+        "dnb": "-850/525"
+    },
+    "lion sailors v sanfrecce hiroshima": {
+        "btts": "110/-140",
+        "spread": {
+            "2.5": "-135/105"
+        },
+        "total": {
+            "3.5": "-115/-115",
+            "0.5": "-6000/1400",
+            "1.5": "-900/550",
+            "2.5": "-260/200",
+            "4.5": "200/-260",
+            "5.5": "400/-600"
+        },
+        "2h_ml": "850/255/-285",
+        "1h_ml": "900/210/-235",
+        "dnb": "1000/-2500"
+    },
+    "sharjah v al ahli dubai": {
+        "btts": "-135/105",
+        "spread": {
+            "-0.5": "145/-185"
+        },
+        "total": {
+            "2.5": "-110/-120",
+            "0.5": "-1400/700",
+            "1.5": "-330/250",
+            "3.5": "220/-290",
+            "4.5": "550/-900",
+            "5.5": "1100/-3300"
+        },
+        "1h_ml": "205/110/210",
+        "2h_ml": "175/135/195",
+        "dnb": "-130/100"
+    },
+    "melbourne v newcastle jets": {
+        "btts": "-145/115",
+        "spread": {
+            "-0.5": "-170/130"
+        },
+        "total": {
+            "2.5": "-160/125",
+            "0.5": "-3500/1000",
+            "1.5": "-450/300",
+            "3.5": "150/-200",
+            "4.5": "340/-550",
+            "5.5": "700/-1600"
+        },
+        "atgs": {
+            "aleksandar susnjar": "1600",
+            "alessandro lopane": "280",
+            "alex nunes": "750",
+            "andrew nabbout": "165",
+            "arion sulemani": "150",
+            "aziz behich": "525",
+            "ben van dorssen": "2000",
+            "benjamin mazzeo": "175",
+            "callum talbot": "700",
+            "callum timmins": "900",
+            "charles mmombwa": "900",
+            "clayton taylor": "380",
+            "dane ingham": "1400",
+            "daniel wilmering": "1400",
+            "elizabeth adams": "380",
+            "emin durakovic": "475",
+            "german ferreyra": "1000",
+            "harrison shillington": "750",
+            "harry politidis": "380",
+            "james jeggo": "475",
+            "jayden necovski": "750",
+            "justin vidic": "300",
+            "kai trewin": "600",
+            "kosta grozos": "900",
+            "lachlan bayliss": "600",
+            "lachlan rose": "280",
+            "lawrence wong": "380",
+            "marco tilio": "165",
+            "mark natta": "1600",
+            "mathew leckie": "240",
+            "matthew angelo scarcella": "750",
+            "max caputo": "130",
+            "medin memeti": "160",
+            "nathan grimaldi": "1200",
+            "nathaniel atkinson": "525",
+            "oscar fryer": "450",
+            "peter antoniou": "750",
+            "phillip cancar": "1600",
+            "samuel souprayen": "1000",
+            "steven ugarkovic": "300",
+            "thomas kevin aquilina": "750",
+            "wellisol santos de oliveira": "475",
+            "will dobson": "1000",
+            "yonatan cohen": "145",
+            "zane schreiber": "475"
+        },
+        "1h_ml": "100/145/360",
+        "2h_ml": "-115/165/360",
+        "team_fgs": {
+            "alessandro lopane": "550",
+            "andrew nabbout": "340",
+            "arion sulemani": "300",
+            "aziz behich": "1000",
+            "benjamin mazzeo": "360",
+            "callum talbot": "1200",
+            "emin durakovic": "900",
+            "german ferreyra": "1800",
+            "harrison shillington": "1400",
+            "harry politidis": "750",
+            "james jeggo": "900",
+            "jayden necovski": "1400",
+            "kai trewin": "1100",
+            "lawrence wong": "750",
+            "marco tilio": "340",
+            "mathew leckie": "475",
+            "max caputo": "280",
+            "medin memeti": "320",
+            "nathaniel atkinson": "1000",
+            "peter antoniou": "1400",
+            "samuel souprayen": "1800",
+            "steven ugarkovic": "600",
+            "yonatan cohen": "300",
+            "zane schreiber": "900",
+            "aleksandar susnjar": "2000",
+            "alex nunes": "1000",
+            "ben van dorssen": "2500",
+            "callum timmins": "1200",
+            "charles mmombwa": "1200",
+            "clayton taylor": "525",
+            "dane ingham": "1600",
+            "daniel wilmering": "1600",
+            "elizabeth adams": "525",
+            "justin vidic": "400",
+            "kosta grozos": "1200",
+            "lachlan bayliss": "800",
+            "lachlan rose": "380",
+            "mark natta": "2000",
+            "matthew angelo scarcella": "1000",
+            "nathan grimaldi": "1600",
+            "oscar fryer": "600",
+            "phillip cancar": "2000",
+            "thomas kevin aquilina": "1000",
+            "wellisol santos de oliveira": "650",
+            "will dobson": "1400"
+        },
+        "dnb": "-400/280"
+    },
+    "marumo gallants v sekhukhune united": {
+        "btts": "122/-155",
+        "spread": {
+            "-0.5": "165/-210"
+        },
+        "total": {
+            "1.5": "-175/135",
+            "0.5": "-750/475",
+            "2.5": "175/-230",
+            "3.5": "425/-650",
+            "4.5": "1000/-2500"
+        },
+        "1h_ml": "235/-115/245",
+        "2h_ml": "210/103/220",
+        "dnb": "-120/-110"
+    },
+    "polokwane v golden arrows": {
+        "btts": "120/-150",
+        "spread": {
+            "-0.5": "105/-135"
+        },
+        "total": {
+            "1.5": "-190/150",
+            "0.5": "-800/500",
+            "2.5": "160/-200",
+            "3.5": "380/-575",
+            "4.5": "900/-2000",
+            "5.5": "1600/-8000"
+        },
+        "2h_ml": "145/108/325",
+        "1h_ml": "160/-107/340",
+        "dnb": "-220/170"
+    },
+    "kaizer chiefs v cape": {
+        "btts": "110/-140",
+        "spread": {
+            "-0.5": "-120/-110"
+        },
+        "total": {
+            "2.5": "135/-175",
+            "0.5": "-1000/600",
+            "1.5": "-230/175",
+            "3.5": "310/-450",
+            "4.5": "700/-1400",
+            "5.5": "1400/-6000"
+        },
+        "1h_ml": "150/-103/360",
+        "2h_ml": "119/119/370",
+        "dnb": "-290/220"
+    }
+}

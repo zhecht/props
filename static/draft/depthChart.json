@@ -1,0 +1,1684 @@
+{
+    "ari": {
+        "qb": [
+            "kyler murray",
+            "clayton tune"
+        ],
+        "rb": [
+            "james conner",
+            "trey benson",
+            "emari demercado",
+            "deejay dallas"
+        ],
+        "wr1": [
+            "marvin harrison",
+            "chris moore",
+            "zay jones"
+        ],
+        "wr2": [
+            "michael wilson",
+            "zach pascal"
+        ],
+        "wr3": [
+            "greg dortch",
+            "xavier weaver"
+        ],
+        "te": [
+            "trey mcbride",
+            "elijah higgins",
+            "tip reiman",
+            "travis vokolek"
+        ],
+        "lt": [
+            "paris johnson",
+            "kelvin beachum",
+            "christian jones"
+        ],
+        "lg": [
+            "evan brown",
+            "isaiah adams"
+        ],
+        "c": [
+            "hjalte froholdt",
+            "jon gaines"
+        ],
+        "rg": [
+            "will hernandez",
+            "trystan colon",
+            "carter odonnell"
+        ],
+        "rt": [
+            "jonah williams"
+        ]
+    },
+    "atl": {
+        "qb": [
+            "kirk cousins",
+            "michael penix"
+        ],
+        "rb": [
+            "bijan robinson",
+            "tyler allgeier",
+            "avery williams",
+            "jase mcclellan"
+        ],
+        "wr1": [
+            "drake london",
+            "khadarel hodge"
+        ],
+        "wr2": [
+            "darnell mooney",
+            "casey washington"
+        ],
+        "wr3": [
+            "ray ray mccloud",
+            "rondale moore"
+        ],
+        "te": [
+            "kyle pitts",
+            "charlie woerner",
+            "ross dwelley"
+        ],
+        "fb": [
+            "robert burns"
+        ],
+        "lt": [
+            "jake matthews",
+            "tyler vrabel"
+        ],
+        "lg": [
+            "matthew bergeron",
+            "jovaughn gwyn"
+        ],
+        "c": [
+            "drew dalman",
+            "ryan neuzil"
+        ],
+        "rg": [
+            "chris lindstrom",
+            "kyle hinton"
+        ],
+        "rt": [
+            "kaleb mcgary",
+            "storm norton"
+        ]
+    },
+    "bal": {
+        "qb": [
+            "lamar jackson",
+            "josh johnson"
+        ],
+        "rb": [
+            "derrick henry",
+            "justice hill",
+            "rasheen ali",
+            "keaton mitchell"
+        ],
+        "wr1": [
+            "zay flowers",
+            "tylan wallace",
+            "isaiah washington"
+        ],
+        "wr2": [
+            "rashod bateman",
+            "devontez walker"
+        ],
+        "wr3": [
+            "nelson agholor",
+            "deonte harty"
+        ],
+        "te": [
+            "mark andrews",
+            "isaiah likely",
+            "charlie kolar"
+        ],
+        "fb": [
+            "patrick ricard"
+        ],
+        "lt": [
+            "ronnie stanley",
+            "josh jones"
+        ],
+        "lg": [
+            "andrew vorhees",
+            "malaesala aumavae laulu"
+        ],
+        "c": [
+            "tyler linderbaum",
+            "nick samac"
+        ],
+        "rg": [
+            "daniel faalele",
+            "ben cleveland"
+        ],
+        "rt": [
+            "patrick mekari",
+            "roger rosengarten"
+        ]
+    },
+    "buf": {
+        "qb": [
+            "josh allen",
+            "mitchell trubisky",
+            "shane buechele"
+        ],
+        "rb": [
+            "james cook",
+            "ray davis",
+            "ty johnson",
+            "darrynton evans"
+        ],
+        "wr1": [
+            "khalil shakir",
+            "mack hollins"
+        ],
+        "wr2": [
+            "keon coleman",
+            "marquez valdes scantling"
+        ],
+        "wr3": [
+            "curtis samuel"
+        ],
+        "te": [
+            "dalton kincaid",
+            "dawson knox",
+            "quintin morris"
+        ],
+        "fb": [
+            "reggie gilliam"
+        ],
+        "lt": [
+            "dion dawkins",
+            "ryan van demark"
+        ],
+        "lg": [
+            "david edwards",
+            "alec anderson"
+        ],
+        "c": [
+            "connor mcgovern",
+            "sedrick van pran granger"
+        ],
+        "rg": [
+            "ocyrus torrence"
+        ],
+        "rt": [
+            "spencer brown",
+            "tylan grable",
+            "travis clayton",
+            "tommy doyle"
+        ]
+    },
+    "car": {
+        "qb": [
+            "bryce young",
+            "andy dalton"
+        ],
+        "rb": [
+            "chuba hubbard",
+            "miles sanders",
+            "raheem blackshear",
+            "jonathon brooks"
+        ],
+        "wr1": [
+            "diontae johnson",
+            "xavier legette"
+        ],
+        "wr2": [
+            "adam thielen",
+            "david moore"
+        ],
+        "wr3": [
+            "jonathan mingo",
+            "devin carter"
+        ],
+        "te": [
+            "tommy tremble",
+            "ian thomas",
+            "jatavion sanders",
+            "jordan matthews"
+        ],
+        "lt": [
+            "ikem ekwonu",
+            "yosh nijman"
+        ],
+        "lg": [
+            "damien lewis",
+            "chandler zavala",
+            "jarrett kingston"
+        ],
+        "c": [
+            "austin corbett",
+            "andrew raym"
+        ],
+        "rg": [
+            "robert hunt",
+            "brady christensen"
+        ],
+        "rt": [
+            "taylor moton"
+        ]
+    },
+    "chi": {
+        "qb": [
+            "caleb williams",
+            "tyson bagent"
+        ],
+        "rb": [
+            "dandre swift",
+            "khalil herbert",
+            "roschon johnson",
+            "travis homer"
+        ],
+        "wr1": [
+            "dj moore",
+            "tyler scott",
+            "dante pettis"
+        ],
+        "wr2": [
+            "keenan allen",
+            "velus jones",
+            "nsimba webster"
+        ],
+        "wr3": [
+            "rome odunze",
+            "deandre carter"
+        ],
+        "te": [
+            "cole kmet",
+            "gerald everett",
+            "marcedes lewis"
+        ],
+        "fb": [
+            "khari blasingame"
+        ],
+        "lt": [
+            "braxton jones",
+            "kiran amegadjie",
+            "larry borom"
+        ],
+        "lg": [
+            "teven jenkins"
+        ],
+        "c": [
+            "ryan bates",
+            "coleman shelton",
+            "doug kramer"
+        ],
+        "rg": [
+            "nate davis",
+            "matt pryor",
+            "bill murray"
+        ],
+        "rt": [
+            "darnell wright"
+        ]
+    },
+    "cin": {
+        "qb": [
+            "joe burrow",
+            "jake browning"
+        ],
+        "rb": [
+            "zack moss",
+            "chase brown",
+            "trayveon williams",
+            "chris evans"
+        ],
+        "wr1": [
+            "jamarr chase",
+            "jermaine burton"
+        ],
+        "wr2": [
+            "tee higgins",
+            "trenton irwin"
+        ],
+        "wr3": [
+            "andrei iosivas",
+            "charlie jones"
+        ],
+        "te": [
+            "mike gesicki",
+            "drew sample",
+            "tanner hudson",
+            "erick all"
+        ],
+        "lt": [
+            "orlando brown"
+        ],
+        "lg": [
+            "cordell volson",
+            "jaxson kirkland"
+        ],
+        "c": [
+            "ted karras",
+            "matt lee"
+        ],
+        "rg": [
+            "alex cappa",
+            "cody ford"
+        ],
+        "rt": [
+            "trent brown",
+            "amarius mims",
+            "dante smith"
+        ]
+    },
+    "cle": {
+        "qb": [
+            "deshaun watson",
+            "jameis winston",
+            "dorian thompson robinson"
+        ],
+        "rb": [
+            "jerome ford",
+            "pierre strong",
+            "donta foreman",
+            "nick chubb"
+        ],
+        "wr1": [
+            "amari cooper",
+            "cedric tillman"
+        ],
+        "wr2": [
+            "jerry jeudy",
+            "david bell"
+        ],
+        "wr3": [
+            "elijah moore",
+            "jamari thrash"
+        ],
+        "te": [
+            "david njoku",
+            "jordan akins"
+        ],
+        "lt": [
+            "jedrick wills",
+            "james hudson",
+            "hakeem adeniji"
+        ],
+        "lg": [
+            "joel bitonio",
+            "javion cohen",
+            "michael dunn"
+        ],
+        "c": [
+            "ethan pocic",
+            "nick harris",
+            "luke wypler"
+        ],
+        "rg": [
+            "wyatt teller",
+            "zak zinter"
+        ],
+        "rt": [
+            "jack conklin",
+            "dawand jones"
+        ]
+    },
+    "dal": {
+        "qb": [
+            "dak prescott",
+            "cooper rush",
+            "trey lance"
+        ],
+        "rb": [
+            "ezekiel elliott",
+            "rico dowdle",
+            "dalvin cook",
+            "deuce vaughn"
+        ],
+        "wr1": [
+            "ceedee lamb",
+            "jalen brooks"
+        ],
+        "wr2": [
+            "brandin cooks",
+            "kavontae turpin"
+        ],
+        "wr3": [
+            "jalen tolbert",
+            "ryan flournoy"
+        ],
+        "te": [
+            "jake ferguson",
+            "luke schoonmaker",
+            "brevyn spann ford",
+            "john stephens"
+        ],
+        "fb": [
+            "hunter luepke"
+        ],
+        "lt": [
+            "tyler guyton",
+            "asim richards",
+            "chuma edoga"
+        ],
+        "lg": [
+            "tyler smith",
+            "tj bass",
+            "nathan thomas"
+        ],
+        "c": [
+            "cooper beebe",
+            "brock hoffman"
+        ],
+        "rg": [
+            "zack martin"
+        ],
+        "rt": [
+            "terence steele",
+            "matt waletzko",
+            "earl bostick"
+        ]
+    },
+    "den": {
+        "qb": [
+            "bo nix",
+            "jarrett stidham",
+            "zach wilson"
+        ],
+        "rb": [
+            "javonte williams",
+            "jaleel mclaughlin",
+            "audric estime",
+            "blake watson"
+        ],
+        "wr1": [
+            "courtland sutton",
+            "troy franklin"
+        ],
+        "wr2": [
+            "josh reynolds",
+            "devaughn vele"
+        ],
+        "wr3": [
+            "marvin mims"
+        ],
+        "te": [
+            "adam trautman",
+            "greg dulcich",
+            "lucas krull",
+            "nate adkins"
+        ],
+        "lt": [
+            "garett bolles",
+            "matt peart",
+            "quinn bailey"
+        ],
+        "lg": [
+            "ben powers"
+        ],
+        "c": [
+            "luke wattenberg",
+            "alex forsyth"
+        ],
+        "rg": [
+            "quinn meinerz"
+        ],
+        "rt": [
+            "mike mcglinchey",
+            "alex palczewski",
+            "frank crum"
+        ]
+    },
+    "det": {
+        "qb": [
+            "jared goff",
+            "hendon hooker"
+        ],
+        "rb": [
+            "david montgomery",
+            "jahmyr gibbs",
+            "craig reynolds",
+            "sione vaki"
+        ],
+        "wr1": [
+            "amon ra st brown",
+            "isaiah williams"
+        ],
+        "wr2": [
+            "jameson williams",
+            "trequan smith"
+        ],
+        "wr3": [
+            "kalif raymond",
+            "antoine green"
+        ],
+        "te": [
+            "sam laporta",
+            "brock wright",
+            "parker hesse"
+        ],
+        "lt": [
+            "taylor decker",
+            "dan skipper",
+            "giovanni manu"
+        ],
+        "lg": [
+            "graham glasgow",
+            "kayode awosika",
+            "netane muti"
+        ],
+        "c": [
+            "frank ragnow",
+            "michael niese"
+        ],
+        "rg": [
+            "kevin zeitler",
+            "christian mahogany"
+        ],
+        "rt": [
+            "penei sewell",
+            "colby sorsdal",
+            "connor galvin"
+        ]
+    },
+    "gb": {
+        "qb": [
+            "jordan love",
+            "malik willis"
+        ],
+        "rb": [
+            "josh jacobs",
+            "marshawn lloyd",
+            "emanuel wilson",
+            "aj dillon"
+        ],
+        "wr1": [
+            "christian watson",
+            "dontayvion wicks"
+        ],
+        "wr2": [
+            "romeo doubs",
+            "bo melton"
+        ],
+        "wr3": [
+            "jayden reed",
+            "malik heath"
+        ],
+        "te": [
+            "luke musgrave",
+            "tucker kraft",
+            "ben sims",
+            "tyler davis"
+        ],
+        "lt": [
+            "rasheed walker",
+            "andre dillard"
+        ],
+        "lg": [
+            "elgton jenkins"
+        ],
+        "c": [
+            "josh myers",
+            "jacob monk"
+        ],
+        "rg": [
+            "jordan morgan",
+            "sean rhyan"
+        ],
+        "rt": [
+            "zach tom",
+            "kadeem telfort",
+            "travis glover"
+        ]
+    },
+    "hou": {
+        "qb": [
+            "cj stroud",
+            "davis mills",
+            "case keenum"
+        ],
+        "rb": [
+            "joe mixon",
+            "dameon pierce",
+            "dare ogunbowale",
+            "cam akers"
+        ],
+        "wr1": [
+            "stefon diggs",
+            "robert woods",
+            "steven sims"
+        ],
+        "wr2": [
+            "nico collins",
+            "john metchie"
+        ],
+        "wr3": [
+            "tank dell",
+            "xavier hutchinson"
+        ],
+        "te": [
+            "dalton schultz",
+            "brevin jordan",
+            "cade stover",
+            "dalton keene"
+        ],
+        "lt": [
+            "laremy tunsil",
+            "blake fisher"
+        ],
+        "lg": [
+            "kenyon green",
+            "kendrick green",
+            "jaylon thomas"
+        ],
+        "c": [
+            "juice scruggs",
+            "jarrett patterson"
+        ],
+        "rg": [
+            "shaq mason",
+            "nick broeker",
+            "ladarius henderson"
+        ],
+        "rt": [
+            "tytus howard"
+        ]
+    },
+    "ind": {
+        "qb": [
+            "anthony richardson",
+            "joe flacco",
+            "sam ehlinger"
+        ],
+        "rb": [
+            "jonathan taylor",
+            "trey sermon",
+            "tyler goodson"
+        ],
+        "wr1": [
+            "michael pittman",
+            "alec pierce",
+            "juwann winfree"
+        ],
+        "wr2": [
+            "josh downs",
+            "ashton dulin"
+        ],
+        "wr3": [
+            "adonai mitchell",
+            "anthony gould"
+        ],
+        "te": [
+            "kylen granson",
+            "mo alie cox",
+            "drew ogletree",
+            "will mallory"
+        ],
+        "lt": [
+            "bernhard raimann",
+            "blake freeland"
+        ],
+        "lg": [
+            "quenton nelson",
+            "danny pinter",
+            "tanor bortolini"
+        ],
+        "c": [
+            "ryan kelly",
+            "danny pinter",
+            "tanor bortolini",
+            "wesley french"
+        ],
+        "rg": [
+            "will fries",
+            "dalton tucker"
+        ],
+        "rt": [
+            "braden smith",
+            "matt goncalves"
+        ]
+    },
+    "jax": {
+        "qb": [
+            "trevor lawrence",
+            "mac jones"
+        ],
+        "rb": [
+            "travis etienne",
+            "tank bigsby",
+            "dernest johnson",
+            "keilan robinson"
+        ],
+        "wr1": [
+            "christian kirk",
+            "parker washington",
+            "david white"
+        ],
+        "wr2": [
+            "gabe davis",
+            "devin duvernay"
+        ],
+        "wr3": [
+            "brian thomas",
+            "tim jones"
+        ],
+        "te": [
+            "evan engram",
+            "luke farrell",
+            "brenton strange",
+            "patrick murtagh"
+        ],
+        "lt": [
+            "cam robinson",
+            "walker little",
+            "cole van lanen"
+        ],
+        "lg": [
+            "ezra cleveland"
+        ],
+        "c": [
+            "mitch morse",
+            "luke fortner"
+        ],
+        "rg": [
+            "brandon scherff",
+            "cooper hodges"
+        ],
+        "rt": [
+            "anton harrison",
+            "javon foster"
+        ]
+    },
+    "kc": {
+        "qb": [
+            "patrick mahomes",
+            "carson wentz"
+        ],
+        "rb": [
+            "isiah pacheco",
+            "samaje perine",
+            "carson steele",
+            "clyde edwards helaire"
+        ],
+        "wr1": [
+            "rashee rice",
+            "justin watson",
+            "mecole hardman"
+        ],
+        "wr2": [
+            "marquise brown",
+            "juju smith schuster",
+            "jaaron hayek"
+        ],
+        "wr3": [
+            "xavier worthy",
+            "skyy moore"
+        ],
+        "te": [
+            "travis kelce",
+            "noah gray",
+            "jared wiley",
+            "peyton hendershot"
+        ],
+        "lt": [
+            "kingsley suamataia",
+            "wanya morris"
+        ],
+        "lg": [
+            "joe thuney",
+            "mike caliendo"
+        ],
+        "c": [
+            "creed humphrey",
+            "hunter nourzad"
+        ],
+        "rg": [
+            "trey smith",
+            "cj hanson",
+            "mckade mettauer"
+        ],
+        "rt": [
+            "jawaan taylor",
+            "ethan driskell"
+        ]
+    },
+    "lac": {
+        "qb": [
+            "justin herbert",
+            "taylor heinicke",
+            "easton stick"
+        ],
+        "rb": [
+            "gus edwards",
+            "jk dobbins",
+            "kimani vidal",
+            "hassan haskins"
+        ],
+        "wr1": [
+            "joshua palmer",
+            "dj chark",
+            "simi fehoko"
+        ],
+        "wr2": [
+            "ladd mcconkey",
+            "derius davis"
+        ],
+        "wr3": [
+            "quentin johnston",
+            "brenden rice"
+        ],
+        "te": [
+            "will dissly",
+            "hayden hurst",
+            "stone smartt"
+        ],
+        "lt": [
+            "rashawn slater",
+            "foster sarell",
+            "tyler mclellan"
+        ],
+        "lg": [
+            "zion johnson",
+            "jordan mcfadden"
+        ],
+        "c": [
+            "bradley bozeman",
+            "brenden jaimes",
+            "bucky williams"
+        ],
+        "rg": [
+            "trey pipkins",
+            "jamaree salyer"
+        ],
+        "rt": [
+            "joe alt"
+        ]
+    },
+    "lar": {
+        "qb": [
+            "matthew stafford",
+            "stetson bennett",
+            "jimmy garoppolo"
+        ],
+        "rb": [
+            "kyren williams",
+            "blake corum",
+            "ronnie rivers",
+            "cody schrader"
+        ],
+        "wr1": [
+            "cooper kupp",
+            "tutu atwell"
+        ],
+        "wr2": [
+            "puka nacua",
+            "jordan whittington"
+        ],
+        "wr3": [
+            "demarcus robinson",
+            "tyler johnson"
+        ],
+        "te": [
+            "colby parkinson",
+            "davis allen",
+            "hunter long",
+            "tyler higbee"
+        ],
+        "lt": [
+            "alaric jackson",
+            "joe noteboom",
+            "kt leveston",
+            "conor mcdermott"
+        ],
+        "lg": [
+            "steve avila",
+            "jonah jackson",
+            "logan bruss"
+        ],
+        "c": [
+            "jonah jackson",
+            "steve avila",
+            "beaux limmer"
+        ],
+        "rg": [
+            "kevin dotson"
+        ],
+        "rt": [
+            "rob havenstein",
+            "warren mcclendon"
+        ]
+    },
+    "lv": {
+        "qb": [
+            "gardner minshew",
+            "aidan oconnell"
+        ],
+        "rb": [
+            "zamir white",
+            "alexander mattison",
+            "ameer abdullah",
+            "dylan laube"
+        ],
+        "wr1": [
+            "davante adams",
+            "dj turner",
+            "jeff foreman"
+        ],
+        "wr2": [
+            "jakobi meyers",
+            "tyreik mcallister"
+        ],
+        "wr3": [
+            "tre tucker",
+            "ramel keyton"
+        ],
+        "te": [
+            "brock bowers",
+            "michael mayer",
+            "harrison bryant"
+        ],
+        "lt": [
+            "kolton miller",
+            "andrus peat"
+        ],
+        "lg": [
+            "cody whitehair",
+            "jackson powers johnson",
+            "jake johanning"
+        ],
+        "c": [
+            "andre james"
+        ],
+        "rg": [
+            "dylan parham",
+            "jordan meredith"
+        ],
+        "rt": [
+            "thayer munford",
+            "dj glaze"
+        ]
+    },
+    "mia": {
+        "qb": [
+            "tua tagovailoa",
+            "skylar thompson"
+        ],
+        "rb": [
+            "raheem mostert",
+            "devon achane",
+            "jaylen wright",
+            "jeff wilson"
+        ],
+        "wr1": [
+            "tyreek hill",
+            "malik washington",
+            "river cracraft",
+            "braylon sanders"
+        ],
+        "wr2": [
+            "jaylen waddle",
+            "grant dubose",
+            "tahj washington"
+        ],
+        "wr3": [
+            "braxton berrios",
+            "odell beckham",
+            "anthony schwartz"
+        ],
+        "te": [
+            "jonnu smith",
+            "durham smythe",
+            "julian hill",
+            "tanner conner"
+        ],
+        "fb": [
+            "alec ingold"
+        ],
+        "lt": [
+            "terron armstead",
+            "patrick paul",
+            "ryan hayes"
+        ],
+        "lg": [
+            "robert jones",
+            "isaiah wynn",
+            "kion smith"
+        ],
+        "c": [
+            "aaron brewer",
+            "andrew meyer"
+        ],
+        "rg": [
+            "liam eichenberg",
+            "lester cotton"
+        ],
+        "rt": [
+            "austin jackson",
+            "kendall lamm"
+        ]
+    },
+    "min": {
+        "qb": [
+            "sam darnold",
+            "nick mullens",
+            "brett rypien",
+            "jj mccarthy"
+        ],
+        "rb": [
+            "aaron jones",
+            "ty chandler"
+        ],
+        "wr1": [
+            "justin jefferson",
+            "brandon powell"
+        ],
+        "wr2": [
+            "jordan addison",
+            "trishton jackson"
+        ],
+        "wr3": [
+            "jalen nailor",
+            "trent sherfield sr"
+        ],
+        "te": [
+            "josh oliver",
+            "johnny mundt",
+            "nick muse",
+            "tj hockenson"
+        ],
+        "fb": [
+            "cj ham"
+        ],
+        "lt": [
+            "christian darrisaw",
+            "walter rouse",
+            "jeremy flax"
+        ],
+        "lg": [
+            "blake brandel",
+            "michael jurgens"
+        ],
+        "c": [
+            "garrett bradbury",
+            "dan feeney"
+        ],
+        "rg": [
+            "ed ingram",
+            "dalton risner"
+        ],
+        "rt": [
+            "brian oneill",
+            "david quessenberry"
+        ]
+    },
+    "no": {
+        "qb": [
+            "derek carr",
+            "jake haener",
+            "spencer rattler"
+        ],
+        "rb": [
+            "alvin kamara",
+            "jamaal williams",
+            "jordan mims",
+            "kendre miller"
+        ],
+        "wr1": [
+            "chris olave",
+            "cedrick wilson"
+        ],
+        "wr2": [
+            "rashid shaheed",
+            "bub means"
+        ],
+        "wr3": [
+            "at perry",
+            "mason tipton"
+        ],
+        "te": [
+            "juwan johnson",
+            "taysom hill",
+            "foster moreau",
+            "dallin holker"
+        ],
+        "fb": [
+            "adam prentice"
+        ],
+        "lt": [
+            "taliese fuaga",
+            "landon young",
+            "justin herron"
+        ],
+        "lg": [
+            "lucas patrick",
+            "nick saldiveri"
+        ],
+        "c": [
+            "erik mccoy"
+        ],
+        "rg": [
+            "cesar ruiz"
+        ],
+        "rt": [
+            "trevor penning",
+            "olisaemeka udoh",
+            "ryan ramczyk"
+        ]
+    },
+    "ne": {
+        "qb": [
+            "jacoby brissett",
+            "drake maye",
+            "joe milton"
+        ],
+        "rb": [
+            "rhamondre stevenson",
+            "antonio gibson",
+            "jamycal hasty"
+        ],
+        "wr1": [
+            "demario douglas",
+            "tyquan thornton",
+            "kendrick bourne"
+        ],
+        "wr2": [
+            "jalynn polk",
+            "kayshon boutte",
+            "jaquae jackson"
+        ],
+        "wr3": [
+            "kj osborn",
+            "javon baker"
+        ],
+        "te": [
+            "hunter henry",
+            "austin hooper",
+            "jaheim bell"
+        ],
+        "lt": [
+            "chukwuma okorafor",
+            "caedan wallace",
+            "demontrey jacobs"
+        ],
+        "lg": [
+            "sidy sow",
+            "cole strange"
+        ],
+        "c": [
+            "david andrews",
+            "nick leverett",
+            "jake andrews"
+        ],
+        "rg": [
+            "layden robinson"
+        ],
+        "rt": [
+            "mike onwenu",
+            "vederian lowe",
+            "zach thomas",
+            "tyrone wheatley"
+        ]
+    },
+    "nyg": {
+        "qb": [
+            "daniel jones",
+            "drew lock",
+            "tommy devito"
+        ],
+        "rb": [
+            "devin singletary",
+            "tyrone tracy",
+            "eric gray"
+        ],
+        "wr1": [
+            "malik nabers",
+            "jalin hyatt",
+            "chase cota"
+        ],
+        "wr2": [
+            "wandale robinson",
+            "gunner olszewski"
+        ],
+        "wr3": [
+            "darius slayton",
+            "bryce ford wheaton"
+        ],
+        "te": [
+            "daniel bellinger",
+            "theo johnson",
+            "chris manhertz"
+        ],
+        "lt": [
+            "andrew thomas",
+            "yodny cajuste"
+        ],
+        "lg": [
+            "jon runyan"
+        ],
+        "c": [
+            "john michael schmitz",
+            "greg van roten",
+            "austin schlottmann"
+        ],
+        "rg": [
+            "greg van roten",
+            "aaron stinnie",
+            "jake kubas"
+        ],
+        "rt": [
+            "jermaine eluemunor",
+            "evan neal",
+            "joshua ezeudu"
+        ]
+    },
+    "nyj": {
+        "qb": [
+            "aaron rodgers",
+            "tyrod taylor",
+            "jordan travis"
+        ],
+        "rb": [
+            "breece hall",
+            "braelon allen",
+            "isaiah davis",
+            "israel abanikanda"
+        ],
+        "wr1": [
+            "garrett wilson",
+            "allen lazard",
+            "malik taylor"
+        ],
+        "wr2": [
+            "mike williams",
+            "malachi corley",
+            "marcus riley"
+        ],
+        "wr3": [
+            "xavier gipson",
+            "irvin charles"
+        ],
+        "te": [
+            "tyler conklin",
+            "jeremy ruckert",
+            "brenden bates",
+            "kenny yeboah"
+        ],
+        "lt": [
+            "tyron smith",
+            "olu fashanu"
+        ],
+        "lg": [
+            "john simpson"
+        ],
+        "c": [
+            "joe tippmann",
+            "xavier newman"
+        ],
+        "rg": [
+            "alijah vera tucker",
+            "wes schweitzer"
+        ],
+        "rt": [
+            "morgan moses",
+            "max mitchell",
+            "carter warren"
+        ]
+    },
+    "phi": {
+        "qb": [
+            "jalen hurts",
+            "kenny pickett",
+            "tanner mckee"
+        ],
+        "rb": [
+            "saquon barkley",
+            "kenneth gainwell",
+            "will shipley"
+        ],
+        "wr1": [
+            "aj brown",
+            "johnny wilson",
+            "jacob harris"
+        ],
+        "wr2": [
+            "devonta smith",
+            "britain covey",
+            "joseph ngata"
+        ],
+        "wr3": [
+            "jahan dotson",
+            "ainias smith"
+        ],
+        "te": [
+            "dallas goedert",
+            "grant calcaterra",
+            "albert okwuegbunam",
+            "mccallan castles"
+        ],
+        "lt": [
+            "jordan mailata",
+            "fred johnson"
+        ],
+        "lg": [
+            "landon dickerson",
+            "trevor keegan"
+        ],
+        "c": [
+            "cam jurgens"
+        ],
+        "rg": [
+            "mekhi becton",
+            "tyler steen"
+        ],
+        "rt": [
+            "lane johnson",
+            "darian kinnard",
+            "leraven clark"
+        ]
+    },
+    "pit": {
+        "qb": [
+            "russell wilson",
+            "justin fields",
+            "kyle allen"
+        ],
+        "rb": [
+            "najee harris",
+            "jaylen warren",
+            "cordarrelle patterson"
+        ],
+        "wr1": [
+            "george pickens",
+            "roman wilson"
+        ],
+        "wr2": [
+            "van jefferson",
+            "scotty miller"
+        ],
+        "wr3": [
+            "calvin austin"
+        ],
+        "te": [
+            "pat freiermuth",
+            "darnell washington",
+            "connor heyward",
+            "mycole pruitt"
+        ],
+        "lt": [
+            "dan moore",
+            "troy fautanu",
+            "dylan cook"
+        ],
+        "lg": [
+            "isaac seumalo",
+            "spencer anderson"
+        ],
+        "c": [
+            "zach frazier",
+            "ryan mccollum",
+            "nate herbig"
+        ],
+        "rg": [
+            "james daniels",
+            "mason mccormick"
+        ],
+        "rt": [
+            "broderick jones",
+            "troy fautanu",
+            "dylan cook"
+        ]
+    },
+    "sea": {
+        "qb": [
+            "geno smith",
+            "sam howell"
+        ],
+        "rb": [
+            "kenneth walker",
+            "zach charbonnet",
+            "kenny mcintosh"
+        ],
+        "wr1": [
+            "dk metcalf",
+            "jake bobo",
+            "marcus simms"
+        ],
+        "wr2": [
+            "tyler lockett",
+            "laviska shenault"
+        ],
+        "wr3": [
+            "jaxon smith njigba",
+            "dareke young"
+        ],
+        "te": [
+            "noah fant",
+            "pharaoh brown",
+            "brady russell",
+            "aj barner"
+        ],
+        "lt": [
+            "charles cross",
+            "stone forsythe"
+        ],
+        "lg": [
+            "laken tomlinson",
+            "sataoa laumea"
+        ],
+        "c": [
+            "connor williams",
+            "olu oluwatimi",
+            "jalen sundell"
+        ],
+        "rg": [
+            "anthony bradford",
+            "christian haynes"
+        ],
+        "rt": [
+            "george fant",
+            "michael jerrell",
+            "abraham lucas"
+        ]
+    },
+    "sf": {
+        "qb": [
+            "brock purdy",
+            "brandon allen",
+            "joshua dobbs"
+        ],
+        "rb": [
+            "christian mccaffrey",
+            "jordan mason",
+            "isaac guerendo",
+            "patrick taylor"
+        ],
+        "wr1": [
+            "deebo samuel sr",
+            "chris conley",
+            "ricky pearsall"
+        ],
+        "wr2": [
+            "brandon aiyuk",
+            "jacob cowing"
+        ],
+        "wr3": [
+            "jauan jennings",
+            "ronnie bell"
+        ],
+        "te": [
+            "george kittle",
+            "jake tonges",
+            "eric saubert"
+        ],
+        "fb": [
+            "kyle juszczyk"
+        ],
+        "lt": [
+            "trent williams",
+            "jaylon moore"
+        ],
+        "lg": [
+            "aaron banks",
+            "nick zakelj"
+        ],
+        "c": [
+            "jake brendel",
+            "ben bartch",
+            "jon feliciano"
+        ],
+        "rg": [
+            "dominick puni",
+            "spencer burford",
+            "jon feliciano"
+        ],
+        "rt": [
+            "colton mckivitz",
+            "brandon parker"
+        ]
+    },
+    "tb": {
+        "qb": [
+            "baker mayfield",
+            "kyle trask"
+        ],
+        "rb": [
+            "rachaad white",
+            "bucky irving",
+            "sean tucker",
+            "chase edmonds"
+        ],
+        "wr1": [
+            "mike evans",
+            "trey palmer"
+        ],
+        "wr2": [
+            "chris godwin",
+            "kameron johnson"
+        ],
+        "wr3": [
+            "jalen mcmillan",
+            "rakim jarrett"
+        ],
+        "te": [
+            "cade otton",
+            "payne durham",
+            "ko kieft",
+            "devin culp"
+        ],
+        "lt": [
+            "tristan wirfs",
+            "justin skule",
+            "silas dzansi"
+        ],
+        "lg": [
+            "ben bredeson",
+            "sua opeta"
+        ],
+        "c": [
+            "graham barton",
+            "robert hainsey"
+        ],
+        "rg": [
+            "cody mauch",
+            "royce newman",
+            "elijah klein"
+        ],
+        "rt": [
+            "luke goedeke"
+        ]
+    },
+    "ten": {
+        "qb": [
+            "will levis",
+            "mason rudolph"
+        ],
+        "rb": [
+            "tony pollard",
+            "tyjae spears",
+            "julius chestnut"
+        ],
+        "wr1": [
+            "calvin ridley",
+            "treylon burks",
+            "colton dowell"
+        ],
+        "wr2": [
+            "deandre hopkins",
+            "nick westbrook ikhine"
+        ],
+        "wr3": [
+            "tyler boyd",
+            "jhaquan jackson"
+        ],
+        "te": [
+            "chigoziem okonkwo",
+            "josh whyle",
+            "nick vannett",
+            "thomas odukoya"
+        ],
+        "lt": [
+            "jc latham",
+            "jaelyn duncan"
+        ],
+        "lg": [
+            "peter skoronski",
+            "andrew rupcich"
+        ],
+        "c": [
+            "lloyd cushenberry",
+            "daniel brunskill"
+        ],
+        "rg": [
+            "dillon radunz",
+            "daniel brunskill"
+        ],
+        "rt": [
+            "nicholas petit frere",
+            "john ojukwu"
+        ]
+    },
+    "wsh": {
+        "qb": [
+            "jayden daniels",
+            "marcus mariota",
+            "jeff driskel"
+        ],
+        "rb": [
+            "brian robinson",
+            "austin ekeler",
+            "jeremy mcnichols"
+        ],
+        "wr1": [
+            "terry mclaurin",
+            "luke mccaffrey",
+            "byron pringle"
+        ],
+        "wr2": [
+            "olamide zaccheaus",
+            "dyami brown"
+        ],
+        "wr3": [
+            "noah brown",
+            "jamison crowder"
+        ],
+        "te": [
+            "zach ertz",
+            "ben sinnott",
+            "john bates",
+            "colson yankoff"
+        ],
+        "lt": [
+            "brandon coleman",
+            "cornelius lucas",
+            "alex taylor"
+        ],
+        "lg": [
+            "nick allegretti",
+            "chris paul"
+        ],
+        "c": [
+            "tyler biadasz",
+            "michael deiter"
+        ],
+        "rg": [
+            "sam cosmi"
+        ],
+        "rt": [
+            "andrew wylie",
+            "trent scott"
+        ]
+    }
+}

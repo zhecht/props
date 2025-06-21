@@ -1,0 +1,319 @@
+{
+    "kc @ phi": {
+        "td_scorer": {},
+        "attd": {
+            "saquon barkley": "-195",
+            "jalen hurts": "-120",
+            "kareem hunt": "+140",
+            "travis kelce": "+135",
+            "xavier worthy": "+155",
+            "aj brown": "+185",
+            "dallas goedert": "+285",
+            "isiah pacheco": "+265",
+            "devonta smith": "+250",
+            "marquise brown": "+265",
+            "patrick mahomes": "+295",
+            "deandre hopkins": "+425",
+            "phi eagles d/st": "+550",
+            "juju smith schuster": "+500",
+            "noah gray": "+475",
+            "kc chiefs d/st": "+600",
+            "justin watson": "+1100",
+            "jahan dotson": "+1600",
+            "samaje perine": "+1300",
+            "kenneth gainwell": "+1400",
+            "will shipley": "+1800",
+            "johnny wilson": "+3500",
+            "grant calcaterra": "+2500",
+            "nikko remigio": "+2500",
+            "peyton hendershot": "+6000",
+            "ainias smith": "+6500",
+            "parris campbell": "+6000",
+            "ej jenkins": "+5500",
+            "khari blasingame": "+6000",
+            "carson steele": "+5000"
+        },
+        "pass_yd": {
+            "patrick mahomes": {
+                "253.5": "-109/-112"
+            },
+            "jalen hurts": {
+                "213.5": "-111/-110"
+            }
+        },
+        "pass_td": {
+            "patrick mahomes": {
+                "1.5": "-168/+137"
+            },
+            "jalen hurts": {
+                "1.5": "+162/-202"
+            }
+        },
+        "pass_att": {
+            "patrick mahomes": {
+                "36.5": "+100/-124"
+            },
+            "jalen hurts": {
+                "27.5": "-116/-107"
+            }
+        },
+        "pass_cmp": {
+            "patrick mahomes": {
+                "24.5": "-102/-122"
+            },
+            "jalen hurts": {
+                "18.5": "-117/-106"
+            }
+        },
+        "pass+rush_yd": {
+            "patrick mahomes": {
+                "289.5": "-112/-113"
+            },
+            "jalen hurts": {
+                "261.5": "-108/-117"
+            }
+        },
+        "int": {
+            "patrick mahomes": {
+                "0.5": "+114/-142"
+            },
+            "jalen hurts": {
+                "0.5": "+113/-141"
+            }
+        },
+        "longest_cmp": {
+            "jalen hurts": {
+                "34.5": "-115/-115"
+            },
+            "patrick mahomes": {
+                "34.5": "-115/-115"
+            }
+        },
+        "pass_td_-_quarter": {},
+        "pass_cmp_-_consecutive": {},
+        "1st_cmp": {},
+        "exact_int": {},
+        "exact_pass_props": {},
+        "rec_yd": {
+            "aj brown": {
+                "71.5": "-112/-109"
+            },
+            "travis kelce": {
+                "61.5": "-112/-110"
+            },
+            "xavier worthy": {
+                "57.5": "-107/-114"
+            },
+            "devonta smith": {
+                "52.5": "-114/-108"
+            },
+            "dallas goedert": {
+                "51.5": "-112/-109"
+            },
+            "marquise brown": {
+                "42.5": "-112/-109"
+            },
+            "juju smith schuster": {
+                "17.5": "-113/-108"
+            },
+            "saquon barkley": {
+                "13.5": "-117/-104"
+            },
+            "deandre hopkins": {
+                "12.5": "-114/-107"
+            },
+            "noah gray": {
+                "12.5": "-106/-116"
+            },
+            "samaje perine": {
+                "8.5": "-106/-115"
+            },
+            "kareem hunt": {
+                "6.5": "-113/-108"
+            },
+            "isiah pacheco": {
+                "4.5": "-121/-101"
+            },
+            "jahan dotson": {
+                "2.5": "-120/-102"
+            },
+            "kenneth gainwell": {
+                "0.5": "-138/+112"
+            },
+            "grant calcaterra": {
+                "0.5": "+148/-183"
+            }
+        },
+        "rec": {
+            "travis kelce": {
+                "6.5": "+122/-152"
+            },
+            "xavier worthy": {
+                "5.5": "-104/-120"
+            },
+            "aj brown": {
+                "5.5": "+111/-138"
+            },
+            "dallas goedert": {
+                "4.5": "-123/-101"
+            },
+            "devonta smith": {
+                "4.5": "-111/-112"
+            },
+            "marquise brown": {
+                "3.5": "-135/+109"
+            },
+            "saquon barkley": {
+                "2.5": "+144/-180"
+            },
+            "juju smith schuster": {
+                "1.5": "-142/+114"
+            },
+            "deandre hopkins": {
+                "1.5": "+107/-132"
+            },
+            "noah gray": {
+                "1.5": "+109/-135"
+            },
+            "kareem hunt": {
+                "1.5": "+147/-184"
+            },
+            "samaje perine": {
+                "1.5": "+147/-184"
+            },
+            "isiah pacheco": {
+                "1.5": "+183/-233"
+            },
+            "jahan dotson": {
+                "0.5": "-138/+111"
+            }
+        },
+        "longest_rec": {
+            "aj brown": {
+                "25.5": "-115/-115"
+            },
+            "devonta smith": {
+                "20.5": "-130/+100"
+            },
+            "dallas goedert": {
+                "19.5": "-115/-115"
+            },
+            "travis kelce": {
+                "19.5": "-115/-115"
+            },
+            "xavier worthy": {
+                "19.5": "-115/-115"
+            },
+            "marquise brown": {
+                "18.5": "-120/-110"
+            },
+            "juju smith schuster": {
+                "10.5": "-125/-105"
+            },
+            "deandre hopkins": {
+                "10.5": "-110/-120"
+            },
+            "saquon barkley": {
+                "9.5": "-125/-105"
+            },
+            "noah gray": {
+                "9.5": "-120/-110"
+            },
+            "samaje perine": {
+                "7.5": "-115/-115"
+            },
+            "kareem hunt": {
+                "6.5": "-110/-120"
+            },
+            "isiah pacheco": {
+                "5.5": "-105/-125"
+            },
+            "jahan dotson": {
+                "2.5": "-110/-120"
+            }
+        },
+        "1st_rec_yd": {},
+        "rush_yd": {
+            "saquon barkley": {
+                "111.5": "-111/-110"
+            },
+            "kareem hunt": {
+                "42.5": "-107/-115"
+            },
+            "jalen hurts": {
+                "38.5": "-107/-114"
+            },
+            "patrick mahomes": {
+                "29.5": "-110/-111"
+            },
+            "isiah pacheco": {
+                "22.5": "-110/-111"
+            },
+            "kenneth gainwell": {
+                "7.5": "-109/-112"
+            },
+            "xavier worthy": {
+                "6.5": "-112/-109"
+            },
+            "dallas goedert": {
+                "0.5": "+273/-346"
+            }
+        },
+        "rush+rec": {
+            "saquon barkley": {
+                "129.5": "-113/-110"
+            },
+            "xavier worthy": {
+                "69.5": "+101/-126"
+            },
+            "kareem hunt": {
+                "52.5": "-115/-108"
+            },
+            "isiah pacheco": {
+                "30.5": "+100/-124"
+            }
+        },
+        "rush_att": {
+            "saquon barkley": {
+                "21.5": "-122/-102"
+            },
+            "kareem hunt": {
+                "11.5": "+101/-125"
+            },
+            "jalen hurts": {
+                "9.5": "+109/-135"
+            },
+            "patrick mahomes": {
+                "5.5": "-142/+114"
+            },
+            "isiah pacheco": {
+                "5.5": "-141/+114"
+            },
+            "xavier worthy": {
+                "1.5": "-101/-123"
+            }
+        },
+        "longest_rush": {
+            "saquon barkley": {
+                "24.5": "-110/-120"
+            },
+            "patrick mahomes": {
+                "13.5": "-115/-115"
+            },
+            "jalen hurts": {
+                "13.5": "-110/-120"
+            },
+            "kareem hunt": {
+                "10.5": "-125/-105"
+            },
+            "isiah pacheco": {
+                "8.5": "+105/-135"
+            },
+            "kenneth gainwell": {
+                "4.5": "-130/+100"
+            }
+        },
+        "1st_rush": {},
+        "rush_yd_-_any_x+": {}
+    }
+}

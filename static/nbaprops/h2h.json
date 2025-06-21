@@ -1,0 +1,77 @@
+{
+    "gs @ ind": {
+        "3ptm_made": {
+            "pascal siakam v myles turner": {
+                "line": "",
+                "myles turner": "-125",
+                "pascal siakam": "-105"
+            },
+            "tyrese haliburton v aaron nesmith": {
+                "line": "",
+                "tyrese haliburton": "-135",
+                "aaron nesmith": "+105"
+            }
+        }
+    },
+    "sa @ orl": {
+        "3ptm_made": {
+            "franz wagner v jalen suggs": {
+                "line": "",
+                "franz wagner": "-115",
+                "jalen suggs": "-115"
+            },
+            "paolo banchero v jalen suggs": {
+                "line": "",
+                "jalen suggs": "-125",
+                "paolo banchero": "-105"
+            },
+            "victor wembanyama v paolo banchero": {
+                "line": "",
+                "paolo banchero": "-125",
+                "victor wembanyama": "-105"
+            },
+            "victor wembanyama v wendell carter": {
+                "line": "",
+                "victor wembanyama": "-130",
+                "wendell carter": "+100"
+            }
+        }
+    },
+    "cle @ bkn": {
+        "3ptm_made": {
+            "donovan mitchell v mikal bridges": {
+                "line": "",
+                "donovan mitchell": "-125",
+                "mikal bridges": "-105"
+            }
+        }
+    },
+    "min @ mil": {
+        "3ptm_made": {
+            "damian lillard v anthony edwards": {
+                "line": "",
+                "damian lillard": "-150",
+                "anthony edwards": "+110"
+            },
+            "karl anthony towns v mike conley": {
+                "line": "",
+                "karl anthony towns": "-125",
+                "mike conley": "-105"
+            }
+        }
+    },
+    "den @ lal": {
+        "3ptm_made": {
+            "dangelo russell v jamal murray": {
+                "line": "",
+                "dangelo russell": "-115",
+                "jamal murray": "-115"
+            },
+            "lebron james v austin reaves": {
+                "line": "",
+                "lebron james": "-115",
+                "austin reaves": "-115"
+            }
+        }
+    }
+}

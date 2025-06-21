@@ -1,0 +1,1759 @@
+{
+    "2024-10-22": [
+        "ny @ bos",
+        "min @ lal"
+    ],
+    "2024-10-23": [
+        "ind @ det",
+        "bkn @ atl",
+        "orl @ mia",
+        "mil @ phi",
+        "cle @ tor",
+        "cha @ hou",
+        "chi @ no",
+        "mem @ utah",
+        "phx @ lac",
+        "gs @ por"
+    ],
+    "2024-10-24": [
+        "bos @ wsh",
+        "sa @ dal",
+        "okc @ den",
+        "min @ sac"
+    ],
+    "2024-10-25": [
+        "bkn @ orl",
+        "phi @ tor",
+        "cha @ atl",
+        "det @ cle",
+        "ind @ ny",
+        "mem @ hou",
+        "chi @ mil",
+        "gs @ utah",
+        "phx @ lal",
+        "no @ por"
+    ],
+    "2024-10-26": [
+        "lac @ den",
+        "mia @ cha",
+        "bos @ det",
+        "cle @ wsh",
+        "okc @ chi",
+        "orl @ mem",
+        "tor @ min",
+        "hou @ sa",
+        "dal @ phx",
+        "sac @ lal"
+    ],
+    "2024-10-27": [
+        "phi @ ind",
+        "mil @ bkn",
+        "no @ por",
+        "atl @ okc",
+        "lac @ gs"
+    ],
+    "2024-10-28": [
+        "ind @ orl",
+        "wsh @ atl",
+        "mil @ bos",
+        "det @ mia",
+        "cle @ ny",
+        "den @ tor",
+        "chi @ mem",
+        "hou @ sa",
+        "utah @ dal",
+        "lal @ phx",
+        "por @ sac"
+    ],
+    "2024-10-29": [
+        "den @ bkn",
+        "dal @ min",
+        "sac @ utah",
+        "no @ gs"
+    ],
+    "2024-10-30": [
+        "tor @ cha",
+        "lal @ cle",
+        "bos @ ind",
+        "det @ phi",
+        "atl @ wsh",
+        "ny @ mia",
+        "orl @ chi",
+        "bkn @ mem",
+        "sa @ okc",
+        "no @ gs",
+        "por @ lac"
+    ],
+    "2024-10-31": [
+        "mil @ mem",
+        "hou @ dal",
+        "sa @ utah",
+        "phx @ lac"
+    ],
+    "2024-11-01": [
+        "bos @ cha",
+        "orl @ cle",
+        "ny @ det",
+        "sac @ atl",
+        "chi @ bkn",
+        "lal @ tor",
+        "ind @ no",
+        "den @ min",
+        "okc @ por"
+    ],
+    "2024-11-02": [
+        "bos @ cha",
+        "mem @ phi",
+        "sac @ tor",
+        "gs @ hou",
+        "cle @ mil",
+        "min @ sa",
+        "mia @ wsh",
+        "utah @ den",
+        "por @ phx",
+        "okc @ lac"
+    ],
+    "2024-11-03": [
+        "det @ bkn",
+        "atl @ no",
+        "orl @ dal"
+    ],
+    "2024-11-04": [
+        "mil @ cle",
+        "gs @ wsh",
+        "lal @ det",
+        "bos @ atl",
+        "mem @ bkn",
+        "sac @ mia",
+        "utah @ chi",
+        "ny @ hou",
+        "cha @ min",
+        "orl @ okc",
+        "por @ no",
+        "ind @ dal",
+        "tor @ den",
+        "phi @ phx",
+        "sa @ lac"
+    ],
+    "2024-11-06": [
+        "det @ cha",
+        "orl @ ind",
+        "ny @ atl",
+        "gs @ bos",
+        "sa @ hou",
+        "lal @ mem",
+        "cle @ no",
+        "chi @ dal",
+        "okc @ den",
+        "mia @ phx",
+        "phi @ lac",
+        "tor @ sac"
+    ],
+    "2024-11-07": [
+        "min @ chi",
+        "utah @ mil",
+        "por @ sa"
+    ],
+    "2024-11-08": [
+        "ind @ cha",
+        "atl @ det",
+        "no @ orl",
+        "bkn @ bos",
+        "gs @ cle",
+        "mil @ ny",
+        "phx @ dal",
+        "wsh @ mem",
+        "hou @ okc",
+        "por @ min",
+        "mia @ den",
+        "phi @ lal",
+        "lac @ sac"
+    ],
+    "2024-11-09": [
+        "utah @ sa",
+        "chi @ atl",
+        "bkn @ cle",
+        "tor @ lac"
+    ],
+    "2024-11-10": [
+        "hou @ det",
+        "bos @ mil",
+        "ny @ ind",
+        "wsh @ orl",
+        "cha @ phi",
+        "mia @ min",
+        "gs @ okc",
+        "dal @ den",
+        "sac @ phx",
+        "mem @ por",
+        "tor @ lal"
+    ],
+    "2024-11-11": [
+        "cle @ chi",
+        "wsh @ hou",
+        "bkn @ no",
+        "lac @ okc",
+        "sac @ sa"
+    ],
+    "2024-11-12": [
+        "atl @ bos",
+        "mia @ det",
+        "cha @ orl",
+        "ny @ phi",
+        "tor @ mil",
+        "phx @ utah",
+        "dal @ gs",
+        "min @ por"
+    ],
+    "2024-11-13": [
+        "ind @ orl",
+        "bos @ bkn",
+        "chi @ ny",
+        "cle @ phi",
+        "no @ okc",
+        "lac @ hou",
+        "det @ mil",
+        "wsh @ sa",
+        "mem @ lal",
+        "min @ por",
+        "phx @ sac"
+    ],
+    "2024-11-14": [
+        "dal @ utah"
+    ],
+    "2024-11-15": [
+        "mia @ ind",
+        "phi @ orl",
+        "det @ tor",
+        "wsh @ atl",
+        "chi @ cle",
+        "bkn @ ny",
+        "lal @ sa",
+        "lac @ hou",
+        "den @ no",
+        "phx @ okc",
+        "mem @ gs",
+        "min @ sac"
+    ],
+    "2024-11-16": [
+        "mil @ cha",
+        "tor @ bos",
+        "lal @ no",
+        "sa @ dal",
+        "utah @ sac"
+    ],
+    "2024-11-17": [
+        "phx @ min",
+        "mia @ ind",
+        "cha @ cle",
+        "det @ wsh",
+        "den @ mem",
+        "atl @ por",
+        "bkn @ ny",
+        "hou @ chi",
+        "dal @ okc",
+        "utah @ lac"
+    ],
+    "2024-11-18": [
+        "chi @ det",
+        "phi @ mia",
+        "wsh @ ny",
+        "ind @ tor",
+        "hou @ mil",
+        "orl @ phx",
+        "atl @ sac",
+        "gs @ lac"
+    ],
+    "2024-11-19": [
+        "cle @ bos",
+        "cha @ bkn",
+        "den @ mem",
+        "no @ dal",
+        "okc @ sa",
+        "utah @ lal"
+    ],
+    "2024-11-20": [
+        "no @ cle",
+        "chi @ mil",
+        "ind @ hou",
+        "phi @ mem",
+        "por @ okc",
+        "ny @ phx",
+        "atl @ gs",
+        "orl @ lac"
+    ],
+    "2024-11-21": [
+        "det @ cha",
+        "min @ tor",
+        "utah @ sa",
+        "orl @ lal"
+    ],
+    "2024-11-22": [
+        "bkn @ phi",
+        "bos @ wsh",
+        "gs @ no",
+        "ind @ mil",
+        "atl @ chi",
+        "por @ hou",
+        "dal @ den",
+        "sac @ lac"
+    ],
+    "2024-11-23": [
+        "ny @ utah",
+        "det @ orl",
+        "mem @ chi",
+        "por @ hou",
+        "cha @ mil",
+        "gs @ sa",
+        "den @ lal"
+    ],
+    "2024-11-24": [
+        "min @ bos",
+        "wsh @ ind",
+        "dal @ mia",
+        "lac @ phi",
+        "tor @ cle",
+        "bkn @ sac"
+    ],
+    "2024-11-25": [
+        "orl @ cha",
+        "tor @ det",
+        "no @ ind",
+        "dal @ atl",
+        "lac @ bos",
+        "por @ mem",
+        "ny @ den",
+        "bkn @ gs",
+        "okc @ sac"
+    ],
+    "2024-11-26": [
+        "chi @ wsh",
+        "mil @ mia",
+        "hou @ min",
+        "sa @ utah",
+        "lal @ phx"
+    ],
+    "2024-11-27": [
+        "mia @ cha",
+        "atl @ cle",
+        "por @ ind",
+        "chi @ orl",
+        "hou @ phi",
+        "lac @ wsh",
+        "ny @ dal",
+        "det @ mem",
+        "sac @ min",
+        "tor @ no",
+        "lal @ sa",
+        "bkn @ phx",
+        "den @ utah",
+        "okc @ gs"
+    ],
+    "2024-11-29": [
+        "ny @ cha",
+        "cle @ atl",
+        "no @ mem",
+        "orl @ bkn",
+        "lac @ min",
+        "det @ ind",
+        "tor @ mia",
+        "bos @ chi",
+        "okc @ lal",
+        "sac @ por"
+    ],
+    "2024-11-30": [
+        "atl @ cha",
+        "phi @ det",
+        "wsh @ mil",
+        "gs @ phx",
+        "dal @ utah"
+    ],
+    "2024-12-01": [
+        "orl @ bkn",
+        "ind @ mem",
+        "bos @ cle",
+        "no @ ny",
+        "mia @ tor",
+        "okc @ hou",
+        "lal @ utah",
+        "dal @ por",
+        "sa @ sac",
+        "den @ lac"
+    ],
+    "2024-12-02": [
+        "no @ atl",
+        "mia @ bos",
+        "bkn @ chi",
+        "lal @ min"
+    ],
+    "2024-12-03": [
+        "phi @ cha",
+        "wsh @ cle",
+        "mil @ det",
+        "orl @ ny",
+        "ind @ tor",
+        "utah @ okc",
+        "mem @ dal",
+        "sa @ phx",
+        "gs @ den",
+        "hou @ sac",
+        "por @ lac"
+    ],
+    "2024-12-04": [
+        "det @ bos",
+        "ind @ bkn",
+        "lal @ mia",
+        "orl @ phi",
+        "atl @ mil",
+        "min @ lac"
+    ],
+    "2024-12-05": [
+        "den @ cle",
+        "dal @ wsh",
+        "cha @ ny",
+        "okc @ tor",
+        "sac @ mem",
+        "phx @ no",
+        "chi @ sa",
+        "hou @ gs"
+    ],
+    "2024-12-06": [
+        "orl @ phi",
+        "lal @ atl",
+        "mil @ bos",
+        "ind @ chi",
+        "sac @ sa",
+        "min @ gs",
+        "utah @ por"
+    ],
+    "2024-12-07": [
+        "cle @ cha",
+        "den @ wsh",
+        "okc @ no",
+        "det @ ny",
+        "dal @ tor",
+        "mem @ bos",
+        "phx @ mia"
+    ],
+    "2024-12-08": [
+        "phi @ chi",
+        "mil @ bkn",
+        "cha @ ind",
+        "den @ atl",
+        "cle @ mia",
+        "phx @ orl",
+        "mem @ wsh",
+        "no @ sa",
+        "min @ gs",
+        "hou @ lac",
+        "utah @ sac",
+        "por @ lal"
+    ],
+    "2024-12-09": [
+        "ny @ tor"
+    ],
+    "2024-12-10": [
+        "orl @ mil",
+        "dal @ okc"
+    ],
+    "2024-12-11": [
+        "atl @ ny",
+        "gs @ hou"
+    ],
+    "2024-12-12": [
+        "det @ bos",
+        "tor @ mia",
+        "sac @ no"
+    ],
+    "2024-12-13": [
+        "wsh @ cle",
+        "ind @ phi",
+        "lal @ min",
+        "bkn @ mem",
+        "cha @ chi",
+        "lac @ den",
+        "phx @ utah",
+        "sa @ por"
+    ],
+    "2024-12-14": [
+        "atl @ mil",
+        "hou @ okc"
+    ],
+    "2024-12-15": [
+        "no @ ind",
+        "bos @ wsh",
+        "ny @ orl",
+        "min @ sa",
+        "por @ phx",
+        "dal @ gs",
+        "mem @ lal"
+    ],
+    "2024-12-16": [
+        "phi @ cha",
+        "mia @ det",
+        "chi @ tor",
+        "cle @ bkn",
+        "den @ sac",
+        "utah @ lac"
+    ],
+    "2024-12-17": [
+        "mil @ okc"
+    ],
+    "2024-12-19": [
+        "utah @ det",
+        "okc @ orl",
+        "cha @ wsh",
+        "chi @ bos",
+        "bkn @ tor",
+        "no @ hou",
+        "gs @ mem",
+        "atl @ sa",
+        "lac @ dal",
+        "ind @ phx",
+        "ny @ min",
+        "den @ por",
+        "lal @ sac"
+    ],
+    "2024-12-20": [
+        "cha @ phi",
+        "mil @ cle",
+        "okc @ mia"
+    ],
+    "2024-12-21": [
+        "lal @ sac",
+        "mia @ orl",
+        "mem @ atl",
+        "utah @ bkn",
+        "phi @ cle",
+        "bos @ chi",
+        "wsh @ mil",
+        "gs @ min",
+        "ny @ no",
+        "lac @ dal",
+        "por @ sa",
+        "det @ phx"
+    ],
+    "2024-12-22": [
+        "hou @ tor",
+        "ind @ sac",
+        "den @ no"
+    ],
+    "2024-12-23": [
+        "hou @ cha",
+        "utah @ cle",
+        "bos @ orl",
+        "sa @ phi",
+        "min @ atl",
+        "bkn @ mia",
+        "tor @ ny",
+        "mil @ chi",
+        "lac @ mem",
+        "wsh @ okc",
+        "por @ dal",
+        "phx @ den",
+        "ind @ gs",
+        "det @ lal"
+    ],
+    "2024-12-25": [
+        "sa @ ny",
+        "min @ dal",
+        "phi @ bos",
+        "lal @ gs",
+        "den @ phx"
+    ],
+    "2024-12-26": [
+        "okc @ ind",
+        "mia @ orl",
+        "cha @ wsh",
+        "chi @ atl",
+        "tor @ mem",
+        "bkn @ mil",
+        "hou @ no",
+        "utah @ por",
+        "det @ sac"
+    ],
+    "2024-12-27": [
+        "ny @ orl",
+        "ind @ bos",
+        "sa @ bkn",
+        "min @ hou",
+        "mem @ no",
+        "cle @ den",
+        "dal @ phx",
+        "gs @ lac"
+    ],
+    "2024-12-28": [
+        "mia @ atl",
+        "okc @ cha",
+        "ny @ wsh",
+        "mil @ chi",
+        "phx @ gs",
+        "det @ den",
+        "phi @ utah",
+        "dal @ por",
+        "sac @ lal"
+    ],
+    "2024-12-29": [
+        "bkn @ orl",
+        "ind @ bos",
+        "atl @ tor",
+        "mia @ hou",
+        "mem @ okc",
+        "sa @ min"
+    ],
+    "2024-12-30": [
+        "chi @ cha",
+        "ny @ wsh",
+        "lac @ no",
+        "den @ utah",
+        "cle @ gs",
+        "phi @ por",
+        "dal @ sac"
+    ],
+    "2024-12-31": [
+        "tor @ bos",
+        "mil @ ind",
+        "lac @ sa",
+        "min @ okc",
+        "mem @ phx",
+        "cle @ lal"
+    ],
+    "2025-01-01": [
+        "orl @ det",
+        "chi @ wsh",
+        "no @ mia",
+        "utah @ ny",
+        "bkn @ tor",
+        "dal @ hou",
+        "atl @ den",
+        "phi @ sac"
+    ],
+    "2025-01-02": [
+        "ind @ mia",
+        "bos @ min",
+        "bkn @ mil",
+        "lac @ okc",
+        "phi @ gs",
+        "por @ lal"
+    ],
+    "2025-01-03": [
+        "cha @ det",
+        "orl @ tor",
+        "bos @ hou",
+        "wsh @ no",
+        "ny @ okc",
+        "cle @ dal",
+        "sa @ den",
+        "mem @ sac",
+        "atl @ lal"
+    ],
+    "2025-01-04": [
+        "phi @ bkn",
+        "min @ det",
+        "phx @ ind",
+        "utah @ mia",
+        "ny @ chi",
+        "por @ mil",
+        "den @ sa",
+        "mem @ gs",
+        "atl @ lac"
+    ],
+    "2025-01-05": [
+        "bos @ okc",
+        "cha @ cle",
+        "no @ wsh",
+        "utah @ orl",
+        "lal @ hou",
+        "sac @ gs"
+    ],
+    "2025-01-06": [
+        "por @ det",
+        "phx @ phi",
+        "ind @ bkn",
+        "orl @ ny",
+        "mil @ tor",
+        "sa @ chi",
+        "dal @ mem",
+        "lac @ min",
+        "mia @ sac"
+    ],
+    "2025-01-07": [
+        "phx @ cha",
+        "hou @ wsh",
+        "lal @ dal",
+        "min @ no",
+        "atl @ utah",
+        "bos @ den",
+        "mia @ gs"
+    ],
+    "2025-01-08": [
+        "okc @ cle",
+        "chi @ ind",
+        "wsh @ phi",
+        "tor @ ny",
+        "det @ bkn",
+        "por @ no",
+        "lac @ den",
+        "sa @ mil"
+    ],
+    "2025-01-09": [
+        "tor @ cle",
+        "gs @ det",
+        "min @ orl",
+        "por @ dal",
+        "hou @ mem",
+        "atl @ phx",
+        "mia @ utah"
+    ],
+    "2025-01-10": [
+        "gs @ ind",
+        "mil @ orl",
+        "no @ phi",
+        "sac @ bos",
+        "okc @ ny",
+        "wsh @ chi",
+        "bkn @ den"
+    ],
+    "2025-01-11": [
+        "utah @ phx",
+        "tor @ det",
+        "mem @ min",
+        "mia @ por"
+    ],
+    "2025-01-12": [
+        "mil @ ny",
+        "den @ dal",
+        "sac @ chi",
+        "no @ bos",
+        "ind @ cle",
+        "phi @ orl",
+        "okc @ wsh",
+        "bkn @ utah",
+        "cha @ phx"
+    ],
+    "2025-01-13": [
+        "min @ wsh",
+        "det @ ny",
+        "gs @ tor",
+        "mem @ hou",
+        "sa @ lal",
+        "mia @ lac"
+    ],
+    "2025-01-14": [
+        "cle @ ind",
+        "okc @ phi",
+        "phx @ atl",
+        "no @ chi",
+        "sac @ mil",
+        "den @ dal",
+        "bkn @ por"
+    ],
+    "2025-01-15": [
+        "ny @ phi",
+        "bos @ tor",
+        "atl @ chi",
+        "orl @ mil",
+        "dal @ no",
+        "mem @ sa",
+        "hou @ den",
+        "cha @ utah",
+        "gs @ min",
+        "mia @ lal",
+        "bkn @ lac"
+    ],
+    "2025-01-16": [
+        "ind @ det",
+        "phx @ wsh",
+        "cle @ okc",
+        "lac @ por",
+        "hou @ sac"
+    ],
+    "2025-01-17": [
+        "orl @ bos",
+        "min @ ny",
+        "den @ mia",
+        "tor @ mil",
+        "utah @ no",
+        "cha @ chi",
+        "okc @ dal",
+        "mem @ sa",
+        "bkn @ lal"
+    ],
+    "2025-01-18": [
+        "phx @ det",
+        "atl @ bos",
+        "phi @ ind",
+        "wsh @ gs",
+        "cle @ min",
+        "hou @ por"
+    ],
+    "2025-01-19": [
+        "sa @ mia",
+        "den @ orl",
+        "phi @ mil",
+        "bkn @ okc",
+        "lal @ lac",
+        "chi @ por",
+        "wsh @ sac"
+    ],
+    "2025-01-20": [
+        "dal @ cha",
+        "det @ hou",
+        "min @ mem",
+        "atl @ ny",
+        "phx @ cle",
+        "bos @ gs",
+        "utah @ no",
+        "chi @ lac"
+    ],
+    "2025-01-21": [
+        "ny @ bkn",
+        "por @ mia",
+        "orl @ tor",
+        "phi @ den",
+        "wsh @ lal"
+    ],
+    "2025-01-22": [
+        "det @ atl",
+        "phx @ bkn",
+        "min @ dal",
+        "cle @ hou",
+        "cha @ mem",
+        "utah @ okc",
+        "gs @ sac",
+        "bos @ lac"
+    ],
+    "2025-01-23": [
+        "sa @ ind",
+        "por @ orl",
+        "tor @ atl",
+        "dal @ okc",
+        "mia @ mil",
+        "sac @ den",
+        "chi @ gs",
+        "bos @ lal",
+        "wsh @ lac"
+    ],
+    "2025-01-24": [
+        "por @ cha",
+        "cle @ phi",
+        "no @ mem"
+    ],
+    "2025-01-25": [
+        "ind @ sa",
+        "den @ min",
+        "bos @ dal",
+        "mia @ bkn",
+        "no @ cha",
+        "det @ orl",
+        "tor @ atl",
+        "hou @ cle",
+        "sac @ ny",
+        "phi @ chi",
+        "utah @ mem",
+        "lal @ gs",
+        "wsh @ phx",
+        "mil @ lac"
+    ],
+    "2025-01-26": [
+        "okc @ por"
+    ],
+    "2025-01-27": [
+        "lal @ cha",
+        "det @ cle",
+        "hou @ bos",
+        "sac @ bkn",
+        "orl @ mia",
+        "mem @ ny",
+        "no @ tor",
+        "den @ chi",
+        "atl @ min",
+        "wsh @ dal",
+        "mil @ utah",
+        "lac @ phx"
+    ],
+    "2025-01-28": [
+        "lal @ phi",
+        "hou @ atl",
+        "utah @ gs",
+        "mil @ por"
+    ],
+    "2025-01-29": [
+        "bkn @ cha",
+        "det @ ind",
+        "tor @ wsh",
+        "chi @ bos",
+        "cle @ mia",
+        "den @ ny",
+        "sac @ phi",
+        "dal @ no",
+        "lac @ sa",
+        "min @ phx",
+        "okc @ gs"
+    ],
+    "2025-01-30": [
+        "lal @ wsh",
+        "atl @ cle",
+        "min @ utah",
+        "hou @ mem",
+        "orl @ por"
+    ],
+    "2025-01-31": [
+        "lac @ cha",
+        "dal @ det",
+        "den @ phi",
+        "chi @ tor",
+        "bos @ no",
+        "mil @ sa",
+        "phx @ gs"
+    ],
+    "2025-02-01": [
+        "atl @ ind",
+        "orl @ utah",
+        "den @ cha",
+        "bkn @ hou",
+        "wsh @ min",
+        "sac @ okc",
+        "lal @ ny",
+        "mia @ sa",
+        "phx @ por"
+    ],
+    "2025-02-02": [
+        "chi @ det",
+        "dal @ cle",
+        "lac @ tor",
+        "bos @ phi",
+        "mem @ mil"
+    ],
+    "2025-02-03": [
+        "wsh @ cha",
+        "atl @ det",
+        "hou @ ny",
+        "sac @ min",
+        "mil @ okc",
+        "sa @ mem",
+        "no @ den",
+        "ind @ utah",
+        "orl @ gs",
+        "phx @ por"
+    ],
+    "2025-02-04": [
+        "dal @ phi",
+        "bos @ cle",
+        "hou @ bkn",
+        "ny @ tor",
+        "mia @ chi",
+        "lal @ lac",
+        "ind @ por"
+    ],
+    "2025-02-05": [
+        "mil @ cha",
+        "cle @ det",
+        "sa @ atl",
+        "wsh @ bkn",
+        "mia @ phi",
+        "mem @ tor",
+        "chi @ min",
+        "gs @ utah",
+        "no @ den",
+        "phx @ okc",
+        "orl @ sac"
+    ],
+    "2025-02-06": [
+        "dal @ bos",
+        "hou @ min",
+        "orl @ den",
+        "gs @ lal",
+        "sac @ por",
+        "ind @ lac"
+    ],
+    "2025-02-07": [
+        "sa @ cha",
+        "cle @ wsh",
+        "mil @ atl",
+        "mia @ bkn",
+        "phi @ det",
+        "tor @ okc",
+        "utah @ phx"
+    ],
+    "2025-02-08": [
+        "hou @ dal",
+        "ind @ lal",
+        "sa @ orl",
+        "atl @ wsh",
+        "gs @ chi",
+        "okc @ mem",
+        "por @ min",
+        "bos @ ny",
+        "den @ phx",
+        "no @ sac",
+        "utah @ lac"
+    ],
+    "2025-02-09": [
+        "cha @ det",
+        "tor @ hou",
+        "phi @ mil"
+    ],
+    "2025-02-10": [
+        "min @ cle",
+        "atl @ orl",
+        "sa @ wsh",
+        "cha @ bkn",
+        "bos @ mia",
+        "gs @ mil",
+        "no @ okc",
+        "sac @ dal",
+        "por @ den",
+        "utah @ lal"
+    ],
+    "2025-02-11": [
+        "tor @ phi",
+        "ny @ ind",
+        "det @ chi",
+        "mem @ phx"
+    ],
+    "2025-02-12": [
+        "sa @ bos",
+        "cha @ orl",
+        "ind @ wsh",
+        "phi @ bkn",
+        "atl @ ny",
+        "cle @ tor",
+        "det @ chi",
+        "mil @ min",
+        "sac @ no",
+        "mia @ okc",
+        "phx @ hou",
+        "por @ den",
+        "lal @ utah",
+        "gs @ dal",
+        "mem @ lac"
+    ],
+    "2025-02-13": [
+        "gs @ hou",
+        "sac @ no",
+        "mia @ dal",
+        "okc @ min",
+        "lac @ utah"
+    ],
+    "2025-02-16": [],
+    "2025-02-19": [
+        "cha @ lal"
+    ],
+    "2025-02-20": [
+        "mem @ ind",
+        "bos @ phi",
+        "orl @ atl",
+        "cle @ bkn",
+        "chi @ ny",
+        "lac @ mil",
+        "cha @ den",
+        "phx @ sa",
+        "lal @ por"
+    ],
+    "2025-02-21": [
+        "ny @ cle",
+        "mem @ orl",
+        "mil @ wsh",
+        "mia @ tor",
+        "det @ sa",
+        "no @ dal",
+        "min @ hou",
+        "okc @ utah",
+        "gs @ sac"
+    ],
+    "2025-02-22": [
+        "phx @ chi",
+        "bkn @ phi",
+        "lal @ den",
+        "hou @ utah",
+        "cha @ por"
+    ],
+    "2025-02-23": [
+        "ny @ bos",
+        "dal @ gs",
+        "lac @ ind",
+        "det @ atl",
+        "wsh @ orl",
+        "phx @ tor",
+        "mia @ mil",
+        "sa @ no",
+        "mem @ cle",
+        "okc @ min"
+    ],
+    "2025-02-24": [
+        "lac @ det",
+        "den @ ind",
+        "chi @ phi",
+        "bkn @ wsh",
+        "mia @ atl",
+        "min @ okc",
+        "por @ utah",
+        "cha @ sac"
+    ],
+    "2025-02-25": [
+        "bos @ tor",
+        "cle @ orl",
+        "mil @ hou",
+        "phx @ mem",
+        "sa @ no",
+        "cha @ gs",
+        "dal @ lal"
+    ],
+    "2025-02-26": [
+        "bos @ det",
+        "tor @ ind",
+        "phi @ ny",
+        "por @ wsh",
+        "okc @ bkn",
+        "atl @ mia",
+        "lac @ chi",
+        "sac @ utah",
+        "sa @ hou"
+    ],
+    "2025-02-27": [
+        "gs @ orl",
+        "den @ mil",
+        "cha @ dal",
+        "no @ phx",
+        "min @ lal"
+    ],
+    "2025-02-28": [
+        "den @ det",
+        "okc @ atl",
+        "cle @ bos",
+        "por @ bkn",
+        "ind @ mia",
+        "tor @ chi",
+        "ny @ mem",
+        "no @ phx",
+        "min @ utah",
+        "lac @ lal"
+    ],
+    "2025-03-01": [
+        "wsh @ cha",
+        "bkn @ det",
+        "sac @ hou",
+        "sa @ mem",
+        "gs @ phi",
+        "mil @ dal"
+    ],
+    "2025-03-02": [
+        "den @ bos",
+        "por @ cle",
+        "chi @ ind",
+        "ny @ mia",
+        "tor @ orl",
+        "okc @ sa",
+        "no @ utah",
+        "min @ phx",
+        "lac @ lal"
+    ],
+    "2025-03-03": [
+        "gs @ cha",
+        "por @ phi",
+        "wsh @ mia",
+        "atl @ mem",
+        "hou @ okc",
+        "sac @ dal",
+        "det @ utah"
+    ],
+    "2025-03-04": [
+        "hou @ ind",
+        "tor @ orl",
+        "mil @ atl",
+        "gs @ ny",
+        "cle @ chi",
+        "phi @ min",
+        "bkn @ sa",
+        "lac @ phx",
+        "no @ lal"
+    ],
+    "2025-03-05": [
+        "por @ bos",
+        "min @ cha",
+        "mia @ cle",
+        "utah @ wsh",
+        "dal @ mil",
+        "sac @ den",
+        "okc @ mem",
+        "det @ lac"
+    ],
+    "2025-03-06": [
+        "chi @ orl",
+        "ind @ atl",
+        "phi @ bos",
+        "gs @ bkn",
+        "hou @ no",
+        "ny @ lal"
+    ],
+    "2025-03-07": [
+        "cle @ cha",
+        "utah @ tor",
+        "mem @ dal",
+        "min @ mia",
+        "por @ okc",
+        "phx @ den",
+        "sa @ sac",
+        "ny @ lac"
+    ],
+    "2025-03-08": [
+        "bkn @ cha",
+        "no @ hou",
+        "ind @ atl",
+        "wsh @ tor",
+        "chi @ mia",
+        "orl @ mil",
+        "lal @ bos",
+        "det @ gs"
+    ],
+    "2025-03-09": [
+        "den @ okc",
+        "phx @ dal",
+        "mem @ no",
+        "utah @ phi",
+        "cle @ mil",
+        "sa @ min",
+        "det @ por",
+        "sac @ lac"
+    ],
+    "2025-03-10": [
+        "phi @ atl",
+        "utah @ bos",
+        "lal @ bkn",
+        "cha @ mia",
+        "wsh @ tor",
+        "ind @ chi",
+        "orl @ hou",
+        "phx @ mem",
+        "den @ okc",
+        "dal @ sa",
+        "por @ gs",
+        "ny @ sac"
+    ],
+    "2025-03-11": [
+        "bkn @ cle",
+        "wsh @ det",
+        "mil @ ind",
+        "lac @ no"
+    ],
+    "2025-03-12": [
+        "cha @ atl",
+        "okc @ bos",
+        "phi @ tor",
+        "lac @ mia",
+        "phx @ hou",
+        "utah @ mem",
+        "dal @ sa",
+        "min @ den",
+        "ny @ por"
+    ],
+    "2025-03-13": [
+        "wsh @ det",
+        "lal @ mil",
+        "bkn @ chi",
+        "orl @ no",
+        "sac @ gs"
+    ],
+    "2025-03-14": [
+        "bos @ mia",
+        "ind @ phi",
+        "lac @ atl",
+        "dal @ hou",
+        "cle @ mem",
+        "orl @ min",
+        "cha @ sa",
+        "lal @ den",
+        "tor @ utah",
+        "sac @ phx"
+    ],
+    "2025-03-15": [
+        "bos @ bkn",
+        "okc @ det",
+        "chi @ hou",
+        "mia @ mem",
+        "ind @ mil",
+        "no @ sa",
+        "ny @ gs",
+        "wsh @ den"
+    ],
+    "2025-03-16": [
+        "phi @ dal",
+        "orl @ cle",
+        "phx @ lal",
+        "atl @ bkn",
+        "tor @ por",
+        "utah @ min",
+        "cha @ lac",
+        "okc @ mil"
+    ],
+    "2025-03-17": [
+        "mia @ ny",
+        "phi @ hou",
+        "ind @ min",
+        "det @ no",
+        "chi @ utah",
+        "den @ gs",
+        "tor @ phx",
+        "mem @ sac",
+        "wsh @ por",
+        "sa @ lal"
+    ],
+    "2025-03-18": [
+        "atl @ cha",
+        "bkn @ bos",
+        "mil @ gs",
+        "cle @ lac"
+    ],
+    "2025-03-19": [
+        "dal @ ind",
+        "hou @ orl",
+        "det @ mia",
+        "no @ min",
+        "phi @ okc",
+        "ny @ sa",
+        "wsh @ utah",
+        "den @ lal",
+        "chi @ phx",
+        "mem @ por",
+        "cle @ sac"
+    ],
+    "2025-03-20": [
+        "ny @ cha",
+        "bkn @ ind",
+        "tor @ gs",
+        "chi @ sac",
+        "mil @ lal"
+    ],
+    "2025-03-21": [
+        "orl @ wsh",
+        "hou @ mia",
+        "no @ min",
+        "cha @ okc",
+        "phi @ sa",
+        "det @ dal",
+        "bos @ utah",
+        "cle @ phx",
+        "den @ por",
+        "mem @ lac"
+    ],
+    "2025-03-22": [
+        "bkn @ ind",
+        "gs @ atl",
+        "wsh @ ny",
+        "mil @ sac",
+        "chi @ lal"
+    ],
+    "2025-03-23": [
+        "no @ det",
+        "cle @ utah",
+        "phi @ atl",
+        "cha @ mia",
+        "sa @ tor",
+        "bos @ por",
+        "den @ hou",
+        "okc @ lac"
+    ],
+    "2025-03-24": [
+        "min @ ind",
+        "lal @ orl",
+        "tor @ wsh",
+        "dal @ bkn",
+        "phi @ no",
+        "chi @ den",
+        "mil @ phx",
+        "bos @ sac"
+    ],
+    "2025-03-25": [
+        "orl @ cha",
+        "sa @ det",
+        "gs @ mia",
+        "dal @ ny",
+        "atl @ hou",
+        "mem @ utah",
+        "cle @ por",
+        "okc @ sac"
+    ],
+    "2025-03-26": [
+        "wsh @ phi",
+        "tor @ bkn",
+        "lal @ ind",
+        "lac @ ny",
+        "mil @ den",
+        "bos @ phx"
+    ],
+    "2025-03-27": [
+        "sa @ cle",
+        "dal @ orl",
+        "ind @ wsh",
+        "atl @ mia",
+        "lal @ chi",
+        "mem @ okc",
+        "hou @ utah",
+        "por @ sac"
+    ],
+    "2025-03-28": [
+        "cle @ det",
+        "lac @ bkn",
+        "cha @ tor",
+        "ny @ mil",
+        "phx @ min",
+        "gs @ no",
+        "utah @ den"
+    ],
+    "2025-03-29": [
+        "sac @ orl",
+        "bkn @ wsh",
+        "mia @ phi",
+        "dal @ chi",
+        "lal @ mem",
+        "ind @ okc",
+        "bos @ sa"
+    ],
+    "2025-03-30": [
+        "lac @ cle",
+        "por @ ny",
+        "atl @ mil",
+        "det @ min",
+        "cha @ no",
+        "gs @ sa",
+        "tor @ phi",
+        "hou @ phx"
+    ],
+    "2025-03-31": [
+        "utah @ cha",
+        "sac @ ind",
+        "lac @ orl",
+        "mia @ wsh",
+        "bos @ mem",
+        "chi @ okc",
+        "bkn @ dal",
+        "hou @ lal"
+    ],
+    "2025-04-01": [
+        "por @ atl",
+        "phi @ ny",
+        "phx @ mil",
+        "orl @ sa",
+        "tor @ chi",
+        "gs @ mem",
+        "min @ den"
+    ],
+    "2025-04-02": [
+        "ny @ cle",
+        "cha @ ind",
+        "sac @ wsh",
+        "mia @ bos",
+        "utah @ hou",
+        "atl @ dal",
+        "sa @ den",
+        "det @ okc",
+        "no @ lac"
+    ],
+    "2025-04-03": [
+        "orl @ wsh",
+        "mil @ phi",
+        "min @ bkn",
+        "mem @ mia",
+        "por @ tor",
+        "gs @ lal"
+    ],
+    "2025-04-04": [
+        "sac @ cha",
+        "utah @ ind",
+        "phx @ bos",
+        "det @ tor",
+        "por @ chi",
+        "okc @ hou",
+        "cle @ sa",
+        "den @ gs",
+        "no @ lal",
+        "dal @ lac"
+    ],
+    "2025-04-05": [
+        "ny @ atl",
+        "mem @ det",
+        "min @ phi",
+        "mil @ mia",
+        "dal @ lac"
+    ],
+    "2025-04-06": [
+        "chi @ cha",
+        "tor @ bkn",
+        "lal @ okc",
+        "utah @ atl",
+        "wsh @ bos",
+        "sac @ cle",
+        "sa @ por",
+        "phx @ ny",
+        "ind @ den",
+        "hou @ gs",
+        "mil @ no"
+    ],
+    "2025-04-07": [
+        "sac @ det",
+        "phi @ mia"
+    ],
+    "2025-04-08": [
+        "mem @ cha",
+        "chi @ cle",
+        "wsh @ ind",
+        "atl @ orl",
+        "no @ bkn",
+        "bos @ ny",
+        "min @ mil",
+        "lal @ okc",
+        "gs @ phx",
+        "sa @ lac"
+    ],
+    "2025-04-09": [
+        "bos @ orl",
+        "phi @ wsh",
+        "cha @ tor",
+        "lal @ dal",
+        "mia @ chi",
+        "por @ utah",
+        "sa @ gs",
+        "okc @ phx",
+        "den @ sac",
+        "hou @ lac"
+    ],
+    "2025-04-10": [
+        "ny @ det",
+        "cle @ ind",
+        "atl @ bkn",
+        "no @ mil",
+        "min @ mem"
+    ],
+    "2025-04-11": [
+        "mil @ det",
+        "orl @ ind",
+        "atl @ phi",
+        "cha @ bos",
+        "cle @ ny",
+        "wsh @ chi",
+        "mia @ no",
+        "tor @ dal",
+        "bkn @ min",
+        "mem @ den",
+        "okc @ utah",
+        "sa @ phx",
+        "gs @ por",
+        "lac @ sac",
+        "hou @ lal"
+    ],
+    "2025-04-13": [
+        "orl @ atl",
+        "cha @ bos",
+        "ny @ bkn",
+        "ind @ cle",
+        "wsh @ mia",
+        "chi @ phi",
+        "det @ mil",
+        "den @ hou",
+        "dal @ mem",
+        "utah @ min",
+        "okc @ no",
+        "tor @ sa",
+        "lac @ gs",
+        "lal @ por",
+        "phx @ sac"
+    ],
+    "2025-04-15": [
+        "atl @ orl",
+        "mem @ gs"
+    ],
+    "2025-04-16": [
+        "mia @ chi",
+        "dal @ sac"
+    ],
+    "2025-04-18": [
+        "mia @ atl",
+        "dal @ mem"
+    ],
+    "2025-04-19": [
+        "mil @ ind",
+        "lac @ den",
+        "det @ ny",
+        "min @ lal"
+    ],
+    "2025-04-20": [
+        "mia @ cle",
+        "gs @ hou"
+    ],
+    "2025-04-21": [
+        "det @ ny",
+        "lac @ den"
+    ],
+    "2025-04-22": [
+        "mil @ ind",
+        "mem @ okc",
+        "min @ lal"
+    ],
+    "2025-04-23": [
+        "orl @ bos",
+        "mia @ cle",
+        "gs @ hou"
+    ],
+    "2025-04-24": [
+        "ny @ det",
+        "okc @ mem",
+        "den @ lac"
+    ],
+    "2025-04-25": [
+        "bos @ orl",
+        "ind @ mil",
+        "lal @ min"
+    ],
+    "2025-04-26": [
+        "cle @ mia",
+        "okc @ mem",
+        "den @ lac",
+        "hou @ gs"
+    ],
+    "2025-04-27": [
+        "ny @ det",
+        "lal @ min",
+        "bos @ orl",
+        "ind @ mil"
+    ],
+    "2025-04-28": [
+        "cle @ mia",
+        "hou @ gs"
+    ],
+    "2025-04-29": [
+        "mil @ ind",
+        "det @ ny",
+        "orl @ bos",
+        "lac @ den"
+    ],
+    "2025-04-30": [
+        "gs @ hou",
+        "min @ lal"
+    ],
+    "2025-05-01": [
+        "ny @ det",
+        "den @ lac"
+    ],
+    "2025-05-02": [
+        "hou @ gs"
+    ],
+    "2025-05-03": [
+        "lac @ den"
+    ],
+    "2025-05-04": [
+        "ind @ cle",
+        "gs @ hou"
+    ],
+    "2025-05-05": [
+        "ny @ bos",
+        "den @ okc"
+    ],
+    "2025-05-06": [
+        "ind @ cle",
+        "gs @ min"
+    ],
+    "2025-05-07": [
+        "ny @ bos",
+        "den @ okc"
+    ],
+    "2025-05-08": [
+        "gs @ min"
+    ],
+    "2025-05-09": [
+        "cle @ ind",
+        "okc @ den"
+    ],
+    "2025-05-10": [
+        "bos @ ny",
+        "min @ gs"
+    ],
+    "2025-05-11": [
+        "okc @ den",
+        "cle @ ind"
+    ],
+    "2025-05-12": [
+        "bos @ ny",
+        "min @ gs"
+    ],
+    "2025-05-13": [
+        "ind @ cle",
+        "den @ okc"
+    ],
+    "2025-05-14": [
+        "ny @ bos",
+        "gs @ min"
+    ],
+    "2025-05-15": [
+        "okc @ den"
+    ],
+    "2025-05-16": [
+        "bos @ ny"
+    ],
+    "2025-05-18": [
+        "den @ okc"
+    ],
+    "2025-05-19": [
+        "ny @ bos"
+    ],
+    "2025-05-20": [
+        "min @ okc"
+    ],
+    "2025-05-21": [
+        "ind @ ny"
+    ],
+    "2025-05-22": [
+        "min @ okc"
+    ],
+    "2025-05-23": [
+        "ind @ ny"
+    ],
+    "2025-05-24": [
+        "okc @ min"
+    ],
+    "2025-05-25": [
+        "ny @ ind"
+    ],
+    "2025-05-26": [
+        "okc @ min"
+    ],
+    "2025-05-27": [
+        "ny @ ind"
+    ],
+    "2025-05-28": [
+        "min @ okc"
+    ],
+    "2025-05-29": [
+        "ind @ ny"
+    ],
+    "2025-05-30": [
+        "okc @ min"
+    ],
+    "2025-05-31": [
+        "ny @ ind"
+    ],
+    "2025-06-01": [
+        "min @ okc"
+    ],
+    "2025-06-02": [
+        "ind @ ny"
+    ],
+    "2025-06-08": [
+        "ind @ okc"
+    ],
+    "2025-06-11": [
+        "okc @ ind"
+    ],
+    "2025-06-13": [
+        "okc @ ind"
+    ],
+    "2025-06-05": [
+        "ind @ okc"
+    ],
+    "2025-06-16": [
+        "ind @ okc"
+    ],
+    "2025-06-19": [
+        "okc @ ind"
+    ]
+}

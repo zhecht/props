@@ -1,0 +1,1779 @@
+{
+    "2024-10-22": {
+        "ny @ bos": "/nba/game/_/gameId/401704627/knicks-celtics",
+        "min @ lal": "/nba/game/_/gameId/401704628/timberwolves-lakers"
+    },
+    "2024-10-23": {
+        "ind @ det": "/nba/game/_/gameId/401704629/pacers-pistons",
+        "bkn @ atl": "/nba/game/_/gameId/401704630/nets-hawks",
+        "orl @ mia": "/nba/game/_/gameId/401704631/magic-heat",
+        "mil @ phi": "/nba/game/_/gameId/401704632/bucks-76ers",
+        "cle @ tor": "/nba/game/_/gameId/401704633/cavaliers-raptors",
+        "cha @ hou": "/nba/game/_/gameId/401704634/hornets-rockets",
+        "chi @ no": "/nba/game/_/gameId/401704635/bulls-pelicans",
+        "mem @ utah": "/nba/game/_/gameId/401704636/grizzlies-jazz",
+        "phx @ lac": "/nba/game/_/gameId/401704637/suns-clippers",
+        "gs @ por": "/nba/game/_/gameId/401704638/warriors-trail-blazers"
+    },
+    "2024-10-24": {
+        "bos @ wsh": "/nba/game/_/gameId/401704639/celtics-wizards",
+        "sa @ dal": "/nba/game/_/gameId/401704640/spurs-mavericks",
+        "okc @ den": "/nba/game/_/gameId/401704641/thunder-nuggets",
+        "min @ sac": "/nba/game/_/gameId/401704642/timberwolves-kings"
+    },
+    "2024-10-25": {
+        "bkn @ orl": "/nba/game/_/gameId/401704643/nets-magic",
+        "phi @ tor": "/nba/game/_/gameId/401704644/76ers-raptors",
+        "cha @ atl": "/nba/game/_/gameId/401704645/hornets-hawks",
+        "det @ cle": "/nba/game/_/gameId/401704646/pistons-cavaliers",
+        "ind @ ny": "/nba/game/_/gameId/401704647/pacers-knicks",
+        "mem @ hou": "/nba/game/_/gameId/401704648/grizzlies-rockets",
+        "chi @ mil": "/nba/game/_/gameId/401704649/bulls-bucks",
+        "gs @ utah": "/nba/game/_/gameId/401704650/warriors-jazz",
+        "phx @ lal": "/nba/game/_/gameId/401704651/suns-lakers",
+        "no @ por": "/nba/game/_/gameId/401704652/pelicans-trail-blazers"
+    },
+    "2024-10-26": {
+        "lac @ den": "/nba/game/_/gameId/401704653/clippers-nuggets",
+        "mia @ cha": "/nba/game/_/gameId/401704654/heat-hornets",
+        "bos @ det": "/nba/game/_/gameId/401704655/celtics-pistons",
+        "cle @ wsh": "/nba/game/_/gameId/401704656/cavaliers-wizards",
+        "okc @ chi": "/nba/game/_/gameId/401704657/thunder-bulls",
+        "orl @ mem": "/nba/game/_/gameId/401704658/magic-grizzlies",
+        "tor @ min": "/nba/game/_/gameId/401704659/raptors-timberwolves",
+        "hou @ sa": "/nba/game/_/gameId/401704660/rockets-spurs",
+        "dal @ phx": "/nba/game/_/gameId/401704661/mavericks-suns",
+        "sac @ lal": "/nba/game/_/gameId/401704662/kings-lakers"
+    },
+    "2024-10-27": {
+        "phi @ ind": "/nba/game/_/gameId/401704663/76ers-pacers",
+        "mil @ bkn": "/nba/game/_/gameId/401704664/bucks-nets",
+        "no @ por": "/nba/game/_/gameId/401704665/pelicans-trail-blazers",
+        "atl @ okc": "/nba/game/_/gameId/401704666/hawks-thunder",
+        "lac @ gs": "/nba/game/_/gameId/401704667/clippers-warriors"
+    },
+    "2024-10-28": {
+        "ind @ orl": "/nba/game/_/gameId/401704668/pacers-magic",
+        "wsh @ atl": "/nba/game/_/gameId/401704669/wizards-hawks",
+        "mil @ bos": "/nba/game/_/gameId/401704670/bucks-celtics",
+        "det @ mia": "/nba/game/_/gameId/401704671/pistons-heat",
+        "cle @ ny": "/nba/game/_/gameId/401704672/cavaliers-knicks",
+        "den @ tor": "/nba/game/_/gameId/401704673/nuggets-raptors",
+        "chi @ mem": "/nba/game/_/gameId/401704674/bulls-grizzlies",
+        "hou @ sa": "/nba/game/_/gameId/401704675/rockets-spurs",
+        "utah @ dal": "/nba/game/_/gameId/401704676/jazz-mavericks",
+        "lal @ phx": "/nba/game/_/gameId/401704677/lakers-suns",
+        "por @ sac": "/nba/game/_/gameId/401704678/trail-blazers-kings"
+    },
+    "2024-10-29": {
+        "den @ bkn": "/nba/game/_/gameId/401704679/nuggets-nets",
+        "dal @ min": "/nba/game/_/gameId/401704680/mavericks-timberwolves",
+        "sac @ utah": "/nba/game/_/gameId/401704681/kings-jazz",
+        "no @ gs": "/nba/game/_/gameId/401704682/pelicans-warriors"
+    },
+    "2024-10-30": {
+        "tor @ cha": "/nba/game/_/gameId/401704683/raptors-hornets",
+        "lal @ cle": "/nba/game/_/gameId/401704684/lakers-cavaliers",
+        "bos @ ind": "/nba/game/_/gameId/401704685/celtics-pacers",
+        "det @ phi": "/nba/game/_/gameId/401704686/pistons-76ers",
+        "atl @ wsh": "/nba/game/_/gameId/401704687/hawks-wizards",
+        "ny @ mia": "/nba/game/_/gameId/401704688/knicks-heat",
+        "orl @ chi": "/nba/game/_/gameId/401704689/magic-bulls",
+        "bkn @ mem": "/nba/game/_/gameId/401704690/nets-grizzlies",
+        "sa @ okc": "/nba/game/_/gameId/401704691/spurs-thunder",
+        "no @ gs": "/nba/game/_/gameId/401704692/pelicans-warriors",
+        "por @ lac": "/nba/game/_/gameId/401704693/trail-blazers-clippers"
+    },
+    "2024-10-31": {
+        "mil @ mem": "/nba/game/_/gameId/401704694/bucks-grizzlies",
+        "hou @ dal": "/nba/game/_/gameId/401704695/rockets-mavericks",
+        "sa @ utah": "/nba/game/_/gameId/401704696/spurs-jazz",
+        "phx @ lac": "/nba/game/_/gameId/401704697/suns-clippers"
+    },
+    "2024-11-01": {
+        "bos @ cha": "/nba/game/_/gameId/401704698/celtics-hornets",
+        "orl @ cle": "/nba/game/_/gameId/401704699/magic-cavaliers",
+        "ny @ det": "/nba/game/_/gameId/401704700/knicks-pistons",
+        "sac @ atl": "/nba/game/_/gameId/401704701/kings-hawks",
+        "chi @ bkn": "/nba/game/_/gameId/401704702/bulls-nets",
+        "lal @ tor": "/nba/game/_/gameId/401704703/lakers-raptors",
+        "ind @ no": "/nba/game/_/gameId/401704704/pacers-pelicans",
+        "den @ min": "/nba/game/_/gameId/401704705/nuggets-timberwolves",
+        "okc @ por": "/nba/game/_/gameId/401704706/thunder-trail-blazers"
+    },
+    "2024-11-02": {
+        "bos @ cha": "/nba/game/_/gameId/401704707/celtics-hornets",
+        "mem @ phi": "/nba/game/_/gameId/401704708/grizzlies-76ers",
+        "sac @ tor": "/nba/game/_/gameId/401704709/kings-raptors",
+        "gs @ hou": "/nba/game/_/gameId/401704710/warriors-rockets",
+        "cle @ mil": "/nba/game/_/gameId/401704711/cavaliers-bucks",
+        "min @ sa": "/nba/game/_/gameId/401704712/timberwolves-spurs",
+        "mia @ wsh": "/nba/game/_/gameId/401704713/heat-wizards",
+        "utah @ den": "/nba/game/_/gameId/401704714/jazz-nuggets",
+        "por @ phx": "/nba/game/_/gameId/401704715/trail-blazers-suns",
+        "okc @ lac": "/nba/game/_/gameId/401704716/thunder-clippers"
+    },
+    "2024-11-03": {
+        "det @ bkn": "/nba/game/_/gameId/401704717/pistons-nets",
+        "atl @ no": "/nba/game/_/gameId/401704718/hawks-pelicans",
+        "orl @ dal": "/nba/game/_/gameId/401704719/magic-mavericks"
+    },
+    "2024-11-04": {
+        "mil @ cle": "/nba/game/_/gameId/401704720/bucks-cavaliers",
+        "gs @ wsh": "/nba/game/_/gameId/401704721/warriors-wizards",
+        "lal @ det": "/nba/game/_/gameId/401704722/lakers-pistons",
+        "bos @ atl": "/nba/game/_/gameId/401704723/celtics-hawks",
+        "mem @ bkn": "/nba/game/_/gameId/401704724/grizzlies-nets",
+        "sac @ mia": "/nba/game/_/gameId/401704725/kings-heat",
+        "utah @ chi": "/nba/game/_/gameId/401704726/jazz-bulls",
+        "ny @ hou": "/nba/game/_/gameId/401704727/knicks-rockets",
+        "cha @ min": "/nba/game/_/gameId/401704728/hornets-timberwolves",
+        "orl @ okc": "/nba/game/_/gameId/401704729/magic-thunder",
+        "por @ no": "/nba/game/_/gameId/401704730/trail-blazers-pelicans",
+        "ind @ dal": "/nba/game/_/gameId/401704731/pacers-mavericks",
+        "tor @ den": "/nba/game/_/gameId/401704732/raptors-nuggets",
+        "phi @ phx": "/nba/game/_/gameId/401704733/76ers-suns",
+        "sa @ lac": "/nba/game/_/gameId/401704734/spurs-clippers"
+    },
+    "2024-11-06": {
+        "det @ cha": "/nba/game/_/gameId/401704735/pistons-hornets",
+        "orl @ ind": "/nba/game/_/gameId/401704736/magic-pacers",
+        "ny @ atl": "/nba/game/_/gameId/401704737/knicks-hawks",
+        "gs @ bos": "/nba/game/_/gameId/401704738/warriors-celtics",
+        "sa @ hou": "/nba/game/_/gameId/401704739/spurs-rockets",
+        "lal @ mem": "/nba/game/_/gameId/401704740/lakers-grizzlies",
+        "cle @ no": "/nba/game/_/gameId/401704741/cavaliers-pelicans",
+        "chi @ dal": "/nba/game/_/gameId/401704742/bulls-mavericks",
+        "okc @ den": "/nba/game/_/gameId/401704743/thunder-nuggets",
+        "mia @ phx": "/nba/game/_/gameId/401704744/heat-suns",
+        "phi @ lac": "/nba/game/_/gameId/401704745/76ers-clippers",
+        "tor @ sac": "/nba/game/_/gameId/401704746/raptors-kings"
+    },
+    "2024-11-07": {
+        "min @ chi": "/nba/game/_/gameId/401704747/timberwolves-bulls",
+        "utah @ mil": "/nba/game/_/gameId/401704748/jazz-bucks",
+        "por @ sa": "/nba/game/_/gameId/401704749/trail-blazers-spurs"
+    },
+    "2024-11-08": {
+        "ind @ cha": "/nba/game/_/gameId/401704750/pacers-hornets",
+        "atl @ det": "/nba/game/_/gameId/401704751/hawks-pistons",
+        "no @ orl": "/nba/game/_/gameId/401704752/pelicans-magic",
+        "bkn @ bos": "/nba/game/_/gameId/401704753/nets-celtics",
+        "gs @ cle": "/nba/game/_/gameId/401704754/warriors-cavaliers",
+        "mil @ ny": "/nba/game/_/gameId/401704755/bucks-knicks",
+        "phx @ dal": "/nba/game/_/gameId/401704756/suns-mavericks",
+        "wsh @ mem": "/nba/game/_/gameId/401704757/wizards-grizzlies",
+        "hou @ okc": "/nba/game/_/gameId/401704758/rockets-thunder",
+        "por @ min": "/nba/game/_/gameId/401704759/trail-blazers-timberwolves",
+        "mia @ den": "/nba/game/_/gameId/401704760/heat-nuggets",
+        "phi @ lal": "/nba/game/_/gameId/401704761/76ers-lakers",
+        "lac @ sac": "/nba/game/_/gameId/401704762/clippers-kings"
+    },
+    "2024-11-09": {
+        "utah @ sa": "/nba/game/_/gameId/401704763/jazz-spurs",
+        "chi @ atl": "/nba/game/_/gameId/401704764/bulls-hawks",
+        "bkn @ cle": "/nba/game/_/gameId/401704765/nets-cavaliers",
+        "tor @ lac": "/nba/game/_/gameId/401704766/raptors-clippers"
+    },
+    "2024-11-10": {
+        "hou @ det": "/nba/game/_/gameId/401704767/rockets-pistons",
+        "bos @ mil": "/nba/game/_/gameId/401704768/celtics-bucks",
+        "ny @ ind": "/nba/game/_/gameId/401704769/knicks-pacers",
+        "wsh @ orl": "/nba/game/_/gameId/401704770/wizards-magic",
+        "cha @ phi": "/nba/game/_/gameId/401704771/hornets-76ers",
+        "mia @ min": "/nba/game/_/gameId/401704772/heat-timberwolves",
+        "gs @ okc": "/nba/game/_/gameId/401704773/warriors-thunder",
+        "dal @ den": "/nba/game/_/gameId/401704774/mavericks-nuggets",
+        "sac @ phx": "/nba/game/_/gameId/401704775/kings-suns",
+        "mem @ por": "/nba/game/_/gameId/401704776/grizzlies-trail-blazers",
+        "tor @ lal": "/nba/game/_/gameId/401704777/raptors-lakers"
+    },
+    "2024-11-11": {
+        "cle @ chi": "/nba/game/_/gameId/401704778/cavaliers-bulls",
+        "wsh @ hou": "/nba/game/_/gameId/401704779/wizards-rockets",
+        "bkn @ no": "/nba/game/_/gameId/401704780/nets-pelicans",
+        "lac @ okc": "/nba/game/_/gameId/401704781/clippers-thunder",
+        "sac @ sa": "/nba/game/_/gameId/401704782/kings-spurs"
+    },
+    "2024-11-12": {
+        "atl @ bos": "/nba/game/_/gameId/401703370/hawks-celtics",
+        "mia @ det": "/nba/game/_/gameId/401703371/heat-pistons",
+        "cha @ orl": "/nba/game/_/gameId/401703372/hornets-magic",
+        "ny @ phi": "/nba/game/_/gameId/401703373/knicks-76ers",
+        "tor @ mil": "/nba/game/_/gameId/401703374/raptors-bucks",
+        "phx @ utah": "/nba/game/_/gameId/401703375/suns-jazz",
+        "dal @ gs": "/nba/game/_/gameId/401703376/mavericks-warriors",
+        "min @ por": "/nba/game/_/gameId/401703377/timberwolves-trail-blazers"
+    },
+    "2024-11-13": {
+        "ind @ orl": "/nba/game/_/gameId/401704783/pacers-magic",
+        "bos @ bkn": "/nba/game/_/gameId/401704784/celtics-nets",
+        "chi @ ny": "/nba/game/_/gameId/401704785/bulls-knicks",
+        "cle @ phi": "/nba/game/_/gameId/401704786/cavaliers-76ers",
+        "no @ okc": "/nba/game/_/gameId/401704787/pelicans-thunder",
+        "lac @ hou": "/nba/game/_/gameId/401704788/clippers-rockets",
+        "det @ mil": "/nba/game/_/gameId/401704789/pistons-bucks",
+        "wsh @ sa": "/nba/game/_/gameId/401704790/wizards-spurs",
+        "mem @ lal": "/nba/game/_/gameId/401704791/grizzlies-lakers",
+        "min @ por": "/nba/game/_/gameId/401704792/timberwolves-trail-blazers",
+        "phx @ sac": "/nba/game/_/gameId/401704793/suns-kings"
+    },
+    "2024-11-14": {
+        "dal @ utah": "/nba/game/_/gameId/401704794/mavericks-jazz"
+    },
+    "2024-11-15": {
+        "mia @ ind": "/nba/game/_/gameId/401703378/heat-pacers",
+        "phi @ orl": "/nba/game/_/gameId/401703379/76ers-magic",
+        "det @ tor": "/nba/game/_/gameId/401703380/pistons-raptors",
+        "wsh @ atl": "/nba/game/_/gameId/401703381/wizards-hawks",
+        "chi @ cle": "/nba/game/_/gameId/401703382/bulls-cavaliers",
+        "bkn @ ny": "/nba/game/_/gameId/401703383/nets-knicks",
+        "lal @ sa": "/nba/game/_/gameId/401703384/lakers-spurs",
+        "lac @ hou": "/nba/game/_/gameId/401703385/clippers-rockets",
+        "den @ no": "/nba/game/_/gameId/401703386/nuggets-pelicans",
+        "phx @ okc": "/nba/game/_/gameId/401703387/suns-thunder",
+        "mem @ gs": "/nba/game/_/gameId/401703388/grizzlies-warriors",
+        "min @ sac": "/nba/game/_/gameId/401703389/timberwolves-kings"
+    },
+    "2024-11-16": {
+        "mil @ cha": "/nba/game/_/gameId/401704795/bucks-hornets",
+        "tor @ bos": "/nba/game/_/gameId/401704796/raptors-celtics",
+        "lal @ no": "/nba/game/_/gameId/401704797/lakers-pelicans",
+        "sa @ dal": "/nba/game/_/gameId/401704798/spurs-mavericks",
+        "utah @ sac": "/nba/game/_/gameId/401704799/jazz-kings"
+    },
+    "2024-11-17": {
+        "phx @ min": "/nba/game/_/gameId/401704800/suns-timberwolves",
+        "mia @ ind": "/nba/game/_/gameId/401704801/heat-pacers",
+        "cha @ cle": "/nba/game/_/gameId/401704802/hornets-cavaliers",
+        "det @ wsh": "/nba/game/_/gameId/401704803/pistons-wizards",
+        "den @ mem": "/nba/game/_/gameId/401704804/nuggets-grizzlies",
+        "atl @ por": "/nba/game/_/gameId/401704805/hawks-trail-blazers",
+        "bkn @ ny": "/nba/game/_/gameId/401704806/nets-knicks",
+        "hou @ chi": "/nba/game/_/gameId/401704807/rockets-bulls",
+        "dal @ okc": "/nba/game/_/gameId/401704808/mavericks-thunder",
+        "utah @ lac": "/nba/game/_/gameId/401704809/jazz-clippers"
+    },
+    "2024-11-18": {
+        "chi @ det": "/nba/game/_/gameId/401704810/bulls-pistons",
+        "phi @ mia": "/nba/game/_/gameId/401704811/76ers-heat",
+        "wsh @ ny": "/nba/game/_/gameId/401704812/wizards-knicks",
+        "ind @ tor": "/nba/game/_/gameId/401704813/pacers-raptors",
+        "hou @ mil": "/nba/game/_/gameId/401704814/rockets-bucks",
+        "orl @ phx": "/nba/game/_/gameId/401704815/magic-suns",
+        "atl @ sac": "/nba/game/_/gameId/401704816/hawks-kings",
+        "gs @ lac": "/nba/game/_/gameId/401704817/warriors-clippers"
+    },
+    "2024-11-19": {
+        "cle @ bos": "/nba/game/_/gameId/401703390/cavaliers-celtics",
+        "cha @ bkn": "/nba/game/_/gameId/401703391/hornets-nets",
+        "den @ mem": "/nba/game/_/gameId/401703392/nuggets-grizzlies",
+        "no @ dal": "/nba/game/_/gameId/401703393/pelicans-mavericks",
+        "okc @ sa": "/nba/game/_/gameId/401703394/thunder-spurs",
+        "utah @ lal": "/nba/game/_/gameId/401703395/jazz-lakers"
+    },
+    "2024-11-20": {
+        "no @ cle": "/nba/game/_/gameId/401704818/pelicans-cavaliers",
+        "chi @ mil": "/nba/game/_/gameId/401704819/bulls-bucks",
+        "ind @ hou": "/nba/game/_/gameId/401704820/pacers-rockets",
+        "phi @ mem": "/nba/game/_/gameId/401704821/76ers-grizzlies",
+        "por @ okc": "/nba/game/_/gameId/401704822/trail-blazers-thunder",
+        "ny @ phx": "/nba/game/_/gameId/401704823/knicks-suns",
+        "atl @ gs": "/nba/game/_/gameId/401704824/hawks-warriors",
+        "orl @ lac": "/nba/game/_/gameId/401704825/magic-clippers"
+    },
+    "2024-11-21": {
+        "det @ cha": "/nba/game/_/gameId/401704826/pistons-hornets",
+        "min @ tor": "/nba/game/_/gameId/401704827/timberwolves-raptors",
+        "utah @ sa": "/nba/game/_/gameId/401704828/jazz-spurs",
+        "orl @ lal": "/nba/game/_/gameId/401704829/magic-lakers"
+    },
+    "2024-11-22": {
+        "bkn @ phi": "/nba/game/_/gameId/401703396/nets-76ers",
+        "bos @ wsh": "/nba/game/_/gameId/401703397/celtics-wizards",
+        "gs @ no": "/nba/game/_/gameId/401703401/warriors-pelicans",
+        "ind @ mil": "/nba/game/_/gameId/401703398/pacers-bucks",
+        "atl @ chi": "/nba/game/_/gameId/401703399/hawks-bulls",
+        "por @ hou": "/nba/game/_/gameId/401703400/trail-blazers-rockets",
+        "dal @ den": "/nba/game/_/gameId/401703402/mavericks-nuggets",
+        "sac @ lac": "/nba/game/_/gameId/401703403/kings-clippers"
+    },
+    "2024-11-23": {
+        "ny @ utah": "/nba/game/_/gameId/401704830/knicks-jazz",
+        "det @ orl": "/nba/game/_/gameId/401704831/pistons-magic",
+        "mem @ chi": "/nba/game/_/gameId/401704832/grizzlies-bulls",
+        "por @ hou": "/nba/game/_/gameId/401704833/trail-blazers-rockets",
+        "cha @ mil": "/nba/game/_/gameId/401704834/hornets-bucks",
+        "gs @ sa": "/nba/game/_/gameId/401704835/warriors-spurs",
+        "den @ lal": "/nba/game/_/gameId/401704836/nuggets-lakers"
+    },
+    "2024-11-24": {
+        "min @ bos": "/nba/game/_/gameId/401704837/timberwolves-celtics",
+        "wsh @ ind": "/nba/game/_/gameId/401704838/wizards-pacers",
+        "dal @ mia": "/nba/game/_/gameId/401704839/mavericks-heat",
+        "lac @ phi": "/nba/game/_/gameId/401704840/clippers-76ers",
+        "tor @ cle": "/nba/game/_/gameId/401704841/raptors-cavaliers",
+        "bkn @ sac": "/nba/game/_/gameId/401704842/nets-kings"
+    },
+    "2024-11-25": {
+        "orl @ cha": "/nba/game/_/gameId/401704843/magic-hornets",
+        "tor @ det": "/nba/game/_/gameId/401704844/raptors-pistons",
+        "no @ ind": "/nba/game/_/gameId/401704845/pelicans-pacers",
+        "dal @ atl": "/nba/game/_/gameId/401704846/mavericks-hawks",
+        "lac @ bos": "/nba/game/_/gameId/401704847/clippers-celtics",
+        "por @ mem": "/nba/game/_/gameId/401704848/trail-blazers-grizzlies",
+        "ny @ den": "/nba/game/_/gameId/401704849/knicks-nuggets",
+        "bkn @ gs": "/nba/game/_/gameId/401704850/nets-warriors",
+        "okc @ sac": "/nba/game/_/gameId/401704851/thunder-kings"
+    },
+    "2024-11-26": {
+        "chi @ wsh": "/nba/game/_/gameId/401703404/bulls-wizards",
+        "mil @ mia": "/nba/game/_/gameId/401703405/bucks-heat",
+        "hou @ min": "/nba/game/_/gameId/401703406/rockets-timberwolves",
+        "sa @ utah": "/nba/game/_/gameId/401703407/spurs-jazz",
+        "lal @ phx": "/nba/game/_/gameId/401703408/lakers-suns"
+    },
+    "2024-11-27": {
+        "mia @ cha": "/nba/game/_/gameId/401704852/heat-hornets",
+        "atl @ cle": "/nba/game/_/gameId/401704853/hawks-cavaliers",
+        "por @ ind": "/nba/game/_/gameId/401704854/trail-blazers-pacers",
+        "chi @ orl": "/nba/game/_/gameId/401704855/bulls-magic",
+        "hou @ phi": "/nba/game/_/gameId/401704856/rockets-76ers",
+        "lac @ wsh": "/nba/game/_/gameId/401704857/clippers-wizards",
+        "ny @ dal": "/nba/game/_/gameId/401704858/knicks-mavericks",
+        "det @ mem": "/nba/game/_/gameId/401704859/pistons-grizzlies",
+        "sac @ min": "/nba/game/_/gameId/401704860/kings-timberwolves",
+        "tor @ no": "/nba/game/_/gameId/401704861/raptors-pelicans",
+        "lal @ sa": "/nba/game/_/gameId/401704862/lakers-spurs",
+        "bkn @ phx": "/nba/game/_/gameId/401704863/nets-suns",
+        "den @ utah": "/nba/game/_/gameId/401704864/nuggets-jazz",
+        "okc @ gs": "/nba/game/_/gameId/401704865/thunder-warriors"
+    },
+    "2024-11-29": {
+        "ny @ cha": "/nba/game/_/gameId/401703409/knicks-hornets",
+        "cle @ atl": "/nba/game/_/gameId/401703410/cavaliers-hawks",
+        "no @ mem": "/nba/game/_/gameId/401703411/pelicans-grizzlies",
+        "orl @ bkn": "/nba/game/_/gameId/401703412/magic-nets",
+        "lac @ min": "/nba/game/_/gameId/401703413/clippers-timberwolves",
+        "det @ ind": "/nba/game/_/gameId/401703414/pistons-pacers",
+        "tor @ mia": "/nba/game/_/gameId/401703415/raptors-heat",
+        "bos @ chi": "/nba/game/_/gameId/401703416/celtics-bulls",
+        "okc @ lal": "/nba/game/_/gameId/401703417/thunder-lakers",
+        "sac @ por": "/nba/game/_/gameId/401703418/kings-trail-blazers"
+    },
+    "2024-11-30": {
+        "atl @ cha": "/nba/game/_/gameId/401704866/hawks-hornets",
+        "phi @ det": "/nba/game/_/gameId/401704867/76ers-pistons",
+        "wsh @ mil": "/nba/game/_/gameId/401704868/wizards-bucks",
+        "gs @ phx": "/nba/game/_/gameId/401704869/warriors-suns",
+        "dal @ utah": "/nba/game/_/gameId/401704870/mavericks-jazz"
+    },
+    "2024-12-01": {
+        "orl @ bkn": "/nba/game/_/gameId/401704871/magic-nets",
+        "ind @ mem": "/nba/game/_/gameId/401704872/pacers-grizzlies",
+        "bos @ cle": "/nba/game/_/gameId/401704873/celtics-cavaliers",
+        "no @ ny": "/nba/game/_/gameId/401704874/pelicans-knicks",
+        "mia @ tor": "/nba/game/_/gameId/401704875/heat-raptors",
+        "okc @ hou": "/nba/game/_/gameId/401704876/thunder-rockets",
+        "lal @ utah": "/nba/game/_/gameId/401704877/lakers-jazz",
+        "dal @ por": "/nba/game/_/gameId/401704878/mavericks-trail-blazers",
+        "sa @ sac": "/nba/game/_/gameId/401704879/spurs-kings",
+        "den @ lac": "/nba/game/_/gameId/401704880/nuggets-clippers"
+    },
+    "2024-12-02": {
+        "no @ atl": "/nba/game/_/gameId/401704881/pelicans-hawks",
+        "mia @ bos": "/nba/game/_/gameId/401704882/heat-celtics",
+        "bkn @ chi": "/nba/game/_/gameId/401704883/nets-bulls",
+        "lal @ min": "/nba/game/_/gameId/401704884/lakers-timberwolves"
+    },
+    "2024-12-03": {
+        "phi @ cha": "/nba/game/_/gameId/401703419/76ers-hornets",
+        "wsh @ cle": "/nba/game/_/gameId/401703420/wizards-cavaliers",
+        "mil @ det": "/nba/game/_/gameId/401703421/bucks-pistons",
+        "orl @ ny": "/nba/game/_/gameId/401703422/magic-knicks",
+        "ind @ tor": "/nba/game/_/gameId/401703423/pacers-raptors",
+        "utah @ okc": "/nba/game/_/gameId/401703424/jazz-thunder",
+        "mem @ dal": "/nba/game/_/gameId/401703425/grizzlies-mavericks",
+        "sa @ phx": "/nba/game/_/gameId/401703426/spurs-suns",
+        "gs @ den": "/nba/game/_/gameId/401703427/warriors-nuggets",
+        "hou @ sac": "/nba/game/_/gameId/401703428/rockets-kings",
+        "por @ lac": "/nba/game/_/gameId/401703429/trail-blazers-clippers"
+    },
+    "2024-12-04": {
+        "det @ bos": "/nba/game/_/gameId/401704885/pistons-celtics",
+        "ind @ bkn": "/nba/game/_/gameId/401704886/pacers-nets",
+        "lal @ mia": "/nba/game/_/gameId/401704887/lakers-heat",
+        "orl @ phi": "/nba/game/_/gameId/401704888/magic-76ers",
+        "atl @ mil": "/nba/game/_/gameId/401704889/hawks-bucks",
+        "min @ lac": "/nba/game/_/gameId/401704890/timberwolves-clippers"
+    },
+    "2024-12-05": {
+        "den @ cle": "/nba/game/_/gameId/401704891/nuggets-cavaliers",
+        "dal @ wsh": "/nba/game/_/gameId/401704892/mavericks-wizards",
+        "cha @ ny": "/nba/game/_/gameId/401704893/hornets-knicks",
+        "okc @ tor": "/nba/game/_/gameId/401704894/thunder-raptors",
+        "sac @ mem": "/nba/game/_/gameId/401704895/kings-grizzlies",
+        "phx @ no": "/nba/game/_/gameId/401704896/suns-pelicans",
+        "chi @ sa": "/nba/game/_/gameId/401704897/bulls-spurs",
+        "hou @ gs": "/nba/game/_/gameId/401704898/rockets-warriors"
+    },
+    "2024-12-06": {
+        "orl @ phi": "/nba/game/_/gameId/401704899/magic-76ers",
+        "lal @ atl": "/nba/game/_/gameId/401704900/lakers-hawks",
+        "mil @ bos": "/nba/game/_/gameId/401704901/bucks-celtics",
+        "ind @ chi": "/nba/game/_/gameId/401704902/pacers-bulls",
+        "sac @ sa": "/nba/game/_/gameId/401704903/kings-spurs",
+        "min @ gs": "/nba/game/_/gameId/401704904/timberwolves-warriors",
+        "utah @ por": "/nba/game/_/gameId/401704905/jazz-trail-blazers"
+    },
+    "2024-12-07": {
+        "cle @ cha": "/nba/game/_/gameId/401704906/cavaliers-hornets",
+        "den @ wsh": "/nba/game/_/gameId/401704907/nuggets-wizards",
+        "okc @ no": "/nba/game/_/gameId/401704908/thunder-pelicans",
+        "det @ ny": "/nba/game/_/gameId/401704909/pistons-knicks",
+        "dal @ tor": "/nba/game/_/gameId/401704910/mavericks-raptors",
+        "mem @ bos": "/nba/game/_/gameId/401704911/grizzlies-celtics",
+        "phx @ mia": "/nba/game/_/gameId/401704912/suns-heat"
+    },
+    "2024-12-08": {
+        "phi @ chi": "/nba/game/_/gameId/401704913/76ers-bulls",
+        "mil @ bkn": "/nba/game/_/gameId/401704914/bucks-nets",
+        "cha @ ind": "/nba/game/_/gameId/401704915/hornets-pacers",
+        "den @ atl": "/nba/game/_/gameId/401704916/nuggets-hawks",
+        "cle @ mia": "/nba/game/_/gameId/401704917/cavaliers-heat",
+        "phx @ orl": "/nba/game/_/gameId/401704918/suns-magic",
+        "mem @ wsh": "/nba/game/_/gameId/401704919/grizzlies-wizards",
+        "no @ sa": "/nba/game/_/gameId/401704920/pelicans-spurs",
+        "min @ gs": "/nba/game/_/gameId/401704921/timberwolves-warriors",
+        "hou @ lac": "/nba/game/_/gameId/401704922/rockets-clippers",
+        "utah @ sac": "/nba/game/_/gameId/401704923/jazz-kings",
+        "por @ lal": "/nba/game/_/gameId/401704924/trail-blazers-lakers"
+    },
+    "2024-12-09": {
+        "ny @ tor": "/nba/game/_/gameId/401704925/knicks-raptors"
+    },
+    "2024-12-10": {
+        "orl @ mil": "/nba/game/_/gameId/401734902/magic-bucks",
+        "dal @ okc": "/nba/game/_/gameId/401734903/mavericks-thunder"
+    },
+    "2024-12-11": {
+        "atl @ ny": "/nba/game/_/gameId/401734904/hawks-knicks",
+        "gs @ hou": "/nba/game/_/gameId/401734905/warriors-rockets"
+    },
+    "2024-12-12": {
+        "det @ bos": "/nba/game/_/gameId/401736799/pistons-celtics",
+        "tor @ mia": "/nba/game/_/gameId/401736800/raptors-heat",
+        "sac @ no": "/nba/game/_/gameId/401736801/kings-pelicans"
+    },
+    "2024-12-13": {
+        "wsh @ cle": "/nba/game/_/gameId/401736802/wizards-cavaliers",
+        "ind @ phi": "/nba/game/_/gameId/401736803/pacers-76ers",
+        "lal @ min": "/nba/game/_/gameId/401736804/lakers-timberwolves",
+        "bkn @ mem": "/nba/game/_/gameId/401736805/nets-grizzlies",
+        "cha @ chi": "/nba/game/_/gameId/401736806/hornets-bulls",
+        "lac @ den": "/nba/game/_/gameId/401736807/clippers-nuggets",
+        "phx @ utah": "/nba/game/_/gameId/401736808/suns-jazz",
+        "sa @ por": "/nba/game/_/gameId/401736809/spurs-trail-blazers"
+    },
+    "2024-12-14": {
+        "atl @ mil": "/nba/game/_/gameId/401734906/hawks-bucks",
+        "hou @ okc": "/nba/game/_/gameId/401734907/rockets-thunder"
+    },
+    "2024-12-15": {
+        "no @ ind": "/nba/game/_/gameId/401736810/pelicans-pacers",
+        "bos @ wsh": "/nba/game/_/gameId/401736811/celtics-wizards",
+        "min @ sa": "/nba/game/_/gameId/401736812/timberwolves-spurs",
+        "por @ phx": "/nba/game/_/gameId/401736813/trail-blazers-suns",
+        "mem @ lal": "/nba/game/_/gameId/401736814/grizzlies-lakers",
+        "ny @ orl": "/nba/game/_/gameId/401737902/knicks-magic",
+        "dal @ gs": "/nba/game/_/gameId/401737912/mavericks-warriors"
+    },
+    "2024-12-16": {
+        "phi @ cha": "/nba/game/_/gameId/401736815/76ers-hornets",
+        "mia @ det": "/nba/game/_/gameId/401736816/heat-pistons",
+        "chi @ tor": "/nba/game/_/gameId/401736817/bulls-raptors",
+        "cle @ bkn": "/nba/game/_/gameId/401736818/cavaliers-nets",
+        "den @ sac": "/nba/game/_/gameId/401736819/nuggets-kings",
+        "utah @ lac": "/nba/game/_/gameId/401736820/jazz-clippers"
+    },
+    "2024-12-17": {
+        "mil @ okc": "/nba/game/_/gameId/401734908/bucks-thunder"
+    },
+    "2024-12-19": {
+        "utah @ det": "/nba/game/_/gameId/401704926/jazz-pistons",
+        "okc @ orl": "/nba/game/_/gameId/401704927/thunder-magic",
+        "cha @ wsh": "/nba/game/_/gameId/401704928/hornets-wizards",
+        "chi @ bos": "/nba/game/_/gameId/401704929/bulls-celtics",
+        "bkn @ tor": "/nba/game/_/gameId/401704930/nets-raptors",
+        "no @ hou": "/nba/game/_/gameId/401704931/pelicans-rockets",
+        "gs @ mem": "/nba/game/_/gameId/401704932/warriors-grizzlies",
+        "atl @ sa": "/nba/game/_/gameId/401704936/hawks-spurs",
+        "lac @ dal": "/nba/game/_/gameId/401704934/clippers-mavericks",
+        "ind @ phx": "/nba/game/_/gameId/401704935/pacers-suns",
+        "ny @ min": "/nba/game/_/gameId/401704933/knicks-timberwolves",
+        "den @ por": "/nba/game/_/gameId/401704937/nuggets-trail-blazers",
+        "lal @ sac": "/nba/game/_/gameId/401704938/lakers-kings"
+    },
+    "2024-12-20": {
+        "cha @ phi": "/nba/game/_/gameId/401704939/hornets-76ers",
+        "mil @ cle": "/nba/game/_/gameId/401704940/bucks-cavaliers",
+        "okc @ mia": "/nba/game/_/gameId/401704941/thunder-heat"
+    },
+    "2024-12-21": {
+        "lal @ sac": "/nba/game/_/gameId/401704942/lakers-kings",
+        "mia @ orl": "/nba/game/_/gameId/401704943/heat-magic",
+        "mem @ atl": "/nba/game/_/gameId/401704944/grizzlies-hawks",
+        "utah @ bkn": "/nba/game/_/gameId/401704945/jazz-nets",
+        "phi @ cle": "/nba/game/_/gameId/401704946/76ers-cavaliers",
+        "bos @ chi": "/nba/game/_/gameId/401704947/celtics-bulls",
+        "wsh @ mil": "/nba/game/_/gameId/401704948/wizards-bucks",
+        "gs @ min": "/nba/game/_/gameId/401704949/warriors-timberwolves",
+        "ny @ no": "/nba/game/_/gameId/401704950/knicks-pelicans",
+        "lac @ dal": "/nba/game/_/gameId/401704951/clippers-mavericks",
+        "por @ sa": "/nba/game/_/gameId/401704952/trail-blazers-spurs",
+        "det @ phx": "/nba/game/_/gameId/401704953/pistons-suns"
+    },
+    "2024-12-22": {
+        "hou @ tor": "/nba/game/_/gameId/401704954/rockets-raptors",
+        "ind @ sac": "/nba/game/_/gameId/401704955/pacers-kings",
+        "den @ no": "/nba/game/_/gameId/401704956/nuggets-pelicans"
+    },
+    "2024-12-23": {
+        "hou @ cha": "/nba/game/_/gameId/401704957/rockets-hornets",
+        "utah @ cle": "/nba/game/_/gameId/401704958/jazz-cavaliers",
+        "bos @ orl": "/nba/game/_/gameId/401704959/celtics-magic",
+        "sa @ phi": "/nba/game/_/gameId/401704960/spurs-76ers",
+        "min @ atl": "/nba/game/_/gameId/401704961/timberwolves-hawks",
+        "bkn @ mia": "/nba/game/_/gameId/401704962/nets-heat",
+        "tor @ ny": "/nba/game/_/gameId/401704963/raptors-knicks",
+        "mil @ chi": "/nba/game/_/gameId/401704964/bucks-bulls",
+        "lac @ mem": "/nba/game/_/gameId/401704965/clippers-grizzlies",
+        "wsh @ okc": "/nba/game/_/gameId/401704966/wizards-thunder",
+        "por @ dal": "/nba/game/_/gameId/401704967/trail-blazers-mavericks",
+        "phx @ den": "/nba/game/_/gameId/401704968/suns-nuggets",
+        "ind @ gs": "/nba/game/_/gameId/401704969/pacers-warriors",
+        "det @ lal": "/nba/game/_/gameId/401704970/pistons-lakers"
+    },
+    "2024-12-25": {
+        "sa @ ny": "/nba/game/_/gameId/401704971/spurs-knicks",
+        "min @ dal": "/nba/game/_/gameId/401704972/timberwolves-mavericks",
+        "phi @ bos": "/nba/game/_/gameId/401704973/76ers-celtics",
+        "lal @ gs": "/nba/game/_/gameId/401704974/lakers-warriors",
+        "den @ phx": "/nba/game/_/gameId/401704975/nuggets-suns"
+    },
+    "2024-12-26": {
+        "okc @ ind": "/nba/game/_/gameId/401704976/thunder-pacers",
+        "mia @ orl": "/nba/game/_/gameId/401704977/heat-magic",
+        "cha @ wsh": "/nba/game/_/gameId/401704978/hornets-wizards",
+        "chi @ atl": "/nba/game/_/gameId/401704979/bulls-hawks",
+        "tor @ mem": "/nba/game/_/gameId/401704980/raptors-grizzlies",
+        "bkn @ mil": "/nba/game/_/gameId/401704981/nets-bucks",
+        "hou @ no": "/nba/game/_/gameId/401704982/rockets-pelicans",
+        "utah @ por": "/nba/game/_/gameId/401704983/jazz-trail-blazers",
+        "det @ sac": "/nba/game/_/gameId/401704984/pistons-kings"
+    },
+    "2024-12-27": {
+        "ny @ orl": "/nba/game/_/gameId/401704985/knicks-magic",
+        "ind @ bos": "/nba/game/_/gameId/401704986/pacers-celtics",
+        "sa @ bkn": "/nba/game/_/gameId/401704987/spurs-nets",
+        "min @ hou": "/nba/game/_/gameId/401704988/timberwolves-rockets",
+        "mem @ no": "/nba/game/_/gameId/401704989/grizzlies-pelicans",
+        "cle @ den": "/nba/game/_/gameId/401704990/cavaliers-nuggets",
+        "dal @ phx": "/nba/game/_/gameId/401704991/mavericks-suns",
+        "gs @ lac": "/nba/game/_/gameId/401704992/warriors-clippers"
+    },
+    "2024-12-28": {
+        "mia @ atl": "/nba/game/_/gameId/401704993/heat-hawks",
+        "okc @ cha": "/nba/game/_/gameId/401704994/thunder-hornets",
+        "ny @ wsh": "/nba/game/_/gameId/401704995/knicks-wizards",
+        "mil @ chi": "/nba/game/_/gameId/401704996/bucks-bulls",
+        "phx @ gs": "/nba/game/_/gameId/401704997/suns-warriors",
+        "det @ den": "/nba/game/_/gameId/401704998/pistons-nuggets",
+        "phi @ utah": "/nba/game/_/gameId/401704999/76ers-jazz",
+        "dal @ por": "/nba/game/_/gameId/401705000/mavericks-trail-blazers",
+        "sac @ lal": "/nba/game/_/gameId/401705001/kings-lakers"
+    },
+    "2024-12-29": {
+        "bkn @ orl": "/nba/game/_/gameId/401705002/nets-magic",
+        "ind @ bos": "/nba/game/_/gameId/401705003/pacers-celtics",
+        "atl @ tor": "/nba/game/_/gameId/401705004/hawks-raptors",
+        "mia @ hou": "/nba/game/_/gameId/401705005/heat-rockets",
+        "mem @ okc": "/nba/game/_/gameId/401705006/grizzlies-thunder",
+        "sa @ min": "/nba/game/_/gameId/401705007/spurs-timberwolves"
+    },
+    "2024-12-30": {
+        "chi @ cha": "/nba/game/_/gameId/401705008/bulls-hornets",
+        "ny @ wsh": "/nba/game/_/gameId/401705009/knicks-wizards",
+        "lac @ no": "/nba/game/_/gameId/401705010/clippers-pelicans",
+        "den @ utah": "/nba/game/_/gameId/401705011/nuggets-jazz",
+        "cle @ gs": "/nba/game/_/gameId/401705012/cavaliers-warriors",
+        "phi @ por": "/nba/game/_/gameId/401705013/76ers-trail-blazers",
+        "dal @ sac": "/nba/game/_/gameId/401705014/mavericks-kings"
+    },
+    "2024-12-31": {
+        "tor @ bos": "/nba/game/_/gameId/401705015/raptors-celtics",
+        "mil @ ind": "/nba/game/_/gameId/401705016/bucks-pacers",
+        "lac @ sa": "/nba/game/_/gameId/401705017/clippers-spurs",
+        "min @ okc": "/nba/game/_/gameId/401705018/timberwolves-thunder",
+        "mem @ phx": "/nba/game/_/gameId/401705019/grizzlies-suns",
+        "cle @ lal": "/nba/game/_/gameId/401705020/cavaliers-lakers"
+    },
+    "2025-01-01": {
+        "orl @ det": "/nba/game/_/gameId/401705021/magic-pistons",
+        "chi @ wsh": "/nba/game/_/gameId/401705022/bulls-wizards",
+        "no @ mia": "/nba/game/_/gameId/401705023/pelicans-heat",
+        "utah @ ny": "/nba/game/_/gameId/401705024/jazz-knicks",
+        "bkn @ tor": "/nba/game/_/gameId/401705025/nets-raptors",
+        "dal @ hou": "/nba/game/_/gameId/401705026/mavericks-rockets",
+        "atl @ den": "/nba/game/_/gameId/401705027/hawks-nuggets",
+        "phi @ sac": "/nba/game/_/gameId/401705028/76ers-kings"
+    },
+    "2025-01-02": {
+        "ind @ mia": "/nba/game/_/gameId/401705029/pacers-heat",
+        "bos @ min": "/nba/game/_/gameId/401705030/celtics-timberwolves",
+        "bkn @ mil": "/nba/game/_/gameId/401705031/nets-bucks",
+        "lac @ okc": "/nba/game/_/gameId/401705032/clippers-thunder",
+        "phi @ gs": "/nba/game/_/gameId/401705033/76ers-warriors",
+        "por @ lal": "/nba/game/_/gameId/401705034/trail-blazers-lakers"
+    },
+    "2025-01-03": {
+        "cha @ det": "/nba/game/_/gameId/401705035/hornets-pistons",
+        "orl @ tor": "/nba/game/_/gameId/401705036/magic-raptors",
+        "bos @ hou": "/nba/game/_/gameId/401705037/celtics-rockets",
+        "wsh @ no": "/nba/game/_/gameId/401705038/wizards-pelicans",
+        "ny @ okc": "/nba/game/_/gameId/401705039/knicks-thunder",
+        "cle @ dal": "/nba/game/_/gameId/401705040/cavaliers-mavericks",
+        "sa @ den": "/nba/game/_/gameId/401705041/spurs-nuggets",
+        "mem @ sac": "/nba/game/_/gameId/401705042/grizzlies-kings",
+        "atl @ lal": "/nba/game/_/gameId/401705043/hawks-lakers"
+    },
+    "2025-01-04": {
+        "phi @ bkn": "/nba/game/_/gameId/401705044/76ers-nets",
+        "min @ det": "/nba/game/_/gameId/401705045/timberwolves-pistons",
+        "phx @ ind": "/nba/game/_/gameId/401705046/suns-pacers",
+        "utah @ mia": "/nba/game/_/gameId/401705047/jazz-heat",
+        "ny @ chi": "/nba/game/_/gameId/401705048/knicks-bulls",
+        "por @ mil": "/nba/game/_/gameId/401705049/trail-blazers-bucks",
+        "den @ sa": "/nba/game/_/gameId/401705050/nuggets-spurs",
+        "mem @ gs": "/nba/game/_/gameId/401705051/grizzlies-warriors",
+        "atl @ lac": "/nba/game/_/gameId/401705052/hawks-clippers"
+    },
+    "2025-01-05": {
+        "bos @ okc": "/nba/game/_/gameId/401705053/celtics-thunder",
+        "cha @ cle": "/nba/game/_/gameId/401705054/hornets-cavaliers",
+        "no @ wsh": "/nba/game/_/gameId/401705055/pelicans-wizards",
+        "utah @ orl": "/nba/game/_/gameId/401705056/jazz-magic",
+        "lal @ hou": "/nba/game/_/gameId/401705057/lakers-rockets",
+        "sac @ gs": "/nba/game/_/gameId/401705058/kings-warriors"
+    },
+    "2025-01-06": {
+        "por @ det": "/nba/game/_/gameId/401705059/trail-blazers-pistons",
+        "phx @ phi": "/nba/game/_/gameId/401705060/suns-76ers",
+        "ind @ bkn": "/nba/game/_/gameId/401705061/pacers-nets",
+        "orl @ ny": "/nba/game/_/gameId/401705062/magic-knicks",
+        "mil @ tor": "/nba/game/_/gameId/401705063/bucks-raptors",
+        "sa @ chi": "/nba/game/_/gameId/401705064/spurs-bulls",
+        "dal @ mem": "/nba/game/_/gameId/401705065/mavericks-grizzlies",
+        "lac @ min": "/nba/game/_/gameId/401705066/clippers-timberwolves",
+        "mia @ sac": "/nba/game/_/gameId/401705067/heat-kings"
+    },
+    "2025-01-07": {
+        "phx @ cha": "/nba/game/_/gameId/401705068/suns-hornets",
+        "hou @ wsh": "/nba/game/_/gameId/401705069/rockets-wizards",
+        "lal @ dal": "/nba/game/_/gameId/401705070/lakers-mavericks",
+        "min @ no": "/nba/game/_/gameId/401705071/timberwolves-pelicans",
+        "atl @ utah": "/nba/game/_/gameId/401705072/hawks-jazz",
+        "bos @ den": "/nba/game/_/gameId/401705073/celtics-nuggets",
+        "mia @ gs": "/nba/game/_/gameId/401705074/heat-warriors"
+    },
+    "2025-01-08": {
+        "okc @ cle": "/nba/game/_/gameId/401705075/thunder-cavaliers",
+        "chi @ ind": "/nba/game/_/gameId/401705076/bulls-pacers",
+        "wsh @ phi": "/nba/game/_/gameId/401705078/wizards-76ers",
+        "tor @ ny": "/nba/game/_/gameId/401705077/raptors-knicks",
+        "det @ bkn": "/nba/game/_/gameId/401705079/pistons-nets",
+        "por @ no": "/nba/game/_/gameId/401705080/trail-blazers-pelicans",
+        "lac @ den": "/nba/game/_/gameId/401705081/clippers-nuggets",
+        "sa @ mil": "/nba/game/_/gameId/401705082/spurs-bucks"
+    },
+    "2025-01-09": {
+        "tor @ cle": "/nba/game/_/gameId/401705083/raptors-cavaliers",
+        "gs @ det": "/nba/game/_/gameId/401705084/warriors-pistons",
+        "min @ orl": "/nba/game/_/gameId/401705085/timberwolves-magic",
+        "hou @ mem": "/nba/game/_/gameId/401705086/rockets-grizzlies",
+        "por @ dal": "/nba/game/_/gameId/401705087/trail-blazers-mavericks",
+        "atl @ phx": "/nba/game/_/gameId/401705088/hawks-suns",
+        "mia @ utah": "/nba/game/_/gameId/401705089/heat-jazz",
+        "cha @ lal": "/nba/game/_/gameId/401705090/hornets-lakers"
+    },
+    "2025-01-10": {
+        "gs @ ind": "/nba/game/_/gameId/401705091/warriors-pacers",
+        "mil @ orl": "/nba/game/_/gameId/401705092/bucks-magic",
+        "no @ phi": "/nba/game/_/gameId/401705093/pelicans-76ers",
+        "sac @ bos": "/nba/game/_/gameId/401705094/kings-celtics",
+        "okc @ ny": "/nba/game/_/gameId/401705095/thunder-knicks",
+        "wsh @ chi": "/nba/game/_/gameId/401705096/wizards-bulls",
+        "bkn @ den": "/nba/game/_/gameId/401705097/nets-nuggets"
+    },
+    "2025-01-11": {
+        "hou @ atl": "/nba/game/_/gameId/401705098/rockets-hawks",
+        "utah @ phx": "/nba/game/_/gameId/401705099/jazz-suns",
+        "tor @ det": "/nba/game/_/gameId/401705100/raptors-pistons",
+        "mem @ min": "/nba/game/_/gameId/401705101/grizzlies-timberwolves",
+        "mia @ por": "/nba/game/_/gameId/401705102/heat-trail-blazers",
+        "sa @ lal": "/nba/game/_/gameId/401705103/spurs-lakers",
+        "cha @ lac": "/nba/game/_/gameId/401705104/hornets-clippers"
+    },
+    "2025-01-12": {
+        "mil @ ny": "/nba/game/_/gameId/401705105/bucks-knicks",
+        "den @ dal": "/nba/game/_/gameId/401705106/nuggets-mavericks",
+        "sac @ chi": "/nba/game/_/gameId/401705107/kings-bulls",
+        "no @ bos": "/nba/game/_/gameId/401705108/pelicans-celtics",
+        "ind @ cle": "/nba/game/_/gameId/401705109/pacers-cavaliers",
+        "phi @ orl": "/nba/game/_/gameId/401705110/76ers-magic",
+        "okc @ wsh": "/nba/game/_/gameId/401705111/thunder-wizards",
+        "bkn @ utah": "/nba/game/_/gameId/401705112/nets-jazz",
+        "cha @ phx": "/nba/game/_/gameId/401705113/hornets-suns"
+    },
+    "2025-01-13": {
+        "min @ wsh": "/nba/game/_/gameId/401705114/timberwolves-wizards",
+        "det @ ny": "/nba/game/_/gameId/401705115/pistons-knicks",
+        "gs @ tor": "/nba/game/_/gameId/401705116/warriors-raptors",
+        "mem @ hou": "/nba/game/_/gameId/401705117/grizzlies-rockets",
+        "sa @ lal": "/nba/game/_/gameId/401705118/spurs-lakers",
+        "mia @ lac": "/nba/game/_/gameId/401705119/heat-clippers"
+    },
+    "2025-01-14": {
+        "cle @ ind": "/nba/game/_/gameId/401705120/cavaliers-pacers",
+        "okc @ phi": "/nba/game/_/gameId/401705121/thunder-76ers",
+        "phx @ atl": "/nba/game/_/gameId/401705122/suns-hawks",
+        "no @ chi": "/nba/game/_/gameId/401705123/pelicans-bulls",
+        "sac @ mil": "/nba/game/_/gameId/401705124/kings-bucks",
+        "den @ dal": "/nba/game/_/gameId/401705125/nuggets-mavericks",
+        "bkn @ por": "/nba/game/_/gameId/401705126/nets-trail-blazers"
+    },
+    "2025-01-15": {
+        "ny @ phi": "/nba/game/_/gameId/401705127/knicks-76ers",
+        "bos @ tor": "/nba/game/_/gameId/401705128/celtics-raptors",
+        "atl @ chi": "/nba/game/_/gameId/401705129/hawks-bulls",
+        "orl @ mil": "/nba/game/_/gameId/401705130/magic-bucks",
+        "gs @ min": "/nba/game/_/gameId/401705131/warriors-timberwolves",
+        "dal @ no": "/nba/game/_/gameId/401705132/mavericks-pelicans",
+        "mem @ sa": "/nba/game/_/gameId/401705133/grizzlies-spurs",
+        "hou @ den": "/nba/game/_/gameId/401705134/rockets-nuggets",
+        "cha @ utah": "/nba/game/_/gameId/401705135/hornets-jazz",
+        "mia @ lal": "/nba/game/_/gameId/401705136/heat-lakers",
+        "bkn @ lac": "/nba/game/_/gameId/401705137/nets-clippers"
+    },
+    "2025-01-16": {
+        "ind @ det": "/nba/game/_/gameId/401705138/pacers-pistons",
+        "phx @ wsh": "/nba/game/_/gameId/401705139/suns-wizards",
+        "cle @ okc": "/nba/game/_/gameId/401705140/cavaliers-thunder",
+        "lac @ por": "/nba/game/_/gameId/401705141/clippers-trail-blazers",
+        "hou @ sac": "/nba/game/_/gameId/401705142/rockets-kings"
+    },
+    "2025-01-17": {
+        "orl @ bos": "/nba/game/_/gameId/401705143/magic-celtics",
+        "min @ ny": "/nba/game/_/gameId/401705144/timberwolves-knicks",
+        "den @ mia": "/nba/game/_/gameId/401705145/nuggets-heat",
+        "tor @ mil": "/nba/game/_/gameId/401705146/raptors-bucks",
+        "utah @ no": "/nba/game/_/gameId/401705147/jazz-pelicans",
+        "cha @ chi": "/nba/game/_/gameId/401705150/hornets-bulls",
+        "okc @ dal": "/nba/game/_/gameId/401705149/thunder-mavericks",
+        "mem @ sa": "/nba/game/_/gameId/401705148/grizzlies-spurs",
+        "bkn @ lal": "/nba/game/_/gameId/401705151/nets-lakers"
+    },
+    "2025-01-18": {
+        "phx @ det": "/nba/game/_/gameId/401705152/suns-pistons",
+        "atl @ bos": "/nba/game/_/gameId/401705153/hawks-celtics",
+        "phi @ ind": "/nba/game/_/gameId/401705154/76ers-pacers",
+        "wsh @ gs": "/nba/game/_/gameId/401705155/wizards-warriors",
+        "cle @ min": "/nba/game/_/gameId/401705156/cavaliers-timberwolves",
+        "hou @ por": "/nba/game/_/gameId/401705157/rockets-trail-blazers"
+    },
+    "2025-01-19": {
+        "sa @ mia": "/nba/game/_/gameId/401705158/spurs-heat",
+        "den @ orl": "/nba/game/_/gameId/401705159/nuggets-magic",
+        "phi @ mil": "/nba/game/_/gameId/401705160/76ers-bucks",
+        "bkn @ okc": "/nba/game/_/gameId/401705161/nets-thunder",
+        "lal @ lac": "/nba/game/_/gameId/401705162/lakers-clippers",
+        "chi @ por": "/nba/game/_/gameId/401705163/bulls-trail-blazers",
+        "wsh @ sac": "/nba/game/_/gameId/401705164/wizards-kings"
+    },
+    "2025-01-20": {
+        "dal @ cha": "/nba/game/_/gameId/401705165/mavericks-hornets",
+        "det @ hou": "/nba/game/_/gameId/401705166/pistons-rockets",
+        "min @ mem": "/nba/game/_/gameId/401705167/timberwolves-grizzlies",
+        "atl @ ny": "/nba/game/_/gameId/401705168/hawks-knicks",
+        "phx @ cle": "/nba/game/_/gameId/401705169/suns-cavaliers",
+        "bos @ gs": "/nba/game/_/gameId/401705170/celtics-warriors",
+        "utah @ no": "/nba/game/_/gameId/401705171/jazz-pelicans",
+        "chi @ lac": "/nba/game/_/gameId/401705177/bulls-clippers"
+    },
+    "2025-01-21": {
+        "ny @ bkn": "/nba/game/_/gameId/401705172/knicks-nets",
+        "por @ mia": "/nba/game/_/gameId/401705173/trail-blazers-heat",
+        "orl @ tor": "/nba/game/_/gameId/401705174/magic-raptors",
+        "phi @ den": "/nba/game/_/gameId/401705175/76ers-nuggets",
+        "wsh @ lal": "/nba/game/_/gameId/401705176/wizards-lakers"
+    },
+    "2025-01-22": {
+        "det @ atl": "/nba/game/_/gameId/401705178/pistons-hawks",
+        "phx @ bkn": "/nba/game/_/gameId/401705179/suns-nets",
+        "min @ dal": "/nba/game/_/gameId/401705180/timberwolves-mavericks",
+        "cle @ hou": "/nba/game/_/gameId/401705181/cavaliers-rockets",
+        "cha @ mem": "/nba/game/_/gameId/401705182/hornets-grizzlies",
+        "mil @ no": "/nba/game/_/gameId/401705183/bucks-pelicans",
+        "utah @ okc": "/nba/game/_/gameId/401705184/jazz-thunder",
+        "gs @ sac": "/nba/game/_/gameId/401705185/warriors-kings",
+        "bos @ lac": "/nba/game/_/gameId/401705186/celtics-clippers"
+    },
+    "2025-01-23": {
+        "sa @ ind": "/nba/game/_/gameId/401705187/spurs-pacers",
+        "por @ orl": "/nba/game/_/gameId/401705188/trail-blazers-magic",
+        "tor @ atl": "/nba/game/_/gameId/401705189/raptors-hawks",
+        "mia @ mil": "/nba/game/_/gameId/401705190/heat-bucks",
+        "dal @ okc": "/nba/game/_/gameId/401705191/mavericks-thunder",
+        "sac @ den": "/nba/game/_/gameId/401705192/kings-nuggets",
+        "chi @ gs": "/nba/game/_/gameId/401705194/bulls-warriors",
+        "bos @ lal": "/nba/game/_/gameId/401705195/celtics-lakers",
+        "wsh @ lac": "/nba/game/_/gameId/401705549/wizards-clippers"
+    },
+    "2025-01-24": {
+        "por @ cha": "/nba/game/_/gameId/401705196/trail-blazers-hornets",
+        "cle @ phi": "/nba/game/_/gameId/401705197/cavaliers-76ers",
+        "no @ mem": "/nba/game/_/gameId/401705198/pelicans-grizzlies"
+    },
+    "2025-01-25": {
+        "ind @ sa": "/nba/game/_/gameId/401705199/pacers-spurs",
+        "den @ min": "/nba/game/_/gameId/401705200/nuggets-timberwolves",
+        "bos @ dal": "/nba/game/_/gameId/401705201/celtics-mavericks",
+        "mia @ bkn": "/nba/game/_/gameId/401705202/heat-nets",
+        "no @ cha": "/nba/game/_/gameId/401705203/pelicans-hornets",
+        "det @ orl": "/nba/game/_/gameId/401705204/pistons-magic",
+        "tor @ atl": "/nba/game/_/gameId/401705205/raptors-hawks",
+        "hou @ cle": "/nba/game/_/gameId/401705206/rockets-cavaliers",
+        "sac @ ny": "/nba/game/_/gameId/401705207/kings-knicks",
+        "phi @ chi": "/nba/game/_/gameId/401705208/76ers-bulls",
+        "utah @ mem": "/nba/game/_/gameId/401705209/jazz-grizzlies",
+        "lal @ gs": "/nba/game/_/gameId/401705210/lakers-warriors",
+        "wsh @ phx": "/nba/game/_/gameId/401705211/wizards-suns",
+        "mil @ lac": "/nba/game/_/gameId/401705212/bucks-clippers"
+    },
+    "2025-01-26": {
+        "okc @ por": "/nba/game/_/gameId/401705213/thunder-trail-blazers"
+    },
+    "2025-01-27": {
+        "lal @ cha": "/nba/game/_/gameId/401705214/lakers-hornets",
+        "det @ cle": "/nba/game/_/gameId/401705215/pistons-cavaliers",
+        "hou @ bos": "/nba/game/_/gameId/401705216/rockets-celtics",
+        "sac @ bkn": "/nba/game/_/gameId/401705217/kings-nets",
+        "orl @ mia": "/nba/game/_/gameId/401705218/magic-heat",
+        "mem @ ny": "/nba/game/_/gameId/401705219/grizzlies-knicks",
+        "no @ tor": "/nba/game/_/gameId/401705220/pelicans-raptors",
+        "den @ chi": "/nba/game/_/gameId/401705221/nuggets-bulls",
+        "atl @ min": "/nba/game/_/gameId/401705222/hawks-timberwolves",
+        "wsh @ dal": "/nba/game/_/gameId/401705223/wizards-mavericks",
+        "mil @ utah": "/nba/game/_/gameId/401705224/bucks-jazz",
+        "lac @ phx": "/nba/game/_/gameId/401705225/clippers-suns"
+    },
+    "2025-01-28": {
+        "lal @ phi": "/nba/game/_/gameId/401705226/lakers-76ers",
+        "hou @ atl": "/nba/game/_/gameId/401748705/rockets-hawks",
+        "utah @ gs": "/nba/game/_/gameId/401705227/jazz-warriors",
+        "mil @ por": "/nba/game/_/gameId/401705228/bucks-trail-blazers"
+    },
+    "2025-01-29": {
+        "bkn @ cha": "/nba/game/_/gameId/401705229/nets-hornets",
+        "det @ ind": "/nba/game/_/gameId/401705230/pistons-pacers",
+        "tor @ wsh": "/nba/game/_/gameId/401705231/raptors-wizards",
+        "chi @ bos": "/nba/game/_/gameId/401705232/bulls-celtics",
+        "cle @ mia": "/nba/game/_/gameId/401705233/cavaliers-heat",
+        "den @ ny": "/nba/game/_/gameId/401705234/nuggets-knicks",
+        "sac @ phi": "/nba/game/_/gameId/401705235/kings-76ers",
+        "dal @ no": "/nba/game/_/gameId/401705236/mavericks-pelicans",
+        "lac @ sa": "/nba/game/_/gameId/401705237/clippers-spurs",
+        "min @ phx": "/nba/game/_/gameId/401705238/timberwolves-suns",
+        "okc @ gs": "/nba/game/_/gameId/401705239/thunder-warriors"
+    },
+    "2025-01-30": {
+        "lal @ wsh": "/nba/game/_/gameId/401705240/lakers-wizards",
+        "atl @ cle": "/nba/game/_/gameId/401705241/hawks-cavaliers",
+        "min @ utah": "/nba/game/_/gameId/401705243/timberwolves-jazz",
+        "hou @ mem": "/nba/game/_/gameId/401705242/rockets-grizzlies",
+        "orl @ por": "/nba/game/_/gameId/401705244/magic-trail-blazers"
+    },
+    "2025-01-31": {
+        "lac @ cha": "/nba/game/_/gameId/401705245/clippers-hornets",
+        "dal @ det": "/nba/game/_/gameId/401705246/mavericks-pistons",
+        "den @ phi": "/nba/game/_/gameId/401705247/nuggets-76ers",
+        "chi @ tor": "/nba/game/_/gameId/401705248/bulls-raptors",
+        "bos @ no": "/nba/game/_/gameId/401705249/celtics-pelicans",
+        "mil @ sa": "/nba/game/_/gameId/401705250/bucks-spurs",
+        "phx @ gs": "/nba/game/_/gameId/401705251/suns-warriors"
+    },
+    "2025-02-01": {
+        "atl @ ind": "/nba/game/_/gameId/401705252/hawks-pacers",
+        "orl @ utah": "/nba/game/_/gameId/401705253/magic-jazz",
+        "den @ cha": "/nba/game/_/gameId/401705254/nuggets-hornets",
+        "bkn @ hou": "/nba/game/_/gameId/401705255/nets-rockets",
+        "wsh @ min": "/nba/game/_/gameId/401705256/wizards-timberwolves",
+        "sac @ okc": "/nba/game/_/gameId/401705257/kings-thunder",
+        "lal @ ny": "/nba/game/_/gameId/401705258/lakers-knicks",
+        "mia @ sa": "/nba/game/_/gameId/401705259/heat-spurs",
+        "phx @ por": "/nba/game/_/gameId/401705260/suns-trail-blazers"
+    },
+    "2025-02-02": {
+        "chi @ det": "/nba/game/_/gameId/401705261/bulls-pistons",
+        "dal @ cle": "/nba/game/_/gameId/401705262/mavericks-cavaliers",
+        "lac @ tor": "/nba/game/_/gameId/401705263/clippers-raptors",
+        "bos @ phi": "/nba/game/_/gameId/401705264/celtics-76ers",
+        "mem @ mil": "/nba/game/_/gameId/401705265/grizzlies-bucks"
+    },
+    "2025-02-03": {
+        "wsh @ cha": "/nba/game/_/gameId/401705266/wizards-hornets",
+        "atl @ det": "/nba/game/_/gameId/401705267/hawks-pistons",
+        "hou @ ny": "/nba/game/_/gameId/401705268/rockets-knicks",
+        "sa @ mem": "/nba/game/_/gameId/401705269/spurs-grizzlies",
+        "sac @ min": "/nba/game/_/gameId/401705270/kings-timberwolves",
+        "mil @ okc": "/nba/game/_/gameId/401705271/bucks-thunder",
+        "no @ den": "/nba/game/_/gameId/401705272/pelicans-nuggets",
+        "ind @ utah": "/nba/game/_/gameId/401705273/pacers-jazz",
+        "orl @ gs": "/nba/game/_/gameId/401705274/magic-warriors",
+        "phx @ por": "/nba/game/_/gameId/401705275/suns-trail-blazers"
+    },
+    "2025-02-04": {
+        "dal @ phi": "/nba/game/_/gameId/401705278/mavericks-76ers",
+        "bos @ cle": "/nba/game/_/gameId/401705276/celtics-cavaliers",
+        "hou @ bkn": "/nba/game/_/gameId/401705277/rockets-nets",
+        "ny @ tor": "/nba/game/_/gameId/401705279/knicks-raptors",
+        "mia @ chi": "/nba/game/_/gameId/401705280/heat-bulls",
+        "lal @ lac": "/nba/game/_/gameId/401705281/lakers-clippers",
+        "ind @ por": "/nba/game/_/gameId/401705282/pacers-trail-blazers"
+    },
+    "2025-02-05": {
+        "mil @ cha": "/nba/game/_/gameId/401705283/bucks-hornets",
+        "cle @ det": "/nba/game/_/gameId/401705284/cavaliers-pistons",
+        "sa @ atl": "/nba/game/_/gameId/401705285/spurs-hawks",
+        "wsh @ bkn": "/nba/game/_/gameId/401705286/wizards-nets",
+        "mia @ phi": "/nba/game/_/gameId/401705287/heat-76ers",
+        "mem @ tor": "/nba/game/_/gameId/401705288/grizzlies-raptors",
+        "chi @ min": "/nba/game/_/gameId/401705289/bulls-timberwolves",
+        "gs @ utah": "/nba/game/_/gameId/401705291/warriors-jazz",
+        "no @ den": "/nba/game/_/gameId/401705292/pelicans-nuggets",
+        "phx @ okc": "/nba/game/_/gameId/401705290/suns-thunder",
+        "orl @ sac": "/nba/game/_/gameId/401705293/magic-kings"
+    },
+    "2025-02-06": {
+        "dal @ bos": "/nba/game/_/gameId/401705294/mavericks-celtics",
+        "hou @ min": "/nba/game/_/gameId/401705295/rockets-timberwolves",
+        "orl @ den": "/nba/game/_/gameId/401705296/magic-nuggets",
+        "gs @ lal": "/nba/game/_/gameId/401705297/warriors-lakers",
+        "sac @ por": "/nba/game/_/gameId/401705298/kings-trail-blazers",
+        "ind @ lac": "/nba/game/_/gameId/401705299/pacers-clippers"
+    },
+    "2025-02-07": {
+        "sa @ cha": "/nba/game/_/gameId/401705300/spurs-hornets",
+        "cle @ wsh": "/nba/game/_/gameId/401705301/cavaliers-wizards",
+        "mil @ atl": "/nba/game/_/gameId/401705302/bucks-hawks",
+        "mia @ bkn": "/nba/game/_/gameId/401705303/heat-nets",
+        "phi @ det": "/nba/game/_/gameId/401705304/76ers-pistons",
+        "tor @ okc": "/nba/game/_/gameId/401705305/raptors-thunder",
+        "utah @ phx": "/nba/game/_/gameId/401705306/jazz-suns"
+    },
+    "2025-02-08": {
+        "hou @ dal": "/nba/game/_/gameId/401705307/rockets-mavericks",
+        "ind @ lal": "/nba/game/_/gameId/401705308/pacers-lakers",
+        "sa @ orl": "/nba/game/_/gameId/401705309/spurs-magic",
+        "atl @ wsh": "/nba/game/_/gameId/401705310/hawks-wizards",
+        "gs @ chi": "/nba/game/_/gameId/401705311/warriors-bulls",
+        "okc @ mem": "/nba/game/_/gameId/401705312/thunder-grizzlies",
+        "por @ min": "/nba/game/_/gameId/401705313/trail-blazers-timberwolves",
+        "bos @ ny": "/nba/game/_/gameId/401705314/celtics-knicks",
+        "den @ phx": "/nba/game/_/gameId/401705315/nuggets-suns",
+        "no @ sac": "/nba/game/_/gameId/401705316/pelicans-kings",
+        "utah @ lac": "/nba/game/_/gameId/401705317/jazz-clippers"
+    },
+    "2025-02-09": {
+        "cha @ det": "/nba/game/_/gameId/401705318/hornets-pistons",
+        "tor @ hou": "/nba/game/_/gameId/401705319/raptors-rockets",
+        "phi @ mil": "/nba/game/_/gameId/401705320/76ers-bucks"
+    },
+    "2025-02-10": {
+        "min @ cle": "/nba/game/_/gameId/401705321/timberwolves-cavaliers",
+        "atl @ orl": "/nba/game/_/gameId/401705322/hawks-magic",
+        "sa @ wsh": "/nba/game/_/gameId/401705323/spurs-wizards",
+        "cha @ bkn": "/nba/game/_/gameId/401705324/hornets-nets",
+        "bos @ mia": "/nba/game/_/gameId/401705325/celtics-heat",
+        "gs @ mil": "/nba/game/_/gameId/401705326/warriors-bucks",
+        "no @ okc": "/nba/game/_/gameId/401705327/pelicans-thunder",
+        "sac @ dal": "/nba/game/_/gameId/401705328/kings-mavericks",
+        "por @ den": "/nba/game/_/gameId/401705329/trail-blazers-nuggets",
+        "utah @ lal": "/nba/game/_/gameId/401705334/jazz-lakers"
+    },
+    "2025-02-11": {
+        "tor @ phi": "/nba/game/_/gameId/401705330/raptors-76ers",
+        "ny @ ind": "/nba/game/_/gameId/401705331/knicks-pacers",
+        "det @ chi": "/nba/game/_/gameId/401705332/pistons-bulls",
+        "mem @ phx": "/nba/game/_/gameId/401705333/grizzlies-suns"
+    },
+    "2025-02-12": {
+        "sa @ bos": "/nba/game/_/gameId/401705335/spurs-celtics",
+        "cha @ orl": "/nba/game/_/gameId/401705336/hornets-magic",
+        "ind @ wsh": "/nba/game/_/gameId/401705337/pacers-wizards",
+        "phi @ bkn": "/nba/game/_/gameId/401705338/76ers-nets",
+        "atl @ ny": "/nba/game/_/gameId/401705339/hawks-knicks",
+        "cle @ tor": "/nba/game/_/gameId/401705340/cavaliers-raptors",
+        "det @ chi": "/nba/game/_/gameId/401705341/pistons-bulls",
+        "mil @ min": "/nba/game/_/gameId/401705342/bucks-timberwolves",
+        "sac @ no": "/nba/game/_/gameId/401705343/kings-pelicans",
+        "mia @ okc": "/nba/game/_/gameId/401705344/heat-thunder",
+        "phx @ hou": "/nba/game/_/gameId/401705345/suns-rockets",
+        "por @ den": "/nba/game/_/gameId/401705346/trail-blazers-nuggets",
+        "lal @ utah": "/nba/game/_/gameId/401705347/lakers-jazz",
+        "gs @ dal": "/nba/game/_/gameId/401705348/warriors-mavericks",
+        "mem @ lac": "/nba/game/_/gameId/401705349/grizzlies-clippers"
+    },
+    "2025-02-13": {
+        "gs @ hou": "/nba/game/_/gameId/401705350/warriors-rockets",
+        "sac @ no": "/nba/game/_/gameId/401705351/kings-pelicans",
+        "mia @ dal": "/nba/game/_/gameId/401705352/heat-mavericks",
+        "okc @ min": "/nba/game/_/gameId/401705353/thunder-timberwolves",
+        "lac @ utah": "/nba/game/_/gameId/401705570/clippers-jazz"
+    },
+    "2025-02-16": {},
+    "2025-02-19": {
+        "cha @ lal": "/nba/game/_/gameId/401748704/hornets-lakers"
+    },
+    "2025-02-20": {
+        "mem @ ind": "/nba/game/_/gameId/401705354/grizzlies-pacers",
+        "bos @ phi": "/nba/game/_/gameId/401705355/celtics-76ers",
+        "orl @ atl": "/nba/game/_/gameId/401705356/magic-hawks",
+        "cle @ bkn": "/nba/game/_/gameId/401705357/cavaliers-nets",
+        "chi @ ny": "/nba/game/_/gameId/401705358/bulls-knicks",
+        "lac @ mil": "/nba/game/_/gameId/401705359/clippers-bucks",
+        "cha @ den": "/nba/game/_/gameId/401705360/hornets-nuggets",
+        "phx @ sa": "/nba/game/_/gameId/401705361/suns-spurs",
+        "lal @ por": "/nba/game/_/gameId/401705362/lakers-trail-blazers"
+    },
+    "2025-02-21": {
+        "ny @ cle": "/nba/game/_/gameId/401705363/knicks-cavaliers",
+        "mem @ orl": "/nba/game/_/gameId/401705364/grizzlies-magic",
+        "mil @ wsh": "/nba/game/_/gameId/401705365/bucks-wizards",
+        "mia @ tor": "/nba/game/_/gameId/401705366/heat-raptors",
+        "det @ sa": "/nba/game/_/gameId/401705368/pistons-spurs",
+        "no @ dal": "/nba/game/_/gameId/401705369/pelicans-mavericks",
+        "min @ hou": "/nba/game/_/gameId/401705367/timberwolves-rockets",
+        "okc @ utah": "/nba/game/_/gameId/401705370/thunder-jazz",
+        "gs @ sac": "/nba/game/_/gameId/401705371/warriors-kings"
+    },
+    "2025-02-22": {
+        "phx @ chi": "/nba/game/_/gameId/401705372/suns-bulls",
+        "bkn @ phi": "/nba/game/_/gameId/401705373/nets-76ers",
+        "lal @ den": "/nba/game/_/gameId/401705374/lakers-nuggets",
+        "hou @ utah": "/nba/game/_/gameId/401705375/rockets-jazz",
+        "cha @ por": "/nba/game/_/gameId/401705376/hornets-trail-blazers"
+    },
+    "2025-02-23": {
+        "ny @ bos": "/nba/game/_/gameId/401705377/knicks-celtics",
+        "dal @ gs": "/nba/game/_/gameId/401705378/mavericks-warriors",
+        "lac @ ind": "/nba/game/_/gameId/401705379/clippers-pacers",
+        "det @ atl": "/nba/game/_/gameId/401705380/pistons-hawks",
+        "wsh @ orl": "/nba/game/_/gameId/401705381/wizards-magic",
+        "phx @ tor": "/nba/game/_/gameId/401705382/suns-raptors",
+        "mia @ mil": "/nba/game/_/gameId/401705383/heat-bucks",
+        "sa @ no": "/nba/game/_/gameId/401705384/spurs-pelicans",
+        "mem @ cle": "/nba/game/_/gameId/401705385/grizzlies-cavaliers",
+        "okc @ min": "/nba/game/_/gameId/401705386/thunder-timberwolves"
+    },
+    "2025-02-24": {
+        "lac @ det": "/nba/game/_/gameId/401705387/clippers-pistons",
+        "den @ ind": "/nba/game/_/gameId/401705388/nuggets-pacers",
+        "chi @ phi": "/nba/game/_/gameId/401705389/bulls-76ers",
+        "bkn @ wsh": "/nba/game/_/gameId/401705390/nets-wizards",
+        "mia @ atl": "/nba/game/_/gameId/401705391/heat-hawks",
+        "min @ okc": "/nba/game/_/gameId/401705392/timberwolves-thunder",
+        "por @ utah": "/nba/game/_/gameId/401705393/trail-blazers-jazz",
+        "cha @ sac": "/nba/game/_/gameId/401705394/hornets-kings"
+    },
+    "2025-02-25": {
+        "bos @ tor": "/nba/game/_/gameId/401705395/celtics-raptors",
+        "cle @ orl": "/nba/game/_/gameId/401705396/cavaliers-magic",
+        "mil @ hou": "/nba/game/_/gameId/401705397/bucks-rockets",
+        "phx @ mem": "/nba/game/_/gameId/401705398/suns-grizzlies",
+        "sa @ no": "/nba/game/_/gameId/401705399/spurs-pelicans",
+        "cha @ gs": "/nba/game/_/gameId/401705400/hornets-warriors",
+        "dal @ lal": "/nba/game/_/gameId/401705401/mavericks-lakers"
+    },
+    "2025-02-26": {
+        "bos @ det": "/nba/game/_/gameId/401705402/celtics-pistons",
+        "tor @ ind": "/nba/game/_/gameId/401705403/raptors-pacers",
+        "phi @ ny": "/nba/game/_/gameId/401705404/76ers-knicks",
+        "por @ wsh": "/nba/game/_/gameId/401705405/trail-blazers-wizards",
+        "okc @ bkn": "/nba/game/_/gameId/401705406/thunder-nets",
+        "atl @ mia": "/nba/game/_/gameId/401705407/hawks-heat",
+        "lac @ chi": "/nba/game/_/gameId/401705408/clippers-bulls",
+        "sac @ utah": "/nba/game/_/gameId/401705409/kings-jazz",
+        "sa @ hou": "/nba/game/_/gameId/401705410/spurs-rockets"
+    },
+    "2025-02-27": {
+        "gs @ orl": "/nba/game/_/gameId/401705411/warriors-magic",
+        "den @ mil": "/nba/game/_/gameId/401705412/nuggets-bucks",
+        "cha @ dal": "/nba/game/_/gameId/401705413/hornets-mavericks",
+        "no @ phx": "/nba/game/_/gameId/401705414/pelicans-suns",
+        "min @ lal": "/nba/game/_/gameId/401705415/timberwolves-lakers"
+    },
+    "2025-02-28": {
+        "den @ det": "/nba/game/_/gameId/401705416/nuggets-pistons",
+        "okc @ atl": "/nba/game/_/gameId/401705417/thunder-hawks",
+        "cle @ bos": "/nba/game/_/gameId/401705418/cavaliers-celtics",
+        "por @ bkn": "/nba/game/_/gameId/401705419/trail-blazers-nets",
+        "ind @ mia": "/nba/game/_/gameId/401705420/pacers-heat",
+        "tor @ chi": "/nba/game/_/gameId/401705421/raptors-bulls",
+        "ny @ mem": "/nba/game/_/gameId/401705422/knicks-grizzlies",
+        "no @ phx": "/nba/game/_/gameId/401705423/pelicans-suns",
+        "min @ utah": "/nba/game/_/gameId/401705424/timberwolves-jazz",
+        "lac @ lal": "/nba/game/_/gameId/401705425/clippers-lakers"
+    },
+    "2025-03-01": {
+        "wsh @ cha": "/nba/game/_/gameId/401705426/wizards-hornets",
+        "bkn @ det": "/nba/game/_/gameId/401705427/nets-pistons",
+        "sac @ hou": "/nba/game/_/gameId/401705428/kings-rockets",
+        "sa @ mem": "/nba/game/_/gameId/401705429/spurs-grizzlies",
+        "gs @ phi": "/nba/game/_/gameId/401705430/warriors-76ers",
+        "mil @ dal": "/nba/game/_/gameId/401705431/bucks-mavericks"
+    },
+    "2025-03-02": {
+        "den @ bos": "/nba/game/_/gameId/401705432/nuggets-celtics",
+        "por @ cle": "/nba/game/_/gameId/401705433/trail-blazers-cavaliers",
+        "chi @ ind": "/nba/game/_/gameId/401705434/bulls-pacers",
+        "ny @ mia": "/nba/game/_/gameId/401705435/knicks-heat",
+        "tor @ orl": "/nba/game/_/gameId/401705436/raptors-magic",
+        "okc @ sa": "/nba/game/_/gameId/401705437/thunder-spurs",
+        "no @ utah": "/nba/game/_/gameId/401705438/pelicans-jazz",
+        "min @ phx": "/nba/game/_/gameId/401705439/timberwolves-suns",
+        "lac @ lal": "/nba/game/_/gameId/401705440/clippers-lakers"
+    },
+    "2025-03-03": {
+        "gs @ cha": "/nba/game/_/gameId/401705441/warriors-hornets",
+        "por @ phi": "/nba/game/_/gameId/401705442/trail-blazers-76ers",
+        "wsh @ mia": "/nba/game/_/gameId/401705443/wizards-heat",
+        "atl @ mem": "/nba/game/_/gameId/401705444/hawks-grizzlies",
+        "hou @ okc": "/nba/game/_/gameId/401705445/rockets-thunder",
+        "sac @ dal": "/nba/game/_/gameId/401705446/kings-mavericks",
+        "det @ utah": "/nba/game/_/gameId/401705447/pistons-jazz"
+    },
+    "2025-03-04": {
+        "hou @ ind": "/nba/game/_/gameId/401705448/rockets-pacers",
+        "tor @ orl": "/nba/game/_/gameId/401705449/raptors-magic",
+        "mil @ atl": "/nba/game/_/gameId/401705450/bucks-hawks",
+        "gs @ ny": "/nba/game/_/gameId/401705451/warriors-knicks",
+        "cle @ chi": "/nba/game/_/gameId/401705452/cavaliers-bulls",
+        "phi @ min": "/nba/game/_/gameId/401705453/76ers-timberwolves",
+        "bkn @ sa": "/nba/game/_/gameId/401705454/nets-spurs",
+        "lac @ phx": "/nba/game/_/gameId/401705455/clippers-suns",
+        "no @ lal": "/nba/game/_/gameId/401705456/pelicans-lakers"
+    },
+    "2025-03-05": {
+        "por @ bos": "/nba/game/_/gameId/401705457/trail-blazers-celtics",
+        "min @ cha": "/nba/game/_/gameId/401705458/timberwolves-hornets",
+        "mia @ cle": "/nba/game/_/gameId/401705459/heat-cavaliers",
+        "utah @ wsh": "/nba/game/_/gameId/401705460/jazz-wizards",
+        "dal @ mil": "/nba/game/_/gameId/401705463/mavericks-bucks",
+        "sac @ den": "/nba/game/_/gameId/401705462/kings-nuggets",
+        "okc @ mem": "/nba/game/_/gameId/401705461/thunder-grizzlies",
+        "det @ lac": "/nba/game/_/gameId/401705464/pistons-clippers"
+    },
+    "2025-03-06": {
+        "chi @ orl": "/nba/game/_/gameId/401705510/bulls-magic",
+        "ind @ atl": "/nba/game/_/gameId/401705465/pacers-hawks",
+        "phi @ bos": "/nba/game/_/gameId/401705466/76ers-celtics",
+        "gs @ bkn": "/nba/game/_/gameId/401705467/warriors-nets",
+        "hou @ no": "/nba/game/_/gameId/401705468/rockets-pelicans",
+        "ny @ lal": "/nba/game/_/gameId/401705469/knicks-lakers"
+    },
+    "2025-03-07": {
+        "cle @ cha": "/nba/game/_/gameId/401705470/cavaliers-hornets",
+        "utah @ tor": "/nba/game/_/gameId/401705471/jazz-raptors",
+        "mem @ dal": "/nba/game/_/gameId/401705472/grizzlies-mavericks",
+        "min @ mia": "/nba/game/_/gameId/401705473/timberwolves-heat",
+        "por @ okc": "/nba/game/_/gameId/401705474/trail-blazers-thunder",
+        "phx @ den": "/nba/game/_/gameId/401705475/suns-nuggets",
+        "sa @ sac": "/nba/game/_/gameId/401705476/spurs-kings",
+        "ny @ lac": "/nba/game/_/gameId/401705477/knicks-clippers"
+    },
+    "2025-03-08": {
+        "bkn @ cha": "/nba/game/_/gameId/401705478/nets-hornets",
+        "no @ hou": "/nba/game/_/gameId/401705479/pelicans-rockets",
+        "ind @ atl": "/nba/game/_/gameId/401705480/pacers-hawks",
+        "wsh @ tor": "/nba/game/_/gameId/401705481/wizards-raptors",
+        "chi @ mia": "/nba/game/_/gameId/401705482/bulls-heat",
+        "orl @ mil": "/nba/game/_/gameId/401705483/magic-bucks",
+        "lal @ bos": "/nba/game/_/gameId/401705484/lakers-celtics",
+        "det @ gs": "/nba/game/_/gameId/401705485/pistons-warriors"
+    },
+    "2025-03-09": {
+        "den @ okc": "/nba/game/_/gameId/401705486/nuggets-thunder",
+        "phx @ dal": "/nba/game/_/gameId/401705487/suns-mavericks",
+        "mem @ no": "/nba/game/_/gameId/401705489/grizzlies-pelicans",
+        "utah @ phi": "/nba/game/_/gameId/401705490/jazz-76ers",
+        "cle @ mil": "/nba/game/_/gameId/401705488/cavaliers-bucks",
+        "sa @ min": "/nba/game/_/gameId/401705491/spurs-timberwolves",
+        "det @ por": "/nba/game/_/gameId/401705492/pistons-trail-blazers",
+        "sac @ lac": "/nba/game/_/gameId/401705493/kings-clippers"
+    },
+    "2025-03-10": {
+        "phi @ atl": "/nba/game/_/gameId/401705494/76ers-hawks",
+        "utah @ bos": "/nba/game/_/gameId/401705495/jazz-celtics",
+        "lal @ bkn": "/nba/game/_/gameId/401705496/lakers-nets",
+        "cha @ mia": "/nba/game/_/gameId/401705497/hornets-heat",
+        "wsh @ tor": "/nba/game/_/gameId/401705498/wizards-raptors",
+        "ind @ chi": "/nba/game/_/gameId/401705499/pacers-bulls",
+        "orl @ hou": "/nba/game/_/gameId/401705500/magic-rockets",
+        "phx @ mem": "/nba/game/_/gameId/401705501/suns-grizzlies",
+        "den @ okc": "/nba/game/_/gameId/401705502/nuggets-thunder",
+        "dal @ sa": "/nba/game/_/gameId/401705503/mavericks-spurs",
+        "por @ gs": "/nba/game/_/gameId/401705504/trail-blazers-warriors",
+        "ny @ sac": "/nba/game/_/gameId/401705505/knicks-kings"
+    },
+    "2025-03-11": {
+        "bkn @ cle": "/nba/game/_/gameId/401705506/nets-cavaliers",
+        "wsh @ det": "/nba/game/_/gameId/401705507/wizards-pistons",
+        "mil @ ind": "/nba/game/_/gameId/401705508/bucks-pacers",
+        "lac @ no": "/nba/game/_/gameId/401705509/clippers-pelicans"
+    },
+    "2025-03-12": {
+        "cha @ atl": "/nba/game/_/gameId/401705511/hornets-hawks",
+        "okc @ bos": "/nba/game/_/gameId/401705512/thunder-celtics",
+        "phi @ tor": "/nba/game/_/gameId/401705513/76ers-raptors",
+        "lac @ mia": "/nba/game/_/gameId/401705514/clippers-heat",
+        "phx @ hou": "/nba/game/_/gameId/401705515/suns-rockets",
+        "utah @ mem": "/nba/game/_/gameId/401705516/jazz-grizzlies",
+        "dal @ sa": "/nba/game/_/gameId/401705517/mavericks-spurs",
+        "min @ den": "/nba/game/_/gameId/401705518/timberwolves-nuggets",
+        "ny @ por": "/nba/game/_/gameId/401705519/knicks-trail-blazers"
+    },
+    "2025-03-13": {
+        "wsh @ det": "/nba/game/_/gameId/401705520/wizards-pistons",
+        "lal @ mil": "/nba/game/_/gameId/401705521/lakers-bucks",
+        "bkn @ chi": "/nba/game/_/gameId/401705522/nets-bulls",
+        "orl @ no": "/nba/game/_/gameId/401705707/magic-pelicans",
+        "sac @ gs": "/nba/game/_/gameId/401705523/kings-warriors"
+    },
+    "2025-03-14": {
+        "bos @ mia": "/nba/game/_/gameId/401705524/celtics-heat",
+        "ind @ phi": "/nba/game/_/gameId/401705525/pacers-76ers",
+        "lac @ atl": "/nba/game/_/gameId/401705526/clippers-hawks",
+        "dal @ hou": "/nba/game/_/gameId/401705527/mavericks-rockets",
+        "cle @ mem": "/nba/game/_/gameId/401705528/cavaliers-grizzlies",
+        "orl @ min": "/nba/game/_/gameId/401705529/magic-timberwolves",
+        "cha @ sa": "/nba/game/_/gameId/401705530/hornets-spurs",
+        "lal @ den": "/nba/game/_/gameId/401705531/lakers-nuggets",
+        "tor @ utah": "/nba/game/_/gameId/401705532/raptors-jazz",
+        "sac @ phx": "/nba/game/_/gameId/401705533/kings-suns"
+    },
+    "2025-03-15": {
+        "bos @ bkn": "/nba/game/_/gameId/401705534/celtics-nets",
+        "okc @ det": "/nba/game/_/gameId/401705535/thunder-pistons",
+        "chi @ hou": "/nba/game/_/gameId/401705536/bulls-rockets",
+        "mia @ mem": "/nba/game/_/gameId/401705537/heat-grizzlies",
+        "ind @ mil": "/nba/game/_/gameId/401705538/pacers-bucks",
+        "no @ sa": "/nba/game/_/gameId/401705539/pelicans-spurs",
+        "ny @ gs": "/nba/game/_/gameId/401705540/knicks-warriors",
+        "wsh @ den": "/nba/game/_/gameId/401705541/wizards-nuggets"
+    },
+    "2025-03-16": {
+        "phi @ dal": "/nba/game/_/gameId/401705542/76ers-mavericks",
+        "orl @ cle": "/nba/game/_/gameId/401705545/magic-cavaliers",
+        "phx @ lal": "/nba/game/_/gameId/401705543/suns-lakers",
+        "atl @ bkn": "/nba/game/_/gameId/401705544/hawks-nets",
+        "tor @ por": "/nba/game/_/gameId/401705546/raptors-trail-blazers",
+        "utah @ min": "/nba/game/_/gameId/401705547/jazz-timberwolves",
+        "cha @ lac": "/nba/game/_/gameId/401748706/hornets-clippers",
+        "okc @ mil": "/nba/game/_/gameId/401705548/thunder-bucks"
+    },
+    "2025-03-17": {
+        "mia @ ny": "/nba/game/_/gameId/401705550/heat-knicks",
+        "phi @ hou": "/nba/game/_/gameId/401705551/76ers-rockets",
+        "ind @ min": "/nba/game/_/gameId/401705552/pacers-timberwolves",
+        "det @ no": "/nba/game/_/gameId/401705553/pistons-pelicans",
+        "chi @ utah": "/nba/game/_/gameId/401705555/bulls-jazz",
+        "den @ gs": "/nba/game/_/gameId/401705556/nuggets-warriors",
+        "tor @ phx": "/nba/game/_/gameId/401705557/raptors-suns",
+        "mem @ sac": "/nba/game/_/gameId/401705558/grizzlies-kings",
+        "wsh @ por": "/nba/game/_/gameId/401705561/wizards-trail-blazers",
+        "sa @ lal": "/nba/game/_/gameId/401754705/spurs-lakers"
+    },
+    "2025-03-18": {
+        "atl @ cha": "/nba/game/_/gameId/401705559/hawks-hornets",
+        "bkn @ bos": "/nba/game/_/gameId/401705560/nets-celtics",
+        "mil @ gs": "/nba/game/_/gameId/401705578/bucks-warriors",
+        "cle @ lac": "/nba/game/_/gameId/401705563/cavaliers-clippers"
+    },
+    "2025-03-19": {
+        "dal @ ind": "/nba/game/_/gameId/401705564/mavericks-pacers",
+        "hou @ orl": "/nba/game/_/gameId/401705565/rockets-magic",
+        "det @ mia": "/nba/game/_/gameId/401705566/pistons-heat",
+        "no @ min": "/nba/game/_/gameId/401705567/pelicans-timberwolves",
+        "phi @ okc": "/nba/game/_/gameId/401705568/76ers-thunder",
+        "ny @ sa": "/nba/game/_/gameId/401705569/knicks-spurs",
+        "wsh @ utah": "/nba/game/_/gameId/401705193/wizards-jazz",
+        "den @ lal": "/nba/game/_/gameId/401705572/nuggets-lakers",
+        "chi @ phx": "/nba/game/_/gameId/401705573/bulls-suns",
+        "mem @ por": "/nba/game/_/gameId/401705574/grizzlies-trail-blazers",
+        "cle @ sac": "/nba/game/_/gameId/401705575/cavaliers-kings"
+    },
+    "2025-03-20": {
+        "ny @ cha": "/nba/game/_/gameId/401705576/knicks-hornets",
+        "bkn @ ind": "/nba/game/_/gameId/401705577/nets-pacers",
+        "tor @ gs": "/nba/game/_/gameId/401705571/raptors-warriors",
+        "chi @ sac": "/nba/game/_/gameId/401705579/bulls-kings",
+        "mil @ lal": "/nba/game/_/gameId/401705562/bucks-lakers"
+    },
+    "2025-03-21": {
+        "orl @ wsh": "/nba/game/_/gameId/401705580/magic-wizards",
+        "hou @ mia": "/nba/game/_/gameId/401705581/rockets-heat",
+        "no @ min": "/nba/game/_/gameId/401705582/pelicans-timberwolves",
+        "cha @ okc": "/nba/game/_/gameId/401705583/hornets-thunder",
+        "phi @ sa": "/nba/game/_/gameId/401705584/76ers-spurs",
+        "det @ dal": "/nba/game/_/gameId/401705585/pistons-mavericks",
+        "bos @ utah": "/nba/game/_/gameId/401705586/celtics-jazz",
+        "cle @ phx": "/nba/game/_/gameId/401705587/cavaliers-suns",
+        "den @ por": "/nba/game/_/gameId/401705588/nuggets-trail-blazers",
+        "mem @ lac": "/nba/game/_/gameId/401705589/grizzlies-clippers"
+    },
+    "2025-03-22": {
+        "bkn @ ind": "/nba/game/_/gameId/401705590/nets-pacers",
+        "gs @ atl": "/nba/game/_/gameId/401705591/warriors-hawks",
+        "wsh @ ny": "/nba/game/_/gameId/401705592/wizards-knicks",
+        "mil @ sac": "/nba/game/_/gameId/401705593/bucks-kings",
+        "chi @ lal": "/nba/game/_/gameId/401705594/bulls-lakers"
+    },
+    "2025-03-23": {
+        "no @ det": "/nba/game/_/gameId/401705595/pelicans-pistons",
+        "cle @ utah": "/nba/game/_/gameId/401705596/cavaliers-jazz",
+        "phi @ atl": "/nba/game/_/gameId/401705597/76ers-hawks",
+        "cha @ mia": "/nba/game/_/gameId/401705598/hornets-heat",
+        "sa @ tor": "/nba/game/_/gameId/401705599/spurs-raptors",
+        "bos @ por": "/nba/game/_/gameId/401705600/celtics-trail-blazers",
+        "den @ hou": "/nba/game/_/gameId/401705601/nuggets-rockets",
+        "okc @ lac": "/nba/game/_/gameId/401705602/thunder-clippers"
+    },
+    "2025-03-24": {
+        "min @ ind": "/nba/game/_/gameId/401705603/timberwolves-pacers",
+        "lal @ orl": "/nba/game/_/gameId/401705604/lakers-magic",
+        "tor @ wsh": "/nba/game/_/gameId/401705605/raptors-wizards",
+        "dal @ bkn": "/nba/game/_/gameId/401705606/mavericks-nets",
+        "phi @ no": "/nba/game/_/gameId/401705607/76ers-pelicans",
+        "chi @ den": "/nba/game/_/gameId/401705608/bulls-nuggets",
+        "mil @ phx": "/nba/game/_/gameId/401705609/bucks-suns",
+        "bos @ sac": "/nba/game/_/gameId/401705610/celtics-kings"
+    },
+    "2025-03-25": {
+        "orl @ cha": "/nba/game/_/gameId/401705611/magic-hornets",
+        "sa @ det": "/nba/game/_/gameId/401705612/spurs-pistons",
+        "gs @ mia": "/nba/game/_/gameId/401705613/warriors-heat",
+        "dal @ ny": "/nba/game/_/gameId/401705614/mavericks-knicks",
+        "atl @ hou": "/nba/game/_/gameId/401705615/hawks-rockets",
+        "mem @ utah": "/nba/game/_/gameId/401705616/grizzlies-jazz",
+        "cle @ por": "/nba/game/_/gameId/401705617/cavaliers-trail-blazers",
+        "okc @ sac": "/nba/game/_/gameId/401705618/thunder-kings"
+    },
+    "2025-03-26": {
+        "wsh @ phi": "/nba/game/_/gameId/401705619/wizards-76ers",
+        "tor @ bkn": "/nba/game/_/gameId/401705620/raptors-nets",
+        "lal @ ind": "/nba/game/_/gameId/401705621/lakers-pacers",
+        "lac @ ny": "/nba/game/_/gameId/401705622/clippers-knicks",
+        "mil @ den": "/nba/game/_/gameId/401705623/bucks-nuggets",
+        "bos @ phx": "/nba/game/_/gameId/401705624/celtics-suns"
+    },
+    "2025-03-27": {
+        "sa @ cle": "/nba/game/_/gameId/401705625/spurs-cavaliers",
+        "dal @ orl": "/nba/game/_/gameId/401705626/mavericks-magic",
+        "ind @ wsh": "/nba/game/_/gameId/401705627/pacers-wizards",
+        "atl @ mia": "/nba/game/_/gameId/401705628/hawks-heat",
+        "lal @ chi": "/nba/game/_/gameId/401705629/lakers-bulls",
+        "mem @ okc": "/nba/game/_/gameId/401705630/grizzlies-thunder",
+        "hou @ utah": "/nba/game/_/gameId/401705631/rockets-jazz",
+        "por @ sac": "/nba/game/_/gameId/401705632/trail-blazers-kings"
+    },
+    "2025-03-28": {
+        "cle @ det": "/nba/game/_/gameId/401705633/cavaliers-pistons",
+        "lac @ bkn": "/nba/game/_/gameId/401705634/clippers-nets",
+        "cha @ tor": "/nba/game/_/gameId/401705635/hornets-raptors",
+        "ny @ mil": "/nba/game/_/gameId/401705636/knicks-bucks",
+        "phx @ min": "/nba/game/_/gameId/401705637/suns-timberwolves",
+        "gs @ no": "/nba/game/_/gameId/401705638/warriors-pelicans",
+        "utah @ den": "/nba/game/_/gameId/401705639/jazz-nuggets"
+    },
+    "2025-03-29": {
+        "sac @ orl": "/nba/game/_/gameId/401705640/kings-magic",
+        "bkn @ wsh": "/nba/game/_/gameId/401705641/nets-wizards",
+        "mia @ phi": "/nba/game/_/gameId/401705642/heat-76ers",
+        "dal @ chi": "/nba/game/_/gameId/401705643/mavericks-bulls",
+        "lal @ mem": "/nba/game/_/gameId/401705644/lakers-grizzlies",
+        "ind @ okc": "/nba/game/_/gameId/401705645/pacers-thunder",
+        "bos @ sa": "/nba/game/_/gameId/401705646/celtics-spurs"
+    },
+    "2025-03-30": {
+        "lac @ cle": "/nba/game/_/gameId/401705647/clippers-cavaliers",
+        "por @ ny": "/nba/game/_/gameId/401705648/trail-blazers-knicks",
+        "atl @ mil": "/nba/game/_/gameId/401705649/hawks-bucks",
+        "det @ min": "/nba/game/_/gameId/401705650/pistons-timberwolves",
+        "cha @ no": "/nba/game/_/gameId/401705651/hornets-pelicans",
+        "gs @ sa": "/nba/game/_/gameId/401705652/warriors-spurs",
+        "tor @ phi": "/nba/game/_/gameId/401705653/raptors-76ers",
+        "hou @ phx": "/nba/game/_/gameId/401705654/rockets-suns"
+    },
+    "2025-03-31": {
+        "utah @ cha": "/nba/game/_/gameId/401705655/jazz-hornets",
+        "sac @ ind": "/nba/game/_/gameId/401705656/kings-pacers",
+        "lac @ orl": "/nba/game/_/gameId/401705657/clippers-magic",
+        "mia @ wsh": "/nba/game/_/gameId/401705658/heat-wizards",
+        "bos @ mem": "/nba/game/_/gameId/401705659/celtics-grizzlies",
+        "chi @ okc": "/nba/game/_/gameId/401705660/bulls-thunder",
+        "bkn @ dal": "/nba/game/_/gameId/401705661/nets-mavericks",
+        "hou @ lal": "/nba/game/_/gameId/401705662/rockets-lakers"
+    },
+    "2025-04-01": {
+        "por @ atl": "/nba/game/_/gameId/401705663/trail-blazers-hawks",
+        "phi @ ny": "/nba/game/_/gameId/401705664/76ers-knicks",
+        "phx @ mil": "/nba/game/_/gameId/401705667/suns-bucks",
+        "orl @ sa": "/nba/game/_/gameId/401705554/magic-spurs",
+        "tor @ chi": "/nba/game/_/gameId/401705665/raptors-bulls",
+        "gs @ mem": "/nba/game/_/gameId/401705666/warriors-grizzlies",
+        "min @ den": "/nba/game/_/gameId/401705668/timberwolves-nuggets"
+    },
+    "2025-04-02": {
+        "ny @ cle": "/nba/game/_/gameId/401705669/knicks-cavaliers",
+        "cha @ ind": "/nba/game/_/gameId/401705670/hornets-pacers",
+        "sac @ wsh": "/nba/game/_/gameId/401705671/kings-wizards",
+        "mia @ bos": "/nba/game/_/gameId/401705672/heat-celtics",
+        "utah @ hou": "/nba/game/_/gameId/401705673/jazz-rockets",
+        "atl @ dal": "/nba/game/_/gameId/401705675/hawks-mavericks",
+        "sa @ den": "/nba/game/_/gameId/401705676/spurs-nuggets",
+        "det @ okc": "/nba/game/_/gameId/401705674/pistons-thunder",
+        "no @ lac": "/nba/game/_/gameId/401705677/pelicans-clippers"
+    },
+    "2025-04-03": {
+        "orl @ wsh": "/nba/game/_/gameId/401705678/magic-wizards",
+        "mil @ phi": "/nba/game/_/gameId/401705681/bucks-76ers",
+        "min @ bkn": "/nba/game/_/gameId/401705679/timberwolves-nets",
+        "mem @ mia": "/nba/game/_/gameId/401705680/grizzlies-heat",
+        "por @ tor": "/nba/game/_/gameId/401705682/trail-blazers-raptors",
+        "gs @ lal": "/nba/game/_/gameId/401705683/warriors-lakers"
+    },
+    "2025-04-04": {
+        "sac @ cha": "/nba/game/_/gameId/401705684/kings-hornets",
+        "utah @ ind": "/nba/game/_/gameId/401705685/jazz-pacers",
+        "phx @ bos": "/nba/game/_/gameId/401705686/suns-celtics",
+        "det @ tor": "/nba/game/_/gameId/401705687/pistons-raptors",
+        "por @ chi": "/nba/game/_/gameId/401705688/trail-blazers-bulls",
+        "okc @ hou": "/nba/game/_/gameId/401705689/thunder-rockets",
+        "cle @ sa": "/nba/game/_/gameId/401705690/cavaliers-spurs",
+        "den @ gs": "/nba/game/_/gameId/401705691/nuggets-warriors",
+        "no @ lal": "/nba/game/_/gameId/401705692/pelicans-lakers",
+        "dal @ lac": "/nba/game/_/gameId/401705693/mavericks-clippers"
+    },
+    "2025-04-05": {
+        "ny @ atl": "/nba/game/_/gameId/401705694/knicks-hawks",
+        "mem @ det": "/nba/game/_/gameId/401705695/grizzlies-pistons",
+        "min @ phi": "/nba/game/_/gameId/401705696/timberwolves-76ers",
+        "mil @ mia": "/nba/game/_/gameId/401705697/bucks-heat",
+        "dal @ lac": "/nba/game/_/gameId/401705698/mavericks-clippers"
+    },
+    "2025-04-06": {
+        "chi @ cha": "/nba/game/_/gameId/401705699/bulls-hornets",
+        "tor @ bkn": "/nba/game/_/gameId/401705700/raptors-nets",
+        "lal @ okc": "/nba/game/_/gameId/401705701/lakers-thunder",
+        "utah @ atl": "/nba/game/_/gameId/401705702/jazz-hawks",
+        "wsh @ bos": "/nba/game/_/gameId/401705703/wizards-celtics",
+        "sac @ cle": "/nba/game/_/gameId/401705704/kings-cavaliers",
+        "sa @ por": "/nba/game/_/gameId/401705705/spurs-trail-blazers",
+        "phx @ ny": "/nba/game/_/gameId/401705706/suns-knicks",
+        "ind @ den": "/nba/game/_/gameId/401705708/pacers-nuggets",
+        "hou @ gs": "/nba/game/_/gameId/401705709/rockets-warriors",
+        "mil @ no": "/nba/game/_/gameId/401754706/bucks-pelicans"
+    },
+    "2025-04-07": {
+        "sac @ det": "/nba/game/_/gameId/401705710/kings-pistons",
+        "phi @ mia": "/nba/game/_/gameId/401705711/76ers-heat"
+    },
+    "2025-04-08": {
+        "mem @ cha": "/nba/game/_/gameId/401705712/grizzlies-hornets",
+        "chi @ cle": "/nba/game/_/gameId/401705713/bulls-cavaliers",
+        "wsh @ ind": "/nba/game/_/gameId/401705714/wizards-pacers",
+        "atl @ orl": "/nba/game/_/gameId/401705715/hawks-magic",
+        "no @ bkn": "/nba/game/_/gameId/401705716/pelicans-nets",
+        "bos @ ny": "/nba/game/_/gameId/401705717/celtics-knicks",
+        "min @ mil": "/nba/game/_/gameId/401705718/timberwolves-bucks",
+        "lal @ okc": "/nba/game/_/gameId/401705719/lakers-thunder",
+        "gs @ phx": "/nba/game/_/gameId/401705720/warriors-suns",
+        "sa @ lac": "/nba/game/_/gameId/401705721/spurs-clippers"
+    },
+    "2025-04-09": {
+        "bos @ orl": "/nba/game/_/gameId/401705722/celtics-magic",
+        "phi @ wsh": "/nba/game/_/gameId/401705723/76ers-wizards",
+        "cha @ tor": "/nba/game/_/gameId/401705724/hornets-raptors",
+        "lal @ dal": "/nba/game/_/gameId/401705725/lakers-mavericks",
+        "mia @ chi": "/nba/game/_/gameId/401705726/heat-bulls",
+        "por @ utah": "/nba/game/_/gameId/401705728/trail-blazers-jazz",
+        "sa @ gs": "/nba/game/_/gameId/401705729/spurs-warriors",
+        "okc @ phx": "/nba/game/_/gameId/401705730/thunder-suns",
+        "den @ sac": "/nba/game/_/gameId/401705731/nuggets-kings",
+        "hou @ lac": "/nba/game/_/gameId/401705732/rockets-clippers"
+    },
+    "2025-04-10": {
+        "ny @ det": "/nba/game/_/gameId/401705733/knicks-pistons",
+        "cle @ ind": "/nba/game/_/gameId/401705734/cavaliers-pacers",
+        "atl @ bkn": "/nba/game/_/gameId/401705735/hawks-nets",
+        "no @ mil": "/nba/game/_/gameId/401705727/pelicans-bucks",
+        "min @ mem": "/nba/game/_/gameId/401705736/timberwolves-grizzlies"
+    },
+    "2025-04-11": {
+        "mil @ det": "/nba/game/_/gameId/401705737/bucks-pistons",
+        "orl @ ind": "/nba/game/_/gameId/401705738/magic-pacers",
+        "atl @ phi": "/nba/game/_/gameId/401705739/hawks-76ers",
+        "cha @ bos": "/nba/game/_/gameId/401705740/hornets-celtics",
+        "cle @ ny": "/nba/game/_/gameId/401705741/cavaliers-knicks",
+        "wsh @ chi": "/nba/game/_/gameId/401705742/wizards-bulls",
+        "mia @ no": "/nba/game/_/gameId/401705743/heat-pelicans",
+        "tor @ dal": "/nba/game/_/gameId/401705744/raptors-mavericks",
+        "bkn @ min": "/nba/game/_/gameId/401705745/nets-timberwolves",
+        "mem @ den": "/nba/game/_/gameId/401705746/grizzlies-nuggets",
+        "okc @ utah": "/nba/game/_/gameId/401705747/thunder-jazz",
+        "sa @ phx": "/nba/game/_/gameId/401705748/spurs-suns",
+        "gs @ por": "/nba/game/_/gameId/401705749/warriors-trail-blazers",
+        "lac @ sac": "/nba/game/_/gameId/401705750/clippers-kings",
+        "hou @ lal": "/nba/game/_/gameId/401705751/rockets-lakers"
+    },
+    "2025-04-13": {
+        "orl @ atl": "/nba/game/_/gameId/401705752/magic-hawks",
+        "cha @ bos": "/nba/game/_/gameId/401705753/hornets-celtics",
+        "ny @ bkn": "/nba/game/_/gameId/401705754/knicks-nets",
+        "ind @ cle": "/nba/game/_/gameId/401705755/pacers-cavaliers",
+        "wsh @ mia": "/nba/game/_/gameId/401705756/wizards-heat",
+        "chi @ phi": "/nba/game/_/gameId/401705757/bulls-76ers",
+        "det @ mil": "/nba/game/_/gameId/401705758/pistons-bucks",
+        "den @ hou": "/nba/game/_/gameId/401705759/nuggets-rockets",
+        "dal @ mem": "/nba/game/_/gameId/401705760/mavericks-grizzlies",
+        "utah @ min": "/nba/game/_/gameId/401705761/jazz-timberwolves",
+        "okc @ no": "/nba/game/_/gameId/401705762/thunder-pelicans",
+        "tor @ sa": "/nba/game/_/gameId/401705763/raptors-spurs",
+        "lac @ gs": "/nba/game/_/gameId/401705764/clippers-warriors",
+        "lal @ por": "/nba/game/_/gameId/401705765/lakers-trail-blazers",
+        "phx @ sac": "/nba/game/_/gameId/401705766/suns-kings"
+    },
+    "2025-04-15": {
+        "mem @ gs": "/nba/game/_/gameId/401766459/grizzlies-warriors",
+        "atl @ orl": "/nba/game/_/gameId/401766458/hawks-magic"
+    },
+    "2025-04-16": {
+        "mia @ chi": "/nba/game/_/gameId/401766460/heat-bulls",
+        "dal @ sac": "/nba/game/_/gameId/401766461/mavericks-kings"
+    },
+    "2025-04-18": {
+        "mia @ atl": "/nba/game/_/gameId/401766462/heat-hawks",
+        "dal @ mem": "/nba/game/_/gameId/401766463/mavericks-grizzlies"
+    },
+    "2025-04-19": {
+        "mil @ ind": "/nba/game/_/gameId/401767817/bucks-pacers",
+        "lac @ den": "/nba/game/_/gameId/401767819/clippers-nuggets",
+        "det @ ny": "/nba/game/_/gameId/401767820/pistons-knicks",
+        "min @ lal": "/nba/game/_/gameId/401767821/timberwolves-lakers"
+    },
+    "2025-04-20": {
+        "orl @ bos": "/nba/game/_/gameId/401767822/magic-celtics",
+        "mia @ cle": "/nba/game/_/gameId/401767816/heat-cavaliers",
+        "gs @ hou": "/nba/game/_/gameId/401767823/warriors-rockets"
+    },
+    "2025-04-21": {
+        "det @ ny": "/nba/game/_/gameId/401768041/pistons-knicks",
+        "lac @ den": "/nba/game/_/gameId/401768061/clippers-nuggets"
+    },
+    "2025-04-22": {
+        "mil @ ind": "/nba/game/_/gameId/401768047/bucks-pacers",
+        "mem @ okc": "/nba/game/_/gameId/401767903/grizzlies-thunder",
+        "min @ lal": "/nba/game/_/gameId/401767915/timberwolves-lakers"
+    },
+    "2025-04-23": {
+        "orl @ bos": "/nba/game/_/gameId/401768029/magic-celtics",
+        "mia @ cle": "/nba/game/_/gameId/401768035/heat-cavaliers",
+        "gs @ hou": "/nba/game/_/gameId/401767909/warriors-rockets"
+    },
+    "2025-04-24": {
+        "ny @ det": "/nba/game/_/gameId/401768042/knicks-pistons",
+        "okc @ mem": "/nba/game/_/gameId/401767904/thunder-grizzlies",
+        "den @ lac": "/nba/game/_/gameId/401768062/nuggets-clippers"
+    },
+    "2025-04-25": {
+        "bos @ orl": "/nba/game/_/gameId/401768030/celtics-magic",
+        "ind @ mil": "/nba/game/_/gameId/401768048/pacers-bucks",
+        "lal @ min": "/nba/game/_/gameId/401768056/lakers-timberwolves"
+    },
+    "2025-04-26": {
+        "cle @ mia": "/nba/game/_/gameId/401768036/cavaliers-heat",
+        "okc @ mem": "/nba/game/_/gameId/401767905/thunder-grizzlies",
+        "den @ lac": "/nba/game/_/gameId/401768063/nuggets-clippers",
+        "hou @ gs": "/nba/game/_/gameId/401767910/rockets-warriors"
+    },
+    "2025-04-27": {
+        "ny @ det": "/nba/game/_/gameId/401768043/knicks-pistons",
+        "lal @ min": "/nba/game/_/gameId/401768057/lakers-timberwolves",
+        "bos @ orl": "/nba/game/_/gameId/401768031/celtics-magic",
+        "ind @ mil": "/nba/game/_/gameId/401768049/pacers-bucks"
+    },
+    "2025-04-28": {
+        "mem @ okc": "/nba/game/_/gameId/401767906/grizzlies-thunder",
+        "cle @ mia": "/nba/game/_/gameId/401768037/cavaliers-heat",
+        "hou @ gs": "/nba/game/_/gameId/401767911/rockets-warriors"
+    },
+    "2025-04-29": {
+        "orl @ bos": "/nba/game/_/gameId/401768032/magic-celtics",
+        "mil @ ind": "/nba/game/_/gameId/401768050/bucks-pacers",
+        "det @ ny": "/nba/game/_/gameId/401768044/pistons-knicks",
+        "lac @ den": "/nba/game/_/gameId/401768064/clippers-nuggets"
+    },
+    "2025-04-30": {
+        "mia @ cle": "/nba/game/_/gameId/401768038/heat-cavaliers",
+        "gs @ hou": "/nba/game/_/gameId/401767912/warriors-rockets",
+        "min @ lal": "/nba/game/_/gameId/401768058/timberwolves-lakers"
+    },
+    "2025-05-01": {
+        "okc @ mem": "/nba/game/_/gameId/401767907/thunder-grizzlies",
+        "bos @ orl": "/nba/game/_/gameId/401768033/celtics-magic",
+        "ny @ det": "/nba/game/_/gameId/401768045/knicks-pistons",
+        "den @ lac": "/nba/game/_/gameId/401768065/nuggets-clippers"
+    },
+    "2025-05-02": {
+        "hou @ gs": "/nba/game/_/gameId/401767913/rockets-warriors",
+        "cle @ mia": "/nba/game/_/gameId/401768039/cavaliers-heat",
+        "ind @ mil": "/nba/game/_/gameId/401768051/pacers-bucks",
+        "lal @ min": "/nba/game/_/gameId/401768059/lakers-timberwolves"
+    },
+    "2025-05-03": {
+        "orl @ bos": "/nba/game/_/gameId/401768034/magic-celtics",
+        "det @ ny": "/nba/game/_/gameId/401768046/pistons-knicks",
+        "lac @ den": "/nba/game/_/gameId/401768066/clippers-nuggets"
+    },
+    "2025-05-04": {
+        "gs @ hou": "/nba/game/_/gameId/401767914/warriors-rockets",
+        "mil @ ind": "/nba/game/_/gameId/401768052/bucks-pacers",
+        "min @ lal": "/nba/game/_/gameId/401768060/timberwolves-lakers",
+        "ind @ cle": "/nba/game/_/gameId/401769689/pacers-cavaliers"
+    },
+    "2025-05-05": {
+        "ny @ bos": "/nba/game/_/gameId/401769746/knicks-celtics",
+        "den @ okc": "/nba/game/_/gameId/401769820/nuggets-thunder"
+    },
+    "2025-05-06": {
+        "ind @ cle": "/nba/game/_/gameId/401769740/pacers-cavaliers",
+        "gs @ min": "/nba/game/_/gameId/401769837/warriors-timberwolves"
+    },
+    "2025-05-07": {
+        "ny @ bos": "/nba/game/_/gameId/401769747/knicks-celtics",
+        "den @ okc": "/nba/game/_/gameId/401769821/nuggets-thunder"
+    },
+    "2025-05-08": {
+        "gs @ min": "/nba/game/_/gameId/401769838/warriors-timberwolves"
+    },
+    "2025-05-09": {
+        "cle @ ind": "/nba/game/_/gameId/401769741/cavaliers-pacers",
+        "okc @ den": "/nba/game/_/gameId/401769822/thunder-nuggets"
+    },
+    "2025-05-10": {
+        "bos @ ny": "/nba/game/_/gameId/401769748/celtics-knicks",
+        "min @ gs": "/nba/game/_/gameId/401769839/timberwolves-warriors"
+    },
+    "2025-05-11": {
+        "okc @ den": "/nba/game/_/gameId/401769823/thunder-nuggets",
+        "cle @ ind": "/nba/game/_/gameId/401769742/cavaliers-pacers"
+    },
+    "2025-05-12": {
+        "bos @ ny": "/nba/game/_/gameId/401769749/celtics-knicks",
+        "min @ gs": "/nba/game/_/gameId/401769840/timberwolves-warriors"
+    },
+    "2025-05-13": {
+        "ind @ cle": "/nba/game/_/gameId/401769743/pacers-cavaliers",
+        "den @ okc": "/nba/game/_/gameId/401769990/nuggets-thunder"
+    },
+    "2025-05-14": {
+        "ny @ bos": "/nba/game/_/gameId/401769750/knicks-celtics",
+        "gs @ min": "/nba/game/_/gameId/401769987/warriors-timberwolves"
+    },
+    "2025-05-15": {
+        "cle @ ind": "/nba/game/_/gameId/401769744/cavaliers-pacers",
+        "okc @ den": "/nba/game/_/gameId/401769991/thunder-nuggets"
+    },
+    "2025-05-16": {
+        "bos @ ny": "/nba/game/_/gameId/401769751/celtics-knicks"
+    },
+    "2025-05-18": {
+        "ind @ cle": "/nba/game/_/gameId/401769745/pacers-cavaliers",
+        "min @ gs": "/nba/game/_/gameId/401769988/timberwolves-warriors",
+        "den @ okc": "/nba/game/_/gameId/401769992/nuggets-thunder"
+    },
+    "2025-05-19": {
+        "ny @ bos": "/nba/game/_/gameId/401769752/knicks-celtics"
+    },
+    "2025-05-20": {
+        "min @ okc": "/nba/game/_/gameId/401773148/timberwolves-thunder"
+    },
+    "2025-05-21": {
+        "ind @ ny": "/nba/game/_/gameId/401772989/pacers-knicks"
+    },
+    "2025-05-22": {
+        "min @ okc": "/nba/game/_/gameId/401773149/timberwolves-thunder"
+    },
+    "2025-05-23": {
+        "ind @ ny": "/nba/game/_/gameId/401772990/pacers-knicks"
+    },
+    "2025-05-24": {
+        "okc @ min": "/nba/game/_/gameId/401773150/thunder-timberwolves"
+    },
+    "2025-05-25": {
+        "ny @ ind": "/nba/game/_/gameId/401772991/knicks-pacers"
+    },
+    "2025-05-26": {
+        "okc @ min": "/nba/game/_/gameId/401773151/thunder-timberwolves"
+    },
+    "2025-05-27": {
+        "ny @ ind": "/nba/game/_/gameId/401772992/knicks-pacers"
+    },
+    "2025-05-28": {
+        "min @ okc": "/nba/game/_/gameId/401773152/timberwolves-thunder"
+    },
+    "2025-05-29": {
+        "ind @ ny": "/nba/game/_/gameId/401772993/pacers-knicks"
+    },
+    "2025-05-30": {
+        "okc @ min": "/nba/game/_/gameId/401773153/thunder-timberwolves"
+    },
+    "2025-05-31": {
+        "ny @ ind": "/nba/game/_/gameId/401772994/knicks-pacers"
+    },
+    "2025-06-01": {
+        "min @ okc": "/nba/game/_/gameId/401773154/timberwolves-thunder"
+    },
+    "2025-06-02": {
+        "ind @ ny": "/nba/game/_/gameId/401772995/pacers-knicks"
+    },
+    "2025-06-08": {
+        "ind @ okc": "/nba/game/_/gameId/401766123/pacers-thunder"
+    },
+    "2025-06-11": {
+        "okc @ ind": "/nba/game/_/gameId/401766124/thunder-pacers"
+    },
+    "2025-06-13": {
+        "okc @ ind": "/nba/game/_/gameId/401766125/thunder-pacers"
+    },
+    "2025-06-05": {
+        "ind @ okc": "/nba/game/_/gameId/401766122/pacers-thunder"
+    },
+    "2025-06-16": {
+        "ind @ okc": "/nba/game/_/gameId/401766126/pacers-thunder"
+    },
+    "2025-06-19": {
+        "okc @ ind": "/nba/game/_/gameId/401766127/thunder-pacers"
+    }
+}

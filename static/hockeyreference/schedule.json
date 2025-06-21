@@ -1,0 +1,1861 @@
+{
+    "2024-10-08": [
+        "stl @ sea",
+        "bos @ fla",
+        "chi @ utah"
+    ],
+    "2024-10-09": [
+        "tor @ mtl",
+        "nyr @ pit",
+        "wpg @ edm",
+        "cgy @ van",
+        "col @ vgk"
+    ],
+    "2024-10-10": [
+        "mtl @ bos",
+        "la @ buf",
+        "fla @ ott",
+        "tor @ nj",
+        "utah @ nyi",
+        "pit @ det",
+        "dal @ nsh",
+        "cbj @ min",
+        "stl @ sj"
+    ],
+    "2024-10-11": [
+        "tb @ car",
+        "chi @ wpg",
+        "phi @ van",
+        "stl @ vgk"
+    ],
+    "2024-10-12": [
+        "la @ bos",
+        "fla @ buf",
+        "pit @ tor",
+        "ott @ mtl",
+        "nsh @ det",
+        "utah @ nyr",
+        "nj @ wsh",
+        "nyi @ dal",
+        "sea @ min",
+        "cbj @ col",
+        "phi @ cgy",
+        "chi @ edm",
+        "ana @ sj"
+    ],
+    "2024-10-13": [
+        "min @ wpg",
+        "sea @ dal",
+        "cgy @ edm",
+        "ana @ vgk"
+    ],
+    "2024-10-14": [
+        "fla @ bos",
+        "la @ ott",
+        "utah @ nj",
+        "det @ nyr",
+        "pit @ mtl",
+        "nyi @ col"
+    ],
+    "2024-10-15": [
+        "van @ tb",
+        "vgk @ wsh",
+        "nj @ car",
+        "fla @ cbj",
+        "min @ stl",
+        "sea @ nsh",
+        "sj @ dal",
+        "chi @ cgy",
+        "phi @ edm"
+    ],
+    "2024-10-16": [
+        "buf @ pit",
+        "la @ tor",
+        "bos @ col",
+        "utah @ ana"
+    ],
+    "2024-10-17": [
+        "la @ mtl",
+        "nj @ ott",
+        "vgk @ tb",
+        "van @ fla",
+        "dal @ wsh",
+        "buf @ cbj",
+        "nyr @ det",
+        "nyi @ stl",
+        "edm @ nsh",
+        "sj @ chi",
+        "phi @ sea"
+    ],
+    "2024-10-18": [
+        "car @ pit",
+        "sj @ wpg",
+        "ana @ col"
+    ],
+    "2024-10-19": [
+        "tb @ ott",
+        "det @ nsh",
+        "edm @ dal",
+        "vgk @ fla",
+        "nyr @ tor",
+        "wsh @ nj",
+        "mtl @ nyi",
+        "van @ phi",
+        "min @ cbj",
+        "car @ stl",
+        "buf @ chi",
+        "bos @ utah",
+        "cgy @ sea"
+    ],
+    "2024-10-20": [
+        "pit @ wpg",
+        "col @ sj",
+        "la @ ana"
+    ],
+    "2024-10-21": [
+        "tb @ tor"
+    ],
+    "2024-10-22": [
+        "wsh @ phi",
+        "min @ fla",
+        "tb @ nj",
+        "dal @ buf",
+        "nyr @ mtl",
+        "tor @ cbj",
+        "det @ nyi",
+        "wpg @ stl",
+        "van @ chi",
+        "col @ sea",
+        "bos @ nsh",
+        "car @ edm",
+        "ott @ utah",
+        "pit @ cgy",
+        "sj @ ana",
+        "la @ vgk"
+    ],
+    "2024-10-23": [
+        "phi @ wsh"
+    ],
+    "2024-10-24": [
+        "dal @ bos",
+        "stl @ tor",
+        "nj @ det",
+        "min @ tb",
+        "fla @ nyr",
+        "car @ cgy",
+        "col @ utah",
+        "wpg @ sea",
+        "sj @ la"
+    ],
+    "2024-10-25": [
+        "ott @ vgk",
+        "nyi @ nj",
+        "nsh @ chi",
+        "pit @ edm"
+    ],
+    "2024-10-26": [
+        "det @ buf",
+        "min @ phi",
+        "utah @ la",
+        "tor @ bos",
+        "stl @ mtl",
+        "wsh @ tb",
+        "ana @ nyr",
+        "wpg @ cgy",
+        "fla @ nyi",
+        "cbj @ nsh",
+        "chi @ dal",
+        "pit @ van",
+        "sj @ vgk",
+        "car @ sea"
+    ],
+    "2024-10-27": [
+        "edm @ det",
+        "ana @ nj",
+        "mtl @ phi",
+        "ott @ col"
+    ],
+    "2024-10-28": [
+        "fla @ buf",
+        "edm @ cbj",
+        "nsh @ tb",
+        "tor @ wpg",
+        "chi @ col",
+        "sj @ utah",
+        "car @ van",
+        "cgy @ vgk"
+    ],
+    "2024-10-29": [
+        "phi @ bos",
+        "sea @ mtl",
+        "ana @ nyi",
+        "min @ pit",
+        "stl @ ott",
+        "nyr @ wsh",
+        "la @ sj"
+    ],
+    "2024-10-30": [
+        "nyi @ cbj",
+        "wpg @ det",
+        "tb @ col",
+        "cgy @ utah",
+        "vgk @ la",
+        "nj @ van"
+    ],
+    "2024-10-31": [
+        "sea @ tor",
+        "stl @ phi",
+        "ana @ pit",
+        "mtl @ wsh",
+        "bos @ car",
+        "edm @ nsh",
+        "chi @ sj"
+    ],
+    "2024-11-01": [
+        "fla @ dal",
+        "nyi @ buf",
+        "ott @ nyr",
+        "wpg @ cbj",
+        "tb @ min",
+        "nj @ cgy"
+    ],
+    "2024-11-02": [
+        "dal @ fla",
+        "bos @ phi",
+        "chi @ la",
+        "cbj @ wsh",
+        "sea @ ott",
+        "buf @ det",
+        "mtl @ pit",
+        "tor @ stl",
+        "col @ nsh",
+        "utah @ vgk",
+        "van @ sj"
+    ],
+    "2024-11-03": [
+        "nyi @ nyr",
+        "tb @ wpg",
+        "sea @ bos",
+        "wsh @ car",
+        "tor @ min",
+        "edm @ cgy",
+        "chi @ ana"
+    ],
+    "2024-11-04": [
+        "la @ nsh",
+        "nj @ edm"
+    ],
+    "2024-11-05": [
+        "ott @ buf",
+        "bos @ tor",
+        "cgy @ mtl",
+        "phi @ car",
+        "pit @ nyi",
+        "tb @ stl",
+        "la @ min",
+        "utah @ wpg",
+        "sea @ col",
+        "van @ ana",
+        "cbj @ sj"
+    ],
+    "2024-11-06": [
+        "nsh @ wsh",
+        "det @ chi",
+        "vgk @ edm"
+    ],
+    "2024-11-07": [
+        "cgy @ bos",
+        "nyi @ ott",
+        "nsh @ fla",
+        "mtl @ nj",
+        "buf @ nyr",
+        "pit @ car",
+        "phi @ tb",
+        "utah @ stl",
+        "chi @ dal",
+        "col @ wpg",
+        "van @ la",
+        "min @ sj"
+    ],
+    "2024-11-08": [
+        "det @ tor",
+        "pit @ wsh",
+        "min @ ana",
+        "vgk @ sea"
+    ],
+    "2024-11-09": [
+        "cgy @ buf",
+        "dal @ wpg",
+        "phi @ fla",
+        "ott @ bos",
+        "mtl @ tor",
+        "nyr @ det",
+        "wsh @ stl",
+        "nj @ nyi",
+        "utah @ nsh",
+        "car @ col",
+        "cbj @ la",
+        "edm @ van"
+    ],
+    "2024-11-10": [
+        "sj @ nj",
+        "min @ chi",
+        "cbj @ ana"
+    ],
+    "2024-11-11": [
+        "mtl @ buf",
+        "sj @ phi",
+        "dal @ pit",
+        "la @ cgy",
+        "nsh @ col",
+        "car @ vgk"
+    ],
+    "2024-11-12": [
+        "ott @ tor",
+        "wpg @ nyr",
+        "nj @ fla",
+        "bos @ stl",
+        "nyi @ edm",
+        "cgy @ van",
+        "cbj @ sea"
+    ],
+    "2024-11-13": [
+        "det @ pit",
+        "tor @ wsh",
+        "car @ utah",
+        "la @ col",
+        "vgk @ ana"
+    ],
+    "2024-11-14": [
+        "phi @ ott",
+        "wpg @ tb",
+        "nj @ fla",
+        "sj @ nyr",
+        "stl @ buf",
+        "bos @ dal",
+        "mtl @ min",
+        "nsh @ edm",
+        "nyi @ van",
+        "chi @ sea"
+    ],
+    "2024-11-15": [
+        "pit @ cbj",
+        "wsh @ col",
+        "nsh @ cgy",
+        "vgk @ utah",
+        "det @ ana"
+    ],
+    "2024-11-16": [
+        "stl @ bos",
+        "nyi @ sea",
+        "edm @ tor",
+        "cbj @ mtl",
+        "nj @ tb",
+        "wpg @ fla",
+        "buf @ phi",
+        "sj @ pit",
+        "ott @ car",
+        "dal @ min",
+        "det @ la",
+        "chi @ van"
+    ],
+    "2024-11-17": [
+        "stl @ car",
+        "wsh @ vgk",
+        "nyr @ sea",
+        "nsh @ van"
+    ],
+    "2024-11-18": [
+        "cbj @ bos",
+        "col @ phi",
+        "edm @ mtl",
+        "ana @ dal",
+        "wsh @ utah",
+        "det @ sj"
+    ],
+    "2024-11-19": [
+        "edm @ ott",
+        "tb @ pit",
+        "min @ stl",
+        "fla @ wpg",
+        "ana @ chi",
+        "nyi @ cgy",
+        "nyr @ van"
+    ],
+    "2024-11-20": [
+        "vgk @ tor",
+        "car @ phi",
+        "sj @ dal",
+        "nsh @ sea",
+        "buf @ la"
+    ],
+    "2024-11-21": [
+        "utah @ bos",
+        "vgk @ ott",
+        "nyi @ det",
+        "car @ nj",
+        "col @ wsh",
+        "tb @ cbj",
+        "sj @ stl",
+        "fla @ chi",
+        "nyr @ cgy",
+        "min @ edm"
+    ],
+    "2024-11-22": [
+        "wpg @ pit",
+        "buf @ ana"
+    ],
+    "2024-11-23": [
+        "chi @ phi",
+        "min @ cgy",
+        "sea @ la",
+        "col @ fla",
+        "vgk @ mtl",
+        "van @ ott",
+        "bos @ det",
+        "dal @ tb",
+        "utah @ pit",
+        "nj @ wsh",
+        "car @ cbj",
+        "wpg @ nsh",
+        "stl @ nyi",
+        "buf @ sj",
+        "nyr @ edm"
+    ],
+    "2024-11-24": [
+        "utah @ tor"
+    ],
+    "2024-11-25": [
+        "col @ tb",
+        "wsh @ fla",
+        "nsh @ nj",
+        "stl @ nyr",
+        "vgk @ phi",
+        "dal @ car",
+        "cgy @ ott",
+        "det @ nyi",
+        "wpg @ min",
+        "sea @ ana",
+        "la @ sj"
+    ],
+    "2024-11-26": [
+        "van @ bos",
+        "utah @ mtl"
+    ],
+    "2024-11-27": [
+        "min @ buf",
+        "stl @ nj",
+        "nyr @ car",
+        "cgy @ det",
+        "wsh @ tb",
+        "tor @ fla",
+        "bos @ nyi",
+        "van @ pit",
+        "mtl @ cbj",
+        "phi @ nsh",
+        "dal @ chi",
+        "vgk @ col",
+        "wpg @ la",
+        "ana @ sea",
+        "ott @ sj"
+    ],
+    "2024-11-29": [
+        "nyr @ phi",
+        "chi @ min",
+        "van @ buf",
+        "nj @ det",
+        "nyi @ wsh",
+        "fla @ car",
+        "cgy @ cbj",
+        "tb @ nsh",
+        "la @ ana",
+        "sea @ sj",
+        "pit @ bos",
+        "wpg @ vgk",
+        "col @ dal",
+        "edm @ utah"
+    ],
+    "2024-11-30": [
+        "mtl @ nyr",
+        "car @ fla",
+        "tor @ tb",
+        "wsh @ nj",
+        "cgy @ pit",
+        "phi @ stl",
+        "ott @ la",
+        "buf @ nyi",
+        "nsh @ min",
+        "edm @ col",
+        "utah @ vgk",
+        "sj @ sea"
+    ],
+    "2024-12-01": [
+        "van @ det",
+        "mtl @ bos",
+        "cbj @ chi",
+        "wpg @ dal",
+        "ott @ ana"
+    ],
+    "2024-12-02": [
+        "nj @ nyr",
+        "chi @ tor",
+        "dal @ utah"
+    ],
+    "2024-12-03": [
+        "det @ bos",
+        "col @ buf",
+        "nyi @ mtl",
+        "fla @ pit",
+        "sj @ wsh",
+        "sea @ car",
+        "van @ min",
+        "stl @ wpg",
+        "cbj @ cgy",
+        "edm @ vgk"
+    ],
+    "2024-12-04": [
+        "nsh @ tor",
+        "bos @ chi",
+        "vgk @ ana",
+        "dal @ la"
+    ],
+    "2024-12-05": [
+        "wpg @ buf",
+        "nsh @ mtl",
+        "det @ ott",
+        "sj @ tb",
+        "fla @ phi",
+        "col @ car",
+        "sea @ nyi",
+        "stl @ cgy",
+        "cbj @ edm"
+    ],
+    "2024-12-06": [
+        "wsh @ tor",
+        "sea @ nj",
+        "pit @ nyr",
+        "cbj @ van",
+        "dal @ vgk",
+        "min @ ana"
+    ],
+    "2024-12-07": [
+        "phi @ bos",
+        "utah @ buf",
+        "wpg @ chi",
+        "car @ nyi",
+        "sj @ fla",
+        "wsh @ mtl",
+        "nsh @ ott",
+        "col @ det",
+        "tor @ pit",
+        "min @ la",
+        "stl @ edm"
+    ],
+    "2024-12-08": [
+        "sea @ nyr",
+        "tb @ van",
+        "nyi @ ott",
+        "cbj @ wpg",
+        "col @ nj",
+        "utah @ phi",
+        "cgy @ dal"
+    ],
+    "2024-12-09": [
+        "det @ buf",
+        "chi @ nyr",
+        "ana @ mtl"
+    ],
+    "2024-12-10": [
+        "tor @ nj",
+        "col @ pit",
+        "sj @ car",
+        "phi @ cbj",
+        "la @ nyi",
+        "cgy @ nsh",
+        "bos @ wpg",
+        "tb @ edm",
+        "min @ utah",
+        "stl @ van",
+        "fla @ sea"
+    ],
+    "2024-12-11": [
+        "nyr @ buf",
+        "ana @ ott"
+    ],
+    "2024-12-12": [
+        "ana @ tor",
+        "pit @ mtl",
+        "la @ nj",
+        "det @ phi",
+        "wsh @ cbj",
+        "chi @ nyi",
+        "sj @ stl",
+        "nsh @ dal",
+        "vgk @ wpg",
+        "edm @ min",
+        "utah @ col",
+        "tb @ cgy",
+        "fla @ van",
+        "bos @ sea"
+    ],
+    "2024-12-13": [
+        "ott @ car"
+    ],
+    "2024-12-14": [
+        "chi @ nj",
+        "la @ nyr",
+        "phi @ min",
+        "vgk @ edm",
+        "pit @ ott",
+        "tor @ det",
+        "buf @ wsh",
+        "ana @ cbj",
+        "mtl @ wpg",
+        "stl @ dal",
+        "nsh @ col",
+        "fla @ cgy",
+        "bos @ van",
+        "utah @ sj",
+        "tb @ sea"
+    ],
+    "2024-12-089": [],
+    "2024-12-15": [
+        "nyi @ chi",
+        "buf @ tor",
+        "cbj @ car",
+        "nyr @ stl",
+        "vgk @ min"
+    ],
+    "2024-12-16": [
+        "wsh @ dal",
+        "fla @ edm",
+        "col @ van"
+    ],
+    "2024-12-17": [
+        "buf @ mtl",
+        "cbj @ tb",
+        "la @ pit",
+        "nyi @ car",
+        "nj @ stl",
+        "nyr @ nsh",
+        "wsh @ chi",
+        "bos @ cgy",
+        "ott @ sea",
+        "wpg @ sj"
+    ],
+    "2024-12-18": [
+        "phi @ det",
+        "tor @ dal",
+        "fla @ min",
+        "van @ utah",
+        "wpg @ ana"
+    ],
+    "2024-12-19": [
+        "stl @ tb",
+        "nj @ cbj",
+        "la @ phi",
+        "pit @ nsh",
+        "sea @ chi",
+        "ott @ cgy",
+        "bos @ edm",
+        "van @ vgk",
+        "col @ sj"
+    ],
+    "2024-12-20": [
+        "tor @ buf",
+        "mtl @ det",
+        "stl @ fla",
+        "car @ wsh",
+        "nyr @ dal",
+        "utah @ min",
+        "col @ ana"
+    ],
+    "2024-12-21": [
+        "la @ nsh",
+        "chi @ cgy",
+        "sj @ edm",
+        "buf @ bos",
+        "nyi @ tor",
+        "det @ mtl",
+        "pit @ nj",
+        "cbj @ phi",
+        "min @ wpg",
+        "ott @ van",
+        "sea @ vgk"
+    ],
+    "2024-12-22": [
+        "car @ nyr",
+        "fla @ tb",
+        "la @ wsh",
+        "ana @ utah",
+        "sea @ col",
+        "ott @ edm"
+    ],
+    "2024-12-23": [
+        "nyr @ nj",
+        "wpg @ tor",
+        "wsh @ bos",
+        "stl @ det",
+        "tb @ fla",
+        "phi @ pit",
+        "mtl @ cbj",
+        "buf @ nyi",
+        "car @ nsh",
+        "chi @ min",
+        "sj @ van",
+        "dal @ utah",
+        "ana @ vgk"
+    ],
+    "2024-12-27": [
+        "chi @ buf",
+        "tor @ det",
+        "car @ nj",
+        "bos @ cbj",
+        "nsh @ stl",
+        "min @ dal",
+        "col @ utah",
+        "vgk @ sj"
+    ],
+    "2024-12-28": [
+        "mtl @ fla",
+        "sea @ van",
+        "phi @ ana",
+        "edm @ la",
+        "cbj @ bos",
+        "wsh @ tor",
+        "nyr @ tb",
+        "nj @ car",
+        "ott @ wpg",
+        "pit @ nyi",
+        "cgy @ sj"
+    ],
+    "2024-12-29": [
+        "buf @ stl",
+        "edm @ ana",
+        "wsh @ det",
+        "mtl @ tb",
+        "nyi @ pit",
+        "ott @ min",
+        "cgy @ vgk",
+        "dal @ chi",
+        "phi @ la"
+    ],
+    "2024-12-30": [
+        "nyr @ fla",
+        "nsh @ wpg",
+        "utah @ sea"
+    ],
+    "2024-12-31": [
+        "bos @ wsh",
+        "nyi @ tor",
+        "mtl @ vgk",
+        "stl @ chi",
+        "pit @ det",
+        "car @ cbj",
+        "buf @ dal",
+        "nsh @ min",
+        "wpg @ col",
+        "nj @ ana",
+        "phi @ sj",
+        "van @ cgy",
+        "utah @ edm"
+    ],
+    "2025-01-01": [
+        "nj @ la"
+    ],
+    "2025-01-02": [
+        "car @ fla",
+        "bos @ nyr",
+        "min @ wsh",
+        "det @ cbj",
+        "tor @ nyi",
+        "ott @ dal",
+        "ana @ wpg",
+        "buf @ col",
+        "utah @ cgy",
+        "phi @ vgk",
+        "van @ sea",
+        "tb @ sj"
+    ],
+    "2025-01-03": [
+        "pit @ fla",
+        "mtl @ chi",
+        "ott @ stl",
+        "ana @ edm",
+        "nsh @ van"
+    ],
+    "2025-01-04": [
+        "nyr @ wsh",
+        "nj @ sj",
+        "det @ wpg",
+        "bos @ tor",
+        "min @ car",
+        "stl @ cbj",
+        "mtl @ col",
+        "utah @ dal",
+        "tb @ la",
+        "nsh @ cgy",
+        "buf @ vgk",
+        "edm @ sea"
+    ],
+    "2025-01-05": [
+        "nyr @ chi",
+        "nyi @ bos",
+        "pit @ car",
+        "phi @ tor",
+        "tb @ ana"
+    ],
+    "2025-01-06": [
+        "wsh @ buf",
+        "van @ mtl",
+        "fla @ col",
+        "nj @ sea"
+    ],
+    "2025-01-07": [
+        "edm @ bos",
+        "ott @ det",
+        "dal @ nyr",
+        "cbj @ pit",
+        "car @ tb",
+        "tor @ phi",
+        "stl @ min",
+        "nsh @ wpg",
+        "cgy @ ana",
+        "vgk @ sj"
+    ],
+    "2025-01-08": [
+        "van @ wsh",
+        "col @ chi",
+        "fla @ utah"
+    ],
+    "2025-01-09": [
+        "buf @ ott",
+        "bos @ tb",
+        "nj @ nyr",
+        "dal @ phi",
+        "edm @ pit",
+        "sea @ cbj",
+        "tor @ car",
+        "ana @ stl",
+        "col @ min",
+        "nyi @ vgk"
+    ],
+    "2025-01-10": [
+        "chi @ det",
+        "mtl @ wsh",
+        "van @ car",
+        "la @ wpg",
+        "sj @ utah"
+    ],
+    "2025-01-11": [
+        "bos @ fla",
+        "sea @ buf",
+        "ott @ pit",
+        "van @ tor",
+        "dal @ mtl",
+        "tb @ nj",
+        "ana @ phi",
+        "edm @ chi",
+        "cbj @ stl",
+        "col @ wpg",
+        "wsh @ nsh",
+        "nyi @ utah",
+        "la @ cgy",
+        "nyr @ vgk",
+        "min @ sj"
+    ],
+    "2025-01-12": [
+        "sea @ det",
+        "dal @ ott",
+        "tb @ pit",
+        "ana @ car",
+        "min @ vgk"
+    ],
+    "2025-01-13": [
+        "fla @ phi",
+        "cgy @ chi",
+        "la @ edm"
+    ],
+    "2025-01-14": [
+        "tb @ bos",
+        "dal @ tor",
+        "sj @ det",
+        "sea @ pit",
+        "ana @ wsh",
+        "phi @ cbj",
+        "fla @ nj",
+        "ott @ nyi",
+        "cgy @ stl",
+        "vgk @ nsh",
+        "van @ wpg",
+        "nyr @ col",
+        "mtl @ utah"
+    ],
+    "2025-01-15": [
+        "car @ buf",
+        "edm @ min"
+    ],
+    "2025-01-16": [
+        "nj @ tor",
+        "wsh @ ott",
+        "ana @ tb",
+        "det @ fla",
+        "sj @ cbj",
+        "phi @ nyi",
+        "cgy @ stl",
+        "chi @ nsh",
+        "mtl @ dal",
+        "sea @ wpg",
+        "nyr @ utah",
+        "edm @ col",
+        "la @ van"
+    ],
+    "2025-01-17": [
+        "pit @ buf",
+        "vgk @ car"
+    ],
+    "2025-01-18": [
+        "phi @ nj",
+        "bos @ ott",
+        "dal @ col",
+        "ana @ fla",
+        "tor @ mtl",
+        "det @ tb",
+        "cbj @ nyr",
+        "pit @ wsh",
+        "cgy @ wpg",
+        "sj @ nyi",
+        "vgk @ chi",
+        "min @ nsh",
+        "stl @ utah",
+        "edm @ van",
+        "la @ sea"
+    ],
+    "2025-01-19": [
+        "ott @ nj",
+        "nyr @ mtl",
+        "det @ dal"
+    ],
+    "2025-01-20": [
+        "sj @ bos",
+        "min @ col",
+        "buf @ sea",
+        "stl @ vgk",
+        "tb @ tor",
+        "cbj @ nyi",
+        "car @ chi",
+        "wpg @ utah",
+        "pit @ la"
+    ],
+    "2025-01-21": [
+        "tb @ mtl",
+        "ott @ nyr",
+        "det @ phi",
+        "sj @ nsh",
+        "car @ dal",
+        "wsh @ edm",
+        "buf @ van",
+        "fla @ ana"
+    ],
+    "2025-01-22": [
+        "bos @ nj",
+        "cbj @ tor",
+        "wpg @ col",
+        "fla @ la"
+    ],
+    "2025-01-23": [
+        "ott @ bos",
+        "mtl @ det",
+        "phi @ nyr",
+        "cbj @ car",
+        "vgk @ stl",
+        "utah @ min",
+        "buf @ cgy",
+        "van @ edm",
+        "pit @ ana",
+        "wsh @ sea",
+        "nsh @ sj"
+    ],
+    "2025-01-24": [
+        "phi @ nyi",
+        "vgk @ dal",
+        "tb @ chi",
+        "utah @ wpg"
+    ],
+    "2025-01-25": [
+        "col @ bos",
+        "buf @ edm",
+        "pit @ sea",
+        "nj @ mtl",
+        "tor @ ott",
+        "tb @ det",
+        "la @ cbj",
+        "dal @ stl",
+        "cgy @ min",
+        "car @ nyi",
+        "wsh @ van",
+        "nsh @ ana",
+        "fla @ sj"
+    ],
+    "2025-01-26": [
+        "col @ nyr",
+        "utah @ ott",
+        "cgy @ wpg",
+        "min @ chi",
+        "fla @ vgk"
+    ],
+    "2025-01-27": [
+        "la @ det",
+        "nj @ phi",
+        "van @ stl",
+        "sea @ edm",
+        "pit @ sj"
+    ],
+    "2025-01-28": [
+        "bos @ buf",
+        "wpg @ mtl",
+        "chi @ tb",
+        "car @ nyr",
+        "col @ nyi",
+        "wsh @ cgy",
+        "dal @ vgk",
+        "ana @ sea"
+    ],
+    "2025-01-29": [
+        "min @ tor",
+        "la @ fla",
+        "phi @ nj",
+        "van @ nsh",
+        "pit @ utah"
+    ],
+    "2025-01-30": [
+        "wpg @ bos",
+        "min @ mtl",
+        "wsh @ ott",
+        "la @ tb",
+        "chi @ car",
+        "nyi @ phi",
+        "ana @ cgy",
+        "det @ edm",
+        "cbj @ vgk",
+        "sj @ sea"
+    ],
+    "2025-01-31": [
+        "nsh @ buf",
+        "van @ dal",
+        "stl @ col",
+        "cbj @ utah"
+    ],
+    "2025-02-01": [
+        "chi @ fla",
+        "nyr @ bos",
+        "min @ ott",
+        "nyi @ tb",
+        "nsh @ pit",
+        "wpg @ wsh",
+        "la @ car",
+        "tor @ edm",
+        "det @ cgy"
+    ],
+    "2025-02-02": [
+        "nj @ buf",
+        "phi @ col",
+        "mtl @ ana",
+        "nyi @ fla",
+        "vgk @ nyr",
+        "cbj @ dal",
+        "stl @ utah",
+        "det @ van",
+        "cgy @ sea"
+    ],
+    "2025-02-03": [
+        "ott @ nsh"
+    ],
+    "2025-02-04": [
+        "min @ bos",
+        "cbj @ buf",
+        "ott @ tb",
+        "nj @ pit",
+        "fla @ wsh",
+        "vgk @ nyi",
+        "edm @ stl",
+        "car @ wpg",
+        "tor @ cgy",
+        "phi @ utah",
+        "col @ van",
+        "det @ sea",
+        "dal @ ana",
+        "mtl @ sj"
+    ],
+    "2025-02-05": [
+        "bos @ nyr",
+        "edm @ chi",
+        "mtl @ la"
+    ],
+    "2025-02-06": [
+        "ott @ tb",
+        "vgk @ nj",
+        "wsh @ phi",
+        "utah @ cbj",
+        "car @ min",
+        "fla @ stl",
+        "col @ cgy",
+        "tor @ sea",
+        "van @ sj"
+    ],
+    "2025-02-07": [
+        "pit @ nyr",
+        "nyi @ wpg",
+        "nsh @ chi",
+        "col @ edm",
+        "dal @ la"
+    ],
+    "2025-02-08": [
+        "nj @ mtl",
+        "tb @ det",
+        "utah @ car",
+        "vgk @ bos",
+        "ott @ fla",
+        "pit @ phi",
+        "nyr @ cbj",
+        "chi @ stl",
+        "tor @ van",
+        "buf @ nsh",
+        "nyi @ min",
+        "sea @ cgy",
+        "dal @ sj",
+        "ana @ la"
+    ],
+    "2025-02-09": [
+        "utah @ wsh",
+        "tb @ mtl"
+    ],
+    "2025-02-12": [],
+    "2025-02-13": [],
+    "2025-02-22": [
+        "min @ det",
+        "edm @ phi",
+        "wsh @ pit",
+        "nyr @ buf",
+        "sea @ fla",
+        "dal @ nj",
+        "col @ nsh",
+        "ana @ bos",
+        "car @ tor",
+        "mtl @ ott",
+        "chi @ cbj",
+        "wpg @ stl",
+        "utah @ la",
+        "van @ vgk"
+    ],
+    "2025-02-23": [
+        "edm @ wsh",
+        "nyr @ pit",
+        "ana @ det",
+        "sea @ tb",
+        "col @ stl",
+        "nj @ nsh",
+        "tor @ chi",
+        "dal @ nyi",
+        "sj @ cgy",
+        "van @ utah"
+    ],
+    "2025-02-24": [
+        "sj @ wpg",
+        "vgk @ la"
+    ],
+    "2025-02-25": [
+        "tor @ bos",
+        "ana @ buf",
+        "car @ mtl",
+        "pit @ phi",
+        "cgy @ wsh",
+        "dal @ cbj",
+        "edm @ tb",
+        "nyr @ nyi",
+        "sea @ stl",
+        "fla @ nsh",
+        "det @ min",
+        "chi @ utah"
+    ],
+    "2025-02-26": [
+        "wpg @ ott",
+        "nj @ col",
+        "van @ la"
+    ],
+    "2025-02-27": [
+        "nyi @ bos",
+        "sj @ mtl",
+        "cbj @ det",
+        "cgy @ tb",
+        "edm @ fla",
+        "stl @ wsh",
+        "buf @ car",
+        "phi @ pit",
+        "wpg @ nsh",
+        "min @ utah",
+        "chi @ vgk",
+        "van @ ana"
+    ],
+    "2025-02-28": [
+        "tor @ nyr",
+        "la @ dal",
+        "min @ col"
+    ],
+    "2025-03-01": [
+        "nsh @ nyi",
+        "tb @ wsh",
+        "cgy @ fla",
+        "bos @ pit",
+        "det @ cbj",
+        "mtl @ buf",
+        "sj @ ott",
+        "edm @ car",
+        "phi @ wpg",
+        "la @ stl",
+        "nj @ utah",
+        "chi @ ana",
+        "van @ sea"
+    ],
+    "2025-03-02": [
+        "tor @ pit",
+        "bos @ min",
+        "cgy @ car",
+        "stl @ dal",
+        "nsh @ nyr",
+        "nj @ vgk"
+    ],
+    "2025-03-03": [
+        "ott @ wsh",
+        "buf @ mtl",
+        "tb @ fla",
+        "nyi @ nyr",
+        "sj @ tor",
+        "la @ chi"
+    ],
+    "2025-03-04": [
+        "nsh @ bos",
+        "sj @ buf",
+        "car @ det",
+        "cbj @ tb",
+        "cgy @ phi",
+        "wpg @ nyi",
+        "nj @ dal",
+        "pit @ col",
+        "ana @ edm",
+        "min @ sea"
+    ],
+    "2025-03-05": [
+        "wsh @ nyr",
+        "ott @ chi",
+        "tor @ vgk",
+        "ana @ van",
+        "stl @ la"
+    ],
+    "2025-03-06": [
+        "utah @ det",
+        "buf @ tb",
+        "cbj @ fla",
+        "wpg @ phi",
+        "bos @ car",
+        "sea @ nsh",
+        "cgy @ dal",
+        "mtl @ edm",
+        "sj @ col"
+    ],
+    "2025-03-07": [
+        "wpg @ nj",
+        "det @ wsh",
+        "utah @ chi",
+        "min @ van",
+        "pit @ vgk",
+        "stl @ ana"
+    ],
+    "2025-03-08": [
+        "nyr @ ott",
+        "sea @ phi",
+        "bos @ tb",
+        "buf @ fla",
+        "tor @ col",
+        "mtl @ cgy",
+        "chi @ nsh",
+        "stl @ la",
+        "dal @ edm",
+        "nyi @ sj"
+    ],
+    "2025-03-09": [
+        "nj @ phi",
+        "sea @ wsh",
+        "pit @ min",
+        "wpg @ car",
+        "cbj @ nyr",
+        "la @ vgk",
+        "dal @ van",
+        "nyi @ ana"
+    ],
+    "2025-03-10": [
+        "edm @ buf",
+        "det @ ott",
+        "chi @ col",
+        "tor @ utah"
+    ],
+    "2025-03-11": [
+        "fla @ bos",
+        "cbj @ nj",
+        "ott @ phi",
+        "vgk @ pit",
+        "tb @ car",
+        "col @ min",
+        "nyr @ wpg",
+        "mtl @ van",
+        "wsh @ ana",
+        "nyi @ la",
+        "nsh @ sj"
+    ],
+    "2025-03-12": [
+        "buf @ det",
+        "van @ cgy",
+        "ana @ utah",
+        "mtl @ sea"
+    ],
+    "2025-03-13": [
+        "fla @ tor",
+        "bos @ ott",
+        "tb @ phi",
+        "stl @ pit",
+        "vgk @ cbj",
+        "edm @ nj",
+        "nyr @ min",
+        "wsh @ la",
+        "chi @ sj"
+    ],
+    "2025-03-14": [
+        "det @ car",
+        "edm @ nyi",
+        "dal @ wpg",
+        "col @ cgy",
+        "nsh @ ana",
+        "utah @ sea"
+    ],
+    "2025-03-15": [
+        "vgk @ buf",
+        "nj @ pit",
+        "wsh @ sj",
+        "tb @ bos",
+        "ott @ tor",
+        "fla @ mtl",
+        "car @ phi",
+        "nyr @ cbj",
+        "stl @ min",
+        "nsh @ la",
+        "chi @ van"
+    ],
+    "2025-03-16": [
+        "vgk @ det",
+        "dal @ col",
+        "edm @ nyr",
+        "fla @ nyi",
+        "ana @ stl",
+        "utah @ van",
+        "wpg @ sea"
+    ],
+    "2025-03-17": [
+        "buf @ bos",
+        "phi @ tb",
+        "nj @ cbj",
+        "cgy @ tor",
+        "la @ min"
+    ],
+    "2025-03-18": [
+        "ott @ mtl",
+        "cgy @ nyr",
+        "nyi @ pit",
+        "det @ wsh",
+        "stl @ nsh",
+        "ana @ dal",
+        "sea @ chi",
+        "utah @ edm",
+        "wpg @ van"
+    ],
+    "2025-03-19": [
+        "col @ tor",
+        "sea @ min"
+    ],
+    "2025-03-20": [
+        "col @ ott",
+        "cgy @ nj",
+        "tor @ nyr",
+        "phi @ wsh",
+        "fla @ cbj",
+        "mtl @ nyi",
+        "van @ stl",
+        "ana @ nsh",
+        "tb @ dal",
+        "la @ chi",
+        "wpg @ edm",
+        "buf @ utah",
+        "bos @ vgk",
+        "car @ sj"
+    ],
+    "2025-03-21": [
+        "cbj @ pit"
+    ],
+    "2025-03-22": [
+        "van @ nyr",
+        "phi @ dal",
+        "buf @ min",
+        "chi @ stl",
+        "cgy @ nyi",
+        "car @ la",
+        "fla @ wsh",
+        "tb @ utah",
+        "col @ mtl",
+        "ott @ nj",
+        "tor @ nsh",
+        "det @ vgk",
+        "sea @ edm",
+        "bos @ sj"
+    ],
+    "2025-03-23": [
+        "phi @ chi",
+        "buf @ wpg",
+        "pit @ fla",
+        "nsh @ stl",
+        "tb @ vgk",
+        "car @ ana",
+        "bos @ la"
+    ],
+    "2025-03-24": [
+        "van @ nj",
+        "cbj @ nyi",
+        "min @ dal",
+        "det @ utah"
+    ],
+    "2025-03-25": [
+        "ott @ buf",
+        "phi @ tor",
+        "pit @ tb",
+        "nsh @ car",
+        "mtl @ stl",
+        "vgk @ min",
+        "wsh @ wpg",
+        "det @ col",
+        "sea @ cgy",
+        "nyr @ la"
+    ],
+    "2025-03-26": [
+        "van @ nyi",
+        "nj @ chi",
+        "dal @ edm",
+        "bos @ ana"
+    ],
+    "2025-03-27": [
+        "pit @ buf",
+        "ott @ det",
+        "utah @ tb",
+        "mtl @ phi",
+        "wsh @ min",
+        "stl @ nsh",
+        "dal @ cgy",
+        "la @ col",
+        "edm @ sea",
+        "tor @ sj"
+    ],
+    "2025-03-28": [
+        "utah @ fla",
+        "mtl @ car",
+        "van @ cbj",
+        "nj @ wpg",
+        "vgk @ chi",
+        "nyr @ ana"
+    ],
+    "2025-03-29": [
+        "buf @ phi",
+        "nyi @ tb",
+        "stl @ col",
+        "nj @ min",
+        "vgk @ nsh",
+        "cbj @ ott",
+        "tor @ la",
+        "bos @ det",
+        "cgy @ edm",
+        "nyr @ sj",
+        "dal @ sea"
+    ],
+    "2025-03-30": [
+        "mtl @ fla",
+        "buf @ wsh",
+        "van @ wpg",
+        "utah @ chi",
+        "ott @ pit",
+        "nyi @ car",
+        "tor @ ana",
+        "sj @ la"
+    ],
+    "2025-03-31": [
+        "min @ nj",
+        "nsh @ phi",
+        "cgy @ col",
+        "dal @ sea"
+    ],
+    "2025-04-01": [
+        "wsh @ bos",
+        "fla @ mtl",
+        "buf @ ott",
+        "nsh @ cbj",
+        "tb @ nyi",
+        "det @ stl",
+        "cgy @ utah",
+        "edm @ vgk",
+        "sj @ ana",
+        "wpg @ la"
+    ],
+    "2025-04-02": [
+        "min @ nyr",
+        "wsh @ car",
+        "fla @ tor",
+        "col @ chi",
+        "sea @ van"
+    ],
+    "2025-04-03": [
+        "bos @ mtl",
+        "tb @ ott",
+        "col @ cbj",
+        "pit @ stl",
+        "nsh @ dal",
+        "la @ utah",
+        "ana @ cgy",
+        "wpg @ vgk",
+        "edm @ sj"
+    ],
+    "2025-04-04": [
+        "car @ det",
+        "chi @ wsh",
+        "min @ nyi"
+    ],
+    "2025-04-05": [
+        "nyr @ nj",
+        "fla @ ott",
+        "pit @ dal",
+        "ana @ van",
+        "edm @ la",
+        "car @ bos",
+        "tb @ buf",
+        "cbj @ tor",
+        "phi @ mtl",
+        "col @ stl",
+        "wpg @ utah",
+        "vgk @ cgy",
+        "sea @ sj"
+    ],
+    "2025-04-06": [
+        "wsh @ nyi",
+        "dal @ min",
+        "cbj @ ott",
+        "fla @ det",
+        "bos @ buf",
+        "pit @ chi",
+        "mtl @ nsh",
+        "vgk @ van"
+    ],
+    "2025-04-07": [
+        "tb @ nyr",
+        "stl @ wpg",
+        "edm @ ana",
+        "sea @ la",
+        "cgy @ sj"
+    ],
+    "2025-04-08": [
+        "car @ buf",
+        "det @ mtl",
+        "tor @ fla",
+        "bos @ nj",
+        "ott @ cbj",
+        "chi @ pit",
+        "nyi @ nsh",
+        "van @ dal",
+        "sea @ utah",
+        "vgk @ col"
+    ],
+    "2025-04-09": [
+        "tor @ tb",
+        "phi @ nyr",
+        "sj @ min",
+        "stl @ edm",
+        "cgy @ ana"
+    ],
+    "2025-04-10": [
+        "chi @ bos",
+        "det @ fla",
+        "buf @ cbj",
+        "car @ wsh",
+        "nyr @ nyi",
+        "wpg @ dal",
+        "van @ col",
+        "nsh @ utah",
+        "sea @ vgk",
+        "ana @ la"
+    ],
+    "2025-04-11": [
+        "mtl @ ott",
+        "det @ tb",
+        "pit @ nj",
+        "sj @ edm",
+        "min @ cgy"
+    ],
+    "2025-04-12": [
+        "nyi @ phi",
+        "wsh @ cbj",
+        "nyr @ car",
+        "col @ la",
+        "buf @ fla",
+        "mtl @ tor",
+        "wpg @ chi",
+        "utah @ dal",
+        "min @ van",
+        "nsh @ vgk",
+        "stl @ sea"
+    ],
+    "2025-04-13": [
+        "phi @ ott",
+        "nyi @ nj",
+        "bos @ pit",
+        "tor @ car",
+        "buf @ tb",
+        "cbj @ wsh",
+        "edm @ wpg",
+        "sj @ cgy",
+        "col @ ana"
+    ],
+    "2025-04-14": [
+        "chi @ mtl",
+        "dal @ det",
+        "nyr @ fla",
+        "utah @ nsh",
+        "la @ edm",
+        "sj @ van"
+    ],
+    "2025-04-15": [
+        "nj @ bos",
+        "tor @ buf",
+        "chi @ ott",
+        "cbj @ phi",
+        "fla @ tb",
+        "wsh @ nyi",
+        "utah @ stl",
+        "ana @ min",
+        "vgk @ cgy",
+        "la @ sea"
+    ],
+    "2025-04-16": [
+        "car @ mtl",
+        "ana @ wpg",
+        "det @ nj",
+        "dal @ nsh",
+        "vgk @ van",
+        "edm @ sj"
+    ],
+    "2025-04-17": [
+        "phi @ buf",
+        "det @ tor",
+        "car @ ott",
+        "tb @ nyr",
+        "wsh @ pit",
+        "nyi @ cbj",
+        "cgy @ la"
+    ],
+    "2025-04-19": [
+        "stl @ wpg",
+        "col @ dal"
+    ],
+    "2025-04-20": [
+        "nj @ car",
+        "ott @ tor",
+        "min @ vgk"
+    ],
+    "2025-04-21": [
+        "mtl @ wsh",
+        "stl @ wpg",
+        "col @ dal",
+        "edm @ la"
+    ],
+    "2025-04-22": [
+        "nj @ car",
+        "ott @ tor",
+        "fla @ tb",
+        "min @ vgk"
+    ],
+    "2025-04-23": [
+        "mtl @ wsh",
+        "dal @ col",
+        "edm @ la"
+    ],
+    "2025-04-24": [
+        "fla @ tb",
+        "tor @ ott",
+        "vgk @ min",
+        "wpg @ stl"
+    ],
+    "2025-04-25": [
+        "wsh @ mtl",
+        "car @ nj",
+        "la @ edm"
+    ],
+    "2025-04-26": [
+        "tb @ fla",
+        "vgk @ min",
+        "tor @ ott",
+        "dal @ col"
+    ],
+    "2025-04-27": [
+        "wpg @ stl",
+        "car @ nj",
+        "wsh @ mtl",
+        "la @ edm"
+    ],
+    "2025-04-28": [
+        "tb @ fla",
+        "col @ dal"
+    ],
+    "2025-04-29": [
+        "ott @ tor",
+        "nj @ car",
+        "min @ vgk",
+        "edm @ la"
+    ],
+    "2025-04-30": [
+        "mtl @ wsh",
+        "fla @ tb",
+        "stl @ wpg"
+    ],
+    "2025-05-01": [
+        "tor @ ott",
+        "vgk @ min",
+        "dal @ col",
+        "la @ edm"
+    ],
+    "2025-05-02": [
+        "wpg @ stl"
+    ],
+    "2025-05-03": [
+        "col @ dal"
+    ],
+    "2025-05-04": [
+        "stl @ wpg"
+    ],
+    "2025-05-05": [
+        "fla @ tor"
+    ],
+    "2025-05-06": [
+        "car @ wsh",
+        "edm @ vgk"
+    ],
+    "2025-05-07": [
+        "fla @ tor",
+        "dal @ wpg"
+    ],
+    "2025-05-08": [
+        "car @ wsh",
+        "edm @ vgk"
+    ],
+    "2025-05-09": [
+        "tor @ fla",
+        "dal @ wpg"
+    ],
+    "2025-05-10": [
+        "wsh @ car",
+        "vgk @ edm"
+    ],
+    "2025-05-11": [
+        "wpg @ dal",
+        "tor @ fla"
+    ],
+    "2025-05-12": [
+        "wsh @ car",
+        "vgk @ edm"
+    ],
+    "2025-05-13": [
+        "wpg @ dal"
+    ],
+    "2025-05-14": [
+        "fla @ tor",
+        "edm @ vgk"
+    ],
+    "2025-05-15": [
+        "car @ wsh",
+        "dal @ wpg"
+    ],
+    "2025-05-16": [
+        "tor @ fla"
+    ],
+    "2025-05-17": [
+        "wpg @ dal"
+    ],
+    "2025-05-18": [
+        "fla @ tor"
+    ],
+    "2025-05-19": [],
+    "2025-05-20": [
+        "fla @ car"
+    ],
+    "2025-05-21": [
+        "edm @ dal"
+    ],
+    "2025-05-22": [
+        "fla @ car"
+    ],
+    "2025-05-23": [
+        "edm @ dal"
+    ],
+    "2025-05-24": [
+        "car @ fla"
+    ],
+    "2025-05-25": [
+        "dal @ edm"
+    ],
+    "2025-05-26": [
+        "car @ fla"
+    ],
+    "2025-05-27": [
+        "dal @ edm"
+    ],
+    "2025-05-28": [
+        "fla @ car"
+    ],
+    "2025-05-29": [
+        "edm @ dal"
+    ],
+    "2025-05-30": [
+        "car @ fla"
+    ],
+    "2025-05-31": [
+        "dal @ edm"
+    ],
+    "2025-06-01": [
+        "fla @ car"
+    ],
+    "2025-06-02": [
+        "edm @ dal"
+    ],
+    "2025-06-04": [
+        "fla @ edm"
+    ],
+    "2025-06-06": [
+        "fla @ edm"
+    ],
+    "2025-06-09": [
+        "edm @ fla"
+    ],
+    "2025-06-12": [
+        "edm @ fla"
+    ],
+    "2025-06-14": [
+        "fla @ edm"
+    ],
+    "2025-06-17": [
+        "edm @ fla"
+    ],
+    "2025-06-20": [
+        "fla @ edm"
+    ]
+}

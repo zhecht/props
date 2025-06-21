@@ -1,0 +1,87 @@
+{
+    "nsh": {
+        "power play #1": [
+            "ryan oreilly",
+            "colton sissons",
+            "gustav nyquist",
+            "filip forsberg",
+            "roman josi"
+        ],
+        "power play #2": [
+            "thomas novak",
+            "juuso parssinen",
+            "philip tomasino",
+            "luke evangelista",
+            "ryan mcdonagh"
+        ],
+        "injuries": [
+            "tyson barrie",
+            "tanner molendyk"
+        ]
+    },
+    "dal": {
+        "power play #1": [
+            "roope hintz",
+            "joe pavelski",
+            "jamie benn",
+            "thomas harley",
+            "jason robertson"
+        ],
+        "power play #2": [
+            "wyatt johnston",
+            "mason marchment",
+            "matt duchene",
+            "nils lundkvist",
+            "tyler seguin"
+        ],
+        "injuries": [
+            "jake oettinger",
+            "miro heiskanen",
+            "jerad rosburg"
+        ]
+    },
+    "phi": {
+        "power play #1": [
+            "sean couturier",
+            "travis konecny",
+            "joel farabee",
+            "owen tippett",
+            "egor zamula"
+        ],
+        "power play #2": [
+            "scott laughton",
+            "tyson foerster",
+            "bobby brink",
+            "travis sanheim",
+            "jamie drysdale"
+        ],
+        "injuries": [
+            "noah cates",
+            "ryan ellis"
+        ]
+    },
+    "min": {
+        "power play #1": [
+            "joel eriksson ek",
+            "mats zuccarello",
+            "marco rossi",
+            "brock faber",
+            "matt boldy"
+        ],
+        "power play #2": [
+            "ryan hartman",
+            "patrick maroon",
+            "marcus johansson",
+            "jacob middleton",
+            "frederick gaudreau"
+        ],
+        "injuries": [
+            "jonas brodin",
+            "filip gustavsson",
+            "sam hentges",
+            "kirill kaprizov",
+            "vinni lettieri",
+            "jared spurgeon"
+        ]
+    }
+}

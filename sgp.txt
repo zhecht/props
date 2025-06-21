@@ -1,0 +1,533 @@
+
+game: mil @ no
+-1.5 -115/104
+
+jae crowder o1.5 reb (16m) -280
+85%, 93% L15, 75% per min
+2,1,1,5,7,8,7,2,3,2,6,3,2,0,2,2,2,3,2,2
+Rank: 10th, PF Pos Rank: 23rd
+
+bobby portis o17.5 pts+reb (25m) -290
+63%, 86% L15, 69% per min
+25,21,20,22,19,22,29,24,20,44,26,22,19,18,11,41,39,15,21,31
+Rank: 8th, SF Pos Rank: 8th
+
+patrick beverley o1.5 reb (19m) -215
+75%, 80% L15, 74% per min
+3,1,1,2,4,3,0,3,8,4,9,4,0,4,2,2,2,0,3,4
+Rank: 10th, PG Pos Rank: 1st
+
+pat connaughton o0.5 3ptm (20m) -215
+75%, 80% L15, 75% per min
+1,1,0,0,2,1,1,2,0,1,2,4,1,1,1,0,1,0,1,1
+Rank: 26th, SG Pos Rank: 27th
+
+naji marshall o0.5 stl (23m) -225
+63%, 80% L15, 63% per min
+1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,3,1,1,0,1
+Rank: 9th, SF Pos Rank: 18th
+
+naji marshall o0.5 stl (23m) -215
+63%, 80% L15, 63% per min
+1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,3,1,1,0,1
+Rank: 9th, SF Pos Rank: 18th
+
+khris middleton o21.5 pts+reb+ast (31m) -230
+65%, 80% L15, 89% per min
+30,32,20,18,34,14,37,6,26,30,34,30,25,31,24,10,32,34,31,25
+Rank: 10th, SF Pos Rank: 9th
+
+khris middleton o15.5 pts+reb (31m) -280
+76%, 80% L15, 80% per min
+24,25,15,13,26,7,27,4,22,28,29,22,22,23,16,9,25,28,21,18
+Rank: 8th, SF Pos Rank: 8th
+
+giannis antetokounmpo o4.5 ast (36m) -300
+71%, 80% L15, 70% per min
+13,6,7,3,5,8,12,5,9,1,5,6,6,12,10,4,7,5,4,11
+Rank: 16th, PF Pos Rank: 7th
+
+damian lillard o5.5 ast (35m) -230
+62%, 80% L15, 70% per min
+8,5,5,7,10,9,7,2,7,4,6,12,11,6,9,16,6,12,5,8
+Rank: 16th, PG Pos Rank: 17th
+
+damian lillard o2.5 3ptm (35m) -240
+56%, 80% L15, 56% per min
+2,2,2,3,2,4,4,3,3,4,5,4,7,1,2,4,6,5,2,3
+Rank: 26th, PG Pos Rank: 24th
+
+trey murphy o4.5 reb (34m) -190
+46%, 73% L15, 65% per min
+5,3,5,3,6,10,7,4,7,6,3,7,1,6,6,8,3,8,8,6
+Rank: 17th, SG Pos Rank: 29th
+
+patrick beverley o1.5 ast (19m) -230
+72%, 73% L15, 69% per min
+5,4,4,2,0,3,2,3,3,2,2,0,0,1,4,2,4,0,2,4
+Rank: 16th, PG Pos Rank: 17th
+
+patrick beverley o0.5 stl+blk (19m) -210
+53%, 73% L15, 53% per min
+0,0,1,1,1,1,1,2,0,1,5,3,0,3,0,2,1,0,1,2
+Rank: 10th, PG Pos Rank: 6th
+
+naji marshall o3.5 reb (23m) -210
+48%, 73% L15, 56% per min
+1,3,7,2,2,1,4,8,3,7,4,5,5,2,5,5,0,7,8,4
+Rank: 17th, SF Pos Rank: 11th
+
+khris middleton o17.5 pts+ast (31m) -200
+61%, 73% L15, 89% per min
+27,26,17,15,31,12,34,4,21,28,29,22,17,29,21,7,29,28,21,19
+Rank: 9th, SF Pos Rank: 9th
+
+khris middleton o11.5 pts (31m) -260
+74%, 73% L15, 85% per min
+21,19,12,10,23,5,24,2,17,26,24,14,14,21,13,6,22,22,11,12
+Rank: 8th, SF Pos Rank: 8th
+
+khris middleton o0.5 stl (31m) -210
+65%, 73% L15, 65% per min
+1,0,1,1,2,1,1,0,1,2,2,2,0,0,1,1,1,1,0,1
+Rank: 5th, SF Pos Rank: 2nd
+
+brook lopez o7.5 pts (28m) -235
+81%, 73% L15, 81% per min
+11,9,7,14,16,11,0,11,12,6,9,11,7,7,19,10,8,17,14,9
+Rank: 8th, C Pos Rank: 15th
+
+brook lopez o12.5 pts+reb (28m) -195
+79%, 73% L15, 76% per min
+18,14,10,25,19,18,1,14,15,12,13,14,13,11,26,17,10,22,17,15
+Rank: 8th, C Pos Rank: 16th
+
+bobby portis o6.5 reb (25m) -205
+58%, 73% L15, 63% per min
+7,8,4,7,5,5,8,10,9,16,6,8,8,7,3,10,15,9,6,13
+Rank: 10th, SF Pos Rank: 14th
+
+zion williamson o5.5 reb (36m) -260
+47%, 66% L15, 62% per min
+9,5,6,3,9,8,5,3,3,8,12,6,9,7,10,7,7,5,7,5
+Rank: 17th, PF Pos Rank: 11th
+
+trey murphy o21.5 pts+reb+ast (34m) -270
+36%, 66% L15, 59% per min
+29,14,21,17,13,21,37,22,36,41,16,37,15,24,31,21,24,25,18,24
+Rank: 18th, SG Pos Rank: 26th
+
+naji marshall o0.5 3ptm (23m) -300
+65%, 66% L15, 65% per min
+0,2,1,1,2,0,1,0,0,1,4,1,1,2,1,0,0,1,4,1
+Rank: 11th, SF Pos Rank: 3rd
+
+malik beasley o11.5 pts+reb (28m) -235
+66%, 66% L15, 65% per min
+7,23,14,19,11,16,22,10,21,10,9,7,18,21,14,20,12,22,10,24
+Rank: 8th, SG Pos Rank: 12th
+
+khris middleton o4.5 ast (31m) -210
+57%, 66% L15, 68% per min
+6,7,5,5,8,7,10,2,4,2,5,8,3,8,8,1,7,6,10,7
+Rank: 16th, SF Pos Rank: 23rd
+
+giannis antetokounmpo o44.5 pts+reb+ast (36m) -205
+67%, 66% L15, 67% per min
+53,50,27,32,59,42,51,51,51,33,39,68,36,60,51,47,50,35,53,61
+Rank: 10th, PF Pos Rank: 12th
+
+damian lillard o19.5 pts (35m) -250
+70%, 66% L15, 71% per min
+26,18,16,24,21,24,23,17,16,41,20,28,35,10,17,31,32,30,11,27
+Rank: 8th, PG Pos Rank: 11th
+
+damian lillard o0.5 stl (35m) -200
+65%, 66% L15, 65% per min
+3,0,0,1,2,2,0,2,0,1,1,0,0,1,1,1,1,2,0,1
+Rank: 5th, PG Pos Rank: 8th
+
+bobby portis o11.5 pts (25m) -190
+56%, 66% L15, 58% per min
+18,13,16,15,14,17,21,14,11,28,20,14,11,11,8,31,24,6,15,18
+Rank: 8th, SF Pos Rank: 8th
+
+zion williamson o0.5 stl (36m) -265
+60%, 60% L15, 60% per min
+1,1,0,2,1,0,0,0,0,1,2,0,1,3,1,1,2,0,2,3
+Rank: 9th, PF Pos Rank: 7th
+
+trey murphy o19.5 pts+reb (34m) -220
+34%, 60% L15, 57% per min
+29,12,18,16,11,19,33,15,35,40,13,35,12,20,26,18,24,22,16,22
+Rank: 20th, SG Pos Rank: 28th
+
+trey murphy o17.5 pts+ast (34m) -190
+34%, 60% L15, 55% per min
+24,11,16,14,7,11,30,18,29,35,13,30,14,18,25,13,21,17,10,18
+Rank: 17th, SG Pos Rank: 23rd
+
+trey murphy o0.5 stl (34m) -220
+55%, 60% L15, 55% per min
+1,1,3,3,1,1,1,1,2,1,1,0,0,0,0,1,1,0,1,0
+Rank: 9th, SG Pos Rank: 3rd
+
+trey murphy o0.5 stl (34m) -210
+55%, 60% L15, 55% per min
+1,1,3,3,1,1,1,1,2,1,1,0,0,0,0,1,1,0,1,0
+Rank: 9th, SG Pos Rank: 3rd
+
+patrick beverley o0.5 blk (19m) -195
+33%, 60% L15, 33% per min
+0,0,0,0,0,1,0,1,0,1,1,2,0,1,0,1,0,0,1,2
+Rank: 19th, PG Pos Rank: 3rd
+
+naji marshall o6.5 pts (23m) -300
+53%, 60% L15, 66% per min
+8,10,5,13,6,0,3,0,1,11,19,7,7,8,11,4,4,13,14,7
+Rank: 18th, SF Pos Rank: 9th
+
+naji marshall o0.5 to (23m) -210
+68%, 60% L15, 68% per min
+4,1,0,3,0,0,1,4,0,1,2,0,1,0,0,1,1,0,1,1
+Rank: 3rd, SF Pos Rank: 1st
+
+malik beasley o8.5 pts (28m) -235
+62%, 60% L15, 60% per min
+3,21,9,16,9,14,20,6,19,4,5,4,14,17,11,17,6,16,8,21
+Rank: 8th, SG Pos Rank: 13th
+
+larry nance o1.5 ast (26m) -230
+49%, 60% L15, 58% per min
+6,1,3,3,1,1,0,3,1,3,2,1,3,3,3,2,3,1,2,0
+Rank: 13th, PF Pos Rank: 4th
+
+jonas valanciunas o0.5 to (18m) -195
+68%, 60% L15, 66% per min
+3,1,1,1,3,0,0,0,4,2,1,2,1,0,2,1,1,0,1,0
+Rank: 3rd, C Pos Rank: 9th
+
+herbert jones o15.5 pts+reb+ast (34m) -240
+54%, 60% L15, 71% per min
+15,23,27,13,26,26,24,17,19,8,22,10,10,11,16,17,24,15,10,22
+Rank: 18th, SF Pos Rank: 8th
+
+herbert jones o12.5 pts+reb (34m) -225
+57%, 60% L15, 71% per min
+13,18,26,12,22,24,18,16,18,7,19,7,8,8,11,14,19,13,8,18
+Rank: 20th, SF Pos Rank: 6th
+
+giannis antetokounmpo o10.5 reb (36m) -200
+56%, 60% L15, 64% per min
+7,10,3,14,18,11,4,13,12,8,10,16,7,14,7,13,11,9,19,21
+Rank: 10th, PF Pos Rank: 23rd
+
+giannis antetokounmpo o0.5 blk (36m) -238
+67%, 60% L15, 67% per min
+1,0,0,1,2,2,0,0,1,0,0,1,1,1,1,0,0,2,1,3
+Rank: 19th, PF Pos Rank: 26th
+
+damian lillard o24.5 pts+reb (35m) -210
+70%, 60% L15, 67% per min
+30,21,18,29,30,31,32,23,19,45,21,33,42,15,20,36,36,33,17,32
+Rank: 8th, PG Pos Rank: 4th
+
+damian lillard o20.5 pts (35m) -200
+68%, 60% L15, 65% per min
+26,18,16,24,21,24,23,17,16,41,20,28,35,10,17,31,32,30,11,27
+Rank: 8th, PG Pos Rank: 11th
+
+cj mccollum o3.5 reb (38m) -220
+62%, 60% L15, 76% per min
+7,4,3,5,3,6,2,6,4,4,4,4,3,6,2,1,3,5,2,6
+Rank: 17th, SG Pos Rank: 29th
+
+cj mccollum o1.5 to (38m) -195
+53%, 60% L15, 57% per min
+3,0,1,2,0,2,0,1,0,1,3,2,1,2,2,2,2,2,2,0
+Rank: 3rd, SG Pos Rank: 6th
+
+brook lopez o3.5 reb (28m) -220
+69%, 60% L15, 71% per min
+7,5,3,11,3,7,1,3,3,6,4,3,6,4,7,7,2,5,3,6
+Rank: 10th, C Pos Rank: 20th
+
+bobby portis o0.5 stl+blk (25m) -245
+62%, 60% L15, 62% per min
+1,0,0,0,0,3,0,3,3,0,0,0,0,0,1,3,1,3,3,2
+Rank: 10th, SF Pos Rank: 3rd
+
+bobby portis o0.5 3ptm (25m) -210
+59%, 60% L15, 59% per min
+3,1,2,1,0,3,2,0,1,2,2,0,1,0,0,5,2,0,0,2
+Rank: 26th, SF Pos Rank: 23rd
+
+zion williamson o29.5 pts+reb (36m) -270
+55%, 53% L15, 70% per min
+39,19,42,30,32,27,26,26,11,24,35,33,42,41,36,35,27,9,43,34
+Rank: 20th, PF Pos Rank: 11th
+
+malik beasley o12.5 pts (28m) -200
+44%, 53% L15, 33% per min
+3,21,9,16,9,14,20,6,19,4,5,4,14,17,11,17,6,16,8,21
+Rank: 8th, SG Pos Rank: 13th
+
+malik beasley o0.5 stl+blk (28m) -215
+56%, 53% L15, 56% per min
+1,1,0,3,2,3,0,1,0,1,3,2,1,0,0,0,0,0,1,2
+Rank: 10th, SG Pos Rank: 20th
+
+larry nance o0.5 stl (26m) -195
+50%, 53% L15, 50% per min
+0,0,1,3,0,1,0,0,0,0,1,1,4,2,0,1,2,0,0,1
+Rank: 9th, PF Pos Rank: 7th
+
+khris middleton o6.5 ast (31m) -265
+36%, 53% L15, 42% per min
+6,7,5,5,8,7,10,2,4,2,5,8,3,8,8,1,7,6,10,7
+Rank: 16th, SF Pos Rank: 23rd
+
+jonas valanciunas o14.5 pts+reb (18m) -265
+75%, 53% L15, 65% per min
+25,12,15,34,22,31,16,3,24,20,16,13,12,10,7,15,11,18,19,12
+Rank: 20th, C Pos Rank: 11th
+
+jonas valanciunas o0.5 stl+blk (18m) -190
+69%, 53% L15, 69% per min
+1,1,1,1,1,1,0,0,2,1,2,2,0,0,0,1,1,0,1,0
+Rank: 2nd, C Pos Rank: 2nd
+
+herbert jones o12.5 pts+ast (34m) -190
+51%, 53% L15, 69% per min
+15,19,18,7,21,21,21,16,15,7,20,7,9,6,12,14,18,12,9,20
+Rank: 17th, SF Pos Rank: 11th
+
+zion williamson o29.5 pts+ast (36m) -235
+42%, 46% L15, 67% per min
+35,18,44,36,30,30,25,27,15,25,27,34,34,38,29,32,22,8,42,39
+Rank: 17th, PF Pos Rank: 7th
+
+trey murphy o6.5 reb (34m) -295
+19%, 46% L15, 29% per min
+5,3,5,3,6,10,7,4,7,6,3,7,1,6,6,8,3,8,8,6
+Rank: 17th, SG Pos Rank: 29th
+
+trey murphy o14.5 pts (34m) -195
+31%, 46% L15, 51% per min
+24,9,13,13,5,9,26,11,28,34,10,28,11,14,20,10,21,14,8,16
+Rank: 18th, SG Pos Rank: 27th
+
+naji marshall o11.5 pts+reb (23m) -225
+41%, 46% L15, 56% per min
+9,13,12,15,8,1,7,8,4,18,23,12,12,10,16,9,4,20,22,11
+Rank: 20th, SF Pos Rank: 6th
+
+malik beasley o3.5 reb (28m) -190
+55%, 46% L15, 46% per min
+4,2,5,3,2,2,2,4,2,6,4,3,4,4,3,3,6,6,2,3
+Rank: 10th, SG Pos Rank: 6th
+
+larry nance o4.5 reb (26m) -245
+56%, 46% L15, 71% per min
+6,2,9,6,3,9,3,6,6,3,6,4,2,5,4,10,2,9,3,2
+Rank: 17th, PF Pos Rank: 11th
+
+khris middleton o3.5 reb (31m) -250
+46%, 46% L15, 61% per min
+3,6,3,3,3,2,3,2,5,2,5,8,8,2,3,3,3,6,10,6
+Rank: 10th, SF Pos Rank: 14th
+
+jonas valanciunas o8.5 reb (18m) -275
+59%, 46% L15, 20% per min
+9,6,5,14,10,17,9,3,9,10,10,9,7,6,3,7,5,10,6,6
+Rank: 17th, C Pos Rank: 7th
+
+jonas valanciunas o15.5 pts+reb (18m) -200
+70%, 46% L15, 55% per min
+25,12,15,34,22,31,16,3,24,20,16,13,12,10,7,15,11,18,19,12
+Rank: 20th, C Pos Rank: 11th
+
+giannis antetokounmpo o0.5 stl (36m) -230
+65%, 46% L15, 65% per min
+0,0,1,1,3,0,0,1,0,0,0,1,0,1,1,1,1,0,0,2
+Rank: 5th, PF Pos Rank: 3rd
+
+cj mccollum o19.5 pts (38m) -255
+44%, 46% L15, 60% per min
+25,19,8,11,26,28,2,23,14,11,10,20,8,11,30,16,18,30,23,23
+Rank: 18th, SG Pos Rank: 27th
+
+bobby portis o8.5 reb (25m) -210
+27%, 46% L15, 27% per min
+7,8,4,7,5,5,8,10,9,16,6,8,8,7,3,10,15,9,6,13
+Rank: 10th, SF Pos Rank: 14th
+
+bobby portis o15.5 pts (25m) -245
+33%, 46% L15, 31% per min
+18,13,16,15,14,17,21,14,11,28,20,14,11,11,8,31,24,6,15,18
+Rank: 8th, SF Pos Rank: 8th
+
+zion williamson o5.5 ast (36m) -220
+39%, 40% L15, 50% per min
+5,4,8,9,7,11,4,4,7,9,4,7,1,4,3,4,2,4,6,10
+Rank: 13th, PF Pos Rank: 4th
+
+trey murphy o18.5 pts (34m) -195
+19%, 40% L15, 36% per min
+24,9,13,13,5,9,26,11,28,34,10,28,11,14,20,10,21,14,8,16
+Rank: 18th, SG Pos Rank: 27th
+
+trey murphy o0.5 to (34m) -195
+40%, 40% L15, 40% per min
+0,0,0,1,0,0,0,0,0,0,0,2,2,0,0,1,1,3,1,0
+Rank: 3rd, SG Pos Rank: 6th
+
+naji marshall o9.5 pts+ast (23m) -240
+41%, 40% L15, 61% per min
+13,11,5,14,9,2,6,4,2,15,20,10,9,9,13,7,6,14,17,8
+Rank: 17th, SF Pos Rank: 11th
+
+naji marshall o7.5 pts (23m) -200
+45%, 40% L15, 56% per min
+8,10,5,13,6,0,3,0,1,11,19,7,7,8,11,4,4,13,14,7
+Rank: 18th, SF Pos Rank: 9th
+
+jonas valanciunas o7.5 pts (18m) -275
+76%, 40% L15, 65% per min
+16,6,10,20,12,14,7,0,15,10,6,4,5,4,4,8,6,8,13,6
+Rank: 18th, C Pos Rank: 11th
+
+cj mccollum o29.5 pts+reb+ast (38m) -240
+41%, 40% L15, 58% per min
+36,26,18,18,35,40,5,32,19,19,15,27,12,21,40,22,24,42,32,34
+Rank: 18th, SG Pos Rank: 26th
+
+cj mccollum o24.5 pts+reb (38m) -220
+42%, 40% L15, 58% per min
+32,23,11,16,29,34,4,29,18,15,14,24,11,17,32,17,21,35,25,29
+Rank: 20th, SG Pos Rank: 28th
+
+cj mccollum o24.5 pts+ast (38m) -255
+42%, 40% L15, 60% per min
+29,22,15,13,32,34,3,26,15,15,11,23,9,15,38,21,21,37,30,28
+Rank: 17th, SG Pos Rank: 23rd
+
+brook lopez o5.5 reb (28m) -300
+44%, 40% L15, 30% per min
+7,5,3,11,3,7,1,3,3,6,4,3,6,4,7,7,2,5,3,6
+Rank: 10th, C Pos Rank: 20th
+
+zion williamson o1.5 stl (36m) -245
+27%, 33% L15, 29% per min
+1,1,0,2,1,0,0,0,0,1,2,0,1,3,1,1,2,0,2,3
+Rank: 9th, PF Pos Rank: 7th
+
+naji marshall o10.5 pts (23m) -195
+28%, 33% L15, 41% per min
+8,10,5,13,6,0,3,0,1,11,19,7,7,8,11,4,4,13,14,7
+Rank: 18th, SF Pos Rank: 9th
+
+khris middleton o5.5 reb (31m) -265
+29%, 33% L15, 38% per min
+3,6,3,3,3,2,3,2,5,2,5,8,8,2,3,3,3,6,10,6
+Rank: 10th, SF Pos Rank: 14th
+
+jordan hawkins o1.5 reb (15m) -225
+54%, 33% L15, 55% per min
+3,6,0,0,0,0,3,2,3,1,4,0,1,2,0,0,1,0,1,0
+Rank: 17th, SG Pos Rank: 29th
+
+cj mccollum o0.5 stl (38m) -200
+62%, 33% L15, 62% per min
+1,0,1,1,1,0,0,0,2,0,0,0,0,1,2,0,0,1,1,0
+Rank: 9th, SG Pos Rank: 3rd
+
+cj mccollum o0.5 stl (38m) -190
+62%, 33% L15, 62% per min
+1,0,1,1,1,0,0,0,2,0,0,0,0,1,2,0,0,1,1,0
+Rank: 9th, SG Pos Rank: 3rd
+
+bobby portis o1.5 to (25m) -260
+27%, 33% L15, 27% per min
+1,3,0,2,0,2,1,1,0,1,5,0,0,0,4,1,2,0,3,1
+Rank: 25th, SF Pos Rank: 25th
+
+bobby portis o0.5 blk (25m) -220
+30%, 33% L15, 30% per min
+0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,1,0,1
+Rank: 19th, SF Pos Rank: 14th
+
+zion williamson o28.5 pts (36m) -195
+19%, 26% L15, 32% per min
+30,14,36,27,23,19,21,23,8,16,23,27,33,34,26,28,20,4,36,29
+Rank: 18th, PF Pos Rank: 10th
+
+trey murphy o3.5 ast (34m) -245
+19%, 26% L15, 25% per min
+0,2,3,1,2,2,4,7,1,1,3,2,3,4,5,3,0,3,2,2
+Rank: 13th, SG Pos Rank: 10th
+
+pat connaughton o3.5 reb (20m) -300
+37%, 26% L15, 33% per min
+6,5,6,5,4,5,3,1,1,1,2,6,3,4,3,2,5,0,1,3
+Rank: 10th, SG Pos Rank: 6th
+
+naji marshall o5.5 reb (23m) -285
+23%, 26% L15, 30% per min
+1,3,7,2,2,1,4,8,3,7,4,5,5,2,5,5,0,7,8,4
+Rank: 17th, SF Pos Rank: 11th
+
+larry nance o0.5 blk (26m) -250
+30%, 26% L15, 30% per min
+0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Rank: 2nd, PF Pos Rank: 15th
+
+jonas valanciunas o8.5 pts (18m) -205
+68%, 26% L15, 56% per min
+16,6,10,20,12,14,7,0,15,10,6,4,5,4,4,8,6,8,13,6
+Rank: 18th, C Pos Rank: 11th
+
+jae crowder o0.5 to (16m) -210
+34%, 26% L15, 31% per min
+0,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Rank: 25th, PF Pos Rank: 12th
+
+giannis antetokounmpo o13.5 reb (36m) -275
+26%, 26% L15, 31% per min
+7,10,3,14,18,11,4,13,12,8,10,16,7,14,7,13,11,9,19,21
+Rank: 10th, PF Pos Rank: 23rd
+
+cj mccollum o5.5 reb (38m) -295
+25%, 26% L15, 41% per min
+7,4,3,5,3,6,2,6,4,4,4,4,3,6,2,1,3,5,2,6
+Rank: 17th, SG Pos Rank: 29th
+
+naji marshall o1.5 stl+blk (23m) -190
+18%, 20% L15, 33% per min
+1,0,0,3,1,1,1,3,1,1,2,0,1,1,1,3,1,1,0,1
+Rank: 2nd, SF Pos Rank: 14th
+
+naji marshall o1.5 3ptm (23m) -215
+16%, 20% L15, 25% per min
+0,2,1,1,2,0,1,0,0,1,4,1,1,2,1,0,0,1,4,1
+Rank: 11th, SF Pos Rank: 3rd
+
+larry nance o6.5 reb (26m) -200
+24%, 20% L15, 60% per min
+6,2,9,6,3,9,3,6,6,3,6,4,2,5,4,10,2,9,3,2
+Rank: 17th, PF Pos Rank: 11th
+
+cj mccollum o0.5 blk (38m) -260
+48%, 20% L15, 48% per min
+0,0,1,0,0,0,1,0,2,0,0,0,2,0,0,0,0,0,0,0
+Rank: 2nd, SG Pos Rank: 3rd
+
+jordan hawkins o0.5 stl (15m) -195
+22%, 13% L15, 18% per min
+1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rank: 9th, SG Pos Rank: 3rd
+
+jonas valanciunas o0.5 stl (18m) -230
+33%, 13% L15, 31% per min
+0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Rank: 9th, C Pos Rank: 10th

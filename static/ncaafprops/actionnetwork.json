@@ -1,0 +1,2866 @@
+{
+    "tcu @ kansas": {
+        "ftd": {
+            "jared casey": {
+                "fanduel": "2600",
+                "draftkings": "2500"
+            },
+            "daniel hishaw": {
+                "fanduel": "1300",
+                "betrivers": "1150",
+                "draftkings": "1400"
+            },
+            "jalon daniels": {
+                "fanduel": "1200",
+                "betrivers": "800",
+                "draftkings": "1400"
+            },
+            "quentin skinner": {
+                "fanduel": "1400",
+                "betrivers": "1150",
+                "draftkings": "1500"
+            },
+            "lawrence arnold": {
+                "fanduel": "1400",
+                "betrivers": "1200",
+                "draftkings": "1600"
+            },
+            "luke grimm": {
+                "fanduel": "1100",
+                "betrivers": "850",
+                "draftkings": "1000"
+            },
+            "devin neal": {
+                "fanduel": "450",
+                "betrivers": "360",
+                "draftkings": "600"
+            },
+            "josh hoover": {
+                "fanduel": "1500",
+                "mgm": "1400",
+                "betrivers": "1200",
+                "draftkings": "1400"
+            },
+            "jeremy payne": {
+                "fanduel": "1000"
+            },
+            "jack bech": {
+                "fanduel": "500",
+                "mgm": "500",
+                "betrivers": "480",
+                "draftkings": "550"
+            },
+            "jp richardson": {
+                "fanduel": "1200",
+                "mgm": "900",
+                "betrivers": "850",
+                "draftkings": "1000"
+            },
+            "cam cook": {
+                "fanduel": "340",
+                "mgm": "375",
+                "betrivers": "410",
+                "draftkings": "360"
+            },
+            "eric mcalister": {
+                "fanduel": "1000",
+                "betrivers": "950",
+                "draftkings": "1300"
+            },
+            "drake dabney": {
+                "fanduel": "2000",
+                "mgm": "950",
+                "betrivers": "1100",
+                "draftkings": "1400"
+            },
+            "savion williams": {
+                "fanduel": "850",
+                "mgm": "650",
+                "betrivers": "600",
+                "draftkings": "850"
+            },
+            "trey sanders": {
+                "betrivers": "900",
+                "draftkings": "900"
+            },
+            "jojo earle": {
+                "betrivers": "1700",
+                "draftkings": "2200"
+            },
+            "chase curtis": {
+                "betrivers": "1400",
+                "draftkings": "2000"
+            },
+            "blake nowell": {
+                "draftkings": "2200"
+            },
+            "dominique johnson": {
+                "draftkings": "1200"
+            },
+            "tcu defense": {
+                "draftkings": "2500"
+            },
+            "major everhart": {
+                "draftkings": "3000"
+            },
+            "torry locklin": {
+                "draftkings": "3000"
+            },
+            "trevor wilson": {
+                "draftkings": "3500"
+            },
+            "kansas defense": {
+                "draftkings": "2500"
+            },
+            "doug emilien": {
+                "draftkings": "3000"
+            },
+            "trevor kardell": {
+                "draftkings": "2500"
+            },
+            "sevion morrison": {
+                "draftkings": "3500"
+            }
+        },
+        "attd": {
+            "lawrence arnold": {
+                "fanduel": "220",
+                "mgm": "230",
+                "caesars": "240",
+                "draftkings": "230"
+            },
+            "jalon daniels": {
+                "fanduel": "155",
+                "mgm": "160",
+                "caesars": "180",
+                "draftkings": "190"
+            },
+            "devin neal": {
+                "fanduel": "-175",
+                "mgm": "-165",
+                "caesars": "-167",
+                "draftkings": "-140"
+            },
+            "daniel hishaw": {
+                "fanduel": "220",
+                "mgm": "220",
+                "caesars": "190",
+                "draftkings": "205"
+            },
+            "jared casey": {
+                "fanduel": "490",
+                "draftkings": "400"
+            },
+            "quentin skinner": {
+                "fanduel": "220",
+                "mgm": "220",
+                "caesars": "210",
+                "draftkings": "210"
+            },
+            "luke grimm": {
+                "fanduel": "160",
+                "mgm": "160",
+                "caesars": "130",
+                "draftkings": "130"
+            },
+            "drake dabney": {
+                "fanduel": "410",
+                "mgm": "195",
+                "caesars": "333",
+                "draftkings": "205"
+            },
+            "jp richardson": {
+                "fanduel": "195",
+                "mgm": "145",
+                "caesars": "180",
+                "draftkings": "155"
+            },
+            "eric mcalister": {
+                "fanduel": "160",
+                "caesars": "170",
+                "draftkings": "195"
+            },
+            "cam cook": {
+                "fanduel": "-230",
+                "mgm": "-225",
+                "caesars": "-175",
+                "draftkings": "-275"
+            },
+            "savion williams": {
+                "fanduel": "120",
+                "mgm": "-110",
+                "caesars": "138",
+                "draftkings": "115"
+            },
+            "jeremy payne": {
+                "fanduel": "135"
+            },
+            "jack bech": {
+                "fanduel": "-145",
+                "mgm": "-155",
+                "caesars": "-133",
+                "draftkings": "-155"
+            },
+            "josh hoover": {
+                "fanduel": "220",
+                "mgm": "210",
+                "caesars": "240",
+                "draftkings": "230"
+            },
+            "chase curtis": {
+                "draftkings": "360"
+            },
+            "trey sanders": {
+                "draftkings": "135"
+            },
+            "dominique johnson": {
+                "draftkings": "185"
+            },
+            "tcu defense": {
+                "draftkings": "350"
+            },
+            "jojo earle": {
+                "draftkings": "400"
+            },
+            "blake nowell": {
+                "draftkings": "400"
+            },
+            "major everhart": {
+                "draftkings": "500"
+            },
+            "kansas defense": {
+                "draftkings": "450"
+            },
+            "doug emilien": {
+                "draftkings": "500"
+            },
+            "torry locklin": {
+                "draftkings": "500"
+            },
+            "trevor wilson": {
+                "draftkings": "550"
+            },
+            "trevor kardell": {
+                "draftkings": "400"
+            },
+            "sevion morrison": {
+                "draftkings": "600"
+            }
+        },
+        "pass_yd": {
+            "jalon daniels": {
+                "fanduel": "179.5 -114/-114",
+                "mgm": "179.5 -115/-115",
+                "caesars": "181.5 -117/-117"
+            },
+            "josh hoover": {
+                "fanduel": "319.5 -114/-114",
+                "mgm": "319.5 -115/-115",
+                "caesars": "321.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "josh hoover": {
+                "fanduel": "2.5 154/-210",
+                "mgm": "2.5 160/-210",
+                "caesars": "2.5 118/-163"
+            },
+            "jalon daniels": {
+                "fanduel": "1.5 134/-180",
+                "mgm": "1.5 135/-175",
+                "caesars": "1.5 126/-174"
+            }
+        },
+        "rec_yd": {
+            "lawrence arnold": {
+                "fanduel": "34.5 -114/-114",
+                "mgm": "34.5 -115/-115",
+                "caesars": "36.5 -115/-119"
+            },
+            "jp richardson": {
+                "fanduel": "37.5 -114/-114",
+                "mgm": "37.5 -115/-115",
+                "caesars": "40.5 -117/-117"
+            },
+            "eric mcalister": {
+                "fanduel": "44.5 -114/-114"
+            },
+            "savion williams": {
+                "fanduel": "45.5 -114/-114",
+                "mgm": "45.5 -115/-115",
+                "caesars": "48.5 -119/-115"
+            },
+            "luke grimm": {
+                "fanduel": "50.5 -114/-114",
+                "mgm": "50.5 -115/-115",
+                "caesars": "49.5 -115/-119"
+            },
+            "jack bech": {
+                "fanduel": "91.5 -114/-114",
+                "mgm": "92.5 -115/-115",
+                "caesars": "89.5 -119/-115"
+            },
+            "quentin skinner": {
+                "caesars": "36.5 -115/-119"
+            }
+        },
+        "rush_yd": {
+            "jalon daniels": {
+                "fanduel": "20.5 -114/-114",
+                "mgm": "20.5 -115/-115",
+                "caesars": "21.5 -115/-119"
+            },
+            "cam cook": {
+                "fanduel": "52.5 -114/-114",
+                "mgm": "52.5 -115/-115",
+                "caesars": "51.5 -113/-121"
+            },
+            "devin neal": {
+                "fanduel": "86.5 -114/-114",
+                "mgm": "86.5 -115/-115",
+                "caesars": "86.5 -115/-119"
+            }
+        }
+    },
+    "oregon @ ucla": {
+        "ftd": {
+            "keegan jones": {
+                "fanduel": "4400",
+                "mgm": "5500",
+                "draftkings": "6500"
+            },
+            "moliki matavao": {
+                "fanduel": "4100",
+                "mgm": "4000",
+                "draftkings": "6500"
+            },
+            "rico flores": {
+                "fanduel": "3500",
+                "mgm": "3500",
+                "draftkings": "5500"
+            },
+            "ethan garbers": {
+                "fanduel": "5500",
+                "mgm": "5000",
+                "draftkings": "7000"
+            },
+            "justyn martin": {
+                "fanduel": "5500"
+            },
+            "jmichael sturdivant": {
+                "fanduel": "3900",
+                "mgm": "4500",
+                "draftkings": "7000"
+            },
+            "tj harden": {
+                "fanduel": "1200",
+                "mgm": "1300",
+                "draftkings": "2500"
+            },
+            "noah whittington": {
+                "fanduel": "1200",
+                "mgm": "1000",
+                "betrivers": "700",
+                "draftkings": "1000"
+            },
+            "patrick herbert": {
+                "fanduel": "3500",
+                "mgm": "3500",
+                "betrivers": "2200",
+                "draftkings": "3000"
+            },
+            "dillon gabriel": {
+                "fanduel": "1100",
+                "mgm": "1200",
+                "betrivers": "650",
+                "draftkings": "850"
+            },
+            "evan stewart": {
+                "fanduel": "800",
+                "mgm": "750",
+                "betrivers": "575",
+                "draftkings": "1000"
+            },
+            "traeshon holden": {
+                "fanduel": "800",
+                "mgm": "750",
+                "betrivers": "550",
+                "draftkings": "750"
+            },
+            "jordan james": {
+                "fanduel": "280",
+                "mgm": "260",
+                "betrivers": "255",
+                "draftkings": "270"
+            },
+            "terrance ferguson": {
+                "fanduel": "1000",
+                "mgm": "950",
+                "betrivers": "700",
+                "draftkings": "1300"
+            },
+            "tez johnson": {
+                "fanduel": "550",
+                "mgm": "500",
+                "betrivers": "380",
+                "draftkings": "600"
+            },
+            "ucla defense": {
+                "draftkings": "2200"
+            },
+            "jack pedersen": {
+                "draftkings": "7500"
+            },
+            "logan loya": {
+                "draftkings": "8000"
+            },
+            "titus mokiao atimalala": {
+                "draftkings": "7500"
+            },
+            "jalen berger": {
+                "draftkings": "10000"
+            },
+            "kwazi gilmer": {
+                "draftkings": "10000"
+            },
+            "carter shaw": {
+                "draftkings": "9000"
+            },
+            "oregon defense": {
+                "draftkings": "2200"
+            },
+            "kenyon sadiq": {
+                "draftkings": "2200"
+            },
+            "kyler kasper": {
+                "draftkings": "2500"
+            },
+            "gary bryant": {
+                "draftkings": "4000"
+            },
+            "justius lowe": {
+                "draftkings": "5500"
+            },
+            "jayden limar": {
+                "draftkings": "2500"
+            }
+        },
+        "attd": {
+            "keegan jones": {
+                "fanduel": "750",
+                "mgm": "800",
+                "caesars": "480",
+                "draftkings": "850"
+            },
+            "justyn martin": {
+                "fanduel": "650"
+            },
+            "ethan garbers": {
+                "fanduel": "650",
+                "mgm": "750",
+                "draftkings": "800"
+            },
+            "rico flores": {
+                "fanduel": "480",
+                "mgm": "600",
+                "caesars": "450",
+                "draftkings": "500"
+            },
+            "tj harden": {
+                "fanduel": "185",
+                "mgm": "190",
+                "caesars": "200",
+                "draftkings": "250"
+            },
+            "moliki matavao": {
+                "fanduel": "650",
+                "mgm": "650",
+                "draftkings": "650"
+            },
+            "jmichael sturdivant": {
+                "fanduel": "700",
+                "mgm": "700",
+                "caesars": "550",
+                "draftkings": "700"
+            },
+            "patrick herbert": {
+                "fanduel": "750",
+                "mgm": "650",
+                "caesars": "450"
+            },
+            "noah whittington": {
+                "fanduel": "170",
+                "mgm": "135",
+                "caesars": "138"
+            },
+            "terrance ferguson": {
+                "fanduel": "160",
+                "mgm": "165",
+                "caesars": "130"
+            },
+            "dillon gabriel": {
+                "fanduel": "120",
+                "mgm": "125",
+                "caesars": "115"
+            },
+            "evan stewart": {
+                "fanduel": "110",
+                "mgm": "115",
+                "caesars": "-105"
+            },
+            "jordan james": {
+                "fanduel": "-330",
+                "mgm": "-400",
+                "caesars": "-450"
+            },
+            "traeshon holden": {
+                "fanduel": "110",
+                "mgm": "110",
+                "caesars": "105"
+            },
+            "tez johnson": {
+                "fanduel": "-150",
+                "mgm": "-155",
+                "caesars": "-182"
+            },
+            "kwazi gilmer": {
+                "caesars": "550",
+                "draftkings": "1500"
+            },
+            "jayden limar": {
+                "caesars": "240"
+            },
+            "justius lowe": {
+                "caesars": "1100"
+            },
+            "kyler kasper": {
+                "caesars": "300"
+            },
+            "carter shaw": {
+                "draftkings": "1200"
+            },
+            "jack pedersen": {
+                "draftkings": "850"
+            },
+            "logan loya": {
+                "draftkings": "900"
+            },
+            "titus mokiao atimalala": {
+                "draftkings": "850"
+            },
+            "jalen berger": {
+                "draftkings": "1400"
+            },
+            "ucla defense": {
+                "draftkings": "475"
+            }
+        },
+        "pass_yd": {
+            "dillon gabriel": {
+                "fanduel": "279.5 -114/-114",
+                "mgm": "279.5 -115/-115",
+                "caesars": "279.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "dillon gabriel": {
+                "fanduel": "2.5 106/-140",
+                "mgm": "2.5 105/-135",
+                "caesars": "2.5 -113/-121"
+            }
+        },
+        "rec_yd": {
+            "evan stewart": {
+                "fanduel": "42.5 -114/-114",
+                "mgm": "42.5 -115/-115",
+                "caesars": "43.5 -119/-115"
+            },
+            "traeshon holden": {
+                "fanduel": "50.5 -114/-114",
+                "mgm": "50.5 -115/-115",
+                "caesars": "49.5 -117/-117"
+            },
+            "tez johnson": {
+                "fanduel": "92.5 -114/-114",
+                "mgm": "92.5 -115/-115",
+                "caesars": "92.5 -115/-119"
+            },
+            "terrance ferguson": {
+                "caesars": "26.5 -115/-119"
+            },
+            "jordan james": {
+                "caesars": "10.5 -123/-111"
+            }
+        },
+        "rush_yd": {
+            "noah whittington": {
+                "fanduel": "29.5 -114/-114",
+                "mgm": "29.5 -115/-115",
+                "caesars": "28.5 -106/-129"
+            },
+            "tj harden": {
+                "fanduel": "36.5 -114/-114",
+                "mgm": "36.5 -115/-115",
+                "caesars": "36.5 -117/-117"
+            },
+            "jordan james": {
+                "fanduel": "92.5 -114/-114",
+                "caesars": "92.5 -117/-117"
+            },
+            "dillon gabriel": {
+                "caesars": "18.5 -117/-117"
+            }
+        }
+    },
+    "illinois @ penn state": {
+        "ftd": {
+            "liam clifford": {
+                "fanduel": "1300",
+                "mgm": "1500",
+                "draftkings": "1200"
+            },
+            "kaytron allen": {
+                "fanduel": "460",
+                "mgm": "475",
+                "draftkings": "500"
+            },
+            "nicholas singleton": {
+                "fanduel": "400",
+                "mgm": "375",
+                "draftkings": "320"
+            },
+            "omari evans": {
+                "fanduel": "850",
+                "mgm": "950",
+                "draftkings": "900"
+            },
+            "julian fleming": {
+                "fanduel": "1100",
+                "mgm": "1100",
+                "draftkings": "1300"
+            },
+            "drew allar": {
+                "fanduel": "1300",
+                "mgm": "1300",
+                "draftkings": "1000"
+            },
+            "harrison wallace": {
+                "fanduel": "550",
+                "mgm": "550",
+                "draftkings": "600"
+            },
+            "tyler warren": {
+                "fanduel": "500",
+                "mgm": "500",
+                "draftkings": "500"
+            },
+            "quinton martin": {
+                "draftkings": "2200"
+            },
+            "penn state defense": {
+                "draftkings": "1900"
+            },
+            "tyler johnson": {
+                "draftkings": "2200"
+            },
+            "khalil dinkins": {
+                "draftkings": "2200"
+            },
+            "kaden saunders": {
+                "draftkings": "1500"
+            }
+        },
+        "attd": {
+            "liam clifford": {
+                "fanduel": "280",
+                "mgm": "300",
+                "draftkings": "200"
+            },
+            "nicholas singleton": {
+                "fanduel": "-180",
+                "mgm": "-165",
+                "draftkings": "-265"
+            },
+            "julian fleming": {
+                "fanduel": "240",
+                "mgm": "230",
+                "caesars": "250",
+                "draftkings": "240"
+            },
+            "drew allar": {
+                "fanduel": "185",
+                "mgm": "190",
+                "caesars": "180",
+                "draftkings": "160"
+            },
+            "omari evans": {
+                "fanduel": "160",
+                "mgm": "165",
+                "caesars": "188",
+                "draftkings": "155"
+            },
+            "harrison wallace": {
+                "fanduel": "-105",
+                "mgm": "-110",
+                "caesars": "138",
+                "draftkings": "-110"
+            },
+            "tyler warren": {
+                "fanduel": "-145",
+                "mgm": "-140",
+                "caesars": "-133",
+                "draftkings": "-145"
+            },
+            "kaytron allen": {
+                "fanduel": "-155",
+                "mgm": "-150",
+                "draftkings": "-140"
+            },
+            "quinton martin": {
+                "draftkings": "425"
+            },
+            "tyler johnson": {
+                "draftkings": "450"
+            },
+            "khalil dinkins": {
+                "draftkings": "425"
+            },
+            "penn state defense": {
+                "draftkings": "290"
+            },
+            "kaden saunders": {
+                "draftkings": "275"
+            }
+        },
+        "pass_yd": {
+            "drew allar": {
+                "fanduel": "212.5 -114/-114",
+                "mgm": "212.5 -115/-115",
+                "caesars": "211.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "drew allar": {
+                "fanduel": "2.5 102/-136",
+                "mgm": "2.5 100/-130",
+                "caesars": "2.5 116/-160"
+            }
+        },
+        "rec_yd": {
+            "harrison wallace": {
+                "fanduel": "40.5 -114/-114",
+                "caesars": "38.5 -117/-117"
+            },
+            "tyler warren": {
+                "fanduel": "43.5 -114/-114",
+                "mgm": "43.5 -115/-115",
+                "caesars": "42.5 -119/-115"
+            }
+        },
+        "rush_yd": {
+            "kaytron allen": {
+                "fanduel": "67.5 -114/-114",
+                "mgm": "64.5 -115/-115"
+            },
+            "nicholas singleton": {
+                "fanduel": "92.5 -114/-114",
+                "mgm": "92.5 -115/-115"
+            },
+            "drew allar": {
+                "caesars": "22.5 -117/-117"
+            }
+        }
+    },
+    "ohio state @ michigan state": {
+        "ftd": {
+            "aziah johnson": {
+                "fanduel": "5500",
+                "mgm": "5500",
+                "betrivers": "2800",
+                "draftkings": "5000"
+            },
+            "jaron glover": {
+                "fanduel": "4000",
+                "mgm": "3500",
+                "betrivers": "2000",
+                "draftkings": "3500"
+            },
+            "nick marsh": {
+                "fanduel": "3500",
+                "mgm": "3500",
+                "draftkings": "4000"
+            },
+            "aidan chiles": {
+                "fanduel": "3400",
+                "mgm": "3000",
+                "betrivers": "1500",
+                "draftkings": "3000"
+            },
+            "montorie foster": {
+                "fanduel": "3000",
+                "mgm": "2800",
+                "betrivers": "1600",
+                "draftkings": "3000"
+            },
+            "nate carter": {
+                "fanduel": "2300",
+                "mgm": "2000",
+                "betrivers": "1050",
+                "draftkings": "2800"
+            },
+            "jack velling": {
+                "fanduel": "4600",
+                "mgm": "5000",
+                "betrivers": "2200",
+                "draftkings": "4000"
+            },
+            "kayron lynch adams": {
+                "fanduel": "1200",
+                "mgm": "1300",
+                "betrivers": "900",
+                "draftkings": "2200"
+            },
+            "gee scott": {
+                "fanduel": "3000",
+                "betrivers": "2200",
+                "draftkings": "2500"
+            },
+            "brandon inniss": {
+                "fanduel": "1600",
+                "mgm": "1400",
+                "betrivers": "1200",
+                "draftkings": "1800"
+            },
+            "carnell tate": {
+                "fanduel": "1200",
+                "mgm": "1200",
+                "betrivers": "850",
+                "draftkings": "1300"
+            },
+            "jeremiah smith": {
+                "fanduel": "650",
+                "mgm": "650",
+                "betrivers": "450",
+                "draftkings": "550"
+            },
+            "treveyon henderson": {
+                "fanduel": "490",
+                "mgm": "425"
+            },
+            "emeka egbuka": {
+                "fanduel": "700",
+                "mgm": "700",
+                "betrivers": "525",
+                "draftkings": "700"
+            },
+            "quinshon judkins": {
+                "fanduel": "380",
+                "mgm": "375",
+                "betrivers": "335",
+                "draftkings": "400"
+            },
+            "will howard": {
+                "fanduel": "1000",
+                "mgm": "1100",
+                "betrivers": "600",
+                "draftkings": "750"
+            },
+            "brandon tullis": {
+                "draftkings": "9000"
+            },
+            "antonio gates": {
+                "draftkings": "6500"
+            },
+            "brennan parachek": {
+                "draftkings": "4500"
+            },
+            "michigan st defense": {
+                "draftkings": "2800"
+            },
+            "jayden ballard": {
+                "draftkings": "2500"
+            },
+            "james peoples": {
+                "draftkings": "1700"
+            },
+            "jelani thurman": {
+                "draftkings": "2800"
+            },
+            "bryson rodgers": {
+                "draftkings": "2800"
+            },
+            "ohio state defense": {
+                "draftkings": "1800"
+            },
+            "will kacmarek": {
+                "draftkings": "2500"
+            },
+            "sam williams dixon": {
+                "draftkings": "2800"
+            },
+            "kojo antwi": {
+                "draftkings": "3000"
+            }
+        },
+        "attd": {
+            "aziah johnson": {
+                "fanduel": "750",
+                "mgm": "700"
+            },
+            "jack velling": {
+                "fanduel": "600",
+                "mgm": "600",
+                "caesars": "400"
+            },
+            "jaron glover": {
+                "fanduel": "500",
+                "mgm": "500",
+                "caesars": "400"
+            },
+            "nick marsh": {
+                "fanduel": "480",
+                "mgm": "475",
+                "caesars": "375"
+            },
+            "aidan chiles": {
+                "fanduel": "390",
+                "mgm": "425",
+                "caesars": "450"
+            },
+            "nate carter": {
+                "fanduel": "210",
+                "mgm": "250",
+                "caesars": "320"
+            },
+            "kayron lynch adams": {
+                "fanduel": "170",
+                "mgm": "210",
+                "caesars": "190"
+            },
+            "montorie foster": {
+                "fanduel": "380",
+                "mgm": "320",
+                "caesars": "333"
+            },
+            "gee scott": {
+                "fanduel": "750",
+                "draftkings": "500"
+            },
+            "will howard": {
+                "fanduel": "145",
+                "mgm": "135",
+                "draftkings": "130"
+            },
+            "emeka egbuka": {
+                "fanduel": "135",
+                "mgm": "130",
+                "draftkings": "115"
+            },
+            "treveyon henderson": {
+                "fanduel": "-145",
+                "mgm": "-155"
+            },
+            "quinshon judkins": {
+                "fanduel": "-180",
+                "mgm": "-190",
+                "draftkings": "-175"
+            },
+            "carnell tate": {
+                "fanduel": "250",
+                "mgm": "240",
+                "draftkings": "230"
+            },
+            "brandon inniss": {
+                "fanduel": "360",
+                "mgm": "375",
+                "draftkings": "340"
+            },
+            "jeremiah smith": {
+                "fanduel": "105",
+                "mgm": "105",
+                "draftkings": "-120"
+            },
+            "jelani thurman": {
+                "draftkings": "475"
+            },
+            "james peoples": {
+                "draftkings": "330"
+            },
+            "kojo antwi": {
+                "draftkings": "600"
+            },
+            "jayden ballard": {
+                "draftkings": "500"
+            },
+            "bryson rodgers": {
+                "draftkings": "600"
+            },
+            "will kacmarek": {
+                "draftkings": "450"
+            },
+            "ohio state defense": {
+                "draftkings": "300"
+            },
+            "sam williams dixon": {
+                "draftkings": "500"
+            }
+        },
+        "pass_yd": {
+            "aidan chiles": {
+                "fanduel": "186.5 -114/-114",
+                "mgm": "181.5 -115/-115",
+                "caesars": "174.5 -117/-117"
+            },
+            "will howard": {
+                "fanduel": "247.5 -114/-114",
+                "mgm": "247.5 -115/-115"
+            }
+        },
+        "pass_td": {
+            "aidan chiles": {
+                "fanduel": "0.5 -132/-100",
+                "mgm": "0.5 -130/100",
+                "caesars": "0.5 -145/106"
+            },
+            "will howard": {
+                "fanduel": "1.5 -132/-100",
+                "mgm": "1.5 -130/100"
+            }
+        },
+        "rec_yd": {
+            "jack velling": {
+                "fanduel": "29.5 -114/-114",
+                "mgm": "31.5 -115/-115",
+                "caesars": "27.5 -115/-119"
+            },
+            "montorie foster": {
+                "fanduel": "34.5 -114/-114",
+                "mgm": "34.5 -115/-115",
+                "caesars": "33.5 -117/-117"
+            },
+            "carnell tate": {
+                "fanduel": "37.5 -114/-114",
+                "mgm": "37.5 -115/-115"
+            },
+            "emeka egbuka": {
+                "fanduel": "61.5 -114/-114",
+                "mgm": "61.5 -115/-115"
+            },
+            "jeremiah smith": {
+                "fanduel": "72.5 -114/-114",
+                "mgm": "72.5 -115/-115"
+            }
+        },
+        "rush_yd": {
+            "treveyon henderson": {
+                "fanduel": "46.5 -114/-114",
+                "mgm": "50.5 -115/-115"
+            },
+            "kayron lynch adams": {
+                "fanduel": "46.5 -114/-114",
+                "mgm": "44.5 -115/-115",
+                "caesars": "41.5 -135/-101"
+            },
+            "quinshon judkins": {
+                "fanduel": "74.5 -114/-114",
+                "mgm": "74.5 -115/-115"
+            }
+        }
+    },
+    "arkansas @ texas a&m": {
+        "ftd": {
+            "moose muhammad": {
+                "fanduel": "1500",
+                "betrivers": "1700",
+                "draftkings": "2500"
+            },
+            "noah thomas": {
+                "fanduel": "1200",
+                "mgm": "1400",
+                "betrivers": "1100",
+                "draftkings": "1300"
+            },
+            "tre watson": {
+                "fanduel": "1800",
+                "betrivers": "1700",
+                "draftkings": "2200"
+            },
+            "jahdae walker": {
+                "fanduel": "1300",
+                "betrivers": "1300",
+                "draftkings": "1800"
+            },
+            "conner weigman": {
+                "fanduel": "1200",
+                "betrivers": "1000"
+            },
+            "cyrus allen": {
+                "fanduel": "1000",
+                "mgm": "1000",
+                "betrivers": "1050",
+                "draftkings": "1400"
+            },
+            "amari daniels": {
+                "fanduel": "1100",
+                "mgm": "1000",
+                "betrivers": "950",
+                "draftkings": "1100"
+            },
+            "leveon moss": {
+                "fanduel": "550",
+                "mgm": "550",
+                "betrivers": "525",
+                "draftkings": "600"
+            },
+            "braylen russell": {
+                "fanduel": "4500",
+                "draftkings": "6000"
+            },
+            "ty washington": {
+                "fanduel": "3500",
+                "draftkings": "4500"
+            },
+            "luke hasz": {
+                "fanduel": "3500",
+                "mgm": "3500",
+                "betrivers": "1800",
+                "draftkings": "3500"
+            },
+            "isaac teslaa": {
+                "fanduel": "2700",
+                "mgm": "3000",
+                "betrivers": "1300",
+                "draftkings": "3500"
+            },
+            "tyrone broden": {
+                "fanduel": "2100",
+                "mgm": "2500",
+                "betrivers": "1500",
+                "draftkings": "2800"
+            },
+            "isaiah sategna": {
+                "fanduel": "2300",
+                "mgm": "2500",
+                "betrivers": "1500",
+                "draftkings": "2800"
+            },
+            "andrew armstrong": {
+                "fanduel": "1600",
+                "mgm": "1800",
+                "betrivers": "1050",
+                "draftkings": "2000"
+            },
+            "jaquinden jackson": {
+                "fanduel": "700",
+                "mgm": "650",
+                "betrivers": "525",
+                "draftkings": "1000"
+            },
+            "taylen green": {
+                "fanduel": "1100",
+                "mgm": "1000",
+                "betrivers": "750",
+                "draftkings": "1400"
+            },
+            "jabre barber": {
+                "mgm": "2000",
+                "draftkings": "2000"
+            },
+            "shane calhoun": {
+                "mgm": "2200",
+                "draftkings": "3000"
+            },
+            "rodney hill": {
+                "mgm": "4500",
+                "draftkings": "4000"
+            },
+            "khafre brown": {
+                "draftkings": "5000"
+            },
+            "jordan anthony": {
+                "draftkings": "3000"
+            },
+            "arkansas defense": {
+                "draftkings": "4000"
+            },
+            "monte harrison": {
+                "draftkings": "4000"
+            },
+            "rashod dubinion": {
+                "draftkings": "6000"
+            },
+            "marcel reed": {
+                "draftkings": "950"
+            },
+            "theo melin ohrstrom": {
+                "draftkings": "2500"
+            },
+            "texas a&m defense": {
+                "draftkings": "2200"
+            },
+            "izaiah williams": {
+                "draftkings": "4500"
+            },
+            "micah tease": {
+                "draftkings": "3000"
+            },
+            "ej smith": {
+                "draftkings": "3500"
+            },
+            "jacob bostick": {
+                "draftkings": "2500"
+            }
+        },
+        "attd": {
+            "moose muhammad": {
+                "fanduel": "320",
+                "caesars": "700",
+                "draftkings": "400"
+            },
+            "conner weigman": {
+                "fanduel": "200"
+            },
+            "amari daniels": {
+                "fanduel": "180",
+                "mgm": "170",
+                "caesars": "180",
+                "draftkings": "195"
+            },
+            "tre watson": {
+                "fanduel": "340",
+                "caesars": "450",
+                "draftkings": "360"
+            },
+            "noah thomas": {
+                "fanduel": "220",
+                "mgm": "220",
+                "caesars": "180",
+                "draftkings": "200"
+            },
+            "cyrus allen": {
+                "fanduel": "170",
+                "mgm": "170",
+                "caesars": "320",
+                "draftkings": "235"
+            },
+            "leveon moss": {
+                "fanduel": "-110",
+                "mgm": "-125",
+                "caesars": "-118",
+                "draftkings": "-115"
+            },
+            "jahdae walker": {
+                "fanduel": "240",
+                "caesars": "400",
+                "draftkings": "285"
+            },
+            "braylen russell": {
+                "fanduel": "550",
+                "draftkings": "750"
+            },
+            "isaac teslaa": {
+                "fanduel": "350",
+                "mgm": "375",
+                "draftkings": "340"
+            },
+            "isaiah sategna": {
+                "fanduel": "290",
+                "mgm": "275",
+                "caesars": "275",
+                "draftkings": "320"
+            },
+            "taylen green": {
+                "fanduel": "145",
+                "mgm": "120",
+                "caesars": "138",
+                "draftkings": "150"
+            },
+            "ty washington": {
+                "fanduel": "460",
+                "draftkings": "500"
+            },
+            "luke hasz": {
+                "fanduel": "460",
+                "mgm": "425",
+                "draftkings": "390"
+            },
+            "jaquinden jackson": {
+                "fanduel": "-115",
+                "mgm": "-135",
+                "caesars": "-133",
+                "draftkings": "-110"
+            },
+            "tyrone broden": {
+                "fanduel": "300",
+                "mgm": "300",
+                "caesars": "340",
+                "draftkings": "290"
+            },
+            "andrew armstrong": {
+                "fanduel": "185",
+                "mgm": "185",
+                "caesars": "150",
+                "draftkings": "165"
+            },
+            "jabre barber": {
+                "mgm": "333",
+                "caesars": "300",
+                "draftkings": "330"
+            },
+            "shane calhoun": {
+                "mgm": "350",
+                "draftkings": "600"
+            },
+            "rodney hill": {
+                "mgm": "550",
+                "draftkings": "500"
+            },
+            "theo melin ohrstrom": {
+                "caesars": "900",
+                "draftkings": "425"
+            },
+            "rashod dubinion": {
+                "draftkings": "1000"
+            },
+            "jordan anthony": {
+                "draftkings": "350"
+            },
+            "khafre brown": {
+                "draftkings": "600"
+            },
+            "monte harrison": {
+                "draftkings": "500"
+            },
+            "arkansas defense": {
+                "draftkings": "500"
+            },
+            "marcel reed": {
+                "draftkings": "160"
+            },
+            "jacob bostick": {
+                "draftkings": "425"
+            },
+            "ej smith": {
+                "draftkings": "700"
+            },
+            "izaiah williams": {
+                "draftkings": "850"
+            },
+            "texas a&m defense": {
+                "draftkings": "400"
+            },
+            "micah tease": {
+                "draftkings": "550"
+            }
+        },
+        "pass_yd": {
+            "taylen green": {
+                "fanduel": "191.5 -114/-114",
+                "mgm": "191.5 -115/-115",
+                "caesars": "198.5 -113/-121"
+            }
+        },
+        "pass_td": {
+            "taylen green": {
+                "fanduel": "1.5 158/-215",
+                "mgm": "1.5 150/-200",
+                "caesars": "1.5 133/-184"
+            }
+        },
+        "rec_yd": {
+            "cyrus allen": {
+                "fanduel": "24.5 -114/-114",
+                "mgm": "24.5 -115/-115",
+                "caesars": "24.5 -119/-115"
+            },
+            "noah thomas": {
+                "fanduel": "45.5 -114/-114",
+                "mgm": "45.5 -115/-115",
+                "caesars": "43.5 -115/-119"
+            },
+            "andrew armstrong": {
+                "fanduel": "64.5 -114/-114",
+                "mgm": "64.5 -115/-115",
+                "caesars": "62.5 -117/-117"
+            },
+            "jaquinden jackson": {
+                "caesars": "10.5 -115/-119"
+            },
+            "isaiah sategna": {
+                "caesars": "33.5 -119/-115"
+            }
+        },
+        "rush_yd": {
+            "taylen green": {
+                "fanduel": "46.5 -114/-114",
+                "mgm": "46.5 -115/-115",
+                "caesars": "44.5 -113/-121"
+            },
+            "jaquinden jackson": {
+                "fanduel": "65.5 -114/-114",
+                "mgm": "65.5 -115/-115",
+                "caesars": "69.5 -111/-123"
+            },
+            "leveon moss": {
+                "fanduel": "70.5 -114/-114",
+                "mgm": "65.5 -115/-115",
+                "caesars": "64.5 -119/-115"
+            },
+            "amari daniels": {
+                "caesars": "32.5 -121/-113"
+            }
+        }
+    },
+    "arizona @ utah": {
+        "ftd": {
+            "arizona defense": {
+                "fanduel": "3400"
+            },
+            "keyan burnett": {
+                "fanduel": "2600",
+                "betrivers": "1500"
+            },
+            "noah fifita": {
+                "fanduel": "2300",
+                "betrivers": "1100"
+            },
+            "jeremiah patterson": {
+                "fanduel": "1800",
+                "betrivers": "1200"
+            },
+            "kedrick reescano": {
+                "fanduel": "1800",
+                "betrivers": "1100"
+            },
+            "montana lemonious craig": {
+                "fanduel": "1200",
+                "betrivers": "850"
+            },
+            "tetairoa mcmillan": {
+                "fanduel": "500",
+                "betrivers": "310"
+            },
+            "quali conley": {
+                "fanduel": "280",
+                "betrivers": "265"
+            }
+        },
+        "attd": {
+            "arizona defense": {
+                "fanduel": "420",
+                "draftkings": "425"
+            },
+            "keyan burnett": {
+                "fanduel": "350",
+                "mgm": "340",
+                "caesars": "400",
+                "draftkings": "230"
+            },
+            "jeremiah patterson": {
+                "fanduel": "230",
+                "mgm": "240",
+                "draftkings": "235"
+            },
+            "kedrick reescano": {
+                "fanduel": "220",
+                "mgm": "230",
+                "draftkings": "255"
+            },
+            "montana lemonious craig": {
+                "fanduel": "155",
+                "mgm": "160",
+                "caesars": "220",
+                "draftkings": "155"
+            },
+            "quali conley": {
+                "fanduel": "-650",
+                "mgm": "-600",
+                "caesars": "-275",
+                "draftkings": "-525"
+            },
+            "noah fifita": {
+                "fanduel": "260",
+                "mgm": "260",
+                "caesars": "400",
+                "draftkings": "260"
+            },
+            "tetairoa mcmillan": {
+                "fanduel": "-280",
+                "mgm": "-275",
+                "draftkings": "-330"
+            },
+            "sam olson": {
+                "caesars": "400",
+                "draftkings": "370"
+            },
+            "chris hunter": {
+                "draftkings": "295"
+            },
+            "reymello murphy": {
+                "draftkings": "235"
+            },
+            "rayshon luke": {
+                "draftkings": "295"
+            },
+            "malachi riley": {
+                "draftkings": "425"
+            },
+            "devin hyatt": {
+                "draftkings": "300"
+            },
+            "jacory croskey merritt": {
+                "draftkings": "140"
+            }
+        },
+        "pass_yd": {
+            "noah fifita": {
+                "fanduel": "275.5 -114/-114",
+                "mgm": "275.5 -115/-115",
+                "caesars": "274.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "noah fifita": {
+                "fanduel": "2.5 124/-166",
+                "mgm": "2.5 125/-160",
+                "caesars": "2.5 139/-194"
+            }
+        },
+        "rec_yd": {
+            "quali conley": {
+                "caesars": "20.5 -121/-113"
+            }
+        },
+        "rush_yd": {
+            "quali conley": {
+                "fanduel": "79.5 -114/-114",
+                "mgm": "79.5 -115/-115",
+                "caesars": "81.5 -115/-119"
+            }
+        }
+    },
+    "oklahoma @ auburn": {
+        "ftd": {
+            "malcolm simmons": {
+                "fanduel": "3900",
+                "betrivers": "2500"
+            },
+            "cam coleman": {
+                "fanduel": "2900",
+                "mgm": "3000"
+            },
+            "rivaldo fairweather": {
+                "fanduel": "2800",
+                "mgm": "3500",
+                "betrivers": "1800"
+            },
+            "damari alston": {
+                "fanduel": "4900",
+                "mgm": "4000",
+                "betrivers": "2400"
+            },
+            "payton thorne": {
+                "fanduel": "2300",
+                "mgm": "2200",
+                "betrivers": "1300"
+            },
+            "keandre lambert smith": {
+                "fanduel": "1800",
+                "mgm": "2000",
+                "betrivers": "1000"
+            },
+            "jarquez hunter": {
+                "fanduel": "900",
+                "mgm": "1000",
+                "betrivers": "800"
+            },
+            "oklahoma defense": {
+                "draftkings": "3500"
+            }
+        },
+        "attd": {
+            "jarquez hunter": {
+                "fanduel": "145",
+                "mgm": "150",
+                "caesars": "130",
+                "draftkings": "140"
+            },
+            "rivaldo fairweather": {
+                "fanduel": "410",
+                "mgm": "425",
+                "caesars": "350",
+                "draftkings": "330"
+            },
+            "cam coleman": {
+                "fanduel": "370",
+                "mgm": "400",
+                "caesars": "300"
+            },
+            "payton thorne": {
+                "fanduel": "280",
+                "mgm": "280",
+                "caesars": "230",
+                "draftkings": "275"
+            },
+            "keandre lambert smith": {
+                "fanduel": "220",
+                "mgm": "230",
+                "caesars": "175",
+                "draftkings": "200"
+            },
+            "damari alston": {
+                "fanduel": "600",
+                "mgm": "650",
+                "caesars": "500",
+                "draftkings": "650"
+            },
+            "malcolm simmons": {
+                "fanduel": "650",
+                "draftkings": "600"
+            },
+            "robert lewis": {
+                "caesars": "360",
+                "draftkings": "390"
+            },
+            "camden brown": {
+                "draftkings": "475"
+            },
+            "perry thompson": {
+                "draftkings": "475"
+            },
+            "caleb burton": {
+                "draftkings": "650"
+            },
+            "auburn defense": {
+                "draftkings": "500"
+            },
+            "oklahoma defense": {
+                "draftkings": "475"
+            }
+        },
+        "pass_yd": {
+            "payton thorne": {
+                "fanduel": "187.5 -114/-114",
+                "mgm": "187.5 -115/-115",
+                "caesars": "181.5 -129/-106"
+            }
+        },
+        "pass_td": {
+            "payton thorne": {
+                "fanduel": "0.5 -160/120",
+                "mgm": "0.5 -155/120",
+                "caesars": "1.5 252/-384"
+            }
+        },
+        "rec_yd": {
+            "rivaldo fairweather": {
+                "fanduel": "24.5 -114/-114",
+                "mgm": "24.5 -115/-115",
+                "caesars": "27.5 -117/-117"
+            },
+            "cam coleman": {
+                "fanduel": "32.5 -114/-114",
+                "mgm": "32.5 -115/-115",
+                "caesars": "33.5 -115/-119"
+            },
+            "keandre lambert smith": {
+                "fanduel": "52.5 -114/-114",
+                "mgm": "52.5 -115/-115",
+                "caesars": "52.5 -108/-127"
+            }
+        },
+        "rush_yd": {
+            "payton thorne": {
+                "fanduel": "15.5 -114/-114",
+                "mgm": "15.5 -115/-115",
+                "caesars": "16.5 -119/-115"
+            },
+            "jarquez hunter": {
+                "fanduel": "53.5 -114/-114",
+                "mgm": "53.5 -115/-115",
+                "caesars": "53.5 -117/-117"
+            }
+        }
+    },
+    "georgia @ alabama": {
+        "ftd": {
+            "carson beck": {
+                "fanduel": "2000",
+                "mgm": "1700",
+                "betrivers": "900"
+            },
+            "oscar delp": {
+                "fanduel": "1400",
+                "mgm": "1500",
+                "betrivers": "1150"
+            },
+            "nate frazier": {
+                "fanduel": "1300",
+                "mgm": "1100",
+                "betrivers": "850"
+            },
+            "trevor etienne": {
+                "fanduel": "330",
+                "mgm": "290",
+                "betrivers": "285"
+            },
+            "dillon bell": {
+                "fanduel": "700",
+                "mgm": "750",
+                "betrivers": "550"
+            },
+            "colbie young": {
+                "fanduel": "1000",
+                "mgm": "1100",
+                "betrivers": "850"
+            },
+            "lawson luckie": {
+                "fanduel": "1500",
+                "mgm": "1400",
+                "betrivers": "1200"
+            },
+            "dominic lovett": {
+                "fanduel": "650",
+                "mgm": "700",
+                "betrivers": "460"
+            },
+            "arian smith": {
+                "fanduel": "650",
+                "mgm": "650",
+                "betrivers": "480"
+            },
+            "josh cuevas": {
+                "fanduel": "2100",
+                "mgm": "2500",
+                "draftkings": "2200"
+            },
+            "germie bernard": {
+                "fanduel": "1000",
+                "mgm": "1100",
+                "draftkings": "950"
+            },
+            "kobe prentice": {
+                "fanduel": "1000",
+                "mgm": "1000",
+                "draftkings": "950"
+            },
+            "kendrick law": {
+                "fanduel": "1000",
+                "mgm": "1000",
+                "draftkings": "1300"
+            },
+            "justice haynes": {
+                "fanduel": "600",
+                "mgm": "600",
+                "draftkings": "700"
+            },
+            "cj dippre": {
+                "fanduel": "1400",
+                "mgm": "1600",
+                "draftkings": "1600"
+            },
+            "jalen milroe": {
+                "fanduel": "340",
+                "mgm": "320",
+                "draftkings": "400"
+            },
+            "jam miller": {
+                "fanduel": "550",
+                "mgm": "500",
+                "draftkings": "600"
+            },
+            "richard young": {
+                "draftkings": "1800"
+            },
+            "alabama defense": {
+                "draftkings": "3500"
+            },
+            "emmanuel henderson": {
+                "draftkings": "1200"
+            },
+            "ryan williams": {
+                "draftkings": "600"
+            },
+            "cole adams": {
+                "draftkings": "2000"
+            },
+            "robbie ouzts": {
+                "draftkings": "2000"
+            },
+            "caleb odom": {
+                "draftkings": "1700"
+            }
+        },
+        "attd": {
+            "lawson luckie": {
+                "fanduel": "290",
+                "mgm": "290",
+                "caesars": "450",
+                "draftkings": "300"
+            },
+            "arian smith": {
+                "fanduel": "-105",
+                "mgm": "-110",
+                "caesars": "-110",
+                "draftkings": "-110"
+            },
+            "nate frazier": {
+                "fanduel": "200",
+                "mgm": "165",
+                "caesars": "320",
+                "draftkings": "160"
+            },
+            "trevor etienne": {
+                "fanduel": "-270",
+                "mgm": "-350",
+                "caesars": "-400",
+                "draftkings": "-400"
+            },
+            "carson beck": {
+                "fanduel": "250",
+                "mgm": "210",
+                "caesars": "225",
+                "draftkings": "195"
+            },
+            "oscar delp": {
+                "fanduel": "280",
+                "mgm": "280",
+                "caesars": "300",
+                "draftkings": "310"
+            },
+            "colbie young": {
+                "fanduel": "190",
+                "mgm": "195",
+                "caesars": "210",
+                "draftkings": "210"
+            },
+            "dillon bell": {
+                "fanduel": "110",
+                "mgm": "110",
+                "caesars": "120",
+                "draftkings": "115"
+            },
+            "dominic lovett": {
+                "fanduel": "-110",
+                "mgm": "-110",
+                "caesars": "110",
+                "draftkings": "-105"
+            },
+            "josh cuevas": {
+                "fanduel": "450",
+                "mgm": "475",
+                "draftkings": "330"
+            },
+            "kobe prentice": {
+                "fanduel": "155",
+                "mgm": "145",
+                "draftkings": "125"
+            },
+            "kendrick law": {
+                "fanduel": "155",
+                "mgm": "145",
+                "draftkings": "180"
+            },
+            "germie bernard": {
+                "fanduel": "150",
+                "mgm": "155",
+                "caesars": "125",
+                "draftkings": "135"
+            },
+            "cj dippre": {
+                "fanduel": "250",
+                "mgm": "240",
+                "caesars": "333",
+                "draftkings": "255"
+            },
+            "jam miller": {
+                "fanduel": "-155",
+                "mgm": "-160",
+                "caesars": "-162",
+                "draftkings": "-145"
+            },
+            "jalen milroe": {
+                "fanduel": "-300",
+                "mgm": "-350",
+                "caesars": "-275",
+                "draftkings": "-290"
+            },
+            "justice haynes": {
+                "fanduel": "-135",
+                "mgm": "-150",
+                "caesars": "-120",
+                "draftkings": "-125"
+            },
+            "branson robinson": {
+                "caesars": "260",
+                "draftkings": "125"
+            },
+            "cash jones": {
+                "caesars": "275"
+            },
+            "michael jackson": {
+                "draftkings": "475"
+            },
+            "london humphreys": {
+                "draftkings": "225"
+            },
+            "anthony evans": {
+                "draftkings": "500"
+            },
+            "ben yurosek": {
+                "draftkings": "500"
+            },
+            "cole adams": {
+                "draftkings": "350"
+            },
+            "alabama defense": {
+                "draftkings": "350"
+            },
+            "richard young": {
+                "draftkings": "285"
+            },
+            "emmanuel henderson": {
+                "draftkings": "175"
+            },
+            "caleb odom": {
+                "draftkings": "250"
+            },
+            "ryan williams": {
+                "draftkings": "-135"
+            },
+            "robbie ouzts": {
+                "draftkings": "340"
+            }
+        },
+        "pass_yd": {
+            "jalen milroe": {
+                "fanduel": "233.5 -114/-114",
+                "mgm": "233.5 -115/-115",
+                "caesars": "234.5 -117/-117"
+            },
+            "carson beck": {
+                "fanduel": "276.5 -114/-114",
+                "mgm": "276.5 -115/-115",
+                "caesars": "274.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "carson beck": {
+                "fanduel": "2.5 -114/-114",
+                "mgm": "2.5 -115/-115",
+                "caesars": "2.5 106/-145"
+            },
+            "jalen milroe": {
+                "fanduel": "1.5 -205/152",
+                "mgm": "1.5 -200/150",
+                "caesars": "1.5 -214/152"
+            }
+        },
+        "rec_yd": {
+            "germie bernard": {
+                "fanduel": "43.5 -114/-114",
+                "mgm": "43.5 -115/-115",
+                "caesars": "46.5 -117/-117"
+            },
+            "dillon bell": {
+                "fanduel": "47.5 -114/-114",
+                "mgm": "47.5 -115/-115",
+                "caesars": "48.5 -109/-125"
+            },
+            "dominic lovett": {
+                "fanduel": "54.5 -114/-114",
+                "mgm": "54.5 -115/-115",
+                "caesars": "55.5 -115/-119"
+            },
+            "arian smith": {
+                "fanduel": "54.5 -114/-114",
+                "mgm": "57.5 -115/-115",
+                "caesars": "52.5 -117/-117"
+            },
+            "cj dippre": {
+                "caesars": "18.5 -119/-115"
+            },
+            "colbie young": {
+                "caesars": "28.5 -119/-115"
+            },
+            "trevor etienne": {
+                "caesars": "12.5 -111/-123"
+            }
+        },
+        "rush_yd": {
+            "carson beck": {
+                "fanduel": "12.5 -114/-114",
+                "mgm": "12.5 -115/-115",
+                "caesars": "13.5 -111/-123"
+            },
+            "justice haynes": {
+                "fanduel": "50.5 -114/-114",
+                "mgm": "50.5 -115/-115",
+                "caesars": "51.5 -115/-119"
+            },
+            "jam miller": {
+                "fanduel": "53.5 -114/-114",
+                "mgm": "57.5 -115/-115",
+                "caesars": "53.5 -119/-115"
+            },
+            "jalen milroe": {
+                "fanduel": "68.5 -114/-114",
+                "mgm": "68.5 -115/-115",
+                "caesars": "62.5 -113/-121"
+            },
+            "trevor etienne": {
+                "fanduel": "82.5 -114/-114",
+                "mgm": "82.5 -115/-115",
+                "caesars": "91.5 100/-137"
+            }
+        }
+    },
+    "north carolina @ duke": {
+        "ftd": {
+            "john copenhaver": {
+                "fanduel": "2200",
+                "draftkings": "2500"
+            },
+            "davion gause": {
+                "fanduel": "2000"
+            },
+            "kobe paysour": {
+                "fanduel": "1800",
+                "draftkings": "1900"
+            },
+            "jacolby criswell": {
+                "fanduel": "1700",
+                "draftkings": "1500"
+            },
+            "nate mccollum": {
+                "fanduel": "1500",
+                "draftkings": "2000"
+            },
+            "jj jones": {
+                "fanduel": "1400",
+                "draftkings": "1400"
+            },
+            "omarion hampton": {
+                "fanduel": "390",
+                "draftkings": "500"
+            },
+            "bryson nesbit": {
+                "fanduel": "1500",
+                "draftkings": "1700"
+            },
+            "jake johnson": {
+                "draftkings": "3500"
+            },
+            "jordan shipp": {
+                "draftkings": "3500"
+            },
+            "caleb hood": {
+                "draftkings": "2200"
+            },
+            "gavin blackwell": {
+                "draftkings": "2500"
+            },
+            "darwin barlow": {
+                "draftkings": "2200"
+            }
+        },
+        "attd": {
+            "kobe paysour": {
+                "fanduel": "230",
+                "draftkings": "190"
+            },
+            "davion gause": {
+                "fanduel": "220"
+            },
+            "jacolby criswell": {
+                "fanduel": "180",
+                "caesars": "200",
+                "draftkings": "195"
+            },
+            "bryson nesbit": {
+                "fanduel": "165",
+                "caesars": "163",
+                "draftkings": "160"
+            },
+            "omarion hampton": {
+                "fanduel": "-330",
+                "caesars": "-450",
+                "draftkings": "-250"
+            },
+            "john copenhaver": {
+                "fanduel": "300",
+                "caesars": "300",
+                "draftkings": "280"
+            },
+            "nate mccollum": {
+                "fanduel": "200",
+                "draftkings": "205"
+            },
+            "jj jones": {
+                "fanduel": "155",
+                "draftkings": "130"
+            },
+            "nicky dalmolin": {
+                "caesars": "320"
+            },
+            "eli pancol": {
+                "caesars": "240"
+            },
+            "jordan moore": {
+                "caesars": "105"
+            },
+            "darwin barlow": {
+                "draftkings": "275"
+            },
+            "jordan shipp": {
+                "draftkings": "390"
+            },
+            "caleb hood": {
+                "draftkings": "290"
+            },
+            "jake johnson": {
+                "draftkings": "450"
+            },
+            "gavin blackwell": {
+                "draftkings": "270"
+            }
+        },
+        "pass_yd": {
+            "jacolby criswell": {
+                "fanduel": "249.5 -114/-114",
+                "caesars": "249.5 -119/-115"
+            },
+            "maalik murphy": {
+                "caesars": "214.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "jacolby criswell": {
+                "fanduel": "1.5 -154/116",
+                "caesars": "1.5 -151/110"
+            },
+            "maalik murphy": {
+                "caesars": "1.5 -106/-129"
+            }
+        },
+        "rec_yd": {
+            "bryson nesbit": {
+                "fanduel": "47.5 -114/-114",
+                "caesars": "46.5 -121/-113"
+            },
+            "jj jones": {
+                "fanduel": "63.5 -114/-114"
+            },
+            "jordan moore": {
+                "caesars": "69.5 -123/-111"
+            },
+            "eli pancol": {
+                "caesars": "30.5 -115/-119"
+            }
+        },
+        "rush_yd": {
+            "omarion hampton": {
+                "fanduel": "113.5 -114/-114",
+                "caesars": "121.5 -119/-115"
+            }
+        }
+    },
+    "louisville @ notre dame": {
+        "ftd": {
+            "ahmari huggins bruce": {
+                "fanduel": "1800"
+            },
+            "tyler shough": {
+                "fanduel": "1200",
+                "mgm": "1100",
+                "betrivers": "1000"
+            },
+            "caullin lacy": {
+                "fanduel": "850",
+                "betrivers": "750"
+            },
+            "isaac brown": {
+                "fanduel": "700",
+                "mgm": "650",
+                "betrivers": "575"
+            },
+            "jacorey brooks": {
+                "fanduel": "750",
+                "mgm": "750",
+                "betrivers": "575"
+            },
+            "chris bell": {
+                "fanduel": "1400",
+                "mgm": "1400",
+                "betrivers": "1200"
+            },
+            "mark redman": {
+                "fanduel": "2100",
+                "mgm": "2000",
+                "betrivers": "1700"
+            },
+            "donald chaney": {
+                "fanduel": "900",
+                "mgm": "850",
+                "betrivers": "800"
+            }
+        },
+        "attd": {
+            "mark redman": {
+                "fanduel": "290",
+                "mgm": "300",
+                "caesars": "450",
+                "draftkings": "250"
+            },
+            "chris bell": {
+                "fanduel": "190",
+                "mgm": "200",
+                "caesars": "190"
+            },
+            "isaac brown": {
+                "fanduel": "-130",
+                "mgm": "-145",
+                "draftkings": "-135"
+            },
+            "jacorey brooks": {
+                "fanduel": "-130",
+                "mgm": "-130",
+                "caesars": "-125",
+                "draftkings": "-130"
+            },
+            "tyler shough": {
+                "fanduel": "155",
+                "mgm": "145",
+                "caesars": "150",
+                "draftkings": "155"
+            },
+            "ahmari huggins bruce": {
+                "fanduel": "310",
+                "draftkings": "320"
+            },
+            "donald chaney": {
+                "fanduel": "110",
+                "mgm": "100",
+                "draftkings": "105"
+            },
+            "caullin lacy": {
+                "fanduel": "105",
+                "draftkings": "100"
+            },
+            "maurice turner": {
+                "draftkings": "105"
+            },
+            "jimmy calloway": {
+                "draftkings": "280"
+            },
+            "keyjuan brown": {
+                "draftkings": "245"
+            },
+            "nate kurisky": {
+                "draftkings": "390"
+            },
+            "jamari johnson": {
+                "draftkings": "390"
+            },
+            "louisville defense": {
+                "draftkings": "425"
+            },
+            "cataurus hicks": {
+                "draftkings": "450"
+            }
+        },
+        "pass_yd": {
+            "tyler shough": {
+                "fanduel": "261.5 -114/-114",
+                "mgm": "261.5 -115/-115",
+                "caesars": "266.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "tyler shough": {
+                "fanduel": "2.5 168/-230",
+                "mgm": "2.5 170/-225",
+                "caesars": "1.5 -184/133"
+            }
+        },
+        "rec_yd": {
+            "caullin lacy": {
+                "fanduel": "66.5 -114/-114",
+                "mgm": "66.5 -115/-115",
+                "caesars": "68.5 -121/-113"
+            },
+            "jacorey brooks": {
+                "fanduel": "75.5 -114/-114",
+                "mgm": "75.5 -115/-115",
+                "caesars": "76.5 -117/-117"
+            },
+            "chris bell": {
+                "caesars": "40.5 -117/-117"
+            }
+        },
+        "rush_yd": {
+            "isaac brown": {
+                "fanduel": "43.5 -114/-114"
+            }
+        }
+    },
+    "stanford @ clemson": {
+        "ftd": {
+            "jay haynes": {
+                "fanduel": "1000",
+                "mgm": "900",
+                "betrivers": "800",
+                "draftkings": "1100"
+            },
+            "jake briningstool": {
+                "fanduel": "950",
+                "mgm": "900",
+                "betrivers": "600",
+                "draftkings": "950"
+            },
+            "cade klubnik": {
+                "fanduel": "950",
+                "mgm": "950",
+                "betrivers": "750",
+                "draftkings": "1000"
+            },
+            "troy stellato": {
+                "fanduel": "1300",
+                "mgm": "1400",
+                "betrivers": "1600",
+                "draftkings": "1500"
+            },
+            "adam randall": {
+                "fanduel": "1300",
+                "mgm": "1400",
+                "betrivers": "1300"
+            },
+            "bryant wesco": {
+                "fanduel": "1000",
+                "mgm": "1100",
+                "draftkings": "1200"
+            },
+            "antonio williams": {
+                "fanduel": "750",
+                "mgm": "800",
+                "betrivers": "575"
+            },
+            "phil mafah": {
+                "fanduel": "370",
+                "mgm": "350",
+                "betrivers": "360",
+                "draftkings": "450"
+            },
+            "tj moore": {
+                "betrivers": "900",
+                "draftkings": "1300"
+            },
+            "cole turner": {
+                "draftkings": "1600"
+            },
+            "tyler brown": {
+                "draftkings": "1800"
+            },
+            "clemson defense": {
+                "draftkings": "2200"
+            },
+            "keith adams": {
+                "draftkings": "3000"
+            },
+            "josh sapp": {
+                "draftkings": "2800"
+            },
+            "olsen patt henry": {
+                "draftkings": "2200"
+            }
+        },
+        "attd": {
+            "phil mafah": {
+                "fanduel": "-175",
+                "mgm": "-200",
+                "caesars": "-200",
+                "draftkings": "-190"
+            },
+            "troy stellato": {
+                "fanduel": "290",
+                "mgm": "310",
+                "draftkings": "280"
+            },
+            "adam randall": {
+                "fanduel": "290",
+                "mgm": "310"
+            },
+            "jake briningstool": {
+                "fanduel": "155",
+                "mgm": "160",
+                "caesars": "150",
+                "draftkings": "155"
+            },
+            "cade klubnik": {
+                "fanduel": "150",
+                "mgm": "135",
+                "caesars": "140",
+                "draftkings": "140"
+            },
+            "antonio williams": {
+                "fanduel": "135",
+                "mgm": "140",
+                "caesars": "160"
+            },
+            "jay haynes": {
+                "fanduel": "165",
+                "mgm": "150",
+                "draftkings": "175"
+            },
+            "bryant wesco": {
+                "fanduel": "200",
+                "mgm": "220",
+                "caesars": "240",
+                "draftkings": "220"
+            },
+            "ismael cisse": {
+                "caesars": "260"
+            },
+            "elic ayomanor": {
+                "caesars": "138"
+            },
+            "sam roush": {
+                "caesars": "380"
+            },
+            "josh sapp": {
+                "draftkings": "500"
+            },
+            "keith adams": {
+                "draftkings": "550"
+            },
+            "tj moore": {
+                "draftkings": "215"
+            },
+            "olsen patt henry": {
+                "draftkings": "400"
+            },
+            "cole turner": {
+                "draftkings": "300"
+            },
+            "tyler brown": {
+                "draftkings": "300"
+            },
+            "clemson defense": {
+                "draftkings": "340"
+            }
+        },
+        "pass_yd": {
+            "cade klubnik": {
+                "fanduel": "230.5 -114/-114",
+                "mgm": "230.5 -115/-115",
+                "caesars": "236.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "cade klubnik": {
+                "fanduel": "1.5 -162/122",
+                "mgm": "1.5 -155/120",
+                "caesars": "1.5 -189/136"
+            }
+        },
+        "rec_yd": {
+            "jake briningstool": {
+                "fanduel": "35.5 -114/-114",
+                "mgm": "35.5 -115/-115",
+                "caesars": "38.5 -109/-125"
+            },
+            "antonio williams": {
+                "fanduel": "39.5 -114/-114",
+                "mgm": "39.5 -115/-115",
+                "caesars": "41.5 -117/-117"
+            },
+            "sam roush": {
+                "caesars": "20.5 -113/-121"
+            },
+            "ismael cisse": {
+                "caesars": "30.5 -113/-121"
+            },
+            "elic ayomanor": {
+                "caesars": "57.5 -117/-117"
+            }
+        },
+        "rush_yd": {
+            "cade klubnik": {
+                "fanduel": "24.5 -114/-114",
+                "mgm": "24.5 -115/-115",
+                "caesars": "26.5 -115/-119"
+            },
+            "phil mafah": {
+                "fanduel": "82.5 -114/-114",
+                "mgm": "82.5 -115/-115",
+                "caesars": "88.5 -109/-125"
+            }
+        }
+    },
+    "wisconsin @ usc": {
+        "ftd": {
+            "cade yacamelli": {
+                "draftkings": "750"
+            },
+            "tawee walker": {
+                "draftkings": "425"
+            },
+            "trech kekahuna": {
+                "draftkings": "2500"
+            },
+            "cj williams": {
+                "draftkings": "1600"
+            },
+            "bryson green": {
+                "draftkings": "1100"
+            },
+            "will pauling": {
+                "draftkings": "750"
+            },
+            "wisconsin defense": {
+                "draftkings": "2200"
+            },
+            "chez mellusi": {
+                "draftkings": "475"
+            },
+            "vinny anthony": {
+                "draftkings": "1300"
+            },
+            "jackson mcgohan": {
+                "draftkings": "3000"
+            },
+            "quincy burroughs": {
+                "draftkings": "4000"
+            },
+            "tucker ashcraft": {
+                "draftkings": "2500"
+            },
+            "riley nowakowski": {
+                "draftkings": "3500"
+            },
+            "braedyn locke": {
+                "draftkings": "2500"
+            },
+            "usc defense": {
+                "draftkings": "2800"
+            },
+            "jakobi lane": {
+                "draftkings": "950"
+            },
+            "woody marks": {
+                "draftkings": "350"
+            },
+            "kade eldridge": {
+                "draftkings": "2800"
+            },
+            "miller moss": {
+                "draftkings": "1800"
+            },
+            "kyron hudson": {
+                "draftkings": "1000"
+            },
+            "duce robinson": {
+                "draftkings": "1300"
+            },
+            "jay fair": {
+                "draftkings": "2800"
+            },
+            "walker lyons": {
+                "draftkings": "3000"
+            },
+            "carson tabaracci": {
+                "draftkings": "3500"
+            },
+            "kyle ford": {
+                "draftkings": "3000"
+            },
+            "amarion peterson": {
+                "draftkings": "3500"
+            },
+            "makai lemon": {
+                "draftkings": "2200"
+            },
+            "zachariah branch": {
+                "draftkings": "1000"
+            },
+            "quinten joyner": {
+                "draftkings": "1300"
+            }
+        },
+        "attd": {
+            "bryson green": {
+                "caesars": "250",
+                "draftkings": "185"
+            },
+            "cj williams": {
+                "caesars": "600",
+                "draftkings": "285"
+            },
+            "vinny anthony": {
+                "caesars": "260",
+                "draftkings": "220"
+            },
+            "tawee walker": {
+                "caesars": "-225",
+                "draftkings": "-180"
+            },
+            "will pauling": {
+                "caesars": "138",
+                "draftkings": "125"
+            },
+            "tucker ashcraft": {
+                "caesars": "600",
+                "draftkings": "450"
+            },
+            "braedyn locke": {
+                "caesars": "550",
+                "draftkings": "475"
+            },
+            "amarion peterson": {
+                "caesars": "1800",
+                "draftkings": "600"
+            },
+            "zachariah branch": {
+                "caesars": "145",
+                "draftkings": "150"
+            },
+            "quinten joyner": {
+                "caesars": "220",
+                "draftkings": "205"
+            },
+            "kade eldridge": {
+                "caesars": "400",
+                "draftkings": "450"
+            },
+            "jakobi lane": {
+                "caesars": "100",
+                "draftkings": "130"
+            },
+            "walker lyons": {
+                "caesars": "450",
+                "draftkings": "600"
+            },
+            "woody marks": {
+                "caesars": "-250",
+                "draftkings": "-285"
+            },
+            "kyle ford": {
+                "caesars": "450",
+                "draftkings": "550"
+            },
+            "duce robinson": {
+                "caesars": "260",
+                "draftkings": "210"
+            },
+            "miller moss": {
+                "caesars": "340",
+                "draftkings": "295"
+            },
+            "kyron hudson": {
+                "caesars": "170",
+                "draftkings": "160"
+            },
+            "quincy burroughs": {
+                "draftkings": "800"
+            },
+            "riley nowakowski": {
+                "draftkings": "650"
+            },
+            "trech kekahuna": {
+                "draftkings": "450"
+            },
+            "cade yacamelli": {
+                "draftkings": "125"
+            },
+            "chez mellusi": {
+                "draftkings": "-140"
+            },
+            "jackson mcgohan": {
+                "draftkings": "650"
+            },
+            "wisconsin defense": {
+                "draftkings": "340"
+            },
+            "makai lemon": {
+                "draftkings": "370"
+            },
+            "jay fair": {
+                "draftkings": "475"
+            },
+            "carson tabaracci": {
+                "draftkings": "600"
+            }
+        },
+        "pass_yd": {
+            "braedyn locke": {
+                "fanduel": "190.5 -114/-114",
+                "caesars": "193.5 -119/-115"
+            },
+            "miller moss": {
+                "caesars": "288.5 -104/-131"
+            }
+        },
+        "pass_td": {
+            "braedyn locke": {
+                "fanduel": "1.5 120/-160",
+                "caesars": "1.5 114/-157"
+            },
+            "miller moss": {
+                "caesars": "2.5 104/-142"
+            }
+        },
+        "rec_yd": {
+            "bryson green": {
+                "fanduel": "31.5 -114/-114",
+                "caesars": "32.5 -117/-117"
+            },
+            "will pauling": {
+                "fanduel": "54.5 -114/-114",
+                "caesars": "50.5 -117/-117"
+            },
+            "kyron hudson": {
+                "caesars": "43.5 -111/-123"
+            },
+            "vinny anthony": {
+                "caesars": "29.5 -117/-117"
+            },
+            "zachariah branch": {
+                "caesars": "49.5 -117/-117"
+            },
+            "woody marks": {
+                "caesars": "26.5 -115/-119"
+            },
+            "jakobi lane": {
+                "caesars": "51.5 -115/-119"
+            }
+        },
+        "rush_yd": {
+            "tawee walker": {
+                "caesars": "67.5 -142/104"
+            },
+            "woody marks": {
+                "caesars": "69.5 -117/-117"
+            }
+        }
+    },
+    "colorado @ ucf": {
+        "ftd": {
+            "jacoby jones": {
+                "draftkings": "1800"
+            },
+            "rj harvey": {
+                "draftkings": "500"
+            },
+            "javarrius johnson": {
+                "draftkings": "1900"
+            },
+            "trent whittemore": {
+                "draftkings": "1000"
+            },
+            "peny boone": {
+                "draftkings": "1900"
+            },
+            "myles montgomery": {
+                "draftkings": "1900"
+            },
+            "randy pittman": {
+                "draftkings": "1400"
+            },
+            "kobe hudson": {
+                "draftkings": "1000"
+            },
+            "ucf defense": {
+                "draftkings": "3000"
+            },
+            "evan morris": {
+                "draftkings": "2800"
+            },
+            "chauncey magwood": {
+                "draftkings": "2800"
+            },
+            "jarrad baker": {
+                "draftkings": "2800"
+            },
+            "johnny richardson": {
+                "draftkings": "3000"
+            }
+        },
+        "attd": {
+            "randy pittman": {
+                "caesars": "340",
+                "draftkings": "145"
+            },
+            "kobe hudson": {
+                "caesars": "105",
+                "draftkings": "100"
+            },
+            "kj jefferson": {
+                "caesars": "-110"
+            },
+            "rj harvey": {
+                "caesars": "-333",
+                "draftkings": "-250"
+            },
+            "jacoby jones": {
+                "caesars": "270",
+                "draftkings": "205"
+            },
+            "evan morris": {
+                "draftkings": "360"
+            },
+            "peny boone": {
+                "draftkings": "240"
+            },
+            "jarrad baker": {
+                "draftkings": "380"
+            },
+            "javarrius johnson": {
+                "draftkings": "245"
+            },
+            "myles montgomery": {
+                "draftkings": "235"
+            },
+            "chauncey magwood": {
+                "draftkings": "370"
+            },
+            "johnny richardson": {
+                "draftkings": "425"
+            },
+            "ucf defense": {
+                "draftkings": "425"
+            },
+            "trent whittemore": {
+                "draftkings": "110"
+            }
+        },
+        "pass_yd": {
+            "kj jefferson": {
+                "caesars": "206.5 -117/-117"
+            }
+        },
+        "pass_td": {
+            "kj jefferson": {
+                "caesars": "1.5 -106/-129"
+            }
+        },
+        "rec_yd": {
+            "rj harvey": {
+                "caesars": "13.5 -123/-111"
+            },
+            "kobe hudson": {
+                "caesars": "67.5 -123/-111"
+            },
+            "randy pittman": {
+                "caesars": "26.5 -117/-117"
+            }
+        },
+        "rush_yd": {
+            "rj harvey": {
+                "caesars": "116.5 -123/-111"
+            },
+            "kj jefferson": {
+                "caesars": "49.5 -117/-117"
+            }
+        }
+    }
+}

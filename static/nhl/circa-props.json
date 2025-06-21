@@ -1,0 +1,41 @@
+{
+    "tor @ tb": {
+        "atgs": {
+            "auston matthews": "135/-165",
+            "john tavares": "220/-275",
+            "william nylander": "210/-260",
+            "nukita kuckerov": "155/-190",
+            "brayden point": "130/-160",
+            "jake guentzel": "150/-185"
+        }
+    },
+    "phi @ nyr": {
+        "atgs": {
+            "travis konecny": "220/-275",
+            "matvei michkov": "240/-300",
+            "tyson foerster": "275/-350",
+            "artemi panarin": "150/-185",
+            "jt miller": "215/-270",
+            "vincent trocheck": "225/-280"
+        }
+    },
+    "sj @ min": {
+        "atgs": {
+            "macklin celebrini": "240/-300",
+            "william eklund": "300/-380",
+            "matt boldy":"165/-200",
+            "mats zuccarello": "255/-320",
+            "marco rossi": "275/-350"
+        }
+    },
+    "cgy @ ana": {
+        "atgs": {
+            "nazem kadri": "170/-210",
+            "jonathan huberdeau": "210/-260",
+            "matt coronato": "270/-340",
+            "mason mctavish": "245/-310",
+            "troy terry": "285/-360",
+            "leo carlsson": "315/-400"
+        }
+    }
+}

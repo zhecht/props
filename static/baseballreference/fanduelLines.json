@@ -1,0 +1,186 @@
+{
+    "hou @ tex": {
+        "max scherzer": {
+            "k": "o4.5 116/-148"
+        },
+        "cristian javier": {
+            "k": "o4.5 -108/-118"
+        },
+        "yordan alvarez": {
+            "hr": 240,
+            "h": -260,
+            "triple": 4400,
+            "rbi": -105,
+            "r": -135,
+            "double": 430,
+            "single": -105,
+            "tb": -115
+        },
+        "adolis garcia": {
+            "hr": 255,
+            "h": -210,
+            "triple": 3800,
+            "rbi": 105,
+            "r": -120,
+            "double": 490,
+            "single": 130,
+            "tb": 100
+        },
+        "corey seager": {
+            "hr": 265,
+            "h": -280,
+            "triple": 4500,
+            "rbi": 110,
+            "r": -155,
+            "double": 400,
+            "single": -120,
+            "tb": -125
+        },
+        "jose altuve": {
+            "hr": 360,
+            "h": -300,
+            "triple": 4500,
+            "rbi": 150,
+            "r": -135,
+            "double": 330,
+            "single": -150,
+            "tb": -120
+        },
+        "mitch garver": {
+            "hr": 370,
+            "h": -150,
+            "rbi": 175,
+            "r": 105,
+            "double": 600,
+            "single": 145,
+            "tb": 160
+        },
+        "marcus semien": {
+            "hr": 390,
+            "h": -250,
+            "triple": 2900,
+            "rbi": 140,
+            "r": -150,
+            "double": 360,
+            "single": -120,
+            "tb": 100
+        },
+        "josh jung": {
+            "hr": 440,
+            "h": -170,
+            "triple": 3800,
+            "rbi": 170,
+            "r": 115,
+            "double": 500,
+            "single": 115,
+            "tb": 145
+        },
+        "kyle tucker": {
+            "hr": 450,
+            "h": -290,
+            "triple": 3300,
+            "rbi": 135,
+            "r": 100,
+            "double": 300,
+            "single": -150,
+            "tb": -115
+        },
+        "evan carter": {
+            "hr": 470,
+            "h": -170,
+            "triple": 1400,
+            "rbi": 175,
+            "r": -110,
+            "double": 550,
+            "single": 130,
+            "tb": 135
+        },
+        "alex bregman": {
+            "hr": 540,
+            "h": -210,
+            "triple": 4200,
+            "rbi": 160,
+            "r": -115,
+            "double": 420,
+            "single": -125,
+            "tb": 120
+        },
+        "jonah heim": {
+            "hr": 600,
+            "h": -190,
+            "rbi": 170,
+            "r": 125,
+            "double": 430,
+            "single": -110,
+            "tb": 145
+        },
+        "jose abreu": {
+            "hr": 600,
+            "h": -200,
+            "rbi": 175,
+            "r": 120,
+            "double": 430,
+            "single": -120,
+            "tb": 140
+        },
+        "martin maldonado": {
+            "hr": 680,
+            "h": -130,
+            "rbi": 220,
+            "r": 150,
+            "double": 550,
+            "single": 135,
+            "tb": 200
+        },
+        "nathaniel lowe": {
+            "hr": 680,
+            "h": -175,
+            "triple": 4600,
+            "rbi": 220,
+            "r": 130,
+            "double": 480,
+            "single": 100,
+            "tb": 165
+        },
+        "michael brantley": {
+            "hr": 750,
+            "h": -320,
+            "triple": 3800,
+            "rbi": 185,
+            "r": -105,
+            "double": 370,
+            "single": -210,
+            "tb": -105
+        },
+        "jeremy pena": {
+            "hr": 800,
+            "h": -190,
+            "triple": 3900,
+            "rbi": 190,
+            "r": 140,
+            "double": 440,
+            "single": -120,
+            "tb": 150
+        },
+        "mauricio dubon": {
+            "hr": 830,
+            "h": -180,
+            "triple": 3400,
+            "rbi": 190,
+            "r": 165,
+            "double": 500,
+            "single": -115,
+            "tb": 160
+        },
+        "leody taveras": {
+            "hr": 1000,
+            "h": -150,
+            "triple": 3000,
+            "rbi": 240,
+            "r": 130,
+            "double": 500,
+            "single": 105,
+            "tb": 190
+        }
+    }
+}

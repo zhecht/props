@@ -1,0 +1,52 @@
+{
+    "germany @ serbia": {
+        "ml": "+115/-140",
+        "spread": {
+            "2.5": "-115/-105"
+        },
+        "total": {
+            "176.0": "-115/-105"
+        },
+        "1h_ml": "+110/-130",
+        "1h_spread": {
+            "1.0": "-110/-110"
+        },
+        "1h_total": {
+            "88.0": "-110/-110"
+        },
+        "1q_ml": "-106/-115",
+        "1q_spread": {
+            "0.5": "-115/-115"
+        },
+        "1q_total": {
+            "44.5": "-120/-110"
+        },
+        "pts": {
+            "bogdan bogdanovic": "20.5 -135/+105",
+            "daniel theis": "11.5 100/-130",
+            "dennis schroder": "17.5 -135/+105",
+            "franz wagner": "16.5 -135/+105",
+            "milutinov n": "13.5 -130/100",
+            "moritz wagner": "9.5 -115/-115",
+            "nikola jovic": "7.5 100/-130"
+        },
+        "reb": {
+            "bogdan bogdanovic": "3.5 -135/+105",
+            "daniel theis": "6.5 +110/-145",
+            "franz wagner": "6.5 +120/-155",
+            "milutinov n": "9.5 +105/-135",
+            "moritz wagner": "4.5 100/-130"
+        },
+        "3ptm": {
+            "bogdan bogdanovic": "2.5 -115/-115",
+            "dennis schroder": "2.5 +110/-145",
+            "franz wagner": "2.5 +140/-185"
+        },
+        "ast": {
+            "bogdan bogdanovic": "4.5 -115/-115",
+            "dennis schroder": "6.5 -135/+105",
+            "franz wagner": "2.5 -115/-115",
+            "stefan jovic": "5.5 -115/-115"
+        }
+    }
+}

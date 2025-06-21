@@ -1,0 +1,27 @@
+NAME	OVER	POS	R/L	TEAM	A/H	OPP	OPP RANK	OPP RANK LYR	PROP	LINE	LAST (old ➡️ new)	AVG	% OVER	L10 % OVER	CAREER % OVER	% OVER VS TEAM	VS TEAM	UNDER
+Paul Skenes	-150	SP	R	PIT	@	LAD	10th	8th	h_allowed	4.5	6,5,6,6,6,4,0,4,5,5	4.43	64%	70%	0%	0%	5.0 IP 8 K, 0 H, 0 BB	'+105
+Chris Flexen	-140	SP	R	CHW	v	CHC	23rd	11th	h_allowed	4.5	9,5,6,6,7,5,4,7,9,7	5.17	62%	90%	52%	43%	17.2 IP 11 K, 24 H, 6 BB	'+100
+Gavin Williams	-105	SP	R	CLE	@	MIN	9th	21st	h_allowed	4.5	7,4,3,6,6,2,8	5.14	57%	50%	44%	0%	6.0 IP 4 K, 1 H, 5 BB	-130
+Corbin Burnes	-135	SP	R	BAL	@	TB	25th	5th	h_allowed	4.5	5,7,5,9,4,9,2,6,4,7	5.17	57%	70%	29%	0%	7.0 IP 6 K, 0 H, 0 BB	-105
+Carlos Rodon	-120	SP	L	NYY	v	TEX	22nd	2nd	h_allowed	4.5	5,7,11,10,3,5,4,2,5,3	4.91	52%	60%	54%	60%	29.5 IP 32 K, 29 H, 12 BB	-120
+Patrick Corbin	'+105	SP	L	WSH	v	LAA	24th	18th	h_allowed	6.5	4,3,5,8,6,8,3,4,13,7	6.65	52%	40%	42%	50%	5.0 IP 3 K, 7 H, 3 BB	-150
+Justin Steele	'+110	SP	L	CHC	@	CHW	29th	23rd	h_allowed	5.5	3,4,6,7,2,3,9,6,6,3	4.89	50%	50%	36%	0%		-155
+Logan Webb	'+115	SP	R	SF	v	DET	26th	26th	h_allowed	6.5	7,6,9,5,7,8,8,9,5,4	6.29	46%	60%	32%	0%	4.2 IP 6 K, 4 H, 3 BB	-160
+Sean Manaea	-140	SP	L	NYM	@	SEA	30th	19th	h_allowed	4.5	4,2,2,5,2,5,8,3,2,6	4.36	45%	40%	57%	59%	2.0 IP 2 K, 4 H, 0 BB	'+100
+Michael Wacha	-130	SP	R	KC	v	STL	13th	14th	h_allowed	5.5	3,5,3,7,2,7,4,6,5,7	5.3	45%	40%	39%	67%	12.0 IP 9 K, 6 H, 1 BB	-110
+Aaron Nola	-110	SP	R	PHI	@	ARI	7th	17th	h_allowed	5.5	11,4,6,6,5,4,6,6,7,8	5.39	43%	70%	44%	80%	6.2 IP 9 K, 6 H, 1 BB	-130
+Griffin Canning	-120	SP	R	LAA	@	WSH	17th	10th	h_allowed	5.5	4,8,5,6,6,7,6,4,6,3	5.43	43%	60%	39%	0%	5.0 IP 4 K, 5 H, 0 BB	-120
+Max Fried	-145	SP	L	ATL	@	COL	15th	16th	h_allowed	5.5	3,7,4,6,4,6,6,11,5,4	5.0	42%	50%	35%	40%	26.3 IP 21 K, 24 H, 6 BB	'+100
+Zac Gallen	'+105	SP	R	ARI	v	PHI	6th	9th	h_allowed	5.5	8,1,1,4,7,9,3,5,6,8	4.95	42%	50%	32%	20%	5.2 IP 3 K, 5 H, 2 BB	-150
+Logan Gilbert	-160	SP	R	SEA	v	NYM	8th	27th	h_allowed	4.5	6,2,4,4,6,4,2,4,7,4	4.57	39%	30%	59%	100%	6.2 IP 9 K, 7 H, 0 BB	'+115
+Matt Waldron	'+110	SP	R	SD	@	MIA	18th	7th	h_allowed	5.5	3,5,5,6,5,6,6,4,5,2	4.83	39%	30%	25%	0%	7.0 IP 8 K, 0 H, 0 BB	-155
+Simeon Woods Richardson	'+120	SP	R	MIN	v	CLE	20th	13th	h_allowed	5.5	6,4,4,4,4,3,7,3,7,6	4.53	37%	40%	0%	0%	5.1 IP 2 K, 0 H, 0 BB	-175
+Roddery Munoz	'+110	SP	R	MIA	v	SD	2nd	22nd	h_allowed	5.5	1,8,6,5,4,5,3,6,4,7	4.71	36%	40%	0%	0%		-155
+Spencer Arrighetti	'+115	SP	R	HOU	@	BOS	1st	4th	h_allowed	5.5	4,5,5,3,6,7,2,7,4,5	5.0	35%	30%	100%	0%		-165
+River Ryan	-105	SP	R	LAD	v	PIT	21st	25th	h_allowed	4.5	4,2,5	3.67	33%	33%	0%	0%		-135
+Nathan Eovaldi	'+110	SP	R	TEX	@	NYY	11th	29th	h_allowed	5.5	4,4,9,1,4,8,8,4,6,7	4.85	30%	50%	50%	45%	14.2 IP 13 K, 7 H, 2 BB	-150
+Tobias Myers	'+115	SP	R	MIL	v	CIN	28th	15th	h_allowed	5.5	1,3,4,5,7,8,4,6,3,4	4.35	29%	30%	0%	0%		-160
+Osvaldo Bido	'+125	RP	R	OAK	@	TOR	19th	6th	h_allowed	5.5	3,5,2,0,1,1,0,4,6,6	2.8	20%	20%	0%	0%		-185
+Yariel Rodriguez	'+115	SP	R	TOR	v	OAK	27th	30th	h_allowed	4.5	3,6,6,2,2,1,4,2,1,4	3.18	18%	20%	0%	0%		-160
+Nick Martinez	'+115	RP	R	CIN	@	MIL	4th	24th	h_allowed	5.5	1,2,3,1,3,1,1,4,2,4	2.59	16%	0%	24%	0%	10.0 IP 7 K, 9 H, 4 BB	-160
+Andre Pallante	'+105	RP	R	STL	@	KC	12th	20th	h_allowed	6.5	6,3,5,7,4,4,6,3,7,5	3.35	10%	20%	4%	0%	8.1 IP 5 K, 3 H, 1 BB	-150

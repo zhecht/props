@@ -1,0 +1,25 @@
+NAME	OVER	POS	R/L	Batting #	B. AVG	TEAM	A/H	OPP	OPP RANK	OPP RANK LYR	PROP	LINE	LAST (old ➡️ new)	AVG	% OVER	L10 % OVER	CAREER % OVER	% OVER VS TEAM	VS TEAM	PITCHER	THROWS	VS PITCHER	UNDER
+Bryce Harper	+0	1B	L	3	.293	PHI	@	MIN	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.200 3-15, 1 HR, 2 RBI, 1 BB, 5 SO	Festa	R		'+3500
+Kyle Schwarber	+0	DH	L	1	.238	PHI	@	MIN	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.111 2-18, 0 HR, 1 RBI, 3 BB, 6 SO	Festa	R		'+2800
+Matt Wallner	+0	RF	L	6	.222	MIN	v	PHI	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.231 3-13, 1 HR, 2 RBI, 0 BB, 3 SO	Nola	R		'+4000
+Rafael Devers	+0	3B	L	4	.286	BOS	@	COL	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.250 4-16, 2 HR, 6 RBI, 2 BB, 2 SO	Quantrill	R	.375 3-8, 1 HR, 1 RBI, 1 BB, 3 SO	'+2800
+Wilyer Abreu	+0	RF	L	2	.262	BOS	@	COL	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.000 1-1, 0 HR, 1 RBI, 0 BB, 0 SO	Quantrill	R		'+3500
+Jose Altuve	+0	2B	R	1	.304	HOU	@	OAK	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.319 22-69, 1 HR, 5 RBI, 8 BB, 15 SO	Sears	L	.231 3-13, 0 HR, 0 RBI, 0 BB, 2 SO	'+4500
+Yordan Alvarez	+0	LF	L	3	.304	HOU	@	OAK	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.281 18-64, 4 HR, 8 RBI, 9 BB, 18 SO	Sears	L	.182 2-11, 0 HR, 1 RBI, 1 BB, 5 SO	'+3000
+Cal Raleigh	+0	C	S	3	.209	SEA	v	LAA	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.230 17-74, 5 HR, 16 RBI, 8 BB, 26 SO	Canning	R	.200 1-5, 0 HR, 0 RBI, 0 BB, 3 SO	'+2800
+Mitch Haniger	+0	RF	R	5	.206	SEA	v	LAA	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.284 78-275, 16 HR, 46 RBI, 25 BB, 76 SO	Canning	R	.200 1-5, 0 HR, 1 RBI, 0 BB, 1 SO	'+2000
+Cj Abrams	+0	SS	L	1	.264	WSH	v	SD	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.333 12-36, 1 HR, 4 RBI, 3 BB, 6 SO	Waldron	R	.400 2-5, 0 HR, 0 RBI, 0 BB, 0 SO	'+2800
+Manny Machado	+0	3B	R	3	.259	SD	@	WSH	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.308 8-26, 1 HR, 3 RBI, 3 BB, 4 SO	Parker	L		'+2800
+Aaron Judge	+0	CF	R	3	.312	NYY	v	NYM	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.325 27-83, 12 HR, 22 RBI, 11 BB, 25 SO	Manaea	L	.462 6-13, 2 HR, 6 RBI, 3 BB, 5 SO	'+1500
+Francisco Lindor	+0	SS	S	1	.256	NYM	@	NYY	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.321 9-28, 0 HR, 1 RBI, 4 BB, 6 SO	Cole	R	.176 3-17, 0 HR, 0 RBI, 2 BB, 2 SO	'+3000
+Brandon Lowe	+0	2B	L	3	.239	TB	@	TOR	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.226 7-31, 2 HR, 6 RBI, 4 BB, 8 SO	Rodriguez	R		'+3500
+Isaac Paredes	+0	3B	R	2	.250	TB	@	TOR	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.191 13-68, 4 HR, 10 RBI, 11 BB, 22 SO	Rodriguez	R		'+4500
+Adolis Garcia	+0	RF	R	5	.206	TEX	v	CHW	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.276 8-29, 2 HR, 5 RBI, 4 BB, 8 SO	Flexen	R	.316 6-19, 2 HR, 5 RBI, 2 BB, 4 SO	'+2200
+Corey Seager	+0	SS	L	2	.261	TEX	v	CHW	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.231 6-26, 1 HR, 8 RBI, 3 BB, 8 SO	Flexen	R	.400 2-5, 0 HR, 0 RBI, 2 BB, 2 SO	'+2500
+Luis Robert	+0	CF	R	1	.227	CHW	@	TEX	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.273 6-22, 1 HR, 1 RBI, 1 BB, 8 SO	Eovaldi	R	.400 2-5, 1 HR, 3 RBI, 1 BB, 1 SO	'+3500
+Bobby Witt	+0	SS	R	2	.340	KC	v	ARI	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.333 7-21, 1 HR, 4 RBI, 1 BB, 5 SO	Nelson	R	.333 1-3, 0 HR, 0 RBI, 0 BB, 0 SO	'+2800
+Christian Walker	+0	1B	R	4	.260	ARI	@	KC	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.188 3-16, 0 HR, 2 RBI, 2 BB, 3 SO	Wacha	R	.000 3-3, 0 HR, 0 RBI, 0 BB, 0 SO	'+3500
+Joc Pederson	+0	DH	L	3	.273	ARI	@	KC	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.273 3-11, 0 HR, 1 RBI, 3 BB, 2 SO	Wacha	R	.227 5-22, 1 HR, 2 RBI, 3 BB, 6 SO	'+4000
+Salvador Perez	+0	C	R	4	.279	KC	v	ARI	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.375 6-16, 1 HR, 6 RBI, 1 BB, 3 SO	Nelson	R	.667 2-3, 0 HR, 0 RBI, 0 BB, 0 SO	'+3000
+Shohei Ohtani	+0	DH	L	1	.316	LAD	v	SF	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.309 17-55, 3 HR, 10 RBI, 9 BB, 20 SO	Ray	L	.333 3-9, 0 HR, 0 RBI, 0 BB, 5 SO	'+3000
+Teoscar Hernandez	+0	CF	R	4	.269	LAD	v	SF	-	-	home_runs_milestones	0		0.0	0%	0%	0%	0%	.246 14-57, 2 HR, 11 RBI, 3 BB, 16 SO	Ray	L	.250 1-4, 0 HR, 0 RBI, 1 BB, 1 SO	'+4000

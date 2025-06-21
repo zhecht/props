@@ -1,0 +1,11 @@
+out*
+nflout*
+ncaabout*
+nhlout*
+nbaout*
+mlbout*
+static/freebets/ev*
+static/dingers/updated*
+controllers/__pycache__/*
+.DS_Store
+p.pystatic/baseballreference/expected_historical.json

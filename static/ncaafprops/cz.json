@@ -1,0 +1,290 @@
+{
+    "jacksonville state @ kennesaw state": {
+        "spread": {
+            "-17.0": "-110/-110"
+        },
+        "ml": "-700/500",
+        "total": {
+            "49.5": "-110/-110"
+        },
+        "1h_spread": {
+            "-9.5": "-115/-105"
+        },
+        "1h_total": {
+            "25.5": "-110/-110"
+        }
+    },
+    "houston @ tcu": {
+        "spread": {
+            "16.5": "-110/-110"
+        },
+        "ml": "550/-800",
+        "total": {
+            "51.0": "-110/-110"
+        },
+        "attd": {
+            "cam cook": "-175",
+            "jack bech": "-133",
+            "savion williams": "138",
+            "stacy sneed": "140",
+            "eric mcalister": "170",
+            "jp richardson": "180",
+            "josh hoover": "240",
+            "stephon johnson": "300",
+            "drake dabney": "333",
+            "joseph manjack": "375",
+            "mekhi mews": "480",
+            "maliq carr": "700",
+            "jayden york": "750"
+        },
+        "pass_td": {
+            "josh hoover": {
+                "2.5": "118/-163"
+            }
+        },
+        "pass_yd": {
+            "josh hoover": {
+                "321.5": "-117/-117"
+            }
+        },
+        "rush_yd": {
+            "stacy sneed": {
+                "38.5": "-117/-117"
+            },
+            "cam cook": {
+                "51.5": "-113/-121"
+            }
+        },
+        "rec_yd": {
+            "jp richardson": {
+                "40.5": "-117/-117"
+            },
+            "jack bech": {
+                "89.5": "-119/-115"
+            },
+            "savion williams": {
+                "48.5": "-119/-115"
+            }
+        },
+        "away_total": {
+            "16.5": "-120/100"
+        },
+        "home_total": {
+            "34.5": "100/-120"
+        },
+        "1h_spread": {
+            "9.5": "-110/-110"
+        },
+        "1h_total": {
+            "26.0": "-110/-110"
+        },
+        "int": {
+            "josh hoover": {
+                "0.5": "-142/104"
+            }
+        },
+        "2h_spread": {
+            "7.5": "-130/110"
+        },
+        "2h_total": {
+            "23.5": "-115/-105"
+        },
+        "1q_spread": {
+            "6.5": "-115/-105"
+        },
+        "1q_total": {
+            "10.5": "105/-125"
+        }
+    },
+    "michigan state @ oregon": {
+        "spread": {
+            "23.5": "-110/-110"
+        },
+        "ml": "1150/-2400",
+        "total": {
+            "52.0": "-110/-110"
+        },
+        "attd": {
+            "jordan james": "-450",
+            "tez johnson": "-182",
+            "evan stewart": "-105",
+            "traeshon holden": "105",
+            "dillon gabriel": "115",
+            "terrance ferguson": "130",
+            "noah whittington": "138",
+            "kayron lynch adams": "190",
+            "jayden limar": "240",
+            "kyler kasper": "300",
+            "nate carter": "320",
+            "montorie foster": "333",
+            "nick marsh": "375",
+            "jaron glover": "400",
+            "jack velling": "400",
+            "patrick herbert": "450",
+            "aidan chiles": "450",
+            "justius lowe": "1100"
+        },
+        "pass_td": {
+            "aidan chiles": {
+                "0.5": "-145/106"
+            },
+            "dillon gabriel": {
+                "2.5": "-113/-121"
+            }
+        },
+        "pass_yd": {
+            "dillon gabriel": {
+                "279.5": "-117/-117"
+            },
+            "aidan chiles": {
+                "174.5": "-117/-117"
+            }
+        },
+        "rush_yd": {
+            "kayron lynch adams": {
+                "41.5": "-135/-101"
+            },
+            "noah whittington": {
+                "28.5": "-106/-129"
+            },
+            "jordan james": {
+                "92.5": "-117/-117"
+            },
+            "dillon gabriel": {
+                "18.5": "-117/-117"
+            }
+        },
+        "rec_yd": {
+            "tez johnson": {
+                "92.5": "-115/-119"
+            },
+            "terrance ferguson": {
+                "26.5": "-115/-119"
+            },
+            "jordan james": {
+                "10.5": "-123/-111"
+            },
+            "jack velling": {
+                "27.5": "-115/-119"
+            },
+            "montorie foster": {
+                "33.5": "-117/-117"
+            },
+            "traeshon holden": {
+                "49.5": "-117/-117"
+            },
+            "evan stewart": {
+                "43.5": "-119/-115"
+            }
+        },
+        "away_total": {
+            "14.5": "118/-140"
+        },
+        "home_total": {
+            "37.5": "-120/100"
+        },
+        "1h_spread": {
+            "14.0": "-115/-105"
+        },
+        "1h_total": {
+            "27.5": "-110/-110"
+        },
+        "int": {
+            "aidan chiles": {
+                "0.5": "-234/165"
+            },
+            "dillon gabriel": {
+                "0.5": "-109/-125"
+            }
+        },
+        "2h_spread": {
+            "8.5": "-110/-110"
+        },
+        "2h_total": {
+            "23.5": "-125/105"
+        }
+    },
+    "syracuse @ unlv": {
+        "spread": {
+            "6.0": "-115/-105"
+        },
+        "ml": "180/-220",
+        "total": {
+            "56.0": "-110/-110"
+        },
+        "attd": {
+            "lequint allen": "-225",
+            "ricky whitei": "-175",
+            "hajj malik williams": "-120",
+            "trebor pena": "100",
+            "oronde gadsden": "130",
+            "umari hatcher": "140",
+            "jackson meeks": "180",
+            "kyle mccord": "450"
+        },
+        "pass_td": {
+            "kyle mccord": {
+                "2.5": "112/-154"
+            },
+            "hajj malik williams": {
+                "1.5": "100/-137"
+            }
+        },
+        "pass_yd": {
+            "hajj malik williams": {
+                "182.5": "-123/-111"
+            },
+            "kyle mccord": {
+                "308.5": "-117/-117"
+            }
+        },
+        "rush_yd": {
+            "lequint allen": {
+                "68.5": "-115/-119"
+            },
+            "hajj malik williams": {
+                "63.5": "-119/-115"
+            }
+        },
+        "rec_yd": {
+            "umari hatcher": {
+                "52.5": "-109/-125"
+            },
+            "trebor pena": {
+                "63.5": "-117/-117"
+            },
+            "jackson meeks": {
+                "44.5": "-117/-117"
+            },
+            "oronde gadsden": {
+                "52.5": "-115/-119"
+            },
+            "ricky whitei": {
+                "79.5": "-139/102"
+            }
+        },
+        "away_total": {
+            "23.5": "-125/105"
+        },
+        "home_total": {
+            "30.5": "-125/105"
+        },
+        "1h_spread": {
+            "3.0": "-105/-115"
+        },
+        "1h_total": {
+            "28.0": "-105/-115"
+        },
+        "int": {
+            "kyle mccord": {
+                "0.5": "-199/143"
+            }
+        },
+        "2h_spread": {
+            "2.5": "100/-120"
+        },
+        "2h_total": {
+            "27.5": "-105/-115"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "germany @ serbia": {
+        "spread": {
+            "2.5": "-115/-115"
+        },
+        "ml": "110/-145",
+        "total": {
+            "175.5": "-115/-115"
+        },
+        "pts": {
+            "bogdan bogdanovic": "22.5 -110/-120",
+            "daniel theis": "10.5 -115/-115",
+            "dennis schroder": "16.5 -115/-115",
+            "franz wagner": "17.5 -115/-115",
+            "mortiz wagner": "11.5 -115/-115",
+            "nikola jovic": "7.5 -120/-110"
+        },
+        "ast": {
+            "bogdan bogdanovic": "3.5 100/-134",
+            "dennis schroder": "6.5 -130/-105",
+            "franz wagner": "2.5 -134/100"
+        },
+        "reb": {
+            "bogdan bogdanovic": "3.5 -115/-115",
+            "daniel theis": "5.5 -120/-110",
+            "franz wagner": "5.5 -110/-120",
+            "mortiz wagner": "3.5 110/-115"
+        },
+        "away_total": {
+            "87.5": "-110/-120"
+        },
+        "home_total": {
+            "88.5": "-120/-110"
+        },
+        "1h_ml": "105/-140",
+        "1h_spread": {
+            "1.5": "-120/-110"
+        },
+        "1h_total": {
+            "88.5": "-110/-120"
+        },
+        "1q_ml": "105/-140",
+        "1q_spread": {
+            "0.5": "-110/-120"
+        },
+        "1q_total": {
+            "44.5": "-105/-125"
+        },
+        "1q_away_total": {
+            "21.5": "-115/-115"
+        },
+        "1q_home_total": {
+            "22.5": "-110/-120"
+        }
+    }
+}

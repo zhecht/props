@@ -1,0 +1,242 @@
+{
+    "demand": {
+        "aged meat": 198,
+        "bakers basics": 105,
+        "barbeque specialty": 78,
+        "basic rations": 69,
+        "brined shank": 48,
+        "building materials": 108,
+        "butchers box": 68,
+        "campfire roast": 101,
+        "crafting basics": 93,
+        "dairy delivery": 106,
+        "fried chicken": 183,
+        "glaceforde explorers kit": 100,
+        "kabbars omelet": 84,
+        "kindling kit": 96,
+        "margrove ale ingredients": 196,
+        "pickled vegetables": 101,
+        "ravencrest finest wears": 93,
+        "rohna smoked ham": 196,
+        "sailors remedy": 82,
+        "sajecho fruit basket": 72,
+        "sajechos spices": 62,
+        "seabreeze rum": 83,
+        "settlers rations": 80,
+        "slums provisions": 67,
+        "sombreshades pie": 93,
+        "strawberry cakes": 120,
+        "winemakers kit": 111
+    },
+    "distances": {
+        "darzuac_tarmire": 588,
+        "defiance_gileard": 1495,
+        "defiance_riverend": 440,
+        "defiance_seabreeze": 1890,
+        "margrove_defiance": 945,
+        "margrove_riverend": 584,
+        "margrove_seabreeze": 943,
+        "orca bay_darzuac": 953,
+        "orca bay_defiance": 1181,
+        "orca bay_margrove": 493,
+        "orca bay_riverend": 813,
+        "orca bay_seabreeze": 713,
+        "ravencrest_darzuac": 574,
+        "ravencrest_defiance": 750,
+        "ravencrest_gilead": 745,
+        "ravencrest_margrove": 248,
+        "ravencrest_orca bay": 449,
+        "ravencrest_riverend": 340,
+        "ravencrest_seabreeze": 1115,
+        "ravencrest_tarmire": 392,
+        "seabreeze_darzuac": 1599,
+        "seabreeze_riverend": 1528,
+        "seabreeze_tarmire": 1002
+    },
+    "fiveperc": true,
+    "prices": {
+        "acorn": 15500,
+        "apple": 499,
+        "banana": 257,
+        "bean": 128,
+        "beef": 20,
+        "blueberry": 79,
+        "cabbage": 370,
+        "carrot": 118,
+        "cheese": 2320,
+        "cherry": 244,
+        "chicken": 442,
+        "coal": 143,
+        "copper ore": 71,
+        "corn": 269,
+        "cotton": 294,
+        "egg": 220,
+        "garlic": 2170,
+        "grape": 280,
+        "ground flour": 95,
+        "hide": 500,
+        "honey": 236,
+        "milk": 473,
+        "moonberry": 377,
+        "onion": 209,
+        "orange": 700,
+        "pea": 88,
+        "pepper": 230,
+        "potato": 69,
+        "pumpkin": 614,
+        "salt": 147,
+        "shank": 48,
+        "small log": 110,
+        "stone": 58,
+        "strawberry": 119,
+        "watermelon": 838,
+        "wheat": 133,
+        "wool": 555
+    },
+    "tradepacks": {
+        "aged meat": {
+            "beef": 12,
+            "garlic": 15,
+            "salt": 5
+        },
+        "bakers basics": {
+            "egg": 30,
+            "ground flour": 35,
+            "milk": 15
+        },
+        "barbeque specialty": {
+            "beef": 10,
+            "chicken": 5,
+            "coal": 30,
+            "honey": 6
+        },
+        "basic rations": {
+            "apple": 10,
+            "corn": 10,
+            "wheat": 15
+        },
+        "brined shank": {
+            "pepper": 10,
+            "salt": 8,
+            "shank": 10
+        },
+        "building materials": {
+            "hide": 10,
+            "small log": 22,
+            "stone": 100
+        },
+        "butchers box": {
+            "beef": 5,
+            "cheese": 1,
+            "chicken": 8,
+            "shank": 5
+        },
+        "campfire roast": {
+            "chicken": 8,
+            "small log": 22,
+            "stone": 130
+        },
+        "crafting basics": {
+            "copper ore": 40,
+            "hide": 10,
+            "small log": 25
+        },
+        "dairy delivery": {
+            "cheese": 1,
+            "egg": 30,
+            "milk": 15
+        },
+        "fried chicken": {
+            "chicken": 12,
+            "garlic": 10,
+            "ground flour": 20,
+            "onion": 10
+        },
+        "glaceforde explorers kit": {
+            "coal": 40,
+            "small log": 30,
+            "wool": 10
+        },
+        "kabbars omelet": {
+            "cheese": 1,
+            "egg": 30,
+            "pepper": 15
+        },
+        "kindling kit": {
+            "coal": 40,
+            "cotton": 10,
+            "small log": 38
+        },
+        "margrove ale ingredients": {
+            "acorn": 3,
+            "pumpkin": 2,
+            "wheat": 30
+        },
+        "pickled vegetables": {
+            "cabbage": 15,
+            "carrot": 50,
+            "salt": 8
+        },
+        "ravencrest finest wears": {
+            "cotton": 8,
+            "hide": 8,
+            "wool": 8
+        },
+        "rohna smoked ham": {
+            "acorn": 2,
+            "pea": 10,
+            "salt": 5,
+            "shank": 5
+        },
+        "sailors remedy": {
+            "bean": 20,
+            "carrot": 20,
+            "orange": 5
+        },
+        "sajecho fruit basket": {
+            "banana": 2,
+            "grape": 10,
+            "orange": 4,
+            "watermelon": 1
+        },
+        "sajechos spices": {
+            "onion": 15,
+            "orange": 4,
+            "salt": 5
+        },
+        "seabreeze rum": {
+            "banana": 5,
+            "blueberry": 30,
+            "cabbage": 8,
+            "corn": 10
+        },
+        "settlers rations": {
+            "carrot": 35,
+            "corn": 10,
+            "wheat": 30
+        },
+        "slums provisions": {
+            "cotton": 10,
+            "potato": 80,
+            "shank": 8
+        },
+        "sombreshades pie": {
+            "ground flour": 20,
+            "honey": 13,
+            "milk": 10,
+            "pumpkin": 5
+        },
+        "strawberry cakes": {
+            "ground flour": 50,
+            "honey": 10,
+            "milk": 10,
+            "strawberry": 40
+        },
+        "winemakers kit": {
+            "blueberry": 15,
+            "grape": 40,
+            "moonberry": 5
+        }
+    },
+    "warmode": false
+}

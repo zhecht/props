@@ -1,0 +1,1538 @@
+{
+    "west ham": {
+        "confirmed": true,
+        "starters": [
+            "alphonse areola",
+            "oliver scarles",
+            "aaron cresswell",
+            "jean clair todibo",
+            "max kilman",
+            "aaron wan bissaka",
+            "edson alvarez",
+            "tomas soucek",
+            "james ward prowse",
+            "jarrod bowen",
+            "mohammed kudus"
+        ]
+    },
+    "leicester": {
+        "confirmed": true,
+        "starters": [
+            "mads hermansen",
+            "victor kristiansen",
+            "wout faes",
+            "jannik vestergaard",
+            "james justin",
+            "wilfred ndidi",
+            "boubakary soumare",
+            "bobby decordova reid",
+            "bilal el khannouss",
+            "facundo buonanotte",
+            "jamie vardy"
+        ]
+    },
+    "monaco": {
+        "confirmed": false,
+        "starters": [
+            "radoslaw majecki",
+            "krepin diatta",
+            "wilfried singo",
+            "christian mawissa elebi",
+            "vanderson",
+            "denis zakaria",
+            "lamine camara",
+            "eliesse ben seghir",
+            "takumi minamino",
+            "maghnes akliouche",
+            "mika biereth"
+        ]
+    },
+    "reims": {
+        "confirmed": false,
+        "starters": [
+            "yehvann diouf",
+            "sergio akieme",
+            "buta",
+            "joseph okumu",
+            "hiroki sekine",
+            "amadou kone",
+            "mory gbane",
+            "keito nakamura",
+            "teddy teuma",
+            "junya ito",
+            "oumar diakite"
+        ]
+    },
+    "st etienne": {
+        "confirmed": false,
+        "starters": [
+            "gautier larsonneur",
+            "leo petrot",
+            "dylan batubinsika",
+            "mickael nade",
+            "yvann macon",
+            "pierre ekwah",
+            "florian tardieu",
+            "benjamin bouchouari",
+            "djylian nguessan",
+            "irvin cardona",
+            "lucas stassin"
+        ]
+    },
+    "nice": {
+        "confirmed": false,
+        "starters": [
+            "marcin bulka",
+            "dante",
+            "youssouf ndayishimiye",
+            "moise bombito",
+            "ali el abdi",
+            "hicham boudaoui",
+            "baptiste santamaria",
+            "jonathan clauss",
+            "mohamed ali cho",
+            "evann guessand",
+            "gaetan laborde"
+        ]
+    },
+    "lens": {
+        "confirmed": false,
+        "starters": [
+            "mathew ryan",
+            "facundo medina",
+            "jonathan gradit",
+            "malang sarr",
+            "ruben aguilar",
+            "andy diouf",
+            "neil el aynaoui",
+            "anass zaroury",
+            "adrien thomasson",
+            "goduine koyalipou",
+            "wesley said"
+        ]
+    },
+    "le havre": {
+        "confirmed": false,
+        "starters": [
+            "mathieu gorgelin",
+            "fode ballo toure",
+            "gautier lloris",
+            "etienne youte kinkoue",
+            "loic nego",
+            "mahamadou diawara",
+            "antoine joujou",
+            "rassoul ndiaye",
+            "issa soumare",
+            "josue casimir",
+            "kouka"
+        ]
+    },
+    "paris saint germain": {
+        "confirmed": false,
+        "starters": [
+            "gianluigi donnarumma",
+            "nuno mendes",
+            "marquinhos",
+            "lucas beraldo",
+            "achraf hakimi",
+            "vitinha",
+            "desire doue",
+            "joao neves",
+            "bradley barcola",
+            "khvicha kvaratskhelia",
+            "ousmane dembele"
+        ]
+    },
+    "lille": {
+        "confirmed": false,
+        "starters": [
+            "lucas chevalier",
+            "gabriel gudmundsson",
+            "bafode diakite",
+            "alexsandro",
+            "thomas meunier",
+            "hakon haraldsson",
+            "ayyoub bouaddi",
+            "benjamin andre",
+            "ngalayel mukau",
+            "chuba akpom",
+            "jonathan david"
+        ]
+    },
+    "lyon": {
+        "confirmed": false,
+        "starters": [
+            "lucas perri",
+            "abner vinicius",
+            "clinton mata",
+            "moussa niakhate",
+            "sael kumbedi",
+            "corentin tolisso",
+            "nemanja matic",
+            "tanner tessmann",
+            "malick fofana",
+            "ernest nuamah",
+            "rayan cherki"
+        ]
+    },
+    "brest": {
+        "confirmed": false,
+        "starters": [
+            "marco bizot",
+            "massadio haidara",
+            "brendan chardonnet",
+            "soumaila coulibaly",
+            "kenny lala",
+            "mahdi camara",
+            "pierre lees melou",
+            "hugo magnetti",
+            "kamory doumbia",
+            "mathias pereira lage",
+            "mama balde"
+        ]
+    },
+    "angers": {
+        "confirmed": false,
+        "starters": [
+            "yahia fofana",
+            "florent hanin",
+            "abdoulaye bamba",
+            "jordan lefort",
+            "lilian rao lisoa",
+            "pierrick capelle",
+            "haris belkebla",
+            "jim allevinah",
+            "himad abdelli",
+            "zinedine ferhat",
+            "ibrahima niane"
+        ]
+    },
+    "toulouse": {
+        "confirmed": false,
+        "starters": [
+            "kjetil haug",
+            "charlie cresswell",
+            "mark mckenzie",
+            "djibril sidibe",
+            "gabriel suazo",
+            "cristian casseres",
+            "vincent sierro",
+            "aron donnum",
+            "shavy babicka",
+            "zakaria aboukhlal",
+            "frank magri"
+        ]
+    },
+    "aj auxerre": {
+        "confirmed": false,
+        "starters": [
+            "donovan leon",
+            "gideon mensah",
+            "jubal",
+            "gabriel osho",
+            "clement akpa",
+            "ki jana hoever",
+            "hamed traore",
+            "elisha owusu",
+            "kevin danois",
+            "gaetan perrin",
+            "theo bair"
+        ]
+    },
+    "strasbourg": {
+        "confirmed": false,
+        "starters": [
+            "djordje petrovic",
+            "mamadou sarr",
+            "abakar sylla",
+            "guela doue",
+            "valentin barco",
+            "habib diarra",
+            "ismael landry doukoure",
+            "dilane bakwa",
+            "felix lemarechal",
+            "diego moreira",
+            "emanuel emegha"
+        ]
+    },
+    "montpellier": {
+        "confirmed": false,
+        "starters": [
+            "benjamin lecomte",
+            "theo sainte luce",
+            "abdoul bamo meite",
+            "boubacar kouyate",
+            "yael mouanga",
+            "enzo tchato",
+            "teji savanier",
+            "khalil fayad",
+            "rabby nzingoula",
+            "andy delort",
+            "wahbi khazri"
+        ]
+    },
+    "rennes": {
+        "confirmed": false,
+        "starters": [
+            "steve mandanda",
+            "hans hateboer",
+            "lilian brassier",
+            "jeremy jacquet",
+            "adrien truffert",
+            "jordan james",
+            "seko fofana",
+            "djaoui cisse",
+            "lorenz assignon",
+            "moussa al tamari",
+            "arnaud kalimuendo"
+        ]
+    },
+    "marseille": {
+        "confirmed": false,
+        "starters": [
+            "geronimo rulli",
+            "geoffrey kondogbia",
+            "leonardo balerdi",
+            "michael amir murillo",
+            "amar dedic",
+            "ismael bennacer",
+            "pierre emile hojbjerg",
+            "luis henrique",
+            "mason greenwood",
+            "adrien rabiot",
+            "amine gouiri"
+        ]
+    },
+    "nantes": {
+        "confirmed": false,
+        "starters": [
+            "anthony lopes",
+            "nicolas pallois",
+            "jean charles castelletto",
+            "saidou sow",
+            "kelvin amian",
+            "douglas augusto",
+            "johann lepenant",
+            "louis leroux",
+            "moses simon",
+            "matthis abline",
+            "mostafa mohamed"
+        ]
+    },
+    "bologna": {
+        "confirmed": false,
+        "starters": [
+            "lukasz skorupski",
+            "juan miranda",
+            "jhon lucumi",
+            "sam beukema",
+            "davide calabria",
+            "nikola moro",
+            "tommaso pobega",
+            "dan ndoye",
+            "lewis ferguson",
+            "riccardo orsolini",
+            "santiago castro"
+        ]
+    },
+    "milan": {
+        "confirmed": false,
+        "starters": [
+            "mike maignan",
+            "theo hernandez",
+            "strahinja pavlovic",
+            "malick thiaw",
+            "kyle walker",
+            "youssouf fofana",
+            "tijjani reijnders",
+            "rafael leao",
+            "joao felix",
+            "christian pulisic",
+            "santiago gimenez"
+        ]
+    },
+    "fiorentina": {
+        "confirmed": false,
+        "starters": [
+            "david de gea",
+            "robin gosens",
+            "luca ranieri",
+            "pietro comuzzo",
+            "dodo",
+            "rolando mandragora",
+            "danilo cataldi",
+            "fabiano parisi",
+            "nicolo fagioli",
+            "nicolo zaniolo",
+            "lucas beltran"
+        ]
+    },
+    "lecce": {
+        "confirmed": false,
+        "starters": [
+            "wladimiro falcone",
+            "antonino gallo",
+            "gaby jean",
+            "federico baschirotto",
+            "frederic guilbert",
+            "lassana coulibaly",
+            "hamza rafia",
+            "balthazar pierret",
+            "jesper karlsson",
+            "tete morente",
+            "nikola krstovic"
+        ]
+    },
+    "atalanta": {
+        "confirmed": false,
+        "starters": [
+            "marco carnesecchi",
+            "berat djimsiti",
+            "stefan posch",
+            "sead kolasinac",
+            "davide zappacosta",
+            "mario pasalic",
+            "ederson",
+            "raoul bellanova",
+            "ademola lookman",
+            "charles de ketelaere",
+            "mateo retegui"
+        ]
+    },
+    "venezia": {
+        "confirmed": false,
+        "starters": [
+            "andrei radu",
+            "fali cande",
+            "jay idzes",
+            "alessandro marcandalli",
+            "mikael egill ellertsson",
+            "hans nicolussi caviglia",
+            "kike perez",
+            "gianluca busio",
+            "alessio zerbin",
+            "gaetano pio oristanio",
+            "daniel fila"
+        ]
+    },
+    "napoli": {
+        "confirmed": false,
+        "starters": [
+            "alex meret",
+            "alessandro buongiorno",
+            "amir rrahmani",
+            "giovanni di lorenzo",
+            "leonardo spinazzola",
+            "scott mctominay",
+            "philip billing",
+            "stanislav lobotka",
+            "matteo politano",
+            "romelu lukaku",
+            "giacomo raspadori"
+        ]
+    },
+    "inter": {
+        "confirmed": false,
+        "starters": [
+            "josep martinez",
+            "alessandro bastoni",
+            "benjamin pavard",
+            "francesco acerbi",
+            "federico dimarco",
+            "hakan calhanoglu",
+            "henrikh mkhitaryan",
+            "nicolo barella",
+            "denzel dumfries",
+            "mehdi taremi",
+            "lautaro martinez"
+        ]
+    },
+    "udinese": {
+        "confirmed": false,
+        "starters": [
+            "daniele padelli",
+            "hassane kamara",
+            "jaka bijol",
+            "oumar solet",
+            "thomas kristensen",
+            "jurgen ekkelenkamp",
+            "jesper karlstrom",
+            "sandi lovric",
+            "arthur atta",
+            "lorenzo lucca",
+            "florian thauvin"
+        ]
+    },
+    "parma": {
+        "confirmed": false,
+        "starters": [
+            "zion suzuki",
+            "emanuele valeri",
+            "botond balogh",
+            "lautaro valenti",
+            "enrico delprato",
+            "nahuel estevez",
+            "simon sohm",
+            "mandela keita",
+            "dennis man",
+            "matteo cancellieri",
+            "ange yoan bonny"
+        ]
+    },
+    "monza": {
+        "confirmed": false,
+        "starters": [
+            "stefano turati",
+            "andrea carboni",
+            "tomas palacios",
+            "armando izzo",
+            "georgios kyriakopoulos",
+            "alessandro bianco",
+            "kacper urbanski",
+            "pedro pereira",
+            "dany mota carvalho",
+            "patrick ciurria",
+            "silvere ganvoula"
+        ]
+    },
+    "torino": {
+        "confirmed": false,
+        "starters": [
+            "vanja milinkovic savic",
+            "cristiano biraghi",
+            "guillermo maripan",
+            "saul coco",
+            "sebastian walukiewicz",
+            "samuele ricci",
+            "cesare casadei",
+            "eljif elmas",
+            "nikola vlasic",
+            "valentino lazaro",
+            "che adams"
+        ]
+    },
+    "genoa": {
+        "confirmed": false,
+        "starters": [
+            "nicola leali",
+            "aaron martin",
+            "mattia bani",
+            "johan vasquez",
+            "koni de winter",
+            "morten frendrup",
+            "patrizio masini",
+            "maxwel cornet",
+            "fabio miretti",
+            "alessandro zanoli",
+            "andrea pinamonti"
+        ]
+    },
+    "empoli": {
+        "confirmed": false,
+        "starters": [
+            "marco silvestri",
+            "giuseppe pezzella",
+            "mattia de sciglio",
+            "saba goglichidze",
+            "liberato cacace",
+            "alberto grassi",
+            "liam henderson",
+            "emmanuel gyasi",
+            "youssef maleh",
+            "sebastiano esposito",
+            "christian kouame"
+        ]
+    },
+    "cagliari": {
+        "confirmed": false,
+        "starters": [
+            "elia caprile",
+            "adam obert",
+            "yerry mina",
+            "sebastiano luperto",
+            "gabriele zappa",
+            "antoine makoumbou",
+            "michel adopo",
+            "mattia felici",
+            "alessandro deiola",
+            "nadir zortea",
+            "roberto piccoli"
+        ]
+    },
+    "roma": {
+        "confirmed": false,
+        "starters": [
+            "mile svilar",
+            "gianluca mancini",
+            "evan ndicka",
+            "mats hummels",
+            "angelino",
+            "leandro paredes",
+            "manu kone",
+            "alexis saelemaekers",
+            "paulo dybala",
+            "lorenzo pellegrini",
+            "eldor shomurodov"
+        ]
+    },
+    "como": {
+        "confirmed": false,
+        "starters": [
+            "jean butez",
+            "alex valle",
+            "marc oliver kempf",
+            "edoardo goldaniga",
+            "ivan smolcic",
+            "maximo perrone",
+            "lucas da cunha",
+            "maxence caqueret",
+            "assane diao",
+            "gabriel strefezza",
+            "nico paz"
+        ]
+    },
+    "lazio": {
+        "confirmed": false,
+        "starters": [
+            "ivan provedel",
+            "nuno tavares",
+            "samuel gigot",
+            "alessio romagnoli",
+            "adam marusic",
+            "nicolo rovella",
+            "matteo guendouzi",
+            "mattia zaccagni",
+            "boulaye dia",
+            "gustav tang isaksen",
+            "tijjani noslin"
+        ]
+    },
+    "juventus": {
+        "confirmed": false,
+        "starters": [
+            "michele di gregorio",
+            "andrea cambiaso",
+            "federico gatti",
+            "lloyd kelly",
+            "timothy weah",
+            "manuel locatelli",
+            "teun koopmeiners",
+            "kenan yildiz",
+            "weston mckennie",
+            "nicolas gonzalez",
+            "dusan vlahovic"
+        ]
+    },
+    "verona": {
+        "confirmed": false,
+        "starters": [
+            "lorenzo montipo",
+            "diego coppola",
+            "nicolas valentini",
+            "pawel dawidowicz",
+            "domagoj bradaric",
+            "cheikh niasse",
+            "ondrej duda",
+            "jackson tchatchoua",
+            "tomas suslov",
+            "antoine bernede",
+            "amin sarr"
+        ]
+    },
+    "valladolid": {
+        "confirmed": false,
+        "starters": [
+            "karl jakob hein",
+            "david torres",
+            "javi sanchez",
+            "eray comert",
+            "luis perez",
+            "mario martin",
+            "florian grillitsch",
+            "raul moro",
+            "selim amallah",
+            "anuar",
+            "marcos andre"
+        ]
+    },
+    "las palmas": {
+        "confirmed": false,
+        "starters": [
+            "jasper cillessen",
+            "alex munoz",
+            "scott mckenna",
+            "mika marmol",
+            "viti rozada",
+            "stefan bajcetic",
+            "dario essugo",
+            "javi munoz",
+            "alberto moleiro",
+            "sandro ramirez",
+            "oliver mcburnie"
+        ]
+    },
+    "girona": {
+        "confirmed": false,
+        "starters": [
+            "paulo gazzaniga",
+            "daley blind",
+            "david lopez",
+            "ladislav krejci",
+            "miguel gutierrez",
+            "ivan martin",
+            "yangel herrera",
+            "arnau martinez",
+            "viktor tsygankov",
+            "bryan gil",
+            "arnaut danjuma"
+        ]
+    },
+    "celta vigo": {
+        "confirmed": false,
+        "starters": [
+            "vicente guaita",
+            "marcos alonso",
+            "javi rodriguez",
+            "carl starfelt",
+            "oscar mingueza",
+            "hugo sotelo",
+            "ilaix moriba",
+            "sergio carreira",
+            "williot swedberg",
+            "fer lopez",
+            "borja iglesias"
+        ]
+    },
+    "rayo vallecano": {
+        "confirmed": false,
+        "starters": [
+            "augusto batalla",
+            "pep chavarria",
+            "abdul mumin",
+            "florian lejeune",
+            "andrei ratiu",
+            "pathe ciss",
+            "pedro diaz",
+            "alvaro garcia",
+            "oscar trejo",
+            "adrian embarba",
+            "randy nteka"
+        ]
+    },
+    "sevilla": {
+        "confirmed": false,
+        "starters": [
+            "orjan nyland",
+            "adria pedrosa",
+            "marcao",
+            "kike salas",
+            "jose angel carmona",
+            "juanlu",
+            "saul",
+            "djibril sow",
+            "ruben vargas",
+            "dodi lukebakio",
+            "isaac"
+        ]
+    },
+    "betis": {
+        "confirmed": false,
+        "starters": [
+            "adrian",
+            "ricardo rodriguez",
+            "marc bartra",
+            "diego llorente",
+            "youssouf sabaly",
+            "johnny cardoso",
+            "sergi altimira",
+            "jesus rodriguez",
+            "isco",
+            "antony",
+            "cucho hernandez"
+        ]
+    },
+    "real madrid": {
+        "confirmed": false,
+        "starters": [
+            "thibaut courtois",
+            "ferland mendy",
+            "antonio rudiger",
+            "raul asencio",
+            "lucas vazquez",
+            "aurelien tchouameni",
+            "federico valverde",
+            "brahim diaz",
+            "rodrygo",
+            "vinicius junior",
+            "kylian mbappe"
+        ]
+    },
+    "atletico madrid": {
+        "confirmed": false,
+        "starters": [
+            "jan oblak",
+            "javi galan",
+            "robin le normand",
+            "clement lenglet",
+            "marcos llorente",
+            "samuel lino",
+            "pablo barrios",
+            "rodrigo de paul",
+            "giuliano simeone",
+            "julian alvarez",
+            "antoine griezmann"
+        ]
+    },
+    "athletic": {
+        "confirmed": false,
+        "starters": [
+            "unai simon",
+            "yuri berchiche",
+            "yeray alvarez",
+            "dani vivian",
+            "oscar de marcos",
+            "mikel vesga",
+            "mikel jauregizar",
+            "nico williams",
+            "alex berenguer",
+            "inaki williams",
+            "maroan sannadi"
+        ]
+    },
+    "leganes": {
+        "confirmed": false,
+        "starters": [
+            "marko dmitrovic",
+            "adria altimira",
+            "sergio gonzalez",
+            "matija nastasic",
+            "valentin rosier",
+            "yvan neyou noupa",
+            "juan cruz",
+            "seydouba cisse",
+            "darko brasanac",
+            "dani raba",
+            "diego garcia"
+        ]
+    },
+    "getafe": {
+        "confirmed": false,
+        "starters": [
+            "david soria",
+            "diego rico",
+            "juan berrocal gonzalez",
+            "omar alderete",
+            "juan iglesias",
+            "djene dakonam",
+            "mauro arambarri",
+            "juan bernat",
+            "christantus uche",
+            "ramon terrats",
+            "juanmi"
+        ]
+    },
+    "barcelona": {
+        "confirmed": false,
+        "starters": [
+            "wojciech szczesny",
+            "alex balde",
+            "pau cubarsi",
+            "inigo martinez",
+            "jules kounde",
+            "marc casado",
+            "pedri",
+            "dani olmo",
+            "raphinha",
+            "lamine yamal",
+            "robert lewandowski"
+        ]
+    },
+    "sociedad": {
+        "confirmed": false,
+        "starters": [
+            "alejandro remiro",
+            "javi lopez",
+            "igor zubeldia",
+            "aritz elustondo",
+            "jon aramburu",
+            "martin zubimendi",
+            "sergio gomez",
+            "brais mendez",
+            "pablo marin",
+            "ander barrenetxea",
+            "mikel oyarzabal"
+        ]
+    },
+    "mallorca": {
+        "confirmed": false,
+        "starters": [
+            "dominik greif",
+            "toni lato",
+            "antonio raillo",
+            "martin valjent",
+            "pablo maffeo",
+            "sergi darder",
+            "omar mascarell",
+            "robert navarro",
+            "dani rodriguez",
+            "takuma asano",
+            "vedat muriqi"
+        ]
+    },
+    "deportivo alaves": {
+        "confirmed": false,
+        "starters": [
+            "antonio sivera",
+            "moussa diarra",
+            "santiago mourino",
+            "abdelkabir abqar",
+            "nahuel tenaglia",
+            "carles alena",
+            "joan jordan",
+            "antonio blanco",
+            "carlos vicente",
+            "toni martinez",
+            "kike"
+        ]
+    },
+    "osasuna": {
+        "confirmed": false,
+        "starters": [
+            "sergio herrera",
+            "juan cruz",
+            "enzo boyomo",
+            "alejandro catena",
+            "jesus areso",
+            "jon moncayola",
+            "lucas torro",
+            "aimar oroz",
+            "bryan zaragoza",
+            "ruben garcia",
+            "ante budimir"
+        ]
+    },
+    "valencia": {
+        "confirmed": false,
+        "starters": [
+            "giorgi mamardashvili",
+            "jose gaya",
+            "cristhian mosquera",
+            "cesar tarrega",
+            "dimitri foulquier",
+            "ivan jaime",
+            "enzo barrenechea",
+            "javi guerra",
+            "luis rioja",
+            "hugo duro",
+            "diego lopez"
+        ]
+    },
+    "villarreal": {
+        "confirmed": false,
+        "starters": [
+            "diego conde",
+            "sergi cardona",
+            "willy kambwala",
+            "logan costa",
+            "juan foyth",
+            "alex baena",
+            "pape gueye",
+            "santi comesana",
+            "yeremi pino",
+            "thierno barry",
+            "ayoze perez"
+        ]
+    },
+    "espanyol": {
+        "confirmed": false,
+        "starters": [
+            "joan garcia",
+            "carlos romero",
+            "marash kumbulla",
+            "leandro cabrera",
+            "omar el hilali",
+            "urko gonzalez",
+            "alex kral",
+            "pol lozano",
+            "javi puado",
+            "jofre carreras",
+            "roberto fernandez"
+        ]
+    },
+    "stuttgart": {
+        "confirmed": false,
+        "starters": [
+            "alexander nubel",
+            "maximilian mittelstadt",
+            "jeff chabot",
+            "finn jeltsch",
+            "josha vagnoman",
+            "angelo stiller",
+            "atakan karazor",
+            "jamie leweling",
+            "chris fuhrich",
+            "nick woltemade",
+            "deniz undav"
+        ]
+    },
+    "bayern munich": {
+        "confirmed": false,
+        "starters": [
+            "manuel neuer",
+            "alphonso davies",
+            "eric dier",
+            "hiroki ito",
+            "konrad laimer",
+            "leon goretzka",
+            "aleksandar pavlovic",
+            "leroy sane",
+            "jamal musiala",
+            "michael olise",
+            "harry kane"
+        ]
+    },
+    "st pauli": {
+        "confirmed": false,
+        "starters": [
+            "nikola vasilj",
+            "david nemeth",
+            "hauke wahl",
+            "siebe van der heyden",
+            "lars ritzka",
+            "jackson irvine",
+            "eric smith",
+            "philipp treu",
+            "elias saad",
+            "noah weisshaupt",
+            "johannes eggestein"
+        ]
+    },
+    "dortmund": {
+        "confirmed": false,
+        "starters": [
+            "gregor kobel",
+            "ramy bensebaini",
+            "emre can",
+            "nico schlotterbeck",
+            "julian ryerson",
+            "pascal gross",
+            "marcel sabitzer",
+            "maximilian beier",
+            "julian brandt",
+            "karim adeyemi",
+            "serhou guirassy"
+        ]
+    },
+    "bochum": {
+        "confirmed": false,
+        "starters": [
+            "timo horn",
+            "ivan ordets",
+            "bernardo",
+            "erhan masovic",
+            "gerrit holtmann",
+            "tom krauss",
+            "ibrahima sissoko",
+            "matus bero",
+            "tim oermann",
+            "philipp hofmann",
+            "giorgos masouras"
+        ]
+    },
+    "1899 hoffenheim": {
+        "confirmed": false,
+        "starters": [
+            "luca philipp",
+            "stanley nsoki",
+            "leo ostigard",
+            "arthur chaves",
+            "pavel kaderabek",
+            "andrej kramaric",
+            "anton stach",
+            "finn becker",
+            "marius bulter",
+            "tom bischof",
+            "gift orban"
+        ]
+    },
+    "werder bremen": {
+        "confirmed": false,
+        "starters": [
+            "michael zetterer",
+            "niklas stark",
+            "milos veljkovic",
+            "anthony jung",
+            "felix agu",
+            "jens stage",
+            "leonardo bittencourt",
+            "senne lynen",
+            "mitchell weiser",
+            "justin njinmah",
+            "marco grull"
+        ]
+    },
+    "wolfsburg": {
+        "confirmed": false,
+        "starters": [
+            "marius muller",
+            "joakim maehle",
+            "denis vavro",
+            "konstantinos koulierakis",
+            "kilian fischer",
+            "patrick wimmer",
+            "aster vranckx",
+            "mattias svanberg",
+            "mohammed amoura",
+            "tiago tomas",
+            "jonas wind"
+        ]
+    },
+    "heidenheim": {
+        "confirmed": false,
+        "starters": [
+            "kevin muller",
+            "patrick mainka",
+            "tim siersleben",
+            "benedikt gimber",
+            "jonas fohrenbach",
+            "julian niehues",
+            "luca kerber",
+            "omar traore",
+            "mathias honsak",
+            "frans kratzig",
+            "marvin pieringer"
+        ]
+    },
+    "monchengladbach": {
+        "confirmed": false,
+        "starters": [
+            "tiago pereira cardoso",
+            "lukas ullrich",
+            "nico elvedi",
+            "ko itakura",
+            "joe scally",
+            "julian weigl",
+            "philipp sander",
+            "robin hack",
+            "kevin stoger",
+            "nathan ngoumou",
+            "tim kleindienst"
+        ]
+    },
+    "leipzig": {
+        "confirmed": false,
+        "starters": [
+            "peter gulacsi",
+            "willi orban",
+            "nicolas seiwald",
+            "castello lukeba",
+            "david raum",
+            "amadou haidara",
+            "kevin kampl",
+            "ridle baku",
+            "xavi simons",
+            "lois openda",
+            "benjamin sesko"
+        ]
+    },
+    "mainz 05": {
+        "confirmed": false,
+        "starters": [
+            "robin zentner",
+            "danny da costa",
+            "moritz jenz",
+            "andreas hanche olsen",
+            "phillipp mwene",
+            "nadiem amiri",
+            "kaishu sano",
+            "anthony caci",
+            "paul nebel",
+            "lee jae sung",
+            "jonathan burkardt"
+        ]
+    },
+    "eintracht frankfurt": {
+        "confirmed": false,
+        "starters": [
+            "kevin trapp",
+            "robin koch",
+            "arthur theate",
+            "rasmus kristensen",
+            "nathaniel brown",
+            "hugo larsson",
+            "ellyes skhiri",
+            "nnamdi collins",
+            "elye wahi",
+            "mario gotze",
+            "hugo ekitike"
+        ]
+    },
+    "leverkusen": {
+        "confirmed": false,
+        "starters": [
+            "lukas hradecky",
+            "jonathan tah",
+            "nordi mukiele",
+            "edmond tapsoba",
+            "alejandro grimaldo",
+            "granit xhaka",
+            "exequiel palacios",
+            "jeremie frimpong",
+            "amine adli",
+            "florian wirtz",
+            "victor boniface"
+        ]
+    },
+    "union berlin": {
+        "confirmed": false,
+        "starters": [
+            "frederik ronnow",
+            "tom rothe",
+            "danilho doekhi",
+            "diogo leite",
+            "christopher trimmel",
+            "rani khedira",
+            "janik haberer",
+            "benedict hollerbach",
+            "woo yeong jeong",
+            "tim skarke",
+            "andrej ilic"
+        ]
+    },
+    "holstein kiel": {
+        "confirmed": false,
+        "starters": [
+            "timon weiner",
+            "marco komenda",
+            "david zec",
+            "timo becker",
+            "finn porath",
+            "lewis holtby",
+            "nicolai remberg",
+            "armin gigovic",
+            "lasse rosenboom",
+            "shuto machino",
+            "phil harres"
+        ]
+    },
+    "augsburg": {
+        "confirmed": false,
+        "starters": [
+            "finn dahmen",
+            "jeffrey gouweleeuw",
+            "cedric zesiger",
+            "chrislain matsima",
+            "dimitris giannoulis",
+            "frank onyeka",
+            "kristijan jakic",
+            "marius wolf",
+            "alexis claude maurice",
+            "fredrik jensen",
+            "phillip tietz"
+        ]
+    },
+    "freiburg": {
+        "confirmed": false,
+        "starters": [
+            "noah atubolu",
+            "christian gunter",
+            "philipp lienhart",
+            "matthias ginter",
+            "kiliann sildillia",
+            "patrick osterhage",
+            "maximilian eggestein",
+            "vincenzo grifo",
+            "merlin rohl",
+            "ritsu doan",
+            "lucas holer"
+        ]
+    },
+    "mazatlan": {
+        "confirmed": false,
+        "starters": [
+            "hugo gonzalez",
+            "jair diaz",
+            "luis gustavo sanchez",
+            "facundo ezequiel almada",
+            "jose joaquin esquivel",
+            "jefferson intriago",
+            "nicolas benedetti",
+            "jordan sierra",
+            "rodolfo pizarro",
+            "anderson duarte",
+            "omar moreno"
+        ]
+    },
+    "cruz azul": {
+        "confirmed": false,
+        "starters": [
+            "kevin mier",
+            "gonzalo piovi",
+            "willer ditta",
+            "jesus orozco",
+            "carlos rotondi",
+            "erik lira",
+            "carlos rodriguez",
+            "jorge eduardo sanchez",
+            "mateusz bogusz",
+            "luka romero",
+            "giorgos giakoumakis"
+        ]
+    },
+    "club necaxa": {
+        "confirmed": false,
+        "starters": [
+            "ezequiel unsain",
+            "emilio lara",
+            "alan montes",
+            "jesus alcantar",
+            "raul sandoval",
+            "jose rodriguez",
+            "agustin palavecino",
+            "kevin rosero",
+            "johan rojas",
+            "jose paradela",
+            "diber cambindo"
+        ]
+    },
+    "tigres uanl": {
+        "confirmed": false,
+        "starters": [
+            "nahuel guzman",
+            "jesus garza",
+            "jesus alberto angulo",
+            "joaquim",
+            "javier aquino",
+            "guido pizarro",
+            "rafael carioca",
+            "marcelo flores",
+            "juan francisco brunetta",
+            "diego lainez",
+            "nicolas ibanez"
+        ]
+    },
+    "leon": {
+        "confirmed": false,
+        "starters": [
+            "oscar jimenez",
+            "salvador reyes",
+            "jaine barreiro",
+            "adonis frias",
+            "sebastian santos rosales",
+            "nicolas fonseca",
+            "rodrigo echeverria",
+            "stiven mendoza",
+            "james rodriguez",
+            "ivan moreno",
+            "jhonder cadiz"
+        ]
+    },
+    "club tijuana": {
+        "confirmed": false,
+        "starters": [
+            "miguel ortega",
+            "francisco contreras",
+            "unai bilbao",
+            "jackson porozo",
+            "ramiro franco",
+            "fernando madrigal",
+            "joe corona",
+            "domingo blanco",
+            "kevin castaneda",
+            "efrain alvarez",
+            "jose raul zuniga"
+        ]
+    },
+    "america": {
+        "confirmed": false,
+        "starters": [
+            "luis angel malagon",
+            "cristian calderon",
+            "israel reyes romero",
+            "ramon juarez",
+            "kevin alvarez",
+            "alan cervantes",
+            "brian rodriguez",
+            "alvaro fidalgo",
+            "erick sanchez",
+            "alejandro zendejas",
+            "henry martin"
+        ]
+    },
+    "toluca": {
+        "confirmed": false,
+        "starters": [
+            "pau lopez",
+            "jesus gallardo",
+            "bruno mendez",
+            "federico pereira",
+            "brian alberto garcia",
+            "alexis vega",
+            "marcel alejandro ruiz",
+            "franco romero",
+            "jesus ricardo angulo",
+            "paulinho",
+            "robert morales"
+        ]
+    },
+    "juarez": {
+        "confirmed": false,
+        "starters": [
+            "sebastian jurado",
+            "ralph orquin",
+            "moises mosquera",
+            "jesus murillo",
+            "denzell garcia",
+            "diego campillo",
+            "guilherme castilho",
+            "jose luis puma rodriguez",
+            "dieter villalpando",
+            "jairo torres",
+            "oscar estupinan"
+        ]
+    },
+    "pachuca": {
+        "confirmed": false,
+        "starters": [
+            "carlos moreno",
+            "bryan gonzalez",
+            "alonso aceves",
+            "eduardo",
+            "chaka rodriguez",
+            "oussama idrissi",
+            "santiago homenchenko",
+            "elias montiel",
+            "miguel rodriguez",
+            "john kennedy",
+            "salomon rondon"
+        ]
+    },
+    "pumas unam": {
+        "confirmed": false,
+        "starters": [
+            "alex padilla",
+            "ruben duarte",
+            "jose galindo",
+            "pablo bennevendo",
+            "robert ergas",
+            "piero quispe",
+            "jose caicedo",
+            "adalberto carrasquilla",
+            "rodrigo lopez",
+            "ignacio pussetto",
+            "rogelio funes mori"
+        ]
+    },
+    "guadalajara": {
+        "confirmed": false,
+        "starters": [
+            "jose rangel",
+            "luis gabriel rey",
+            "gilberto sepulveda",
+            "miguel tapias",
+            "jose castillo perez",
+            "fernando gonzalez",
+            "fernando beltran",
+            "alan mozo rodriguez",
+            "roberto alvarado",
+            "jonathan padilla",
+            "armando gonzalez"
+        ]
+    },
+    "queretaro": {
+        "confirmed": false,
+        "starters": [
+            "salim hernandez",
+            "francisco venegas",
+            "franco russo",
+            "jose canale",
+            "omar mendoza",
+            "josue colman",
+            "kevin rafael escamilla",
+            "jaime gomez",
+            "pablo barrera",
+            "lucas rodriguez",
+            "adonis preciado"
+        ]
+    },
+    "puebla": {
+        "confirmed": false,
+        "starters": [
+            "miguel jimenez",
+            "efrain orona",
+            "juan manuel fedorco",
+            "jose pachuca",
+            "brayan angulo",
+            "pablo gonzalez",
+            "raul castillo gonzalez",
+            "franco david moyano",
+            "jesus rivas",
+            "ricardo marin",
+            "emiliano gomez"
+        ]
+    },
+    "atlas": {
+        "confirmed": false,
+        "starters": [
+            "camilo vargas",
+            "matheus doria",
+            "gaddi aguirre",
+            "hugo nervo",
+            "jose lozano",
+            "aldo rocha",
+            "victor rios",
+            "carlos emilio orrantia",
+            "diego gonzalez",
+            "jorge guzman",
+            "uros djurdjevic"
+        ]
+    },
+    "atletico san luis": {
+        "confirmed": false,
+        "starters": [
+            "andres sanchez",
+            "juan sanabria",
+            "aldo cruz",
+            "julio cesar dominguez",
+            "eduardo aguila",
+            "roman torres",
+            "sebastien salles lamonge",
+            "oscar macias",
+            "rodrigo dourado",
+            "vitinho",
+            "leo bonatini"
+        ]
+    },
+    "monterrey": {
+        "confirmed": false,
+        "starters": [
+            "luis cardenas",
+            "gerardo arteaga",
+            "stefan medina",
+            "sergio ramos",
+            "ricardo chavez soto",
+            "jorge agustin rodriguez",
+            "lucas ocampos",
+            "oliver torres",
+            "nelson deossa",
+            "sergio canales",
+            "german berterame"
+        ]
+    },
+    "santos laguna": {
+        "confirmed": false,
+        "starters": [
+            "carlos acevedo",
+            "emmanuel echeverria",
+            "edson gutierrez",
+            "bruno amione",
+            "jose abella",
+            "aldo lopez",
+            "javier guemez",
+            "ramiro sordo",
+            "jordan carrillo",
+            "cristian dajome",
+            "bruno barticciotto"
+        ]
+    }
+}

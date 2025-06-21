@@ -1,0 +1,1877 @@
+{
+    "2024-10-08": {
+        "stl @ sea": "/nhl/game/_/gameId/401687602/blues-kraken",
+        "bos @ fla": "/nhl/game/_/gameId/401687603/bruins-panthers",
+        "chi @ utah": "/nhl/game/_/gameId/401687604/blackhawks-hockey-club"
+    },
+    "2024-10-09": {
+        "tor @ mtl": "/nhl/game/_/gameId/401687605/maple-leafs-canadiens",
+        "nyr @ pit": "/nhl/game/_/gameId/401687606/rangers-penguins",
+        "wpg @ edm": "/nhl/game/_/gameId/401687607/jets-oilers",
+        "cgy @ van": "/nhl/game/_/gameId/401687608/flames-canucks",
+        "col @ vgk": "/nhl/game/_/gameId/401687609/avalanche-golden-knights"
+    },
+    "2024-10-10": {
+        "mtl @ bos": "/nhl/game/_/gameId/401687610/canadiens-bruins",
+        "la @ buf": "/nhl/game/_/gameId/401687611/kings-sabres",
+        "fla @ ott": "/nhl/game/_/gameId/401687612/panthers-senators",
+        "tor @ nj": "/nhl/game/_/gameId/401687614/maple-leafs-devils",
+        "utah @ nyi": "/nhl/game/_/gameId/401687615/hockey-club-islanders",
+        "pit @ det": "/nhl/game/_/gameId/401687613/penguins-red-wings",
+        "dal @ nsh": "/nhl/game/_/gameId/401687616/stars-predators",
+        "cbj @ min": "/nhl/game/_/gameId/401687617/blue-jackets-wild",
+        "stl @ sj": "/nhl/game/_/gameId/401687618/blues-sharks"
+    },
+    "2024-10-11": {
+        "tb @ car": "/nhl/game/_/gameId/401687619/lightning-hurricanes",
+        "chi @ wpg": "/nhl/game/_/gameId/401687620/blackhawks-jets",
+        "phi @ van": "/nhl/game/_/gameId/401687621/flyers-canucks",
+        "stl @ vgk": "/nhl/game/_/gameId/401687622/blues-golden-knights"
+    },
+    "2024-10-12": {
+        "la @ bos": "/nhl/game/_/gameId/401687623/kings-bruins",
+        "fla @ buf": "/nhl/game/_/gameId/401687624/panthers-sabres",
+        "pit @ tor": "/nhl/game/_/gameId/401687625/penguins-maple-leafs",
+        "ott @ mtl": "/nhl/game/_/gameId/401687626/senators-canadiens",
+        "nsh @ det": "/nhl/game/_/gameId/401687627/predators-red-wings",
+        "car @ tb": "/nhl/game/_/gameId/401687628/hurricanes-lightning",
+        "utah @ nyr": "/nhl/game/_/gameId/401687629/hockey-club-rangers",
+        "nj @ wsh": "/nhl/game/_/gameId/401687630/devils-capitals",
+        "nyi @ dal": "/nhl/game/_/gameId/401687631/islanders-stars",
+        "sea @ min": "/nhl/game/_/gameId/401687632/kraken-wild",
+        "cbj @ col": "/nhl/game/_/gameId/401687633/blue-jackets-avalanche",
+        "phi @ cgy": "/nhl/game/_/gameId/401687634/flyers-flames",
+        "chi @ edm": "/nhl/game/_/gameId/401687635/blackhawks-oilers",
+        "ana @ sj": "/nhl/game/_/gameId/401687636/ducks-sharks"
+    },
+    "2024-10-13": {
+        "min @ wpg": "/nhl/game/_/gameId/401687637/wild-jets",
+        "sea @ dal": "/nhl/game/_/gameId/401687638/kraken-stars",
+        "cgy @ edm": "/nhl/game/_/gameId/401687639/flames-oilers",
+        "ana @ vgk": "/nhl/game/_/gameId/401687640/ducks-golden-knights"
+    },
+    "2024-10-14": {
+        "fla @ bos": "/nhl/game/_/gameId/401687641/panthers-bruins",
+        "la @ ott": "/nhl/game/_/gameId/401687642/kings-senators",
+        "utah @ nj": "/nhl/game/_/gameId/401687643/hockey-club-devils",
+        "det @ nyr": "/nhl/game/_/gameId/401687644/red-wings-rangers",
+        "pit @ mtl": "/nhl/game/_/gameId/401687645/penguins-canadiens",
+        "nyi @ col": "/nhl/game/_/gameId/401687646/islanders-avalanche"
+    },
+    "2024-10-15": {
+        "van @ tb": "/nhl/game/_/gameId/401687647/canucks-lightning",
+        "vgk @ wsh": "/nhl/game/_/gameId/401687648/golden-knights-capitals",
+        "nj @ car": "/nhl/game/_/gameId/401687649/devils-hurricanes",
+        "fla @ cbj": "/nhl/game/_/gameId/401687650/panthers-blue-jackets",
+        "min @ stl": "/nhl/game/_/gameId/401687651/wild-blues",
+        "sea @ nsh": "/nhl/game/_/gameId/401687652/kraken-predators",
+        "sj @ dal": "/nhl/game/_/gameId/401687653/sharks-stars",
+        "chi @ cgy": "/nhl/game/_/gameId/401687654/blackhawks-flames",
+        "phi @ edm": "/nhl/game/_/gameId/401687655/flyers-oilers"
+    },
+    "2024-10-16": {
+        "buf @ pit": "/nhl/game/_/gameId/401687656/sabres-penguins",
+        "la @ tor": "/nhl/game/_/gameId/401687657/kings-maple-leafs",
+        "bos @ col": "/nhl/game/_/gameId/401687658/bruins-avalanche",
+        "utah @ ana": "/nhl/game/_/gameId/401687659/hockey-club-ducks"
+    },
+    "2024-10-17": {
+        "la @ mtl": "/nhl/game/_/gameId/401687660/kings-canadiens",
+        "nj @ ott": "/nhl/game/_/gameId/401687661/devils-senators",
+        "vgk @ tb": "/nhl/game/_/gameId/401687663/golden-knights-lightning",
+        "van @ fla": "/nhl/game/_/gameId/401687664/canucks-panthers",
+        "dal @ wsh": "/nhl/game/_/gameId/401687665/stars-capitals",
+        "buf @ cbj": "/nhl/game/_/gameId/401687666/sabres-blue-jackets",
+        "nyr @ det": "/nhl/game/_/gameId/401687662/rangers-red-wings",
+        "nyi @ stl": "/nhl/game/_/gameId/401687667/islanders-blues",
+        "edm @ nsh": "/nhl/game/_/gameId/401687668/oilers-predators",
+        "sj @ chi": "/nhl/game/_/gameId/401687669/sharks-blackhawks",
+        "phi @ sea": "/nhl/game/_/gameId/401687670/flyers-kraken"
+    },
+    "2024-10-18": {
+        "car @ pit": "/nhl/game/_/gameId/401687671/hurricanes-penguins",
+        "sj @ wpg": "/nhl/game/_/gameId/401687672/sharks-jets",
+        "ana @ col": "/nhl/game/_/gameId/401687673/ducks-avalanche"
+    },
+    "2024-10-19": {
+        "tb @ ott": "/nhl/game/_/gameId/401687674/lightning-senators",
+        "det @ nsh": "/nhl/game/_/gameId/401687675/red-wings-predators",
+        "edm @ dal": "/nhl/game/_/gameId/401687676/oilers-stars",
+        "vgk @ fla": "/nhl/game/_/gameId/401687677/golden-knights-panthers",
+        "nyr @ tor": "/nhl/game/_/gameId/401687678/rangers-maple-leafs",
+        "wsh @ nj": "/nhl/game/_/gameId/401687679/capitals-devils",
+        "mtl @ nyi": "/nhl/game/_/gameId/401687680/canadiens-islanders",
+        "van @ phi": "/nhl/game/_/gameId/401687681/canucks-flyers",
+        "min @ cbj": "/nhl/game/_/gameId/401687682/wild-blue-jackets",
+        "car @ stl": "/nhl/game/_/gameId/401687683/hurricanes-blues",
+        "buf @ chi": "/nhl/game/_/gameId/401687684/sabres-blackhawks",
+        "bos @ utah": "/nhl/game/_/gameId/401687685/bruins-hockey-club",
+        "cgy @ sea": "/nhl/game/_/gameId/401687686/flames-kraken"
+    },
+    "2024-10-20": {
+        "pit @ wpg": "/nhl/game/_/gameId/401687687/penguins-jets",
+        "col @ sj": "/nhl/game/_/gameId/401687688/avalanche-sharks",
+        "la @ ana": "/nhl/game/_/gameId/401687689/kings-ducks"
+    },
+    "2024-10-21": {
+        "tb @ tor": "/nhl/game/_/gameId/401687690/lightning-maple-leafs"
+    },
+    "2024-10-22": {
+        "wsh @ phi": "/nhl/game/_/gameId/401687691/capitals-flyers",
+        "min @ fla": "/nhl/game/_/gameId/401687692/wild-panthers",
+        "tb @ nj": "/nhl/game/_/gameId/401687693/lightning-devils",
+        "dal @ buf": "/nhl/game/_/gameId/401687694/stars-sabres",
+        "nyr @ mtl": "/nhl/game/_/gameId/401687695/rangers-canadiens",
+        "tor @ cbj": "/nhl/game/_/gameId/401687696/maple-leafs-blue-jackets",
+        "det @ nyi": "/nhl/game/_/gameId/401687697/red-wings-islanders",
+        "wpg @ stl": "/nhl/game/_/gameId/401687698/jets-blues",
+        "van @ chi": "/nhl/game/_/gameId/401687699/canucks-blackhawks",
+        "col @ sea": "/nhl/game/_/gameId/401687705/avalanche-kraken",
+        "bos @ nsh": "/nhl/game/_/gameId/401687700/bruins-predators",
+        "car @ edm": "/nhl/game/_/gameId/401687702/hurricanes-oilers",
+        "ott @ utah": "/nhl/game/_/gameId/401687703/senators-hockey-club",
+        "pit @ cgy": "/nhl/game/_/gameId/401687701/penguins-flames",
+        "sj @ ana": "/nhl/game/_/gameId/401687704/sharks-ducks",
+        "la @ vgk": "/nhl/game/_/gameId/401687706/kings-golden-knights"
+    },
+    "2024-10-23": {
+        "phi @ wsh": "/nhl/game/_/gameId/401687707/flyers-capitals"
+    },
+    "2024-10-24": {
+        "dal @ bos": "/nhl/game/_/gameId/401687708/stars-bruins",
+        "stl @ tor": "/nhl/game/_/gameId/401687709/blues-maple-leafs",
+        "nj @ det": "/nhl/game/_/gameId/401687710/devils-red-wings",
+        "min @ tb": "/nhl/game/_/gameId/401687711/wild-lightning",
+        "fla @ nyr": "/nhl/game/_/gameId/401687712/panthers-rangers",
+        "car @ cgy": "/nhl/game/_/gameId/401687713/hurricanes-flames",
+        "col @ utah": "/nhl/game/_/gameId/401687714/avalanche-hockey-club",
+        "wpg @ sea": "/nhl/game/_/gameId/401687715/jets-kraken",
+        "sj @ la": "/nhl/game/_/gameId/401687716/sharks-kings"
+    },
+    "2024-10-25": {
+        "ott @ vgk": "/nhl/game/_/gameId/401687717/senators-golden-knights",
+        "nyi @ nj": "/nhl/game/_/gameId/401687718/islanders-devils",
+        "nsh @ chi": "/nhl/game/_/gameId/401687719/predators-blackhawks",
+        "pit @ edm": "/nhl/game/_/gameId/401687720/penguins-oilers"
+    },
+    "2024-10-26": {
+        "det @ buf": "/nhl/game/_/gameId/401687721/red-wings-sabres",
+        "min @ phi": "/nhl/game/_/gameId/401687722/wild-flyers",
+        "utah @ la": "/nhl/game/_/gameId/401687723/hockey-club-kings",
+        "tor @ bos": "/nhl/game/_/gameId/401687724/maple-leafs-bruins",
+        "stl @ mtl": "/nhl/game/_/gameId/401687725/blues-canadiens",
+        "wsh @ tb": "/nhl/game/_/gameId/401687726/capitals-lightning",
+        "ana @ nyr": "/nhl/game/_/gameId/401687727/ducks-rangers",
+        "wpg @ cgy": "/nhl/game/_/gameId/401687728/jets-flames",
+        "fla @ nyi": "/nhl/game/_/gameId/401687729/panthers-islanders",
+        "cbj @ nsh": "/nhl/game/_/gameId/401687730/blue-jackets-predators",
+        "chi @ dal": "/nhl/game/_/gameId/401687731/blackhawks-stars",
+        "pit @ van": "/nhl/game/_/gameId/401687732/penguins-canucks",
+        "sj @ vgk": "/nhl/game/_/gameId/401687733/sharks-golden-knights",
+        "car @ sea": "/nhl/game/_/gameId/401687734/hurricanes-kraken"
+    },
+    "2024-10-27": {
+        "edm @ det": "/nhl/game/_/gameId/401687735/oilers-red-wings",
+        "ana @ nj": "/nhl/game/_/gameId/401687736/ducks-devils",
+        "mtl @ phi": "/nhl/game/_/gameId/401687737/canadiens-flyers",
+        "ott @ col": "/nhl/game/_/gameId/401687738/senators-avalanche"
+    },
+    "2024-10-28": {
+        "fla @ buf": "/nhl/game/_/gameId/401687739/panthers-sabres",
+        "edm @ cbj": "/nhl/game/_/gameId/401687741/oilers-blue-jackets",
+        "nsh @ tb": "/nhl/game/_/gameId/401687740/predators-lightning",
+        "tor @ wpg": "/nhl/game/_/gameId/401687742/maple-leafs-jets",
+        "chi @ col": "/nhl/game/_/gameId/401687743/blackhawks-avalanche",
+        "sj @ utah": "/nhl/game/_/gameId/401687744/sharks-hockey-club",
+        "car @ van": "/nhl/game/_/gameId/401687745/hurricanes-canucks",
+        "cgy @ vgk": "/nhl/game/_/gameId/401687746/flames-golden-knights"
+    },
+    "2024-10-29": {
+        "phi @ bos": "/nhl/game/_/gameId/401687747/flyers-bruins",
+        "sea @ mtl": "/nhl/game/_/gameId/401687748/kraken-canadiens",
+        "stl @ ott": "/nhl/game/_/gameId/401687749/blues-senators",
+        "ana @ nyi": "/nhl/game/_/gameId/401687751/ducks-islanders",
+        "min @ pit": "/nhl/game/_/gameId/401687752/wild-penguins",
+        "nyr @ wsh": "/nhl/game/_/gameId/401687750/rangers-capitals",
+        "la @ sj": "/nhl/game/_/gameId/401687753/kings-sharks"
+    },
+    "2024-10-30": {
+        "nyi @ cbj": "/nhl/game/_/gameId/401687754/islanders-blue-jackets",
+        "wpg @ det": "/nhl/game/_/gameId/401687755/jets-red-wings",
+        "tb @ col": "/nhl/game/_/gameId/401687756/lightning-avalanche",
+        "cgy @ utah": "/nhl/game/_/gameId/401687757/flames-hockey-club",
+        "vgk @ la": "/nhl/game/_/gameId/401687759/golden-knights-kings",
+        "nj @ van": "/nhl/game/_/gameId/401687758/devils-canucks"
+    },
+    "2024-10-31": {
+        "sea @ tor": "/nhl/game/_/gameId/401687760/kraken-maple-leafs",
+        "stl @ phi": "/nhl/game/_/gameId/401687761/blues-flyers",
+        "ana @ pit": "/nhl/game/_/gameId/401687762/ducks-penguins",
+        "mtl @ wsh": "/nhl/game/_/gameId/401687763/canadiens-capitals",
+        "bos @ car": "/nhl/game/_/gameId/401687764/bruins-hurricanes",
+        "edm @ nsh": "/nhl/game/_/gameId/401687765/oilers-predators",
+        "chi @ sj": "/nhl/game/_/gameId/401687766/blackhawks-sharks"
+    },
+    "2024-11-01": {
+        "fla @ dal": "/nhl/game/_/gameId/401687771/panthers-stars",
+        "nyi @ buf": "/nhl/game/_/gameId/401687767/islanders-sabres",
+        "ott @ nyr": "/nhl/game/_/gameId/401687768/senators-rangers",
+        "wpg @ cbj": "/nhl/game/_/gameId/401687769/jets-blue-jackets",
+        "tb @ min": "/nhl/game/_/gameId/401687770/lightning-wild",
+        "nj @ cgy": "/nhl/game/_/gameId/401687772/devils-flames"
+    },
+    "2024-11-02": {
+        "dal @ fla": "/nhl/game/_/gameId/401687776/stars-panthers",
+        "bos @ phi": "/nhl/game/_/gameId/401687773/bruins-flyers",
+        "chi @ la": "/nhl/game/_/gameId/401687774/blackhawks-kings",
+        "cbj @ wsh": "/nhl/game/_/gameId/401687775/blue-jackets-capitals",
+        "sea @ ott": "/nhl/game/_/gameId/401687777/kraken-senators",
+        "buf @ det": "/nhl/game/_/gameId/401687778/sabres-red-wings",
+        "mtl @ pit": "/nhl/game/_/gameId/401687779/canadiens-penguins",
+        "tor @ stl": "/nhl/game/_/gameId/401687780/maple-leafs-blues",
+        "col @ nsh": "/nhl/game/_/gameId/401687781/avalanche-predators",
+        "utah @ vgk": "/nhl/game/_/gameId/401687782/hockey-club-golden-knights",
+        "van @ sj": "/nhl/game/_/gameId/401687783/canucks-sharks"
+    },
+    "2024-11-03": {
+        "nyi @ nyr": "/nhl/game/_/gameId/401687784/islanders-rangers",
+        "tb @ wpg": "/nhl/game/_/gameId/401687785/lightning-jets",
+        "sea @ bos": "/nhl/game/_/gameId/401687786/kraken-bruins",
+        "wsh @ car": "/nhl/game/_/gameId/401687787/capitals-hurricanes",
+        "tor @ min": "/nhl/game/_/gameId/401687788/maple-leafs-wild",
+        "edm @ cgy": "/nhl/game/_/gameId/401687789/oilers-flames",
+        "chi @ ana": "/nhl/game/_/gameId/401687790/blackhawks-ducks"
+    },
+    "2024-11-04": {
+        "la @ nsh": "/nhl/game/_/gameId/401687791/kings-predators",
+        "nj @ edm": "/nhl/game/_/gameId/401687792/devils-oilers"
+    },
+    "2024-11-05": {
+        "ott @ buf": "/nhl/game/_/gameId/401687793/senators-sabres",
+        "bos @ tor": "/nhl/game/_/gameId/401687794/bruins-maple-leafs",
+        "cgy @ mtl": "/nhl/game/_/gameId/401687795/flames-canadiens",
+        "phi @ car": "/nhl/game/_/gameId/401687796/flyers-hurricanes",
+        "pit @ nyi": "/nhl/game/_/gameId/401687797/penguins-islanders",
+        "tb @ stl": "/nhl/game/_/gameId/401687798/lightning-blues",
+        "la @ min": "/nhl/game/_/gameId/401687799/kings-wild",
+        "utah @ wpg": "/nhl/game/_/gameId/401687800/hockey-club-jets",
+        "sea @ col": "/nhl/game/_/gameId/401687801/kraken-avalanche",
+        "van @ ana": "/nhl/game/_/gameId/401687802/canucks-ducks",
+        "cbj @ sj": "/nhl/game/_/gameId/401687803/blue-jackets-sharks"
+    },
+    "2024-11-06": {
+        "nsh @ wsh": "/nhl/game/_/gameId/401687804/predators-capitals",
+        "det @ chi": "/nhl/game/_/gameId/401687805/red-wings-blackhawks",
+        "vgk @ edm": "/nhl/game/_/gameId/401687806/golden-knights-oilers"
+    },
+    "2024-11-07": {
+        "cgy @ bos": "/nhl/game/_/gameId/401687807/flames-bruins",
+        "nyi @ ott": "/nhl/game/_/gameId/401687808/islanders-senators",
+        "nsh @ fla": "/nhl/game/_/gameId/401687810/predators-panthers",
+        "mtl @ nj": "/nhl/game/_/gameId/401687811/canadiens-devils",
+        "buf @ nyr": "/nhl/game/_/gameId/401687812/sabres-rangers",
+        "pit @ car": "/nhl/game/_/gameId/401687813/penguins-hurricanes",
+        "phi @ tb": "/nhl/game/_/gameId/401687809/flyers-lightning",
+        "utah @ stl": "/nhl/game/_/gameId/401687814/hockey-club-blues",
+        "chi @ dal": "/nhl/game/_/gameId/401687815/blackhawks-stars",
+        "col @ wpg": "/nhl/game/_/gameId/401687816/avalanche-jets",
+        "van @ la": "/nhl/game/_/gameId/401687817/canucks-kings",
+        "min @ sj": "/nhl/game/_/gameId/401687818/wild-sharks"
+    },
+    "2024-11-08": {
+        "det @ tor": "/nhl/game/_/gameId/401687819/red-wings-maple-leafs",
+        "pit @ wsh": "/nhl/game/_/gameId/401687820/penguins-capitals",
+        "min @ ana": "/nhl/game/_/gameId/401687821/wild-ducks",
+        "vgk @ sea": "/nhl/game/_/gameId/401687822/golden-knights-kraken"
+    },
+    "2024-11-09": {
+        "cgy @ buf": "/nhl/game/_/gameId/401687823/flames-sabres",
+        "dal @ wpg": "/nhl/game/_/gameId/401687829/stars-jets",
+        "phi @ fla": "/nhl/game/_/gameId/401687824/flyers-panthers",
+        "ott @ bos": "/nhl/game/_/gameId/401687825/senators-bruins",
+        "mtl @ tor": "/nhl/game/_/gameId/401687826/canadiens-maple-leafs",
+        "nyr @ det": "/nhl/game/_/gameId/401687827/rangers-red-wings",
+        "wsh @ stl": "/nhl/game/_/gameId/401687828/capitals-blues",
+        "nj @ nyi": "/nhl/game/_/gameId/401687830/devils-islanders",
+        "utah @ nsh": "/nhl/game/_/gameId/401687831/hockey-club-predators",
+        "car @ col": "/nhl/game/_/gameId/401687832/hurricanes-avalanche",
+        "cbj @ la": "/nhl/game/_/gameId/401687833/blue-jackets-kings",
+        "edm @ van": "/nhl/game/_/gameId/401687834/oilers-canucks"
+    },
+    "2024-11-10": {
+        "sj @ nj": "/nhl/game/_/gameId/401687835/sharks-devils",
+        "min @ chi": "/nhl/game/_/gameId/401687836/wild-blackhawks",
+        "cbj @ ana": "/nhl/game/_/gameId/401687837/blue-jackets-ducks"
+    },
+    "2024-11-11": {
+        "mtl @ buf": "/nhl/game/_/gameId/401687838/canadiens-sabres",
+        "sj @ phi": "/nhl/game/_/gameId/401687839/sharks-flyers",
+        "dal @ pit": "/nhl/game/_/gameId/401687840/stars-penguins",
+        "la @ cgy": "/nhl/game/_/gameId/401687841/kings-flames",
+        "nsh @ col": "/nhl/game/_/gameId/401687842/predators-avalanche",
+        "car @ vgk": "/nhl/game/_/gameId/401687843/hurricanes-golden-knights"
+    },
+    "2024-11-12": {
+        "ott @ tor": "/nhl/game/_/gameId/401687844/senators-maple-leafs",
+        "wpg @ nyr": "/nhl/game/_/gameId/401687846/jets-rangers",
+        "nj @ fla": "/nhl/game/_/gameId/401687845/devils-panthers",
+        "bos @ stl": "/nhl/game/_/gameId/401687847/bruins-blues",
+        "nyi @ edm": "/nhl/game/_/gameId/401687848/islanders-oilers",
+        "cgy @ van": "/nhl/game/_/gameId/401687849/flames-canucks",
+        "cbj @ sea": "/nhl/game/_/gameId/401687850/blue-jackets-kraken"
+    },
+    "2024-11-13": {
+        "det @ pit": "/nhl/game/_/gameId/401687851/red-wings-penguins",
+        "tor @ wsh": "/nhl/game/_/gameId/401687852/maple-leafs-capitals",
+        "car @ utah": "/nhl/game/_/gameId/401687853/hurricanes-hockey-club",
+        "la @ col": "/nhl/game/_/gameId/401687854/kings-avalanche",
+        "vgk @ ana": "/nhl/game/_/gameId/401687855/golden-knights-ducks"
+    },
+    "2024-11-14": {
+        "phi @ ott": "/nhl/game/_/gameId/401687857/flyers-senators",
+        "wpg @ tb": "/nhl/game/_/gameId/401687858/jets-lightning",
+        "nj @ fla": "/nhl/game/_/gameId/401687859/devils-panthers",
+        "sj @ nyr": "/nhl/game/_/gameId/401687860/sharks-rangers",
+        "stl @ buf": "/nhl/game/_/gameId/401687856/blues-sabres",
+        "bos @ dal": "/nhl/game/_/gameId/401687861/bruins-stars",
+        "mtl @ min": "/nhl/game/_/gameId/401687862/canadiens-wild",
+        "nsh @ edm": "/nhl/game/_/gameId/401687863/predators-oilers",
+        "nyi @ van": "/nhl/game/_/gameId/401687864/islanders-canucks",
+        "chi @ sea": "/nhl/game/_/gameId/401687865/blackhawks-kraken"
+    },
+    "2024-11-15": {
+        "pit @ cbj": "/nhl/game/_/gameId/401687866/penguins-blue-jackets",
+        "wsh @ col": "/nhl/game/_/gameId/401687867/capitals-avalanche",
+        "nsh @ cgy": "/nhl/game/_/gameId/401687868/predators-flames",
+        "vgk @ utah": "/nhl/game/_/gameId/401687869/golden-knights-hockey-club",
+        "det @ ana": "/nhl/game/_/gameId/401687870/red-wings-ducks"
+    },
+    "2024-11-16": {
+        "stl @ bos": "/nhl/game/_/gameId/401687871/blues-bruins",
+        "nyi @ sea": "/nhl/game/_/gameId/401687872/islanders-kraken",
+        "edm @ tor": "/nhl/game/_/gameId/401687873/oilers-maple-leafs",
+        "cbj @ mtl": "/nhl/game/_/gameId/401687874/blue-jackets-canadiens",
+        "nj @ tb": "/nhl/game/_/gameId/401687875/devils-lightning",
+        "wpg @ fla": "/nhl/game/_/gameId/401687876/jets-panthers",
+        "buf @ phi": "/nhl/game/_/gameId/401687877/sabres-flyers",
+        "sj @ pit": "/nhl/game/_/gameId/401687878/sharks-penguins",
+        "ott @ car": "/nhl/game/_/gameId/401687879/senators-hurricanes",
+        "dal @ min": "/nhl/game/_/gameId/401687880/stars-wild",
+        "det @ la": "/nhl/game/_/gameId/401687881/red-wings-kings",
+        "chi @ van": "/nhl/game/_/gameId/401687882/blackhawks-canucks"
+    },
+    "2024-11-17": {
+        "stl @ car": "/nhl/game/_/gameId/401687883/blues-hurricanes",
+        "wsh @ vgk": "/nhl/game/_/gameId/401687885/capitals-golden-knights",
+        "nyr @ sea": "/nhl/game/_/gameId/401687886/rangers-kraken",
+        "nsh @ van": "/nhl/game/_/gameId/401687884/predators-canucks"
+    },
+    "2024-11-18": {
+        "cbj @ bos": "/nhl/game/_/gameId/401687887/blue-jackets-bruins",
+        "col @ phi": "/nhl/game/_/gameId/401687888/avalanche-flyers",
+        "edm @ mtl": "/nhl/game/_/gameId/401687889/oilers-canadiens",
+        "ana @ dal": "/nhl/game/_/gameId/401687890/ducks-stars",
+        "wsh @ utah": "/nhl/game/_/gameId/401687891/capitals-hockey-club",
+        "det @ sj": "/nhl/game/_/gameId/401687892/red-wings-sharks"
+    },
+    "2024-11-19": {
+        "edm @ ott": "/nhl/game/_/gameId/401687893/oilers-senators",
+        "tb @ pit": "/nhl/game/_/gameId/401687894/lightning-penguins",
+        "min @ stl": "/nhl/game/_/gameId/401687895/wild-blues",
+        "fla @ wpg": "/nhl/game/_/gameId/401687896/panthers-jets",
+        "ana @ chi": "/nhl/game/_/gameId/401687897/ducks-blackhawks",
+        "nyi @ cgy": "/nhl/game/_/gameId/401687898/islanders-flames",
+        "nyr @ van": "/nhl/game/_/gameId/401687899/rangers-canucks"
+    },
+    "2024-11-20": {
+        "vgk @ tor": "/nhl/game/_/gameId/401687900/golden-knights-maple-leafs",
+        "car @ phi": "/nhl/game/_/gameId/401687901/hurricanes-flyers",
+        "sj @ dal": "/nhl/game/_/gameId/401687902/sharks-stars",
+        "nsh @ sea": "/nhl/game/_/gameId/401687903/predators-kraken",
+        "buf @ la": "/nhl/game/_/gameId/401687904/sabres-kings"
+    },
+    "2024-11-21": {
+        "utah @ bos": "/nhl/game/_/gameId/401687905/hockey-club-bruins",
+        "vgk @ ott": "/nhl/game/_/gameId/401687906/golden-knights-senators",
+        "nyi @ det": "/nhl/game/_/gameId/401687907/islanders-red-wings",
+        "car @ nj": "/nhl/game/_/gameId/401687908/hurricanes-devils",
+        "col @ wsh": "/nhl/game/_/gameId/401687909/avalanche-capitals",
+        "tb @ cbj": "/nhl/game/_/gameId/401687910/lightning-blue-jackets",
+        "sj @ stl": "/nhl/game/_/gameId/401687911/sharks-blues",
+        "fla @ chi": "/nhl/game/_/gameId/401687912/panthers-blackhawks",
+        "nyr @ cgy": "/nhl/game/_/gameId/401687913/rangers-flames",
+        "min @ edm": "/nhl/game/_/gameId/401687914/wild-oilers"
+    },
+    "2024-11-22": {
+        "wpg @ pit": "/nhl/game/_/gameId/401687915/jets-penguins",
+        "buf @ ana": "/nhl/game/_/gameId/401687916/sabres-ducks"
+    },
+    "2024-11-23": {
+        "chi @ phi": "/nhl/game/_/gameId/401687917/blackhawks-flyers",
+        "min @ cgy": "/nhl/game/_/gameId/401687918/wild-flames",
+        "sea @ la": "/nhl/game/_/gameId/401687919/kraken-kings",
+        "col @ fla": "/nhl/game/_/gameId/401687920/avalanche-panthers",
+        "vgk @ mtl": "/nhl/game/_/gameId/401687921/golden-knights-canadiens",
+        "van @ ott": "/nhl/game/_/gameId/401687922/canucks-senators",
+        "bos @ det": "/nhl/game/_/gameId/401687923/bruins-red-wings",
+        "dal @ tb": "/nhl/game/_/gameId/401687924/stars-lightning",
+        "utah @ pit": "/nhl/game/_/gameId/401687925/hockey-club-penguins",
+        "nj @ wsh": "/nhl/game/_/gameId/401687926/devils-capitals",
+        "car @ cbj": "/nhl/game/_/gameId/401687927/hurricanes-blue-jackets",
+        "wpg @ nsh": "/nhl/game/_/gameId/401687928/jets-predators",
+        "stl @ nyi": "/nhl/game/_/gameId/401687929/blues-islanders",
+        "buf @ sj": "/nhl/game/_/gameId/401687930/sabres-sharks",
+        "nyr @ edm": "/nhl/game/_/gameId/401687931/rangers-oilers"
+    },
+    "2024-11-24": {
+        "utah @ tor": "/nhl/game/_/gameId/401687932/hockey-club-maple-leafs"
+    },
+    "2024-11-25": {
+        "col @ tb": "/nhl/game/_/gameId/401687933/avalanche-lightning",
+        "wsh @ fla": "/nhl/game/_/gameId/401687934/capitals-panthers",
+        "nsh @ nj": "/nhl/game/_/gameId/401687935/predators-devils",
+        "stl @ nyr": "/nhl/game/_/gameId/401687936/blues-rangers",
+        "vgk @ phi": "/nhl/game/_/gameId/401687937/golden-knights-flyers",
+        "dal @ car": "/nhl/game/_/gameId/401687938/stars-hurricanes",
+        "cgy @ ott": "/nhl/game/_/gameId/401687939/flames-senators",
+        "det @ nyi": "/nhl/game/_/gameId/401687940/red-wings-islanders",
+        "wpg @ min": "/nhl/game/_/gameId/401687941/jets-wild",
+        "sea @ ana": "/nhl/game/_/gameId/401687942/kraken-ducks",
+        "la @ sj": "/nhl/game/_/gameId/401687943/kings-sharks"
+    },
+    "2024-11-26": {
+        "van @ bos": "/nhl/game/_/gameId/401687944/canucks-bruins",
+        "utah @ mtl": "/nhl/game/_/gameId/401687945/hockey-club-canadiens"
+    },
+    "2024-11-27": {
+        "min @ buf": "/nhl/game/_/gameId/401687946/wild-sabres",
+        "stl @ nj": "/nhl/game/_/gameId/401687947/blues-devils",
+        "nyr @ car": "/nhl/game/_/gameId/401687948/rangers-hurricanes",
+        "cgy @ det": "/nhl/game/_/gameId/401687949/flames-red-wings",
+        "wsh @ tb": "/nhl/game/_/gameId/401687950/capitals-lightning",
+        "tor @ fla": "/nhl/game/_/gameId/401687951/maple-leafs-panthers",
+        "bos @ nyi": "/nhl/game/_/gameId/401687952/bruins-islanders",
+        "van @ pit": "/nhl/game/_/gameId/401687953/canucks-penguins",
+        "mtl @ cbj": "/nhl/game/_/gameId/401687954/canadiens-blue-jackets",
+        "phi @ nsh": "/nhl/game/_/gameId/401687955/flyers-predators",
+        "dal @ chi": "/nhl/game/_/gameId/401687956/stars-blackhawks",
+        "vgk @ col": "/nhl/game/_/gameId/401687957/golden-knights-avalanche",
+        "wpg @ la": "/nhl/game/_/gameId/401687958/jets-kings",
+        "ana @ sea": "/nhl/game/_/gameId/401687959/ducks-kraken",
+        "ott @ sj": "/nhl/game/_/gameId/401687960/senators-sharks"
+    },
+    "2024-11-29": {
+        "nyr @ phi": "/nhl/game/_/gameId/401687961/rangers-flyers",
+        "chi @ min": "/nhl/game/_/gameId/401687962/blackhawks-wild",
+        "van @ buf": "/nhl/game/_/gameId/401687963/canucks-sabres",
+        "nj @ det": "/nhl/game/_/gameId/401687964/devils-red-wings",
+        "nyi @ wsh": "/nhl/game/_/gameId/401687965/islanders-capitals",
+        "fla @ car": "/nhl/game/_/gameId/401687966/panthers-hurricanes",
+        "cgy @ cbj": "/nhl/game/_/gameId/401687967/flames-blue-jackets",
+        "tb @ nsh": "/nhl/game/_/gameId/401687968/lightning-predators",
+        "la @ ana": "/nhl/game/_/gameId/401687969/kings-ducks",
+        "sea @ sj": "/nhl/game/_/gameId/401687970/kraken-sharks",
+        "pit @ bos": "/nhl/game/_/gameId/401687971/penguins-bruins",
+        "wpg @ vgk": "/nhl/game/_/gameId/401687973/jets-golden-knights",
+        "col @ dal": "/nhl/game/_/gameId/401687972/avalanche-stars",
+        "edm @ utah": "/nhl/game/_/gameId/401687974/oilers-hockey-club"
+    },
+    "2024-11-30": {
+        "mtl @ nyr": "/nhl/game/_/gameId/401687975/canadiens-rangers",
+        "car @ fla": "/nhl/game/_/gameId/401687976/hurricanes-panthers",
+        "tor @ tb": "/nhl/game/_/gameId/401687977/maple-leafs-lightning",
+        "wsh @ nj": "/nhl/game/_/gameId/401687978/capitals-devils",
+        "cgy @ pit": "/nhl/game/_/gameId/401687979/flames-penguins",
+        "phi @ stl": "/nhl/game/_/gameId/401687980/flyers-blues",
+        "ott @ la": "/nhl/game/_/gameId/401687981/senators-kings",
+        "buf @ nyi": "/nhl/game/_/gameId/401687982/sabres-islanders",
+        "nsh @ min": "/nhl/game/_/gameId/401687983/predators-wild",
+        "edm @ col": "/nhl/game/_/gameId/401687984/oilers-avalanche",
+        "utah @ vgk": "/nhl/game/_/gameId/401687985/hockey-club-golden-knights",
+        "sj @ sea": "/nhl/game/_/gameId/401687986/sharks-kraken"
+    },
+    "2024-12-01": {
+        "van @ det": "/nhl/game/_/gameId/401687987/canucks-red-wings",
+        "mtl @ bos": "/nhl/game/_/gameId/401687988/canadiens-bruins",
+        "cbj @ chi": "/nhl/game/_/gameId/401687989/blue-jackets-blackhawks",
+        "wpg @ dal": "/nhl/game/_/gameId/401687990/jets-stars",
+        "ott @ ana": "/nhl/game/_/gameId/401687991/senators-ducks"
+    },
+    "2024-12-02": {
+        "nj @ nyr": "/nhl/game/_/gameId/401687992/devils-rangers",
+        "chi @ tor": "/nhl/game/_/gameId/401687993/blackhawks-maple-leafs",
+        "dal @ utah": "/nhl/game/_/gameId/401687994/stars-hockey-club"
+    },
+    "2024-12-03": {
+        "det @ bos": "/nhl/game/_/gameId/401687995/red-wings-bruins",
+        "col @ buf": "/nhl/game/_/gameId/401687996/avalanche-sabres",
+        "nyi @ mtl": "/nhl/game/_/gameId/401687997/islanders-canadiens",
+        "fla @ pit": "/nhl/game/_/gameId/401687998/panthers-penguins",
+        "sj @ wsh": "/nhl/game/_/gameId/401687999/sharks-capitals",
+        "sea @ car": "/nhl/game/_/gameId/401688000/kraken-hurricanes",
+        "van @ min": "/nhl/game/_/gameId/401688001/canucks-wild",
+        "stl @ wpg": "/nhl/game/_/gameId/401688002/blues-jets",
+        "cbj @ cgy": "/nhl/game/_/gameId/401688003/blue-jackets-flames",
+        "edm @ vgk": "/nhl/game/_/gameId/401688004/oilers-golden-knights"
+    },
+    "2024-12-04": {
+        "nsh @ tor": "/nhl/game/_/gameId/401688005/predators-maple-leafs",
+        "bos @ chi": "/nhl/game/_/gameId/401688006/bruins-blackhawks",
+        "vgk @ ana": "/nhl/game/_/gameId/401688007/golden-knights-ducks",
+        "dal @ la": "/nhl/game/_/gameId/401688008/stars-kings"
+    },
+    "2024-12-05": {
+        "wpg @ buf": "/nhl/game/_/gameId/401688009/jets-sabres",
+        "nsh @ mtl": "/nhl/game/_/gameId/401688010/predators-canadiens",
+        "det @ ott": "/nhl/game/_/gameId/401688011/red-wings-senators",
+        "sj @ tb": "/nhl/game/_/gameId/401688012/sharks-lightning",
+        "fla @ phi": "/nhl/game/_/gameId/401688013/panthers-flyers",
+        "col @ car": "/nhl/game/_/gameId/401688014/avalanche-hurricanes",
+        "sea @ nyi": "/nhl/game/_/gameId/401688015/kraken-islanders",
+        "stl @ cgy": "/nhl/game/_/gameId/401688016/blues-flames",
+        "cbj @ edm": "/nhl/game/_/gameId/401688017/blue-jackets-oilers"
+    },
+    "2024-12-06": {
+        "wsh @ tor": "/nhl/game/_/gameId/401688018/capitals-maple-leafs",
+        "sea @ nj": "/nhl/game/_/gameId/401688019/kraken-devils",
+        "pit @ nyr": "/nhl/game/_/gameId/401688020/penguins-rangers",
+        "cbj @ van": "/nhl/game/_/gameId/401688021/blue-jackets-canucks",
+        "dal @ vgk": "/nhl/game/_/gameId/401688022/stars-golden-knights",
+        "min @ ana": "/nhl/game/_/gameId/401688023/wild-ducks"
+    },
+    "2024-12-07": {
+        "phi @ bos": "/nhl/game/_/gameId/401688024/flyers-bruins",
+        "utah @ buf": "/nhl/game/_/gameId/401688025/hockey-club-sabres",
+        "wpg @ chi": "/nhl/game/_/gameId/401688026/jets-blackhawks",
+        "car @ nyi": "/nhl/game/_/gameId/401688032/hurricanes-islanders",
+        "sj @ fla": "/nhl/game/_/gameId/401688027/sharks-panthers",
+        "wsh @ mtl": "/nhl/game/_/gameId/401688028/capitals-canadiens",
+        "nsh @ ott": "/nhl/game/_/gameId/401688029/predators-senators",
+        "col @ det": "/nhl/game/_/gameId/401688030/avalanche-red-wings",
+        "tor @ pit": "/nhl/game/_/gameId/401688031/maple-leafs-penguins",
+        "min @ la": "/nhl/game/_/gameId/401688033/wild-kings",
+        "stl @ edm": "/nhl/game/_/gameId/401688034/blues-oilers"
+    },
+    "2024-12-08": {
+        "sea @ nyr": "/nhl/game/_/gameId/401688035/kraken-rangers",
+        "tb @ van": "/nhl/game/_/gameId/401688036/lightning-canucks",
+        "nyi @ ott": "/nhl/game/_/gameId/401688037/islanders-senators",
+        "cbj @ wpg": "/nhl/game/_/gameId/401688038/blue-jackets-jets",
+        "col @ nj": "/nhl/game/_/gameId/401688039/avalanche-devils",
+        "utah @ phi": "/nhl/game/_/gameId/401688040/hockey-club-flyers",
+        "cgy @ dal": "/nhl/game/_/gameId/401688041/flames-stars"
+    },
+    "2024-12-09": {
+        "det @ buf": "/nhl/game/_/gameId/401688042/red-wings-sabres",
+        "chi @ nyr": "/nhl/game/_/gameId/401688043/blackhawks-rangers",
+        "ana @ mtl": "/nhl/game/_/gameId/401688044/ducks-canadiens"
+    },
+    "2024-12-10": {
+        "tor @ nj": "/nhl/game/_/gameId/401688045/maple-leafs-devils",
+        "col @ pit": "/nhl/game/_/gameId/401688046/avalanche-penguins",
+        "sj @ car": "/nhl/game/_/gameId/401688047/sharks-hurricanes",
+        "phi @ cbj": "/nhl/game/_/gameId/401688048/flyers-blue-jackets",
+        "la @ nyi": "/nhl/game/_/gameId/401688049/kings-islanders",
+        "cgy @ nsh": "/nhl/game/_/gameId/401688050/flames-predators",
+        "bos @ wpg": "/nhl/game/_/gameId/401688051/bruins-jets",
+        "tb @ edm": "/nhl/game/_/gameId/401688052/lightning-oilers",
+        "min @ utah": "/nhl/game/_/gameId/401688053/wild-hockey-club",
+        "stl @ van": "/nhl/game/_/gameId/401688054/blues-canucks",
+        "fla @ sea": "/nhl/game/_/gameId/401688055/panthers-kraken"
+    },
+    "2024-12-11": {
+        "nyr @ buf": "/nhl/game/_/gameId/401688056/rangers-sabres",
+        "ana @ ott": "/nhl/game/_/gameId/401688057/ducks-senators"
+    },
+    "2024-12-12": {
+        "ana @ tor": "/nhl/game/_/gameId/401688058/ducks-maple-leafs",
+        "pit @ mtl": "/nhl/game/_/gameId/401688059/penguins-canadiens",
+        "la @ nj": "/nhl/game/_/gameId/401688060/kings-devils",
+        "det @ phi": "/nhl/game/_/gameId/401688061/red-wings-flyers",
+        "wsh @ cbj": "/nhl/game/_/gameId/401688062/capitals-blue-jackets",
+        "chi @ nyi": "/nhl/game/_/gameId/401688063/blackhawks-islanders",
+        "sj @ stl": "/nhl/game/_/gameId/401688064/sharks-blues",
+        "nsh @ dal": "/nhl/game/_/gameId/401688065/predators-stars",
+        "vgk @ wpg": "/nhl/game/_/gameId/401688067/golden-knights-jets",
+        "edm @ min": "/nhl/game/_/gameId/401688066/oilers-wild",
+        "utah @ col": "/nhl/game/_/gameId/401688068/hockey-club-avalanche",
+        "tb @ cgy": "/nhl/game/_/gameId/401688069/lightning-flames",
+        "fla @ van": "/nhl/game/_/gameId/401688070/panthers-canucks",
+        "bos @ sea": "/nhl/game/_/gameId/401688071/bruins-kraken"
+    },
+    "2024-12-13": {
+        "ott @ car": "/nhl/game/_/gameId/401688072/senators-hurricanes"
+    },
+    "2024-12-14": {
+        "chi @ nj": "/nhl/game/_/gameId/401688073/blackhawks-devils",
+        "la @ nyr": "/nhl/game/_/gameId/401688074/kings-rangers",
+        "phi @ min": "/nhl/game/_/gameId/401688075/flyers-wild",
+        "vgk @ edm": "/nhl/game/_/gameId/401688076/golden-knights-oilers",
+        "pit @ ott": "/nhl/game/_/gameId/401688077/penguins-senators",
+        "tor @ det": "/nhl/game/_/gameId/401688078/maple-leafs-red-wings",
+        "buf @ wsh": "/nhl/game/_/gameId/401688079/sabres-capitals",
+        "ana @ cbj": "/nhl/game/_/gameId/401688080/ducks-blue-jackets",
+        "mtl @ wpg": "/nhl/game/_/gameId/401688081/canadiens-jets",
+        "stl @ dal": "/nhl/game/_/gameId/401688082/blues-stars",
+        "nsh @ col": "/nhl/game/_/gameId/401688083/predators-avalanche",
+        "fla @ cgy": "/nhl/game/_/gameId/401688084/panthers-flames",
+        "bos @ van": "/nhl/game/_/gameId/401688085/bruins-canucks",
+        "utah @ sj": "/nhl/game/_/gameId/401688086/hockey-club-sharks",
+        "tb @ sea": "/nhl/game/_/gameId/401688087/lightning-kraken"
+    },
+    "2024-12-15": {
+        "nyi @ chi": "/nhl/game/_/gameId/401688088/islanders-blackhawks",
+        "buf @ tor": "/nhl/game/_/gameId/401688089/sabres-maple-leafs",
+        "cbj @ car": "/nhl/game/_/gameId/401688090/blue-jackets-hurricanes",
+        "nyr @ stl": "/nhl/game/_/gameId/401688091/rangers-blues",
+        "vgk @ min": "/nhl/game/_/gameId/401688092/golden-knights-wild"
+    },
+    "2024-12-16": {
+        "wsh @ dal": "/nhl/game/_/gameId/401688093/capitals-stars",
+        "fla @ edm": "/nhl/game/_/gameId/401688094/panthers-oilers",
+        "col @ van": "/nhl/game/_/gameId/401688095/avalanche-canucks"
+    },
+    "2024-12-17": {
+        "buf @ mtl": "/nhl/game/_/gameId/401688096/sabres-canadiens",
+        "cbj @ tb": "/nhl/game/_/gameId/401688097/blue-jackets-lightning",
+        "la @ pit": "/nhl/game/_/gameId/401688098/kings-penguins",
+        "nyi @ car": "/nhl/game/_/gameId/401688099/islanders-hurricanes",
+        "nj @ stl": "/nhl/game/_/gameId/401688100/devils-blues",
+        "nyr @ nsh": "/nhl/game/_/gameId/401688101/rangers-predators",
+        "wsh @ chi": "/nhl/game/_/gameId/401688102/capitals-blackhawks",
+        "bos @ cgy": "/nhl/game/_/gameId/401688103/bruins-flames",
+        "ott @ sea": "/nhl/game/_/gameId/401688104/senators-kraken",
+        "wpg @ sj": "/nhl/game/_/gameId/401688105/jets-sharks"
+    },
+    "2024-12-18": {
+        "phi @ det": "/nhl/game/_/gameId/401688106/flyers-red-wings",
+        "tor @ dal": "/nhl/game/_/gameId/401688107/maple-leafs-stars",
+        "fla @ min": "/nhl/game/_/gameId/401688108/panthers-wild",
+        "van @ utah": "/nhl/game/_/gameId/401688109/canucks-hockey-club",
+        "wpg @ ana": "/nhl/game/_/gameId/401688110/jets-ducks"
+    },
+    "2024-12-19": {
+        "stl @ tb": "/nhl/game/_/gameId/401688111/blues-lightning",
+        "nj @ cbj": "/nhl/game/_/gameId/401688113/devils-blue-jackets",
+        "la @ phi": "/nhl/game/_/gameId/401688112/kings-flyers",
+        "pit @ nsh": "/nhl/game/_/gameId/401688114/penguins-predators",
+        "sea @ chi": "/nhl/game/_/gameId/401688115/kraken-blackhawks",
+        "ott @ cgy": "/nhl/game/_/gameId/401688116/senators-flames",
+        "bos @ edm": "/nhl/game/_/gameId/401688117/bruins-oilers",
+        "van @ vgk": "/nhl/game/_/gameId/401688118/canucks-golden-knights",
+        "col @ sj": "/nhl/game/_/gameId/401688119/avalanche-sharks"
+    },
+    "2024-12-20": {
+        "tor @ buf": "/nhl/game/_/gameId/401688120/maple-leafs-sabres",
+        "mtl @ det": "/nhl/game/_/gameId/401688121/canadiens-red-wings",
+        "stl @ fla": "/nhl/game/_/gameId/401688122/blues-panthers",
+        "car @ wsh": "/nhl/game/_/gameId/401688123/hurricanes-capitals",
+        "nyr @ dal": "/nhl/game/_/gameId/401688124/rangers-stars",
+        "utah @ min": "/nhl/game/_/gameId/401688125/hockey-club-wild",
+        "col @ ana": "/nhl/game/_/gameId/401688126/avalanche-ducks"
+    },
+    "2024-12-21": {
+        "la @ nsh": "/nhl/game/_/gameId/401688127/kings-predators",
+        "chi @ cgy": "/nhl/game/_/gameId/401688128/blackhawks-flames",
+        "sj @ edm": "/nhl/game/_/gameId/401688129/sharks-oilers",
+        "buf @ bos": "/nhl/game/_/gameId/401688130/sabres-bruins",
+        "nyi @ tor": "/nhl/game/_/gameId/401688131/islanders-maple-leafs",
+        "det @ mtl": "/nhl/game/_/gameId/401688132/red-wings-canadiens",
+        "pit @ nj": "/nhl/game/_/gameId/401688133/penguins-devils",
+        "cbj @ phi": "/nhl/game/_/gameId/401688134/blue-jackets-flyers",
+        "min @ wpg": "/nhl/game/_/gameId/401688135/wild-jets",
+        "ott @ van": "/nhl/game/_/gameId/401688136/senators-canucks",
+        "sea @ vgk": "/nhl/game/_/gameId/401688137/kraken-golden-knights"
+    },
+    "2024-12-22": {
+        "car @ nyr": "/nhl/game/_/gameId/401688138/hurricanes-rangers",
+        "fla @ tb": "/nhl/game/_/gameId/401688139/panthers-lightning",
+        "la @ wsh": "/nhl/game/_/gameId/401688140/kings-capitals",
+        "ana @ utah": "/nhl/game/_/gameId/401688141/ducks-hockey-club",
+        "sea @ col": "/nhl/game/_/gameId/401688142/kraken-avalanche",
+        "ott @ edm": "/nhl/game/_/gameId/401688143/senators-oilers"
+    },
+    "2024-12-23": {
+        "nyr @ nj": "/nhl/game/_/gameId/401688144/rangers-devils",
+        "wpg @ tor": "/nhl/game/_/gameId/401688145/jets-maple-leafs",
+        "wsh @ bos": "/nhl/game/_/gameId/401688146/capitals-bruins",
+        "stl @ det": "/nhl/game/_/gameId/401688147/blues-red-wings",
+        "tb @ fla": "/nhl/game/_/gameId/401688148/lightning-panthers",
+        "phi @ pit": "/nhl/game/_/gameId/401688149/flyers-penguins",
+        "mtl @ cbj": "/nhl/game/_/gameId/401688150/canadiens-blue-jackets",
+        "buf @ nyi": "/nhl/game/_/gameId/401688151/sabres-islanders",
+        "car @ nsh": "/nhl/game/_/gameId/401688152/hurricanes-predators",
+        "chi @ min": "/nhl/game/_/gameId/401688153/blackhawks-wild",
+        "sj @ van": "/nhl/game/_/gameId/401688154/sharks-canucks",
+        "dal @ utah": "/nhl/game/_/gameId/401688155/stars-hockey-club",
+        "ana @ vgk": "/nhl/game/_/gameId/401688156/ducks-golden-knights"
+    },
+    "2024-12-27": {
+        "chi @ buf": "/nhl/game/_/gameId/401688157/blackhawks-sabres",
+        "tor @ det": "/nhl/game/_/gameId/401688158/maple-leafs-red-wings",
+        "car @ nj": "/nhl/game/_/gameId/401688159/hurricanes-devils",
+        "bos @ cbj": "/nhl/game/_/gameId/401688160/bruins-blue-jackets",
+        "nsh @ stl": "/nhl/game/_/gameId/401688161/predators-blues",
+        "min @ dal": "/nhl/game/_/gameId/401688162/wild-stars",
+        "col @ utah": "/nhl/game/_/gameId/401688163/avalanche-hockey-club",
+        "vgk @ sj": "/nhl/game/_/gameId/401688164/golden-knights-sharks"
+    },
+    "2024-12-28": {
+        "mtl @ fla": "/nhl/game/_/gameId/401688165/canadiens-panthers",
+        "sea @ van": "/nhl/game/_/gameId/401688166/kraken-canucks",
+        "phi @ ana": "/nhl/game/_/gameId/401688167/flyers-ducks",
+        "edm @ la": "/nhl/game/_/gameId/401688168/oilers-kings",
+        "cbj @ bos": "/nhl/game/_/gameId/401688169/blue-jackets-bruins",
+        "wsh @ tor": "/nhl/game/_/gameId/401688170/capitals-maple-leafs",
+        "nyr @ tb": "/nhl/game/_/gameId/401688171/rangers-lightning",
+        "nj @ car": "/nhl/game/_/gameId/401688172/devils-hurricanes",
+        "ott @ wpg": "/nhl/game/_/gameId/401688173/senators-jets",
+        "pit @ nyi": "/nhl/game/_/gameId/401688174/penguins-islanders",
+        "cgy @ sj": "/nhl/game/_/gameId/401688175/flames-sharks"
+    },
+    "2024-12-29": {
+        "buf @ stl": "/nhl/game/_/gameId/401688181/sabres-blues",
+        "edm @ ana": "/nhl/game/_/gameId/401688177/oilers-ducks",
+        "wsh @ det": "/nhl/game/_/gameId/401688178/capitals-red-wings",
+        "mtl @ tb": "/nhl/game/_/gameId/401688179/canadiens-lightning",
+        "nyi @ pit": "/nhl/game/_/gameId/401688180/islanders-penguins",
+        "ott @ min": "/nhl/game/_/gameId/401688182/senators-wild",
+        "cgy @ vgk": "/nhl/game/_/gameId/401688183/flames-golden-knights",
+        "dal @ chi": "/nhl/game/_/gameId/401688176/stars-blackhawks",
+        "phi @ la": "/nhl/game/_/gameId/401688184/flyers-kings"
+    },
+    "2024-12-30": {
+        "nyr @ fla": "/nhl/game/_/gameId/401688185/rangers-panthers",
+        "nsh @ wpg": "/nhl/game/_/gameId/401688186/predators-jets",
+        "utah @ sea": "/nhl/game/_/gameId/401688187/hockey-club-kraken"
+    },
+    "2024-12-31": {
+        "bos @ wsh": "/nhl/game/_/gameId/401688188/bruins-capitals",
+        "nyi @ tor": "/nhl/game/_/gameId/401688189/islanders-maple-leafs",
+        "mtl @ vgk": "/nhl/game/_/gameId/401688190/canadiens-golden-knights",
+        "stl @ chi": "/nhl/game/_/gameId/401688191/blues-blackhawks",
+        "pit @ det": "/nhl/game/_/gameId/401688192/penguins-red-wings",
+        "car @ cbj": "/nhl/game/_/gameId/401688193/hurricanes-blue-jackets",
+        "buf @ dal": "/nhl/game/_/gameId/401688194/sabres-stars",
+        "nsh @ min": "/nhl/game/_/gameId/401688195/predators-wild",
+        "wpg @ col": "/nhl/game/_/gameId/401688196/jets-avalanche",
+        "nj @ ana": "/nhl/game/_/gameId/401688197/devils-ducks",
+        "phi @ sj": "/nhl/game/_/gameId/401688198/flyers-sharks",
+        "van @ cgy": "/nhl/game/_/gameId/401688199/canucks-flames",
+        "utah @ edm": "/nhl/game/_/gameId/401688200/hockey-club-oilers"
+    },
+    "2025-01-01": {
+        "nj @ la": "/nhl/game/_/gameId/401688201/devils-kings"
+    },
+    "2025-01-02": {
+        "car @ fla": "/nhl/game/_/gameId/401688202/hurricanes-panthers",
+        "bos @ nyr": "/nhl/game/_/gameId/401688203/bruins-rangers",
+        "min @ wsh": "/nhl/game/_/gameId/401688204/wild-capitals",
+        "det @ cbj": "/nhl/game/_/gameId/401688205/red-wings-blue-jackets",
+        "tor @ nyi": "/nhl/game/_/gameId/401688206/maple-leafs-islanders",
+        "ott @ dal": "/nhl/game/_/gameId/401688207/senators-stars",
+        "ana @ wpg": "/nhl/game/_/gameId/401688208/ducks-jets",
+        "buf @ col": "/nhl/game/_/gameId/401688209/sabres-avalanche",
+        "utah @ cgy": "/nhl/game/_/gameId/401688210/hockey-club-flames",
+        "phi @ vgk": "/nhl/game/_/gameId/401688211/flyers-golden-knights",
+        "van @ sea": "/nhl/game/_/gameId/401688212/canucks-kraken",
+        "tb @ sj": "/nhl/game/_/gameId/401688213/lightning-sharks"
+    },
+    "2025-01-03": {
+        "pit @ fla": "/nhl/game/_/gameId/401688214/penguins-panthers",
+        "mtl @ chi": "/nhl/game/_/gameId/401688215/canadiens-blackhawks",
+        "ott @ stl": "/nhl/game/_/gameId/401688216/senators-blues",
+        "ana @ edm": "/nhl/game/_/gameId/401688217/ducks-oilers",
+        "nsh @ van": "/nhl/game/_/gameId/401688218/predators-canucks"
+    },
+    "2025-01-04": {
+        "nyr @ wsh": "/nhl/game/_/gameId/401688219/rangers-capitals",
+        "nj @ sj": "/nhl/game/_/gameId/401688221/devils-sharks",
+        "det @ wpg": "/nhl/game/_/gameId/401688220/red-wings-jets",
+        "bos @ tor": "/nhl/game/_/gameId/401688222/bruins-maple-leafs",
+        "min @ car": "/nhl/game/_/gameId/401688223/wild-hurricanes",
+        "stl @ cbj": "/nhl/game/_/gameId/401688224/blues-blue-jackets",
+        "mtl @ col": "/nhl/game/_/gameId/401688225/canadiens-avalanche",
+        "utah @ dal": "/nhl/game/_/gameId/401688227/utah-stars",
+        "tb @ la": "/nhl/game/_/gameId/401688228/lightning-kings",
+        "nsh @ cgy": "/nhl/game/_/gameId/401688226/predators-flames",
+        "buf @ vgk": "/nhl/game/_/gameId/401688229/sabres-golden-knights",
+        "edm @ sea": "/nhl/game/_/gameId/401688230/oilers-kraken"
+    },
+    "2025-01-05": {
+        "nyr @ chi": "/nhl/game/_/gameId/401688231/rangers-blackhawks",
+        "nyi @ bos": "/nhl/game/_/gameId/401688232/islanders-bruins",
+        "pit @ car": "/nhl/game/_/gameId/401688233/penguins-hurricanes",
+        "phi @ tor": "/nhl/game/_/gameId/401688234/flyers-maple-leafs",
+        "tb @ ana": "/nhl/game/_/gameId/401688235/lightning-ducks"
+    },
+    "2025-01-06": {
+        "wsh @ buf": "/nhl/game/_/gameId/401688236/capitals-sabres",
+        "van @ mtl": "/nhl/game/_/gameId/401688237/canucks-canadiens",
+        "fla @ col": "/nhl/game/_/gameId/401688238/panthers-avalanche",
+        "nj @ sea": "/nhl/game/_/gameId/401688239/devils-kraken"
+    },
+    "2025-01-07": {
+        "edm @ bos": "/nhl/game/_/gameId/401688240/oilers-bruins",
+        "ott @ det": "/nhl/game/_/gameId/401688241/senators-red-wings",
+        "dal @ nyr": "/nhl/game/_/gameId/401688242/stars-rangers",
+        "cbj @ pit": "/nhl/game/_/gameId/401688244/blue-jackets-penguins",
+        "car @ tb": "/nhl/game/_/gameId/401734652/hurricanes-lightning",
+        "tor @ phi": "/nhl/game/_/gameId/401688243/maple-leafs-flyers",
+        "stl @ min": "/nhl/game/_/gameId/401688245/blues-wild",
+        "nsh @ wpg": "/nhl/game/_/gameId/401688246/predators-jets",
+        "cgy @ ana": "/nhl/game/_/gameId/401688247/flames-ducks",
+        "vgk @ sj": "/nhl/game/_/gameId/401688248/golden-knights-sharks"
+    },
+    "2025-01-08": {
+        "van @ wsh": "/nhl/game/_/gameId/401688249/canucks-capitals",
+        "col @ chi": "/nhl/game/_/gameId/401688250/avalanche-blackhawks",
+        "fla @ utah": "/nhl/game/_/gameId/401688251/panthers-hockey-club",
+        "cgy @ la": "/nhl/game/_/gameId/401688252/flames-kings"
+    },
+    "2025-01-09": {
+        "buf @ ott": "/nhl/game/_/gameId/401688253/sabres-senators",
+        "bos @ tb": "/nhl/game/_/gameId/401688254/bruins-lightning",
+        "nj @ nyr": "/nhl/game/_/gameId/401688255/devils-rangers",
+        "dal @ phi": "/nhl/game/_/gameId/401688256/stars-flyers",
+        "edm @ pit": "/nhl/game/_/gameId/401688257/oilers-penguins",
+        "sea @ cbj": "/nhl/game/_/gameId/401688259/kraken-blue-jackets",
+        "tor @ car": "/nhl/game/_/gameId/401688258/maple-leafs-hurricanes",
+        "ana @ stl": "/nhl/game/_/gameId/401688260/ducks-blues",
+        "col @ min": "/nhl/game/_/gameId/401688261/avalanche-wild",
+        "nyi @ vgk": "/nhl/game/_/gameId/401688262/islanders-golden-knights"
+    },
+    "2025-01-10": {
+        "chi @ det": "/nhl/game/_/gameId/401688263/blackhawks-red-wings",
+        "mtl @ wsh": "/nhl/game/_/gameId/401688264/canadiens-capitals",
+        "van @ car": "/nhl/game/_/gameId/401688265/canucks-hurricanes",
+        "la @ wpg": "/nhl/game/_/gameId/401688266/kings-jets",
+        "sj @ utah": "/nhl/game/_/gameId/401688267/sharks-hockey-club"
+    },
+    "2025-01-11": {
+        "bos @ fla": "/nhl/game/_/gameId/401688268/bruins-panthers",
+        "sea @ buf": "/nhl/game/_/gameId/401688269/kraken-sabres",
+        "ott @ pit": "/nhl/game/_/gameId/401688270/senators-penguins",
+        "van @ tor": "/nhl/game/_/gameId/401688271/canucks-maple-leafs",
+        "dal @ mtl": "/nhl/game/_/gameId/401688272/stars-canadiens",
+        "tb @ nj": "/nhl/game/_/gameId/401688273/lightning-devils",
+        "ana @ phi": "/nhl/game/_/gameId/401688274/ducks-flyers",
+        "edm @ chi": "/nhl/game/_/gameId/401688275/oilers-blackhawks",
+        "cbj @ stl": "/nhl/game/_/gameId/401688276/blue-jackets-blues",
+        "col @ wpg": "/nhl/game/_/gameId/401688277/avalanche-jets",
+        "wsh @ nsh": "/nhl/game/_/gameId/401688278/capitals-predators",
+        "nyi @ utah": "/nhl/game/_/gameId/401688279/islanders-hockey-club",
+        "la @ cgy": "/nhl/game/_/gameId/401688280/kings-flames",
+        "nyr @ vgk": "/nhl/game/_/gameId/401688281/rangers-golden-knights",
+        "min @ sj": "/nhl/game/_/gameId/401688282/wild-sharks"
+    },
+    "2025-01-12": {
+        "sea @ det": "/nhl/game/_/gameId/401688283/kraken-red-wings",
+        "dal @ ott": "/nhl/game/_/gameId/401688284/stars-senators",
+        "tb @ pit": "/nhl/game/_/gameId/401688285/lightning-penguins",
+        "ana @ car": "/nhl/game/_/gameId/401688286/ducks-hurricanes",
+        "min @ vgk": "/nhl/game/_/gameId/401688287/wild-golden-knights"
+    },
+    "2025-01-13": {
+        "fla @ phi": "/nhl/game/_/gameId/401688288/panthers-flyers",
+        "cgy @ chi": "/nhl/game/_/gameId/401688289/flames-blackhawks",
+        "la @ edm": "/nhl/game/_/gameId/401688290/kings-oilers"
+    },
+    "2025-01-14": {
+        "tb @ bos": "/nhl/game/_/gameId/401688291/lightning-bruins",
+        "dal @ tor": "/nhl/game/_/gameId/401688292/stars-maple-leafs",
+        "sj @ det": "/nhl/game/_/gameId/401688293/sharks-red-wings",
+        "sea @ pit": "/nhl/game/_/gameId/401688295/kraken-penguins",
+        "ana @ wsh": "/nhl/game/_/gameId/401688296/ducks-capitals",
+        "phi @ cbj": "/nhl/game/_/gameId/401688297/flyers-blue-jackets",
+        "fla @ nj": "/nhl/game/_/gameId/401688294/panthers-devils",
+        "ott @ nyi": "/nhl/game/_/gameId/401688298/senators-islanders",
+        "cgy @ stl": "/nhl/game/_/gameId/401688299/flames-blues",
+        "vgk @ nsh": "/nhl/game/_/gameId/401688300/golden-knights-predators",
+        "van @ wpg": "/nhl/game/_/gameId/401688301/canucks-jets",
+        "nyr @ col": "/nhl/game/_/gameId/401688302/rangers-avalanche",
+        "mtl @ utah": "/nhl/game/_/gameId/401688303/canadiens-hockey-club"
+    },
+    "2025-01-15": {
+        "car @ buf": "/nhl/game/_/gameId/401688304/hurricanes-sabres",
+        "edm @ min": "/nhl/game/_/gameId/401688305/oilers-wild"
+    },
+    "2025-01-16": {
+        "nj @ tor": "/nhl/game/_/gameId/401688306/devils-maple-leafs",
+        "wsh @ ott": "/nhl/game/_/gameId/401688307/capitals-senators",
+        "ana @ tb": "/nhl/game/_/gameId/401688308/ducks-lightning",
+        "det @ fla": "/nhl/game/_/gameId/401688309/red-wings-panthers",
+        "sj @ cbj": "/nhl/game/_/gameId/401688310/sharks-blue-jackets",
+        "phi @ nyi": "/nhl/game/_/gameId/401688311/flyers-islanders",
+        "cgy @ stl": "/nhl/game/_/gameId/401688312/flames-blues",
+        "chi @ nsh": "/nhl/game/_/gameId/401688313/blackhawks-predators",
+        "mtl @ dal": "/nhl/game/_/gameId/401688314/canadiens-stars",
+        "sea @ wpg": "/nhl/game/_/gameId/401688315/kraken-jets",
+        "nyr @ utah": "/nhl/game/_/gameId/401688316/rangers-hockey-club",
+        "edm @ col": "/nhl/game/_/gameId/401688317/oilers-avalanche",
+        "la @ van": "/nhl/game/_/gameId/401688318/kings-canucks"
+    },
+    "2025-01-17": {
+        "pit @ buf": "/nhl/game/_/gameId/401688319/penguins-sabres",
+        "vgk @ car": "/nhl/game/_/gameId/401688320/golden-knights-hurricanes"
+    },
+    "2025-01-18": {
+        "phi @ nj": "/nhl/game/_/gameId/401688321/flyers-devils",
+        "bos @ ott": "/nhl/game/_/gameId/401688322/bruins-senators",
+        "dal @ col": "/nhl/game/_/gameId/401688323/stars-avalanche",
+        "ana @ fla": "/nhl/game/_/gameId/401688324/ducks-panthers",
+        "tor @ mtl": "/nhl/game/_/gameId/401688325/maple-leafs-canadiens",
+        "det @ tb": "/nhl/game/_/gameId/401688326/red-wings-lightning",
+        "cbj @ nyr": "/nhl/game/_/gameId/401688327/blue-jackets-rangers",
+        "pit @ wsh": "/nhl/game/_/gameId/401688328/penguins-capitals",
+        "cgy @ wpg": "/nhl/game/_/gameId/401688329/flames-jets",
+        "sj @ nyi": "/nhl/game/_/gameId/401688330/sharks-islanders",
+        "vgk @ chi": "/nhl/game/_/gameId/401688331/golden-knights-blackhawks",
+        "min @ nsh": "/nhl/game/_/gameId/401688332/wild-predators",
+        "stl @ utah": "/nhl/game/_/gameId/401688333/blues-hockey-club",
+        "edm @ van": "/nhl/game/_/gameId/401688334/oilers-canucks",
+        "la @ sea": "/nhl/game/_/gameId/401688335/kings-kraken"
+    },
+    "2025-01-19": {
+        "ott @ nj": "/nhl/game/_/gameId/401688336/senators-devils",
+        "nyr @ mtl": "/nhl/game/_/gameId/401688337/rangers-canadiens",
+        "det @ dal": "/nhl/game/_/gameId/401688338/red-wings-stars"
+    },
+    "2025-01-20": {
+        "sj @ bos": "/nhl/game/_/gameId/401688339/sharks-bruins",
+        "min @ col": "/nhl/game/_/gameId/401688340/wild-avalanche",
+        "buf @ sea": "/nhl/game/_/gameId/401688341/sabres-kraken",
+        "stl @ vgk": "/nhl/game/_/gameId/401688342/blues-golden-knights",
+        "tb @ tor": "/nhl/game/_/gameId/401688343/lightning-maple-leafs",
+        "cbj @ nyi": "/nhl/game/_/gameId/401688344/blue-jackets-islanders",
+        "car @ chi": "/nhl/game/_/gameId/401688345/hurricanes-blackhawks",
+        "wpg @ utah": "/nhl/game/_/gameId/401688346/jets-hockey-club",
+        "pit @ la": "/nhl/game/_/gameId/401688347/penguins-kings"
+    },
+    "2025-01-21": {
+        "tb @ mtl": "/nhl/game/_/gameId/401688348/lightning-canadiens",
+        "ott @ nyr": "/nhl/game/_/gameId/401688349/senators-rangers",
+        "det @ phi": "/nhl/game/_/gameId/401688350/red-wings-flyers",
+        "sj @ nsh": "/nhl/game/_/gameId/401688351/sharks-predators",
+        "car @ dal": "/nhl/game/_/gameId/401688352/hurricanes-stars",
+        "wsh @ edm": "/nhl/game/_/gameId/401688353/capitals-oilers",
+        "buf @ van": "/nhl/game/_/gameId/401688354/sabres-canucks",
+        "fla @ ana": "/nhl/game/_/gameId/401688355/panthers-ducks"
+    },
+    "2025-01-22": {
+        "bos @ nj": "/nhl/game/_/gameId/401688357/bruins-devils",
+        "cbj @ tor": "/nhl/game/_/gameId/401688356/blue-jackets-maple-leafs",
+        "wpg @ col": "/nhl/game/_/gameId/401688358/jets-avalanche",
+        "fla @ la": "/nhl/game/_/gameId/401688359/panthers-kings"
+    },
+    "2025-01-23": {
+        "ott @ bos": "/nhl/game/_/gameId/401688360/senators-bruins",
+        "mtl @ det": "/nhl/game/_/gameId/401688361/canadiens-red-wings",
+        "phi @ nyr": "/nhl/game/_/gameId/401688362/flyers-rangers",
+        "cbj @ car": "/nhl/game/_/gameId/401688363/blue-jackets-hurricanes",
+        "vgk @ stl": "/nhl/game/_/gameId/401688364/golden-knights-blues",
+        "utah @ min": "/nhl/game/_/gameId/401688365/hockey-club-wild",
+        "buf @ cgy": "/nhl/game/_/gameId/401688366/sabres-flames",
+        "van @ edm": "/nhl/game/_/gameId/401688367/canucks-oilers",
+        "pit @ ana": "/nhl/game/_/gameId/401688368/penguins-ducks",
+        "wsh @ sea": "/nhl/game/_/gameId/401688369/capitals-kraken",
+        "nsh @ sj": "/nhl/game/_/gameId/401688370/predators-sharks"
+    },
+    "2025-01-24": {
+        "phi @ nyi": "/nhl/game/_/gameId/401688371/flyers-islanders",
+        "vgk @ dal": "/nhl/game/_/gameId/401688373/golden-knights-stars",
+        "tb @ chi": "/nhl/game/_/gameId/401688372/lightning-blackhawks",
+        "utah @ wpg": "/nhl/game/_/gameId/401688374/hockey-club-jets"
+    },
+    "2025-01-25": {
+        "col @ bos": "/nhl/game/_/gameId/401688375/avalanche-bruins",
+        "buf @ edm": "/nhl/game/_/gameId/401688376/sabres-oilers",
+        "pit @ sea": "/nhl/game/_/gameId/401688377/penguins-kraken",
+        "nj @ mtl": "/nhl/game/_/gameId/401688378/devils-canadiens",
+        "tor @ ott": "/nhl/game/_/gameId/401688379/maple-leafs-senators",
+        "tb @ det": "/nhl/game/_/gameId/401688380/lightning-red-wings",
+        "la @ cbj": "/nhl/game/_/gameId/401688381/kings-blue-jackets",
+        "dal @ stl": "/nhl/game/_/gameId/401688382/stars-blues",
+        "cgy @ min": "/nhl/game/_/gameId/401688383/flames-wild",
+        "car @ nyi": "/nhl/game/_/gameId/401688384/hurricanes-islanders",
+        "wsh @ van": "/nhl/game/_/gameId/401688385/capitals-canucks",
+        "nsh @ ana": "/nhl/game/_/gameId/401688386/predators-ducks",
+        "fla @ sj": "/nhl/game/_/gameId/401688387/panthers-sharks"
+    },
+    "2025-01-26": {
+        "col @ nyr": "/nhl/game/_/gameId/401688388/avalanche-rangers",
+        "utah @ ott": "/nhl/game/_/gameId/401688389/hockey-club-senators",
+        "cgy @ wpg": "/nhl/game/_/gameId/401688390/flames-jets",
+        "min @ chi": "/nhl/game/_/gameId/401688391/wild-blackhawks",
+        "fla @ vgk": "/nhl/game/_/gameId/401688392/panthers-golden-knights"
+    },
+    "2025-01-27": {
+        "la @ det": "/nhl/game/_/gameId/401688393/kings-red-wings",
+        "nj @ phi": "/nhl/game/_/gameId/401688394/devils-flyers",
+        "van @ stl": "/nhl/game/_/gameId/401688395/canucks-blues",
+        "sea @ edm": "/nhl/game/_/gameId/401688396/kraken-oilers",
+        "pit @ sj": "/nhl/game/_/gameId/401688397/penguins-sharks"
+    },
+    "2025-01-28": {
+        "bos @ buf": "/nhl/game/_/gameId/401688398/bruins-sabres",
+        "wpg @ mtl": "/nhl/game/_/gameId/401688399/jets-canadiens",
+        "chi @ tb": "/nhl/game/_/gameId/401688400/blackhawks-lightning",
+        "car @ nyr": "/nhl/game/_/gameId/401688401/hurricanes-rangers",
+        "col @ nyi": "/nhl/game/_/gameId/401688402/avalanche-islanders",
+        "wsh @ cgy": "/nhl/game/_/gameId/401688403/capitals-flames",
+        "dal @ vgk": "/nhl/game/_/gameId/401688404/stars-golden-knights",
+        "ana @ sea": "/nhl/game/_/gameId/401688405/ducks-kraken"
+    },
+    "2025-01-29": {
+        "min @ tor": "/nhl/game/_/gameId/401688406/wild-maple-leafs",
+        "la @ fla": "/nhl/game/_/gameId/401688407/kings-panthers",
+        "phi @ nj": "/nhl/game/_/gameId/401688408/flyers-devils",
+        "van @ nsh": "/nhl/game/_/gameId/401688409/canucks-predators",
+        "pit @ utah": "/nhl/game/_/gameId/401688410/penguins-hockey-club"
+    },
+    "2025-01-30": {
+        "wpg @ bos": "/nhl/game/_/gameId/401688411/jets-bruins",
+        "min @ mtl": "/nhl/game/_/gameId/401688412/wild-canadiens",
+        "wsh @ ott": "/nhl/game/_/gameId/401688413/capitals-senators",
+        "la @ tb": "/nhl/game/_/gameId/401688414/kings-lightning",
+        "chi @ car": "/nhl/game/_/gameId/401688416/blackhawks-hurricanes",
+        "nyi @ phi": "/nhl/game/_/gameId/401688415/islanders-flyers",
+        "ana @ cgy": "/nhl/game/_/gameId/401688417/ducks-flames",
+        "det @ edm": "/nhl/game/_/gameId/401688418/red-wings-oilers",
+        "cbj @ vgk": "/nhl/game/_/gameId/401688419/blue-jackets-golden-knights",
+        "sj @ sea": "/nhl/game/_/gameId/401688420/sharks-kraken"
+    },
+    "2025-01-31": {
+        "nsh @ buf": "/nhl/game/_/gameId/401688421/predators-sabres",
+        "van @ dal": "/nhl/game/_/gameId/401688422/canucks-stars",
+        "stl @ col": "/nhl/game/_/gameId/401688423/blues-avalanche",
+        "cbj @ utah": "/nhl/game/_/gameId/401688424/blue-jackets-hockey-club"
+    },
+    "2025-02-01": {
+        "chi @ fla": "/nhl/game/_/gameId/401688425/blackhawks-panthers",
+        "nyr @ bos": "/nhl/game/_/gameId/401688426/rangers-bruins",
+        "min @ ott": "/nhl/game/_/gameId/401688427/wild-senators",
+        "nyi @ tb": "/nhl/game/_/gameId/401688428/islanders-lightning",
+        "nsh @ pit": "/nhl/game/_/gameId/401688429/predators-penguins",
+        "wpg @ wsh": "/nhl/game/_/gameId/401688430/jets-capitals",
+        "la @ car": "/nhl/game/_/gameId/401688431/kings-hurricanes",
+        "tor @ edm": "/nhl/game/_/gameId/401688432/maple-leafs-oilers",
+        "det @ cgy": "/nhl/game/_/gameId/401688433/red-wings-flames"
+    },
+    "2025-02-02": {
+        "nj @ buf": "/nhl/game/_/gameId/401688434/devils-sabres",
+        "phi @ col": "/nhl/game/_/gameId/401688435/flyers-avalanche",
+        "mtl @ ana": "/nhl/game/_/gameId/401688436/canadiens-ducks",
+        "nyi @ fla": "/nhl/game/_/gameId/401688437/islanders-panthers",
+        "vgk @ nyr": "/nhl/game/_/gameId/401688438/golden-knights-rangers",
+        "cbj @ dal": "/nhl/game/_/gameId/401688439/blue-jackets-stars",
+        "stl @ utah": "/nhl/game/_/gameId/401688440/blues-hockey-club",
+        "det @ van": "/nhl/game/_/gameId/401688441/red-wings-canucks",
+        "cgy @ sea": "/nhl/game/_/gameId/401688442/flames-kraken"
+    },
+    "2025-02-03": {
+        "ott @ nsh": "/nhl/game/_/gameId/401688443/senators-predators"
+    },
+    "2025-02-04": {
+        "min @ bos": "/nhl/game/_/gameId/401688444/wild-bruins",
+        "cbj @ buf": "/nhl/game/_/gameId/401688445/blue-jackets-sabres",
+        "ott @ tb": "/nhl/game/_/gameId/401688446/senators-lightning",
+        "nj @ pit": "/nhl/game/_/gameId/401688447/devils-penguins",
+        "fla @ wsh": "/nhl/game/_/gameId/401688448/panthers-capitals",
+        "vgk @ nyi": "/nhl/game/_/gameId/401688449/golden-knights-islanders",
+        "edm @ stl": "/nhl/game/_/gameId/401688450/oilers-blues",
+        "car @ wpg": "/nhl/game/_/gameId/401688451/hurricanes-jets",
+        "tor @ cgy": "/nhl/game/_/gameId/401688452/maple-leafs-flames",
+        "phi @ utah": "/nhl/game/_/gameId/401688453/flyers-hockey-club",
+        "col @ van": "/nhl/game/_/gameId/401688454/avalanche-canucks",
+        "det @ sea": "/nhl/game/_/gameId/401688456/red-wings-kraken",
+        "dal @ ana": "/nhl/game/_/gameId/401688455/stars-ducks",
+        "mtl @ sj": "/nhl/game/_/gameId/401688457/canadiens-sharks"
+    },
+    "2025-02-05": {
+        "bos @ nyr": "/nhl/game/_/gameId/401688458/bruins-rangers",
+        "edm @ chi": "/nhl/game/_/gameId/401688459/oilers-blackhawks",
+        "mtl @ la": "/nhl/game/_/gameId/401688460/canadiens-kings"
+    },
+    "2025-02-06": {
+        "ott @ tb": "/nhl/game/_/gameId/401688461/senators-lightning",
+        "vgk @ nj": "/nhl/game/_/gameId/401688462/golden-knights-devils",
+        "wsh @ phi": "/nhl/game/_/gameId/401688463/capitals-flyers",
+        "utah @ cbj": "/nhl/game/_/gameId/401688464/hockey-club-blue-jackets",
+        "car @ min": "/nhl/game/_/gameId/401688466/hurricanes-wild",
+        "fla @ stl": "/nhl/game/_/gameId/401688465/panthers-blues",
+        "col @ cgy": "/nhl/game/_/gameId/401688467/avalanche-flames",
+        "tor @ sea": "/nhl/game/_/gameId/401688468/maple-leafs-kraken",
+        "van @ sj": "/nhl/game/_/gameId/401688469/canucks-sharks"
+    },
+    "2025-02-07": {
+        "pit @ nyr": "/nhl/game/_/gameId/401688470/penguins-rangers",
+        "nyi @ wpg": "/nhl/game/_/gameId/401688471/islanders-jets",
+        "nsh @ chi": "/nhl/game/_/gameId/401688472/predators-blackhawks",
+        "col @ edm": "/nhl/game/_/gameId/401688473/avalanche-oilers",
+        "dal @ la": "/nhl/game/_/gameId/401688474/stars-kings"
+    },
+    "2025-02-08": {
+        "nj @ mtl": "/nhl/game/_/gameId/401688475/devils-canadiens",
+        "tb @ det": "/nhl/game/_/gameId/401688476/lightning-red-wings",
+        "utah @ car": "/nhl/game/_/gameId/401688477/hockey-club-hurricanes",
+        "vgk @ bos": "/nhl/game/_/gameId/401688478/golden-knights-bruins",
+        "ott @ fla": "/nhl/game/_/gameId/401688479/senators-panthers",
+        "pit @ phi": "/nhl/game/_/gameId/401688480/penguins-flyers",
+        "nyr @ cbj": "/nhl/game/_/gameId/401688481/rangers-blue-jackets",
+        "chi @ stl": "/nhl/game/_/gameId/401688482/blackhawks-blues",
+        "tor @ van": "/nhl/game/_/gameId/401688483/maple-leafs-canucks",
+        "buf @ nsh": "/nhl/game/_/gameId/401688484/sabres-predators",
+        "nyi @ min": "/nhl/game/_/gameId/401688485/islanders-wild",
+        "sea @ cgy": "/nhl/game/_/gameId/401688486/kraken-flames",
+        "dal @ sj": "/nhl/game/_/gameId/401688488/stars-sharks",
+        "ana @ la": "/nhl/game/_/gameId/401688487/ducks-kings"
+    },
+    "2025-02-09": {
+        "utah @ wsh": "/nhl/game/_/gameId/401688489",
+        "tb @ mtl": "/nhl/game/_/gameId/401688490/lightning-canadiens"
+    },
+    "2025-02-12": {},
+    "2025-02-13": {},
+    "2025-02-22": {
+        "min @ det": "/nhl/game/_/gameId/401688493/wild-red-wings",
+        "edm @ phi": "/nhl/game/_/gameId/401688491/oilers-flyers",
+        "wsh @ pit": "/nhl/game/_/gameId/401688492/capitals-penguins",
+        "nyr @ buf": "/nhl/game/_/gameId/401688494/rangers-sabres",
+        "sea @ fla": "/nhl/game/_/gameId/401688495/kraken-panthers",
+        "dal @ nj": "/nhl/game/_/gameId/401688496/stars-devils",
+        "col @ nsh": "/nhl/game/_/gameId/401688497/avalanche-predators",
+        "ana @ bos": "/nhl/game/_/gameId/401688498/ducks-bruins",
+        "car @ tor": "/nhl/game/_/gameId/401688499/hurricanes-maple-leafs",
+        "mtl @ ott": "/nhl/game/_/gameId/401688500/canadiens-senators",
+        "chi @ cbj": "/nhl/game/_/gameId/401688501/blackhawks-blue-jackets",
+        "wpg @ stl": "/nhl/game/_/gameId/401688502/jets-blues",
+        "utah @ la": "/nhl/game/_/gameId/401688503/hockey-club-kings",
+        "van @ vgk": "/nhl/game/_/gameId/401688504/canucks-golden-knights"
+    },
+    "2025-02-23": {
+        "nyr @ pit": "/nhl/game/_/gameId/401688506/rangers-penguins",
+        "ana @ det": "/nhl/game/_/gameId/401688507/ducks-red-wings",
+        "sea @ tb": "/nhl/game/_/gameId/401688508/kraken-lightning",
+        "col @ stl": "/nhl/game/_/gameId/401688509/avalanche-blues",
+        "nj @ nsh": "/nhl/game/_/gameId/401688510/devils-predators",
+        "tor @ chi": "/nhl/game/_/gameId/401688511/maple-leafs-blackhawks",
+        "dal @ nyi": "/nhl/game/_/gameId/401688512/stars-islanders",
+        "sj @ cgy": "/nhl/game/_/gameId/401688513/sharks-flames",
+        "van @ utah": "/nhl/game/_/gameId/401688514/canucks-hockey-club",
+        "edm @ wsh": "/nhl/game/_/gameId/401688505/oilers-capitals"
+    },
+    "2025-02-24": {
+        "sj @ wpg": "/nhl/game/_/gameId/401688515/sharks-jets",
+        "vgk @ la": "/nhl/game/_/gameId/401688516/golden-knights-kings"
+    },
+    "2025-02-25": {
+        "tor @ bos": "/nhl/game/_/gameId/401688517/maple-leafs-bruins",
+        "ana @ buf": "/nhl/game/_/gameId/401688518/ducks-sabres",
+        "car @ mtl": "/nhl/game/_/gameId/401688519/hurricanes-canadiens",
+        "pit @ phi": "/nhl/game/_/gameId/401688521/penguins-flyers",
+        "cgy @ wsh": "/nhl/game/_/gameId/401688522/flames-capitals",
+        "dal @ cbj": "/nhl/game/_/gameId/401688523/stars-blue-jackets",
+        "edm @ tb": "/nhl/game/_/gameId/401688520/oilers-lightning",
+        "nyr @ nyi": "/nhl/game/_/gameId/401688524/rangers-islanders",
+        "sea @ stl": "/nhl/game/_/gameId/401688525/kraken-blues",
+        "fla @ nsh": "/nhl/game/_/gameId/401688526/panthers-predators",
+        "det @ min": "/nhl/game/_/gameId/401688527/red-wings-wild",
+        "chi @ utah": "/nhl/game/_/gameId/401688528/blackhawks-hockey-club"
+    },
+    "2025-02-26": {
+        "wpg @ ott": "/nhl/game/_/gameId/401688529/jets-senators",
+        "nj @ col": "/nhl/game/_/gameId/401688530/devils-avalanche",
+        "van @ la": "/nhl/game/_/gameId/401688531/canucks-kings"
+    },
+    "2025-02-27": {
+        "nyi @ bos": "/nhl/game/_/gameId/401688532/islanders-bruins",
+        "sj @ mtl": "/nhl/game/_/gameId/401688533/sharks-canadiens",
+        "cbj @ det": "/nhl/game/_/gameId/401688534/blue-jackets-red-wings",
+        "cgy @ tb": "/nhl/game/_/gameId/401688535/flames-lightning",
+        "edm @ fla": "/nhl/game/_/gameId/401688536/oilers-panthers",
+        "stl @ wsh": "/nhl/game/_/gameId/401688538/blues-capitals",
+        "buf @ car": "/nhl/game/_/gameId/401688539/sabres-hurricanes",
+        "phi @ pit": "/nhl/game/_/gameId/401688537/flyers-penguins",
+        "wpg @ nsh": "/nhl/game/_/gameId/401688540/jets-predators",
+        "min @ utah": "/nhl/game/_/gameId/401688541/wild-hockey-club",
+        "chi @ vgk": "/nhl/game/_/gameId/401688542/blackhawks-golden-knights",
+        "van @ ana": "/nhl/game/_/gameId/401688543/canucks-ducks"
+    },
+    "2025-02-28": {
+        "tor @ nyr": "/nhl/game/_/gameId/401688544/maple-leafs-rangers",
+        "la @ dal": "/nhl/game/_/gameId/401688545/kings-stars",
+        "min @ col": "/nhl/game/_/gameId/401688546/wild-avalanche"
+    },
+    "2025-03-01": {
+        "nsh @ nyi": "/nhl/game/_/gameId/401688547/predators-islanders",
+        "tb @ wsh": "/nhl/game/_/gameId/401688548/lightning-capitals",
+        "cgy @ fla": "/nhl/game/_/gameId/401688550/flames-panthers",
+        "bos @ pit": "/nhl/game/_/gameId/401688551/bruins-penguins",
+        "det @ cbj": "/nhl/game/_/gameId/401688549/red-wings-blue-jackets",
+        "mtl @ buf": "/nhl/game/_/gameId/401688552/canadiens-sabres",
+        "sj @ ott": "/nhl/game/_/gameId/401688553/sharks-senators",
+        "edm @ car": "/nhl/game/_/gameId/401688554/oilers-hurricanes",
+        "phi @ wpg": "/nhl/game/_/gameId/401688555/flyers-jets",
+        "la @ stl": "/nhl/game/_/gameId/401688556/kings-blues",
+        "nj @ utah": "/nhl/game/_/gameId/401688557/devils-hockey-club",
+        "chi @ ana": "/nhl/game/_/gameId/401688558/blackhawks-ducks",
+        "van @ sea": "/nhl/game/_/gameId/401688559/canucks-kraken"
+    },
+    "2025-03-02": {
+        "tor @ pit": "/nhl/game/_/gameId/401688560/maple-leafs-penguins",
+        "bos @ min": "/nhl/game/_/gameId/401688561/bruins-wild",
+        "cgy @ car": "/nhl/game/_/gameId/401688562/flames-hurricanes",
+        "stl @ dal": "/nhl/game/_/gameId/401688563/blues-stars",
+        "nsh @ nyr": "/nhl/game/_/gameId/401688564/predators-rangers",
+        "nj @ vgk": "/nhl/game/_/gameId/401688565/devils-golden-knights"
+    },
+    "2025-03-03": {
+        "ott @ wsh": "/nhl/game/_/gameId/401688566/senators-capitals",
+        "buf @ mtl": "/nhl/game/_/gameId/401688567/sabres-canadiens",
+        "tb @ fla": "/nhl/game/_/gameId/401688568/lightning-panthers",
+        "nyi @ nyr": "/nhl/game/_/gameId/401688569/islanders-rangers",
+        "sj @ tor": "/nhl/game/_/gameId/401688570/sharks-maple-leafs",
+        "la @ chi": "/nhl/game/_/gameId/401688571/kings-blackhawks"
+    },
+    "2025-03-04": {
+        "nsh @ bos": "/nhl/game/_/gameId/401688572/predators-bruins",
+        "sj @ buf": "/nhl/game/_/gameId/401688573/sharks-sabres",
+        "car @ det": "/nhl/game/_/gameId/401688574/hurricanes-red-wings",
+        "cbj @ tb": "/nhl/game/_/gameId/401688575/blue-jackets-lightning",
+        "cgy @ phi": "/nhl/game/_/gameId/401688576/flames-flyers",
+        "wpg @ nyi": "/nhl/game/_/gameId/401688577/jets-islanders",
+        "nj @ dal": "/nhl/game/_/gameId/401688578/devils-stars",
+        "pit @ col": "/nhl/game/_/gameId/401688579/penguins-avalanche",
+        "ana @ edm": "/nhl/game/_/gameId/401688580/ducks-oilers",
+        "min @ sea": "/nhl/game/_/gameId/401688581/wild-kraken"
+    },
+    "2025-03-05": {
+        "wsh @ nyr": "/nhl/game/_/gameId/401688582/capitals-rangers",
+        "ott @ chi": "/nhl/game/_/gameId/401688583/senators-blackhawks",
+        "tor @ vgk": "/nhl/game/_/gameId/401688584/maple-leafs-golden-knights",
+        "ana @ van": "/nhl/game/_/gameId/401688585/ducks-canucks",
+        "stl @ la": "/nhl/game/_/gameId/401688586/blues-kings"
+    },
+    "2025-03-06": {
+        "utah @ det": "/nhl/game/_/gameId/401688587/hockey-club-red-wings",
+        "buf @ tb": "/nhl/game/_/gameId/401688588/sabres-lightning",
+        "cbj @ fla": "/nhl/game/_/gameId/401688589/blue-jackets-panthers",
+        "wpg @ phi": "/nhl/game/_/gameId/401688590/jets-flyers",
+        "bos @ car": "/nhl/game/_/gameId/401688591/bruins-hurricanes",
+        "sea @ nsh": "/nhl/game/_/gameId/401688592/kraken-predators",
+        "cgy @ dal": "/nhl/game/_/gameId/401688593/flames-stars",
+        "mtl @ edm": "/nhl/game/_/gameId/401688594/canadiens-oilers",
+        "sj @ col": "/nhl/game/_/gameId/401688595/sharks-avalanche"
+    },
+    "2025-03-07": {
+        "wpg @ nj": "/nhl/game/_/gameId/401688596/jets-devils",
+        "det @ wsh": "/nhl/game/_/gameId/401688597/red-wings-capitals",
+        "utah @ chi": "/nhl/game/_/gameId/401688598/hockey-club-blackhawks",
+        "min @ van": "/nhl/game/_/gameId/401688599/wild-canucks",
+        "pit @ vgk": "/nhl/game/_/gameId/401688600/penguins-golden-knights",
+        "stl @ ana": "/nhl/game/_/gameId/401688601/blues-ducks"
+    },
+    "2025-03-08": {
+        "nyr @ ott": "/nhl/game/_/gameId/401688602/rangers-senators",
+        "sea @ phi": "/nhl/game/_/gameId/401688603/kraken-flyers",
+        "bos @ tb": "/nhl/game/_/gameId/401688604/bruins-lightning",
+        "buf @ fla": "/nhl/game/_/gameId/401688605/sabres-panthers",
+        "tor @ col": "/nhl/game/_/gameId/401688606/maple-leafs-avalanche",
+        "mtl @ cgy": "/nhl/game/_/gameId/401688607/canadiens-flames",
+        "chi @ nsh": "/nhl/game/_/gameId/401688608/blackhawks-predators",
+        "stl @ la": "/nhl/game/_/gameId/401688609/blues-kings",
+        "dal @ edm": "/nhl/game/_/gameId/401688610/stars-oilers",
+        "nyi @ sj": "/nhl/game/_/gameId/401688611/islanders-sharks"
+    },
+    "2025-03-09": {
+        "nj @ phi": "/nhl/game/_/gameId/401688612/devils-flyers",
+        "sea @ wsh": "/nhl/game/_/gameId/401688613/kraken-capitals",
+        "pit @ min": "/nhl/game/_/gameId/401688614/penguins-wild",
+        "wpg @ car": "/nhl/game/_/gameId/401688615/jets-hurricanes",
+        "cbj @ nyr": "/nhl/game/_/gameId/401688616/blue-jackets-rangers",
+        "la @ vgk": "/nhl/game/_/gameId/401688617/kings-golden-knights",
+        "dal @ van": "/nhl/game/_/gameId/401688618/stars-canucks",
+        "nyi @ ana": "/nhl/game/_/gameId/401688619/islanders-ducks"
+    },
+    "2025-03-10": {
+        "edm @ buf": "/nhl/game/_/gameId/401688620/oilers-sabres",
+        "det @ ott": "/nhl/game/_/gameId/401688621/red-wings-senators",
+        "chi @ col": "/nhl/game/_/gameId/401688622/blackhawks-avalanche",
+        "tor @ utah": "/nhl/game/_/gameId/401688623/maple-leafs-hockey-club"
+    },
+    "2025-03-11": {
+        "fla @ bos": "/nhl/game/_/gameId/401688624/panthers-bruins",
+        "cbj @ nj": "/nhl/game/_/gameId/401688625/blue-jackets-devils",
+        "ott @ phi": "/nhl/game/_/gameId/401688626/senators-flyers",
+        "vgk @ pit": "/nhl/game/_/gameId/401688627/golden-knights-penguins",
+        "tb @ car": "/nhl/game/_/gameId/401688628/lightning-hurricanes",
+        "col @ min": "/nhl/game/_/gameId/401688629/avalanche-wild",
+        "nyr @ wpg": "/nhl/game/_/gameId/401688630/rangers-jets",
+        "mtl @ van": "/nhl/game/_/gameId/401688631/canadiens-canucks",
+        "wsh @ ana": "/nhl/game/_/gameId/401688632/capitals-ducks",
+        "nyi @ la": "/nhl/game/_/gameId/401688633/islanders-kings",
+        "nsh @ sj": "/nhl/game/_/gameId/401688634/predators-sharks"
+    },
+    "2025-03-12": {
+        "buf @ det": "/nhl/game/_/gameId/401688635/sabres-red-wings",
+        "van @ cgy": "/nhl/game/_/gameId/401688636/canucks-flames",
+        "ana @ utah": "/nhl/game/_/gameId/401688637/ducks-hockey-club",
+        "mtl @ sea": "/nhl/game/_/gameId/401688638/canadiens-kraken"
+    },
+    "2025-03-13": {
+        "fla @ tor": "/nhl/game/_/gameId/401688639/panthers-maple-leafs",
+        "bos @ ott": "/nhl/game/_/gameId/401688640/bruins-senators",
+        "tb @ phi": "/nhl/game/_/gameId/401688642/lightning-flyers",
+        "stl @ pit": "/nhl/game/_/gameId/401688643/blues-penguins",
+        "vgk @ cbj": "/nhl/game/_/gameId/401688644/golden-knights-blue-jackets",
+        "edm @ nj": "/nhl/game/_/gameId/401688641/oilers-devils",
+        "nyr @ min": "/nhl/game/_/gameId/401688645/rangers-wild",
+        "wsh @ la": "/nhl/game/_/gameId/401688646/capitals-kings",
+        "chi @ sj": "/nhl/game/_/gameId/401688647/blackhawks-sharks"
+    },
+    "2025-03-14": {
+        "det @ car": "/nhl/game/_/gameId/401688648/red-wings-hurricanes",
+        "edm @ nyi": "/nhl/game/_/gameId/401688649/oilers-islanders",
+        "dal @ wpg": "/nhl/game/_/gameId/401688650/stars-jets",
+        "col @ cgy": "/nhl/game/_/gameId/401688651/avalanche-flames",
+        "nsh @ ana": "/nhl/game/_/gameId/401688652/predators-ducks",
+        "utah @ sea": "/nhl/game/_/gameId/401688653/hockey-club-kraken"
+    },
+    "2025-03-15": {
+        "vgk @ buf": "/nhl/game/_/gameId/401688654/golden-knights-sabres",
+        "nj @ pit": "/nhl/game/_/gameId/401688655/devils-penguins",
+        "wsh @ sj": "/nhl/game/_/gameId/401688656/capitals-sharks",
+        "tb @ bos": "/nhl/game/_/gameId/401688657/lightning-bruins",
+        "ott @ tor": "/nhl/game/_/gameId/401688658/senators-maple-leafs",
+        "fla @ mtl": "/nhl/game/_/gameId/401688659/panthers-canadiens",
+        "car @ phi": "/nhl/game/_/gameId/401688660/hurricanes-flyers",
+        "nyr @ cbj": "/nhl/game/_/gameId/401688661/rangers-blue-jackets",
+        "stl @ min": "/nhl/game/_/gameId/401688662/blues-wild",
+        "nsh @ la": "/nhl/game/_/gameId/401688663/predators-kings",
+        "chi @ van": "/nhl/game/_/gameId/401688664/blackhawks-canucks"
+    },
+    "2025-03-16": {
+        "vgk @ det": "/nhl/game/_/gameId/401688665/golden-knights-red-wings",
+        "dal @ col": "/nhl/game/_/gameId/401688666/stars-avalanche",
+        "ana @ stl": "/nhl/game/_/gameId/401688667/ducks-blues",
+        "edm @ nyr": "/nhl/game/_/gameId/401688668/oilers-rangers",
+        "fla @ nyi": "/nhl/game/_/gameId/401688669/panthers-islanders",
+        "utah @ van": "/nhl/game/_/gameId/401688670/hockey-club-canucks",
+        "wpg @ sea": "/nhl/game/_/gameId/401688671/jets-kraken"
+    },
+    "2025-03-17": {
+        "buf @ bos": "/nhl/game/_/gameId/401688672/sabres-bruins",
+        "phi @ tb": "/nhl/game/_/gameId/401688673/flyers-lightning",
+        "nj @ cbj": "/nhl/game/_/gameId/401688674/devils-blue-jackets",
+        "cgy @ tor": "/nhl/game/_/gameId/401688675/flames-maple-leafs",
+        "la @ min": "/nhl/game/_/gameId/401688676/kings-wild"
+    },
+    "2025-03-18": {
+        "ott @ mtl": "/nhl/game/_/gameId/401688677/senators-canadiens",
+        "cgy @ nyr": "/nhl/game/_/gameId/401688678/flames-rangers",
+        "nyi @ pit": "/nhl/game/_/gameId/401688679/islanders-penguins",
+        "det @ wsh": "/nhl/game/_/gameId/401688680/red-wings-capitals",
+        "stl @ nsh": "/nhl/game/_/gameId/401688681/blues-predators",
+        "ana @ dal": "/nhl/game/_/gameId/401688682/ducks-stars",
+        "sea @ chi": "/nhl/game/_/gameId/401688683/kraken-blackhawks",
+        "utah @ edm": "/nhl/game/_/gameId/401688684/hockey-club-oilers",
+        "wpg @ van": "/nhl/game/_/gameId/401688685/jets-canucks"
+    },
+    "2025-03-19": {
+        "col @ tor": "/nhl/game/_/gameId/401688686/avalanche-maple-leafs",
+        "sea @ min": "/nhl/game/_/gameId/401688687/kraken-wild"
+    },
+    "2025-03-20": {
+        "col @ ott": "/nhl/game/_/gameId/401688688/avalanche-senators",
+        "cgy @ nj": "/nhl/game/_/gameId/401688689/flames-devils",
+        "tor @ nyr": "/nhl/game/_/gameId/401688690/maple-leafs-rangers",
+        "phi @ wsh": "/nhl/game/_/gameId/401688691/flyers-capitals",
+        "fla @ cbj": "/nhl/game/_/gameId/401688692/panthers-blue-jackets",
+        "mtl @ nyi": "/nhl/game/_/gameId/401688693/canadiens-islanders",
+        "van @ stl": "/nhl/game/_/gameId/401688694/canucks-blues",
+        "ana @ nsh": "/nhl/game/_/gameId/401688695/ducks-predators",
+        "tb @ dal": "/nhl/game/_/gameId/401688696/lightning-stars",
+        "la @ chi": "/nhl/game/_/gameId/401688697/kings-blackhawks",
+        "wpg @ edm": "/nhl/game/_/gameId/401688698/jets-oilers",
+        "buf @ utah": "/nhl/game/_/gameId/401688699/sabres-hockey-club",
+        "bos @ vgk": "/nhl/game/_/gameId/401688700/bruins-golden-knights",
+        "car @ sj": "/nhl/game/_/gameId/401688701/hurricanes-sharks"
+    },
+    "2025-03-21": {
+        "cbj @ pit": "/nhl/game/_/gameId/401688702/blue-jackets-penguins"
+    },
+    "2025-03-22": {
+        "van @ nyr": "/nhl/game/_/gameId/401688703/canucks-rangers",
+        "phi @ dal": "/nhl/game/_/gameId/401688704/flyers-stars",
+        "buf @ min": "/nhl/game/_/gameId/401688705/sabres-wild",
+        "chi @ stl": "/nhl/game/_/gameId/401688706/blackhawks-blues",
+        "cgy @ nyi": "/nhl/game/_/gameId/401688707/flames-islanders",
+        "car @ la": "/nhl/game/_/gameId/401688708/hurricanes-kings",
+        "fla @ wsh": "/nhl/game/_/gameId/401688709/panthers-capitals",
+        "tb @ utah": "/nhl/game/_/gameId/401688710/lightning-hockey-club",
+        "col @ mtl": "/nhl/game/_/gameId/401688711/avalanche-canadiens",
+        "ott @ nj": "/nhl/game/_/gameId/401688712/senators-devils",
+        "tor @ nsh": "/nhl/game/_/gameId/401688713/maple-leafs-predators",
+        "det @ vgk": "/nhl/game/_/gameId/401688714/red-wings-golden-knights",
+        "sea @ edm": "/nhl/game/_/gameId/401688715/kraken-oilers",
+        "bos @ sj": "/nhl/game/_/gameId/401688716/bruins-sharks"
+    },
+    "2025-03-23": {
+        "phi @ chi": "/nhl/game/_/gameId/401688717/flyers-blackhawks",
+        "buf @ wpg": "/nhl/game/_/gameId/401688718/sabres-jets",
+        "pit @ fla": "/nhl/game/_/gameId/401688719/penguins-panthers",
+        "nsh @ stl": "/nhl/game/_/gameId/401688720/predators-blues",
+        "tb @ vgk": "/nhl/game/_/gameId/401688721/lightning-golden-knights",
+        "car @ ana": "/nhl/game/_/gameId/401688722/hurricanes-ducks",
+        "bos @ la": "/nhl/game/_/gameId/401688723/bruins-kings"
+    },
+    "2025-03-24": {
+        "van @ nj": "/nhl/game/_/gameId/401688724/canucks-devils",
+        "cbj @ nyi": "/nhl/game/_/gameId/401688725/blue-jackets-islanders",
+        "min @ dal": "/nhl/game/_/gameId/401688726/wild-stars",
+        "det @ utah": "/nhl/game/_/gameId/401688727/red-wings-hockey-club"
+    },
+    "2025-03-25": {
+        "ott @ buf": "/nhl/game/_/gameId/401688728/senators-sabres",
+        "phi @ tor": "/nhl/game/_/gameId/401688729/flyers-maple-leafs",
+        "pit @ tb": "/nhl/game/_/gameId/401688730/penguins-lightning",
+        "nsh @ car": "/nhl/game/_/gameId/401688731/predators-hurricanes",
+        "mtl @ stl": "/nhl/game/_/gameId/401688732/canadiens-blues",
+        "vgk @ min": "/nhl/game/_/gameId/401688733/golden-knights-wild",
+        "wsh @ wpg": "/nhl/game/_/gameId/401688734/capitals-jets",
+        "det @ col": "/nhl/game/_/gameId/401688735/red-wings-avalanche",
+        "sea @ cgy": "/nhl/game/_/gameId/401688736/kraken-flames",
+        "nyr @ la": "/nhl/game/_/gameId/401688737/rangers-kings"
+    },
+    "2025-03-26": {
+        "van @ nyi": "/nhl/game/_/gameId/401688738/canucks-islanders",
+        "nj @ chi": "/nhl/game/_/gameId/401688739/devils-blackhawks",
+        "dal @ edm": "/nhl/game/_/gameId/401688740/stars-oilers",
+        "bos @ ana": "/nhl/game/_/gameId/401688741/bruins-ducks"
+    },
+    "2025-03-27": {
+        "pit @ buf": "/nhl/game/_/gameId/401688742/penguins-sabres",
+        "ott @ det": "/nhl/game/_/gameId/401688743/senators-red-wings",
+        "utah @ tb": "/nhl/game/_/gameId/401688744/hockey-club-lightning",
+        "mtl @ phi": "/nhl/game/_/gameId/401688745/canadiens-flyers",
+        "wsh @ min": "/nhl/game/_/gameId/401688747/capitals-wild",
+        "stl @ nsh": "/nhl/game/_/gameId/401688746/blues-predators",
+        "dal @ cgy": "/nhl/game/_/gameId/401688749/stars-flames",
+        "la @ col": "/nhl/game/_/gameId/401688748/kings-avalanche",
+        "edm @ sea": "/nhl/game/_/gameId/401688750/oilers-kraken",
+        "tor @ sj": "/nhl/game/_/gameId/401688751/maple-leafs-sharks"
+    },
+    "2025-03-28": {
+        "utah @ fla": "/nhl/game/_/gameId/401688752/hockey-club-panthers",
+        "mtl @ car": "/nhl/game/_/gameId/401688753/canadiens-hurricanes",
+        "van @ cbj": "/nhl/game/_/gameId/401688754/canucks-blue-jackets",
+        "nj @ wpg": "/nhl/game/_/gameId/401688755/devils-jets",
+        "vgk @ chi": "/nhl/game/_/gameId/401688756/golden-knights-blackhawks",
+        "nyr @ ana": "/nhl/game/_/gameId/401688757/rangers-ducks"
+    },
+    "2025-03-29": {
+        "buf @ phi": "/nhl/game/_/gameId/401688758/sabres-flyers",
+        "nyi @ tb": "/nhl/game/_/gameId/401688759/islanders-lightning",
+        "stl @ col": "/nhl/game/_/gameId/401688760/blues-avalanche",
+        "nj @ min": "/nhl/game/_/gameId/401688761/devils-wild",
+        "vgk @ nsh": "/nhl/game/_/gameId/401688762/golden-knights-predators",
+        "cbj @ ott": "/nhl/game/_/gameId/401688763/blue-jackets-senators",
+        "tor @ la": "/nhl/game/_/gameId/401688764/maple-leafs-kings",
+        "bos @ det": "/nhl/game/_/gameId/401688765/bruins-red-wings",
+        "cgy @ edm": "/nhl/game/_/gameId/401688766/flames-oilers",
+        "nyr @ sj": "/nhl/game/_/gameId/401688767/rangers-sharks",
+        "dal @ sea": "/nhl/game/_/gameId/401688768/stars-kraken"
+    },
+    "2025-03-30": {
+        "mtl @ fla": "/nhl/game/_/gameId/401688769/canadiens-panthers",
+        "buf @ wsh": "/nhl/game/_/gameId/401688770/sabres-capitals",
+        "van @ wpg": "/nhl/game/_/gameId/401688771/canucks-jets",
+        "utah @ chi": "/nhl/game/_/gameId/401688772/hockey-club-blackhawks",
+        "ott @ pit": "/nhl/game/_/gameId/401688773/senators-penguins",
+        "nyi @ car": "/nhl/game/_/gameId/401688774/islanders-hurricanes",
+        "tor @ ana": "/nhl/game/_/gameId/401688775/maple-leafs-ducks",
+        "sj @ la": "/nhl/game/_/gameId/401688776/sharks-kings"
+    },
+    "2025-03-31": {
+        "min @ nj": "/nhl/game/_/gameId/401688777/wild-devils",
+        "nsh @ phi": "/nhl/game/_/gameId/401688778/predators-flyers",
+        "cgy @ col": "/nhl/game/_/gameId/401688779/flames-avalanche",
+        "dal @ sea": "/nhl/game/_/gameId/401688780/stars-kraken"
+    },
+    "2025-04-01": {
+        "wsh @ bos": "/nhl/game/_/gameId/401688781/capitals-bruins",
+        "fla @ mtl": "/nhl/game/_/gameId/401688782/panthers-canadiens",
+        "buf @ ott": "/nhl/game/_/gameId/401688783/sabres-senators",
+        "nsh @ cbj": "/nhl/game/_/gameId/401688784/predators-blue-jackets",
+        "tb @ nyi": "/nhl/game/_/gameId/401688785/lightning-islanders",
+        "det @ stl": "/nhl/game/_/gameId/401688786/red-wings-blues",
+        "cgy @ utah": "/nhl/game/_/gameId/401688787/flames-hockey-club",
+        "edm @ vgk": "/nhl/game/_/gameId/401688788/oilers-golden-knights",
+        "sj @ ana": "/nhl/game/_/gameId/401688789/sharks-ducks",
+        "wpg @ la": "/nhl/game/_/gameId/401688790/jets-kings"
+    },
+    "2025-04-02": {
+        "min @ nyr": "/nhl/game/_/gameId/401688791/wild-rangers",
+        "wsh @ car": "/nhl/game/_/gameId/401688792/capitals-hurricanes",
+        "fla @ tor": "/nhl/game/_/gameId/401688793/panthers-maple-leafs",
+        "col @ chi": "/nhl/game/_/gameId/401688794/avalanche-blackhawks",
+        "sea @ van": "/nhl/game/_/gameId/401688795/kraken-canucks"
+    },
+    "2025-04-03": {
+        "bos @ mtl": "/nhl/game/_/gameId/401688796/bruins-canadiens",
+        "tb @ ott": "/nhl/game/_/gameId/401688797/lightning-senators",
+        "col @ cbj": "/nhl/game/_/gameId/401688798/avalanche-blue-jackets",
+        "pit @ stl": "/nhl/game/_/gameId/401688799/penguins-blues",
+        "nsh @ dal": "/nhl/game/_/gameId/401688800/predators-stars",
+        "la @ utah": "/nhl/game/_/gameId/401688801/kings-hockey-club",
+        "ana @ cgy": "/nhl/game/_/gameId/401688802/ducks-flames",
+        "wpg @ vgk": "/nhl/game/_/gameId/401688803/jets-golden-knights",
+        "edm @ sj": "/nhl/game/_/gameId/401688804/oilers-sharks"
+    },
+    "2025-04-04": {
+        "car @ det": "/nhl/game/_/gameId/401688805/hurricanes-red-wings",
+        "chi @ wsh": "/nhl/game/_/gameId/401688806/blackhawks-capitals",
+        "min @ nyi": "/nhl/game/_/gameId/401688807/wild-islanders"
+    },
+    "2025-04-05": {
+        "nyr @ nj": "/nhl/game/_/gameId/401688808/rangers-devils",
+        "fla @ ott": "/nhl/game/_/gameId/401688809/panthers-senators",
+        "pit @ dal": "/nhl/game/_/gameId/401688810/penguins-stars",
+        "ana @ van": "/nhl/game/_/gameId/401688811/ducks-canucks",
+        "edm @ la": "/nhl/game/_/gameId/401688812/oilers-kings",
+        "car @ bos": "/nhl/game/_/gameId/401688813/hurricanes-bruins",
+        "tb @ buf": "/nhl/game/_/gameId/401688814/lightning-sabres",
+        "cbj @ tor": "/nhl/game/_/gameId/401688815/blue-jackets-maple-leafs",
+        "phi @ mtl": "/nhl/game/_/gameId/401688816/flyers-canadiens",
+        "col @ stl": "/nhl/game/_/gameId/401688817/avalanche-blues",
+        "wpg @ utah": "/nhl/game/_/gameId/401688818/jets-hockey-club",
+        "vgk @ cgy": "/nhl/game/_/gameId/401688819/golden-knights-flames",
+        "sea @ sj": "/nhl/game/_/gameId/401688820/kraken-sharks"
+    },
+    "2025-04-06": {
+        "wsh @ nyi": "/nhl/game/_/gameId/401688821/capitals-islanders",
+        "dal @ min": "/nhl/game/_/gameId/401688822/stars-wild",
+        "cbj @ ott": "/nhl/game/_/gameId/401688823/blue-jackets-senators",
+        "fla @ det": "/nhl/game/_/gameId/401688824/panthers-red-wings",
+        "bos @ buf": "/nhl/game/_/gameId/401688825/bruins-sabres",
+        "pit @ chi": "/nhl/game/_/gameId/401688826/penguins-blackhawks",
+        "mtl @ nsh": "/nhl/game/_/gameId/401688827/canadiens-predators",
+        "vgk @ van": "/nhl/game/_/gameId/401688828/golden-knights-canucks"
+    },
+    "2025-04-07": {
+        "tb @ nyr": "/nhl/game/_/gameId/401688829/lightning-rangers",
+        "stl @ wpg": "/nhl/game/_/gameId/401688830/blues-jets",
+        "edm @ ana": "/nhl/game/_/gameId/401688831/oilers-ducks",
+        "sea @ la": "/nhl/game/_/gameId/401688832/kraken-kings",
+        "cgy @ sj": "/nhl/game/_/gameId/401688833/flames-sharks"
+    },
+    "2025-04-08": {
+        "car @ buf": "/nhl/game/_/gameId/401688834/hurricanes-sabres",
+        "det @ mtl": "/nhl/game/_/gameId/401688835/red-wings-canadiens",
+        "tor @ fla": "/nhl/game/_/gameId/401688836/maple-leafs-panthers",
+        "bos @ nj": "/nhl/game/_/gameId/401688837/bruins-devils",
+        "ott @ cbj": "/nhl/game/_/gameId/401688838/senators-blue-jackets",
+        "chi @ pit": "/nhl/game/_/gameId/401688839/blackhawks-penguins",
+        "nyi @ nsh": "/nhl/game/_/gameId/401688840/islanders-predators",
+        "van @ dal": "/nhl/game/_/gameId/401688841/canucks-stars",
+        "sea @ utah": "/nhl/game/_/gameId/401688842/kraken-hockey-club",
+        "vgk @ col": "/nhl/game/_/gameId/401688843/golden-knights-avalanche"
+    },
+    "2025-04-09": {
+        "tor @ tb": "/nhl/game/_/gameId/401688844/maple-leafs-lightning",
+        "phi @ nyr": "/nhl/game/_/gameId/401688845/flyers-rangers",
+        "sj @ min": "/nhl/game/_/gameId/401688846/sharks-wild",
+        "stl @ edm": "/nhl/game/_/gameId/401688847/blues-oilers",
+        "cgy @ ana": "/nhl/game/_/gameId/401688848/flames-ducks"
+    },
+    "2025-04-10": {
+        "chi @ bos": "/nhl/game/_/gameId/401688849/blackhawks-bruins",
+        "det @ fla": "/nhl/game/_/gameId/401688850/red-wings-panthers",
+        "buf @ cbj": "/nhl/game/_/gameId/401688852/sabres-blue-jackets",
+        "car @ wsh": "/nhl/game/_/gameId/401688851/hurricanes-capitals",
+        "nyr @ nyi": "/nhl/game/_/gameId/401688853/rangers-islanders",
+        "wpg @ dal": "/nhl/game/_/gameId/401688854/jets-stars",
+        "van @ col": "/nhl/game/_/gameId/401688855/canucks-avalanche",
+        "nsh @ utah": "/nhl/game/_/gameId/401688856/predators-hockey-club",
+        "sea @ vgk": "/nhl/game/_/gameId/401688857/kraken-golden-knights",
+        "ana @ la": "/nhl/game/_/gameId/401688858/ducks-kings"
+    },
+    "2025-04-11": {
+        "mtl @ ott": "/nhl/game/_/gameId/401688859/canadiens-senators",
+        "det @ tb": "/nhl/game/_/gameId/401688860/red-wings-lightning",
+        "pit @ nj": "/nhl/game/_/gameId/401688861/penguins-devils",
+        "sj @ edm": "/nhl/game/_/gameId/401688862/sharks-oilers",
+        "min @ cgy": "/nhl/game/_/gameId/401688863/wild-flames"
+    },
+    "2025-04-12": {
+        "nyi @ phi": "/nhl/game/_/gameId/401688864/islanders-flyers",
+        "wsh @ cbj": "/nhl/game/_/gameId/401688869/capitals-blue-jackets",
+        "nyr @ car": "/nhl/game/_/gameId/401688865/rangers-hurricanes",
+        "col @ la": "/nhl/game/_/gameId/401688866/avalanche-kings",
+        "buf @ fla": "/nhl/game/_/gameId/401688867/sabres-panthers",
+        "mtl @ tor": "/nhl/game/_/gameId/401688868/canadiens-maple-leafs",
+        "wpg @ chi": "/nhl/game/_/gameId/401688870/jets-blackhawks",
+        "utah @ dal": "/nhl/game/_/gameId/401688871/hockey-club-stars",
+        "min @ van": "/nhl/game/_/gameId/401688872/wild-canucks",
+        "nsh @ vgk": "/nhl/game/_/gameId/401688873/predators-golden-knights",
+        "stl @ sea": "/nhl/game/_/gameId/401688874/blues-kraken"
+    },
+    "2025-04-13": {
+        "phi @ ott": "/nhl/game/_/gameId/401688875/flyers-senators",
+        "nyi @ nj": "/nhl/game/_/gameId/401688876/islanders-devils",
+        "bos @ pit": "/nhl/game/_/gameId/401688877/bruins-penguins",
+        "tor @ car": "/nhl/game/_/gameId/401688878/maple-leafs-hurricanes",
+        "buf @ tb": "/nhl/game/_/gameId/401688879/sabres-lightning",
+        "cbj @ wsh": "/nhl/game/_/gameId/401688880/blue-jackets-capitals",
+        "edm @ wpg": "/nhl/game/_/gameId/401688881/oilers-jets",
+        "sj @ cgy": "/nhl/game/_/gameId/401688882/sharks-flames",
+        "col @ ana": "/nhl/game/_/gameId/401688883/avalanche-ducks"
+    },
+    "2025-04-14": {
+        "chi @ mtl": "/nhl/game/_/gameId/401688884/blackhawks-canadiens",
+        "dal @ det": "/nhl/game/_/gameId/401688885/stars-red-wings",
+        "nyr @ fla": "/nhl/game/_/gameId/401688886/rangers-panthers",
+        "utah @ nsh": "/nhl/game/_/gameId/401688887/hockey-club-predators",
+        "la @ edm": "/nhl/game/_/gameId/401688888/kings-oilers",
+        "sj @ van": "/nhl/game/_/gameId/401688889/sharks-canucks"
+    },
+    "2025-04-15": {
+        "nj @ bos": "/nhl/game/_/gameId/401688890/devils-bruins",
+        "tor @ buf": "/nhl/game/_/gameId/401688891/maple-leafs-sabres",
+        "chi @ ott": "/nhl/game/_/gameId/401688892/blackhawks-senators",
+        "cbj @ phi": "/nhl/game/_/gameId/401688894/blue-jackets-flyers",
+        "fla @ tb": "/nhl/game/_/gameId/401688893/panthers-lightning",
+        "wsh @ nyi": "/nhl/game/_/gameId/401688895/capitals-islanders",
+        "utah @ stl": "/nhl/game/_/gameId/401688896/hockey-club-blues",
+        "ana @ min": "/nhl/game/_/gameId/401688897/ducks-wild",
+        "vgk @ cgy": "/nhl/game/_/gameId/401688898/golden-knights-flames",
+        "la @ sea": "/nhl/game/_/gameId/401688899/kings-kraken"
+    },
+    "2025-04-16": {
+        "car @ mtl": "/nhl/game/_/gameId/401688900/hurricanes-canadiens",
+        "ana @ wpg": "/nhl/game/_/gameId/401688901/ducks-jets",
+        "det @ nj": "/nhl/game/_/gameId/401688902/red-wings-devils",
+        "dal @ nsh": "/nhl/game/_/gameId/401688903/stars-predators",
+        "vgk @ van": "/nhl/game/_/gameId/401688904/golden-knights-canucks",
+        "edm @ sj": "/nhl/game/_/gameId/401688905/oilers-sharks"
+    },
+    "2025-04-17": {
+        "phi @ buf": "/nhl/game/_/gameId/401688906/flyers-sabres",
+        "det @ tor": "/nhl/game/_/gameId/401688907/red-wings-maple-leafs",
+        "car @ ott": "/nhl/game/_/gameId/401688908/hurricanes-senators",
+        "tb @ nyr": "/nhl/game/_/gameId/401688909/lightning-rangers",
+        "wsh @ pit": "/nhl/game/_/gameId/401688910/capitals-penguins",
+        "nyi @ cbj": "/nhl/game/_/gameId/401688911/islanders-blue-jackets",
+        "cgy @ la": "/nhl/game/_/gameId/401751835/flames-kings"
+    },
+    "2025-04-19": {
+        "stl @ wpg": "/nhl/game/_/gameId/401768100/blues-jets",
+        "col @ dal": "/nhl/game/_/gameId/401768101/avalanche-stars"
+    },
+    "2025-04-20": {
+        "nj @ car": "/nhl/game/_/gameId/401768148/devils-hurricanes",
+        "ott @ tor": "/nhl/game/_/gameId/401768124/senators-maple-leafs",
+        "min @ vgk": "/nhl/game/_/gameId/401768167/wild-golden-knights"
+    },
+    "2025-04-21": {
+        "mtl @ wsh": "/nhl/game/_/gameId/401768138/canadiens-capitals",
+        "stl @ wpg": "/nhl/game/_/gameId/401768155/blues-jets",
+        "col @ dal": "/nhl/game/_/gameId/401768161/avalanche-stars",
+        "edm @ la": "/nhl/game/_/gameId/401768174/oilers-kings"
+    },
+    "2025-04-22": {
+        "nj @ car": "/nhl/game/_/gameId/401768149/devils-hurricanes",
+        "ott @ tor": "/nhl/game/_/gameId/401768125/senators-maple-leafs",
+        "fla @ tb": "/nhl/game/_/gameId/401768131/panthers-lightning",
+        "min @ vgk": "/nhl/game/_/gameId/401768168/wild-golden-knights"
+    },
+    "2025-04-23": {
+        "mtl @ wsh": "/nhl/game/_/gameId/401768139/canadiens-capitals",
+        "dal @ col": "/nhl/game/_/gameId/401768162/stars-avalanche",
+        "edm @ la": "/nhl/game/_/gameId/401768175/oilers-kings"
+    },
+    "2025-04-24": {
+        "fla @ tb": "/nhl/game/_/gameId/401768132/panthers-lightning",
+        "tor @ ott": "/nhl/game/_/gameId/401768126/maple-leafs-senators",
+        "vgk @ min": "/nhl/game/_/gameId/401768169/golden-knights-wild",
+        "wpg @ stl": "/nhl/game/_/gameId/401768156/jets-blues"
+    },
+    "2025-04-25": {
+        "wsh @ mtl": "/nhl/game/_/gameId/401768140/capitals-canadiens",
+        "car @ nj": "/nhl/game/_/gameId/401768150/hurricanes-devils",
+        "la @ edm": "/nhl/game/_/gameId/401768176/kings-oilers"
+    },
+    "2025-04-26": {
+        "tb @ fla": "/nhl/game/_/gameId/401768133/lightning-panthers",
+        "vgk @ min": "/nhl/game/_/gameId/401768170/golden-knights-wild",
+        "tor @ ott": "/nhl/game/_/gameId/401768127/maple-leafs-senators",
+        "dal @ col": "/nhl/game/_/gameId/401768163/stars-avalanche"
+    },
+    "2025-04-27": {
+        "wpg @ stl": "/nhl/game/_/gameId/401768157/jets-blues",
+        "car @ nj": "/nhl/game/_/gameId/401768151/hurricanes-devils",
+        "wsh @ mtl": "/nhl/game/_/gameId/401768141/capitals-canadiens",
+        "la @ edm": "/nhl/game/_/gameId/401768177/kings-oilers"
+    },
+    "2025-04-28": {
+        "tb @ fla": "/nhl/game/_/gameId/401768134/lightning-panthers",
+        "col @ dal": "/nhl/game/_/gameId/401768164/avalanche-stars"
+    },
+    "2025-04-29": {
+        "ott @ tor": "/nhl/game/_/gameId/401768128/senators-maple-leafs",
+        "nj @ car": "/nhl/game/_/gameId/401768152/devils-hurricanes",
+        "min @ vgk": "/nhl/game/_/gameId/401768171/wild-golden-knights",
+        "edm @ la": "/nhl/game/_/gameId/401768178/oilers-kings"
+    },
+    "2025-04-30": {
+        "fla @ tb": "/nhl/game/_/gameId/401768135/panthers-lightning",
+        "mtl @ wsh": "/nhl/game/_/gameId/401768142/canadiens-capitals",
+        "stl @ wpg": "/nhl/game/_/gameId/401768158/blues-jets"
+    },
+    "2025-05-01": {
+        "tor @ ott": "/nhl/game/_/gameId/401768129/maple-leafs-senators",
+        "dal @ col": "/nhl/game/_/gameId/401768165/stars-avalanche",
+        "vgk @ min": "/nhl/game/_/gameId/401768172/golden-knights-wild",
+        "la @ edm": "/nhl/game/_/gameId/401768179/kings-oilers"
+    },
+    "2025-05-02": {
+        "tb @ fla": "/nhl/game/_/gameId/401768136/lightning-panthers",
+        "wsh @ mtl": "/nhl/game/_/gameId/401768143/capitals-canadiens",
+        "car @ nj": "/nhl/game/_/gameId/401768153/hurricanes-devils",
+        "wpg @ stl": "/nhl/game/_/gameId/401768159/jets-blues"
+    },
+    "2025-05-03": {
+        "ott @ tor": "/nhl/game/_/gameId/401768130/senators-maple-leafs",
+        "col @ dal": "/nhl/game/_/gameId/401768166/avalanche-stars",
+        "min @ vgk": "/nhl/game/_/gameId/401768173/wild-golden-knights",
+        "edm @ la": "/nhl/game/_/gameId/401768180/oilers-kings"
+    },
+    "2025-05-04": {
+        "fla @ tb": "/nhl/game/_/gameId/401768137/panthers-lightning",
+        "mtl @ wsh": "/nhl/game/_/gameId/401768147/canadiens-capitals",
+        "nj @ car": "/nhl/game/_/gameId/401768154/devils-hurricanes",
+        "stl @ wpg": "/nhl/game/_/gameId/401768160/blues-jets"
+    },
+    "2025-05-05": {
+        "fla @ tor": "/nhl/game/_/gameId/401769841/panthers-maple-leafs"
+    },
+    "2025-05-06": {
+        "car @ wsh": "/nhl/game/_/gameId/401769842/hurricanes-capitals",
+        "edm @ vgk": "/nhl/game/_/gameId/401769956/oilers-golden-knights"
+    },
+    "2025-05-07": {
+        "fla @ tor": "/nhl/game/_/gameId/401769941/panthers-maple-leafs",
+        "dal @ wpg": "/nhl/game/_/gameId/401769971/stars-jets"
+    },
+    "2025-05-08": {
+        "car @ wsh": "/nhl/game/_/gameId/401769950/hurricanes-capitals",
+        "edm @ vgk": "/nhl/game/_/gameId/401769957/oilers-golden-knights"
+    },
+    "2025-05-09": {
+        "tor @ fla": "/nhl/game/_/gameId/401769943/maple-leafs-panthers",
+        "dal @ wpg": "/nhl/game/_/gameId/401769972/stars-jets"
+    },
+    "2025-05-10": {
+        "wsh @ car": "/nhl/game/_/gameId/401769951/capitals-hurricanes",
+        "vgk @ edm": "/nhl/game/_/gameId/401769958/golden-knights-oilers"
+    },
+    "2025-05-11": {
+        "wpg @ dal": "/nhl/game/_/gameId/401769973/jets-stars",
+        "tor @ fla": "/nhl/game/_/gameId/401769944/maple-leafs-panthers"
+    },
+    "2025-05-12": {
+        "wsh @ car": "/nhl/game/_/gameId/401769952/capitals-hurricanes",
+        "vgk @ edm": "/nhl/game/_/gameId/401769959/golden-knights-oilers"
+    },
+    "2025-05-13": {
+        "wpg @ dal": "/nhl/game/_/gameId/401769994/jets-stars"
+    },
+    "2025-05-14": {
+        "fla @ tor": "/nhl/game/_/gameId/401769946/panthers-maple-leafs",
+        "edm @ vgk": "/nhl/game/_/gameId/401769960/oilers-golden-knights"
+    },
+    "2025-05-15": {
+        "car @ wsh": "/nhl/game/_/gameId/401769953/hurricanes-capitals",
+        "dal @ wpg": "/nhl/game/_/gameId/401769995/stars-jets"
+    },
+    "2025-05-16": {
+        "tor @ fla": "/nhl/game/_/gameId/401769947/maple-leafs-panthers",
+        "vgk @ edm": "/nhl/game/_/gameId/401769961/golden-knights-oilers"
+    },
+    "2025-05-17": {
+        "wsh @ car": "/nhl/game/_/gameId/401769954/capitals-hurricanes",
+        "wpg @ dal": "/nhl/game/_/gameId/401769996/jets-stars"
+    },
+    "2025-05-18": {
+        "fla @ tor": "/nhl/game/_/gameId/401769949/panthers-maple-leafs",
+        "edm @ vgk": "/nhl/game/_/gameId/401769962/oilers-golden-knights"
+    },
+    "2025-05-19": {
+        "car @ wsh": "/nhl/game/_/gameId/401769955/hurricanes-capitals",
+        "dal @ wpg": "/nhl/game/_/gameId/401769997/stars-jets"
+    },
+    "2025-05-20": {
+        "fla @ car": "/nhl/game/_/gameId/401773328/panthers-hurricanes"
+    },
+    "2025-05-21": {
+        "edm @ dal": "/nhl/game/_/gameId/401773321/oilers-stars"
+    },
+    "2025-05-22": {
+        "fla @ car": "/nhl/game/_/gameId/401773329/panthers-hurricanes"
+    },
+    "2025-05-23": {
+        "edm @ dal": "/nhl/game/_/gameId/401773322/oilers-stars"
+    },
+    "2025-05-24": {
+        "car @ fla": "/nhl/game/_/gameId/401774290/hurricanes-panthers"
+    },
+    "2025-05-25": {
+        "dal @ edm": "/nhl/game/_/gameId/401773323/stars-oilers"
+    },
+    "2025-05-26": {
+        "car @ fla": "/nhl/game/_/gameId/401774291/hurricanes-panthers"
+    },
+    "2025-05-27": {
+        "dal @ edm": "/nhl/game/_/gameId/401773324/stars-oilers"
+    },
+    "2025-05-28": {
+        "fla @ car": "/nhl/game/_/gameId/401774292/panthers-hurricanes"
+    },
+    "2025-05-29": {
+        "edm @ dal": "/nhl/game/_/gameId/401773325/oilers-stars"
+    },
+    "2025-05-30": {
+        "car @ fla": "/nhl/game/_/gameId/401774293/hurricanes-panthers"
+    },
+    "2025-05-31": {
+        "dal @ edm": "/nhl/game/_/gameId/401773326/stars-oilers"
+    },
+    "2025-06-01": {
+        "fla @ car": "/nhl/game/_/gameId/401774294/panthers-hurricanes"
+    },
+    "2025-06-02": {
+        "edm @ dal": "/nhl/game/_/gameId/401773327/oilers-stars"
+    },
+    "2025-06-04": {
+        "fla @ edm": "/nhl/game/_/gameId/401777455/panthers-oilers"
+    },
+    "2025-06-06": {
+        "fla @ edm": "/nhl/game/_/gameId/401777456/panthers-oilers"
+    },
+    "2025-06-09": {
+        "edm @ fla": "/nhl/game/_/gameId/401777457/oilers-panthers"
+    },
+    "2025-06-12": {
+        "edm @ fla": "/nhl/game/_/gameId/401777458/oilers-panthers"
+    },
+    "2025-06-14": {
+        "fla @ edm": "/nhl/game/_/gameId/401777459/panthers-oilers"
+    },
+    "2025-06-17": {
+        "edm @ fla": "/nhl/game/_/gameId/401777460/oilers-panthers"
+    },
+    "2025-06-20": {
+        "fla @ edm": "/nhl/game/_/gameId/401777461/panthers-oilers"
+    }
+}

@@ -1,0 +1,1550 @@
+
+
+{
+    "michigan @ washington": {
+        "ftd": {
+            "kalel mullings": "+375",
+            "jonah coleman": "+475",
+            "denzel boston": "+500",
+            "donovan edwards": "+750",
+            "giles jackson": "+800",
+            "jeremiah hunter": "+1100",
+            "alex orji": "+1200",
+            "cameron davis": "+1600",
+            "colston loveland": "+2000",
+            "keleki latu": "+2000",
+            "semaj morgan": "+2500",
+            "tyler morris": "+2500",
+            "decker degraaf": "+3000",
+            "will rogers": "+4000",
+            "kendrick bell": "+5500",
+            "marlin klein": "+6600",
+            "frederick moore": "+10000"
+        },
+        "pass_yd": {
+            "will rogers": {
+                "227.5": "-115/-115"
+            },
+            "alex orji": {
+                "88.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "alex orji": {
+                "0.5": "+100/-130"
+            },
+            "will rogers": {
+                "1.5": "-120/-110"
+            }
+        },
+        "team_ftd": {
+            "jonah coleman": "+280",
+            "denzel boston": "+333",
+            "giles jackson": "+500",
+            "jeremiah hunter": "+650",
+            "cameron davis": "+850",
+            "will rogers": "+1100",
+            "kalel mullings": "+200",
+            "donovan edwards": "+400",
+            "colston loveland": "+550",
+            "alex orji": "+600",
+            "semaj morgan": "+1000"
+        },
+        "attd": {
+            "kalel mullings": "-175",
+            "denzel boston": "-110",
+            "jonah coleman": "-105",
+            "donovan edwards": "+130",
+            "giles jackson": "+170",
+            "alex orji": "+230",
+            "jeremiah hunter": "+260",
+            "colston loveland": "+375"
+        },
+        "2+td": {
+            "kalel mullings": "+270",
+            "jonah coleman": "+550",
+            "denzel boston": "+550",
+            "donovan edwards": "+750",
+            "giles jackson": "+1200",
+            "alex orji": "+1700",
+            "jeremiah hunter": "+2000",
+            "cameron davis": "+3000",
+            "colston loveland": "+4000",
+            "semaj morgan": "+6600",
+            "tyler morris": "+6600",
+            "keleki latu": "+6600",
+            "will rogers": "+10000",
+            "decker degraaf": "+12500"
+        }
+    },
+    "ucla @ penn state": {
+        "ftd": {
+            "nicholas singleton": "+375",
+            "kaytron allen": "+475",
+            "tyler warren": "+500",
+            "harrison wallace": "+550",
+            "omari evans": "+950",
+            "j fleming": "+1100",
+            "tj harden": "+1300",
+            "drew allar": "+1300",
+            "liam clifford": "+1500",
+            "rico flores": "+3500",
+            "moliki matavao": "+4000",
+            "j michael sturdivant": "+4500",
+            "ethan garbers": "+5000",
+            "keegan jones": "+5500"
+        },
+        "pass_yd": {
+            "drew allar": {
+                "212.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "drew allar": {
+                "2.5": "+100/-130"
+            }
+        },
+        "team_ftd": {
+            "nicholas singleton": "+300",
+            "kaytron allen": "+375",
+            "tyler warren": "+375",
+            "harrison wallace": "+450",
+            "drew allar": "+700",
+            "liam clifford": "+900",
+            "j fleming": "+900",
+            "tj harden": "+500",
+            "moliki matavao": "+1100",
+            "rico flores": "+1100",
+            "ethan garbers": "+1200",
+            "keegan jones": "+1200",
+            "j michael sturdivant": "+1400"
+        },
+        "attd": {
+            "nicholas singleton": "-165",
+            "kaytron allen": "-150",
+            "tyler warren": "-140",
+            "harrison wallace": "-110",
+            "omari evans": "+165",
+            "tj harden": "+190",
+            "drew allar": "+190",
+            "j fleming": "+230",
+            "liam clifford": "+300",
+            "rico flores": "+600",
+            "moliki matavao": "+650",
+            "j michael sturdivant": "+700",
+            "ethan garbers": "+750",
+            "keegan jones": "+800"
+        },
+        "2+td": {
+            "nicholas singleton": "+290",
+            "kaytron allen": "+375",
+            "tyler warren": "+425",
+            "harrison wallace": "+550",
+            "drew allar": "+1100",
+            "tj harden": "+1500",
+            "j fleming": "+1700",
+            "liam clifford": "+2800",
+            "rico flores": "+6000",
+            "moliki matavao": "+8000",
+            "ethan garbers": "+9000",
+            "j michael sturdivant": "+10000",
+            "keegan jones": "+12500"
+        }
+    },
+    "missouri @ texas a&m": {
+        "ftd": {
+            "nate noel": "+550",
+            "leveon moss": "+550",
+            "luther burden": "+800",
+            "amari daniels": "+1000",
+            "cyrus allen": "+1000",
+            "theo wease": "+1100",
+            "brady cook": "+1200",
+            "noah thomas": "+1400",
+            "mookie cooper": "+1800",
+            "brett norfleet": "+2000",
+            "jabre barber": "+2000",
+            "shane calhoun": "+2200"
+        },
+        "pass_yd": {
+            "brady cook": {
+                "223.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "brady cook": {
+                "1.5": "+120/-155"
+            }
+        },
+        "team_ftd": {
+            "leveon moss": "+240",
+            "amari daniels": "+550",
+            "noah thomas": "+600",
+            "cyrus allen": "+650",
+            "shane calhoun": "+1400",
+            "nate noel": "+260",
+            "luther burden": "+400",
+            "theo wease": "+500",
+            "brady cook": "+550"
+        },
+        "attd": {
+            "nate noel": "-125",
+            "leveon moss": "-125",
+            "luther burden": "+110",
+            "amari daniels": "+170",
+            "cyrus allen": "+170",
+            "theo wease": "+175",
+            "brady cook": "+190"
+        },
+        "2+td": {
+            "leveon moss": "+425",
+            "nate noel": "+500",
+            "luther burden": "+700",
+            "brady cook": "+1200",
+            "theo wease": "+1200",
+            "amari daniels": "+1200",
+            "cyrus allen": "+1200",
+            "noah thomas": "+1700",
+            "mookie cooper": "+3000",
+            "jabre barber": "+3500",
+            "brett norfleet": "+4000",
+            "shane calhoun": "+4000"
+        }
+    },
+    "smu @ louisville": {
+        "ftd": {
+            "brashard smith": "+500",
+            "isaac brown": "+650",
+            "jacorey brooks": "+750",
+            "kevin jennings": "+800",
+            "donald chaney": "+850",
+            "tyler shough": "+1100",
+            "jake bailey": "+1300",
+            "chris bell": "+1400",
+            "mark redman": "+2000",
+            "romello brinson": "+2200",
+            "lj johnson": "+2500",
+            "rj maryland": "+2500",
+            "keyshawn smith": "+3000"
+        },
+        "pass_yd": {
+            "kevin jennings": {
+                "184.5": "-115/-115"
+            },
+            "tyler shough": {
+                "261.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "kevin jennings": {
+                "1.5": "+155/-200"
+            },
+            "tyler shough": {
+                "2.5": "+170/-225"
+            }
+        },
+        "team_ftd": {
+            "isaac brown": "+375",
+            "jacorey brooks": "+450",
+            "donald chaney": "+500",
+            "tyler shough": "+650",
+            "chris bell": "+650",
+            "mark redman": "+1100",
+            "brashard smith": "+240",
+            "kevin jennings": "+550",
+            "jake bailey": "+600",
+            "rj maryland": "+750",
+            "lj johnson": "+1100",
+            "keyshawn smith": "+1100",
+            "romello brinson": "+1100"
+        },
+        "attd": {
+            "brashard smith": "-155",
+            "isaac brown": "-145",
+            "jacorey brooks": "-130",
+            "kevin jennings": "+100",
+            "donald chaney": "+100",
+            "tyler shough": "+145",
+            "jake bailey": "+170",
+            "chris bell": "+200",
+            "mark redman": "+300",
+            "lj johnson": "+400",
+            "rj maryland": "+425",
+            "romello brinson": "+450",
+            "keyshawn smith": "+475"
+        },
+        "2+td": {
+            "brashard smith": "+325",
+            "isaac brown": "+350",
+            "jacorey brooks": "+450",
+            "donald chaney": "+550",
+            "kevin jennings": "+600",
+            "tyler shough": "+850",
+            "jake bailey": "+1100",
+            "chris bell": "+1500",
+            "mark redman": "+3000",
+            "rj maryland": "+4000",
+            "lj johnson": "+4000",
+            "romello brinson": "+5000",
+            "keyshawn smith": "+5500"
+        }
+    },
+    "purdue @ wisconsin": {},
+    "boston college @ virginia": {},
+    "pitt @ north carolina": {},
+    "wake forest @ nc state": {},
+    "navy @ air force": {
+        "ftd": {
+            "blake horvath": "+310",
+            "eli heidenreich": "+550",
+            "brandon chatman": "+700",
+            "alex tecza": "+750",
+            "daba fofana": "+850",
+            "aiden calvert": "+900",
+            "cade harris": "+950",
+            "john busha": "+1200",
+            "nathan kent": "+1600",
+            "owen allen": "+1700",
+            "dylan carson": "+1800",
+            "quin smith": "+3000"
+        },
+        "pass_yd": {
+            "john busha": {
+                "66.5": "-115/-115"
+            },
+            "blake horvath": {
+                "127.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "blake horvath": {
+                "1.5": "+230/-300"
+            },
+            "john busha": {
+                "0.5": "+200/-275"
+            }
+        },
+        "team_ftd": {
+            "cade harris": "+340",
+            "aiden calvert": "+400",
+            "john busha": "+500",
+            "owen allen": "+750",
+            "dylan carson": "+800",
+            "quin smith": "+1100",
+            "blake horvath": "+210",
+            "eli heidenreich": "+380",
+            "brandon chatman": "+500",
+            "alex tecza": "+550",
+            "daba fofana": "+600",
+            "nathan kent": "+1200"
+        },
+        "attd": {
+            "blake horvath": "-150",
+            "eli heidenreich": "+110",
+            "brandon chatman": "+165",
+            "cade harris": "+180"
+        },
+        "2+td": {
+            "blake horvath": "+340",
+            "eli heidenreich": "+800",
+            "brandon chatman": "+1100",
+            "alex tecza": "+1100",
+            "cade harris": "+1200",
+            "daba fofana": "+1200",
+            "aiden calvert": "+1600",
+            "john busha": "+2200",
+            "owen allen": "+5500"
+        }
+    },
+    "army @ tulsa": {},
+    "massachusetts @ n illinois": {},
+    "tulane @ uab": {},
+    "w michigan @ ball state": {},
+    "iowa @ ohio state": {
+        "ftd": {
+            "quinshon judkins": "+375",
+            "treveyon henderson": "+425",
+            "jeremiah smith": "+650",
+            "kaleb johnson": "+700",
+            "emeka egbuka": "+700",
+            "will howard": "+1100",
+            "carnell tate": "+1200",
+            "brandon inniss": "+1400",
+            "kamari moulton": "+2000",
+            "luke lachey": "+2800",
+            "gee scott": "+2800",
+            "reece vander zee": "+4500",
+            "cade mcnamara": "+5000",
+            "jacob gill": "+5000",
+            "addison ostrenga": "+5500",
+            "kaleb brown": "+8000"
+        },
+        "pass_yd": {
+            "cade mcnamara": {
+                "118.5": "-115/-115"
+            },
+            "will howard": {
+                "247.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "cade mcnamara": {
+                "0.5": "+115/-150"
+            },
+            "will howard": {
+                "1.5": "-130/+100"
+            }
+        },
+        "team_ftd": {
+            "quinshon judkins": "+300",
+            "treveyon henderson": "+333",
+            "jeremiah smith": "+350",
+            "emeka egbuka": "+450",
+            "will howard": "+700",
+            "carnell tate": "+800",
+            "gee scott": "+1200",
+            "kaleb johnson": "+210",
+            "kamari moulton": "+475",
+            "luke lachey": "+850",
+            "jacob gill": "+1100",
+            "cade mcnamara": "+1200",
+            "reece vander zee": "+1300",
+            "addison ostrenga": "+1500",
+            "kaden wetjen": "+1800",
+            "kaleb brown": "+2000"
+        },
+        "attd": {
+            "quinshon judkins": "-190",
+            "treveyon henderson": "-155",
+            "jeremiah smith": "+105",
+            "kaleb johnson": "+125",
+            "emeka egbuka": "+130",
+            "will howard": "+135"
+        },
+        "2+td": {
+            "quinshon judkins": "+270",
+            "treveyon henderson": "+320",
+            "jeremiah smith": "+650",
+            "will howard": "+750",
+            "kaleb johnson": "+750",
+            "emeka egbuka": "+850",
+            "carnell tate": "+1800",
+            "kamari moulton": "+2000",
+            "brandon inniss": "+3300",
+            "luke lachey": "+5500",
+            "cade mcnamara": "+10000",
+            "jacob gill": "+10000",
+            "reece vander zee": "+10000",
+            "gee scott": "+10000"
+        }
+    },
+    "auburn @ georgia": {
+        "ftd": {
+            "trevor etienne": "+290",
+            "arian smith": "+650",
+            "dominic lovett": "+700",
+            "dillon bell": "+750",
+            "jarquez hunter": "+1000",
+            "nate frazier": "+1100",
+            "colbie young": "+1100",
+            "lawson luckie": "+1400",
+            "oscar delp": "+1500",
+            "carson beck": "+1700",
+            "keandre lambert smith": "+2000",
+            "payton thorne": "+2200",
+            "cam coleman": "+3000",
+            "rivaldo fairweather": "+3500",
+            "damari alston": "+4000"
+        },
+        "pass_yd": {
+            "payton thorne": {
+                "187.5": "-115/-115"
+            },
+            "carson beck": {
+                "292.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "payton thorne": {
+                "0.5": "-155/+120"
+            },
+            "carson beck": {
+                "2.5": "-115/-115"
+            }
+        },
+        "team_ftd": {
+            "trevor etienne": "+250",
+            "dominic lovett": "+500",
+            "arian smith": "+500",
+            "dillon bell": "+550",
+            "colbie young": "+850",
+            "oscar delp": "+1100",
+            "nate frazier": "+1100",
+            "lawson luckie": "+1200",
+            "carson beck": "+1400",
+            "jarquez hunter": "+270",
+            "keandre lambert smith": "+475",
+            "payton thorne": "+550",
+            "cam coleman": "+700",
+            "rivaldo fairweather": "+800",
+            "malcolm simmons": "+1100",
+            "damari alston": "+1200"
+        },
+        "attd": {
+            "trevor etienne": "-350",
+            "dominic lovett": "-110",
+            "arian smith": "-110",
+            "dillon bell": "+110",
+            "jarquez hunter": "+150",
+            "nate frazier": "+165",
+            "colbie young": "+195",
+            "carson beck": "+210",
+            "keandre lambert smith": "+230",
+            "oscar delp": "+280",
+            "payton thorne": "+280",
+            "lawson luckie": "+290",
+            "cam coleman": "+400",
+            "rivaldo fairweather": "+425",
+            "damari alston": "+650"
+        },
+        "2+td": {
+            "trevor etienne": "+140",
+            "arian smith": "+500",
+            "dominic lovett": "+550",
+            "dillon bell": "+650",
+            "jarquez hunter": "+900",
+            "nate frazier": "+950",
+            "carson beck": "+1300",
+            "colbie young": "+1500",
+            "keandre lambert smith": "+2000",
+            "payton thorne": "+2200",
+            "oscar delp": "+2500",
+            "lawson luckie": "+2500",
+            "cam coleman": "+4500",
+            "rivaldo fairweather": "+4500",
+            "damari alston": "+5500"
+        }
+    },
+    "ole miss @ south carolina": {
+        "ftd": {
+            "henry parrish": "+450",
+            "raheim sanders": "+600",
+            "tre harris": "+650",
+            "jaxson dart": "+900",
+            "antwane wells": "+1100",
+            "lanorris sellers": "+1100",
+            "jordan watkins": "+1200",
+            "ulysses bentley": "+1400",
+            "caden prieskorn": "+1400",
+            "cayden lee": "+1400",
+            "joshua simon": "+1800",
+            "vandrevious jacobs": "+2000",
+            "mazeo bennett": "+2800"
+        },
+        "pass_yd": {
+            "lanorris sellers": {
+                "157.5": "-115/-115"
+            },
+            "jaxson dart": {
+                "284.5": "-120/-110"
+            }
+        },
+        "pass_td": {
+            "lanorris sellers": {
+                "1.5": "+200/-275"
+            },
+            "jaxson dart": {
+                "2.5": "+165/-225"
+            }
+        },
+        "team_ftd": {
+            "raheim sanders": "+230",
+            "lanorris sellers": "+400",
+            "joshua simon": "+800",
+            "vandrevious jacobs": "+900",
+            "mazeo bennett": "+1400",
+            "henry parrish": "+250",
+            "tre harris": "+400",
+            "jaxson dart": "+550",
+            "antwane wells": "+650",
+            "jordan watkins": "+700",
+            "caden prieskorn": "+800",
+            "ulysses bentley": "+900",
+            "cayden lee": "+900"
+        },
+        "attd": {
+            "matt jones": "-190",
+            "henry parrish": "-190",
+            "raheim sanders": "-145",
+            "tre harris": "-135",
+            "lanorris sellers": "+130",
+            "jaxson dart": "+135",
+            "antwane wells": "+175",
+            "jordan watkins": "+185",
+            "ulysses bentley": "+210",
+            "caden prieskorn": "+230",
+            "cayden lee": "+240",
+            "jared brown": "+270",
+            "oscar adaway": "+300",
+            "vandrevius jacobs": "+350",
+            "joshua simon": "+425",
+            "nyck harbor": "+450",
+            "mazeo bennett": "+500"
+        },
+        "2+td": {
+            "matt jones": "+250",
+            "henry parrish": "+250",
+            "raheim sanders": "+375",
+            "tre harris": "+425",
+            "lanorris sellers": "+750",
+            "jaxson dart": "+800",
+            "antwane wells": "+1200",
+            "jordan watkins": "+1400",
+            "ulysses bentley": "+1600",
+            "caden prieskorn": "+1800",
+            "cayden lee": "+2000",
+            "jared brown": "+2200",
+            "oscar adaway": "+2800",
+            "vandrevius jacobs": "+4000",
+            "joshua simon": "+4000",
+            "nyck harbor": "+4500",
+            "mazeo bennett": "+5500"
+        }
+    },
+    "indiana @ northwestern": {
+        "ftd": {
+            "justice ellison": "+500",
+            "ty son lawton": "+550",
+            "elijah sarratt": "+650",
+            "cam porter": "+900",
+            "omar cooper": "+1000",
+            "myles price": "+1200",
+            "miles cross": "+1200",
+            "zach horton": "+1300",
+            "kurtis rourke": "+1400",
+            "jack lausch": "+1400",
+            "aj henning": "+1700",
+            "keshawn williams": "+1700",
+            "caleb komolafe": "+2200",
+            "bryce kirtz": "+2800",
+            "joseph himon ll": "+3500",
+            "marshall lang": "+4500",
+            "frank covey": "+5000",
+            "thomas gordon": "+6600"
+        },
+        "pass_yd": {
+            "kurtis rourke": {
+                "233.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "kurtis rourke": {
+                "1.5": "+100/-130"
+            }
+        },
+        "team_ftd": {
+            "cam porter": "+310",
+            "aj henning": "+550",
+            "jack lausch": "+550",
+            "caleb komolafe": "+950",
+            "bryce kirtz": "+1000",
+            "joseph himon": "+1200",
+            "marshall lang": "+1300",
+            "frank covey": "+1600",
+            "thomas gordon": "+2000",
+            "ty son lawton": "+390",
+            "justice ellison": "+390",
+            "elijah sarratt": "+475",
+            "omar cooper": "+700",
+            "myles price": "+850",
+            "miles cross": "+900",
+            "kurtis rourke": "+1000",
+            "zach horton": "+1000",
+            "keshawn williams": "+1300"
+        },
+        "attd": {
+            "ty son lawton": "-115",
+            "justice ellison": "-105",
+            "elijah sarratt": "+135",
+            "cam porter": "+165",
+            "omar cooper": "+230",
+            "kurtis rourke": "+270",
+            "myles price": "+280",
+            "aj henning": "+290",
+            "jack lausch": "+300",
+            "miles cross": "+320",
+            "zach horton": "+350",
+            "keshawn williams": "+500",
+            "caleb komolafe": "+550",
+            "bryce kirtz": "+550",
+            "joseph himon ll": "+800",
+            "marshall lang": "+850",
+            "frank covey": "+1000",
+            "thomas gordon": "+1300"
+        },
+        "2+td": {
+            "ty son lawton": "+500",
+            "justice ellison": "+500",
+            "elijah sarratt": "+900",
+            "cam porter": "+1200",
+            "omar cooper": "+1800",
+            "kurtis rourke": "+2200",
+            "jack lausch": "+2500",
+            "myles price": "+2500",
+            "aj henning": "+3000",
+            "miles cross": "+3300",
+            "zach horton": "+3500",
+            "keshawn williams": "+5500",
+            "bryce kirtz": "+6600",
+            "caleb komolafe": "+6600",
+            "joseph himon ll": "+10000",
+            "marshall lang": "+12500"
+        }
+    },
+    "virginia tech @ stanford": {},
+    "temple @ uconn": {},
+    "appalachian st @ marshall": {},
+    "miami oh @ toledo": {},
+    "bowling green @ akron": {},
+    "east carolina @ charlotte": {},
+    "rutgers @ nebraska": {
+        "ftd": {
+            "dante dowdell": "+450",
+            "kyle monangai": "+500",
+            "isaiah neyor": "+750",
+            "jahmal banks": "+850",
+            "rahmir johnson": "+900",
+            "thomas fidone ll": "+1300",
+            "emmett johnson": "+1400",
+            "samuel brown v": "+1600",
+            "dymere miller": "+1600",
+            "dylan raiola": "+1600",
+            "kenny fletcher": "+1800",
+            "ian strong": "+2000",
+            "athan kaliakmanis": "+2500",
+            "chris long": "+3000"
+        },
+        "pass_yd": {
+            "athan kaliakmanis": {
+                "149.5": "-115/-115"
+            },
+            "dylan raiola": {
+                "213.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "athan kaliakmanis": {
+                "0.5": "-145/+110"
+            },
+            "dylan raiola": {
+                "1.5": "+120/-155"
+            }
+        },
+        "team_ftd": {
+            "dante dowdell": "+300",
+            "isaiah neyor": "+475",
+            "jahmal banks": "+500",
+            "rahmir johnson": "+650",
+            "jacory barney": "+750",
+            "thomas fidone": "+850",
+            "dylan raiola": "+1000",
+            "emmett johnson": "+1000",
+            "kyle monangai": "+220",
+            "dymer miller": "+550",
+            "samuel brown": "+700",
+            "kenny fletcher": "+750",
+            "ian strong": "+850",
+            "athan kaliakmanis": "+1100",
+            "chris long": "+1100",
+            "kj duff": "+1600"
+        },
+        "attd": {
+            "dante dowdell": "-110",
+            "kyle monangai": "+105",
+            "isaiah neyor": "+165",
+            "jahmal banks": "+180",
+            "rahmir johnson": "+220",
+            "samuel brown v": "+290",
+            "emmett johnson": "+300",
+            "dymere miller": "+320",
+            "thomas fidone ll": "+320",
+            "dylan raiola": "+320",
+            "kenny fletcher": "+375",
+            "ian strong": "+425",
+            "athan kaliakmanis": "+500",
+            "chris long": "+650"
+        },
+        "2+td": {
+            "dante dowdell": "+500",
+            "kyle monangai": "+600",
+            "isaiah neyor": "+1100",
+            "rahmir johnson": "+1300",
+            "jahmal banks": "+1300",
+            "samuel brown v": "+2200",
+            "emmett johnson": "+2500",
+            "dylan raiola": "+3000",
+            "dymere miller": "+3000"
+        }
+    },
+    "west virginia @ oklahoma st": {},
+    "alabama @ vanderbilt": {
+        "ftd": {
+            "jalen milroe": "+320",
+            "jam miller": "+500",
+            "justice haynes": "+600",
+            "kendrick law": "+1000",
+            "kobe prentice": "+1000",
+            "sedrick alexander": "+1100",
+            "germie bernard": "+1100",
+            "diego pavia": "+1200",
+            "cj dippre": "+1600",
+            "aj newberry": "+2200",
+            "josh cuevas": "+2500",
+            "eli stowers": "+3000",
+            "quincy skinner": "+3000",
+            "junior sherill": "+4500",
+            "loic fouonji": "+5000",
+            "richie hoskins": "+6600"
+        },
+        "pass_yd": {
+            "jalen milroe": {
+                "233.5": "-115/-115"
+            },
+            "diego pavia": {
+                "160.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "diego pavia": {
+                "0.5": "-150/+115"
+            },
+            "jalen milroe": {
+                "1.5": "-200/+150"
+            }
+        },
+        "team_ftd": {
+            "jalen milroe": "+300",
+            "jam miller": "+375",
+            "justice haynes": "+500",
+            "germie bernard": "+650",
+            "kobe prentice": "+700",
+            "cj dippre": "+1000",
+            "kendrick law": "+1000",
+            "diego pavia": "+400",
+            "sedrick alexander": "+450",
+            "eli stowers": "+700",
+            "junior sherill": "+850",
+            "loic fouonji": "+850",
+            "jamoni jones": "+1000",
+            "quincy skinner": "+1100"
+        },
+        "attd": {
+            "jalen milroe": "-350",
+            "jam miller": "-160",
+            "justice haynes": "-150",
+            "sedrick alexander": "+145",
+            "kendrick law": "+145",
+            "kobe prentice": "+145",
+            "diego pavia": "+150",
+            "germie bernard": "+155",
+            "cj dippre": "+240",
+            "aj newberry": "+280",
+            "eli stowers": "+350",
+            "quincy skinner": "+400",
+            "josh cuevas": "+475",
+            "junior sherrill": "+500",
+            "loic fouonji": "+600",
+            "richie hoskins": "+900"
+        },
+        "2+td": {
+            "jalen milroe": "+140",
+            "jam miller": "+300",
+            "justice haynes": "+340",
+            "sedrick alexander": "+900",
+            "kobe prentice": "+1000",
+            "kendrick law": "+1000",
+            "germie bernard": "+1000",
+            "diego pavia": "+1000",
+            "cj dippre": "+2200",
+            "aj newberry": "+2500",
+            "eli stowers": "+3000",
+            "quincy skinner": "+3300",
+            "josh cuevas": "+5500",
+            "junior sherill": "+6000",
+            "loic fouonji": "+8000"
+        }
+    },
+    "colorado st @ oregon st": {},
+    "clemson @ florida st": {
+        "ftd": {
+            "phil mafah": "+350",
+            "lawrance toafili": "+650",
+            "antonio williams": "+800",
+            "jay haynes": "+900",
+            "jake briningstool": "+900",
+            "cade klubnik": "+950",
+            "tj moore": "+1100",
+            "bryant wesco": "+1100",
+            "adam randall": "+1400",
+            "troy stellato": "+1400",
+            "kam davis": "+1600",
+            "malik benson": "+2200",
+            "brock glenn": "+2500",
+            "jakhi douglas": "+2800",
+            "hykeem williams": "+3000",
+            "kyle morlock": "+3000",
+            "kentron poitier": "+4000",
+            "jalen brown": "+4000"
+        },
+        "pass_yd": {
+            "brock glenn": {
+                "150.5": "-115/-115"
+            },
+            "cade klubnik": {
+                "240.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "cade klubnik": {
+                "1.5": "-155/+120"
+            },
+            "brock glenn": {
+                "0.5": "-150/+115"
+            }
+        },
+        "team_ftd": {
+            "lawrance toafili": "+210",
+            "kam davis": "+550",
+            "malik benson": "+800",
+            "jakhi douglas": "+900",
+            "brock glenn": "+950",
+            "hykeem williams": "+1000",
+            "kyle morlock": "+1100",
+            "jalen brown": "+1100",
+            "kentron poitier": "+1100",
+            "phil mafah": "+250",
+            "antonio williams": "+550",
+            "jake briningstool": "+650",
+            "jay haynes": "+700",
+            "bryant wesco": "+700",
+            "cade klubnik": "+700",
+            "tj moore": "+700",
+            "troy stellato": "+950",
+            "adam randall": "+950"
+        },
+        "attd": {
+            "phil mafah": "-200",
+            "lawrance toafili": "-105",
+            "cade klubnik": "+135",
+            "antonio williams": "+140",
+            "jay haynes": "+150",
+            "jake briningstool": "+160",
+            "tj moore": "+220",
+            "bryant wesco": "+220",
+            "kam davis": "+240",
+            "adam randall": "+310",
+            "troy stellato": "+310",
+            "malik benson": "+400",
+            "brock glenn": "+425",
+            "jakhi douglas": "+425",
+            "hykeem williams": "+500",
+            "kyle morlock": "+600",
+            "kentron poitier": "+650",
+            "jalen brown": "+650"
+        },
+        "2+td": {
+            "phil mafah": "+240",
+            "lawrance toafili": "+500",
+            "jay haynes": "+750",
+            "cade klubnik": "+800",
+            "antonio williams": "+950",
+            "jake brinningstool": "+1100",
+            "tj moore": "+1800",
+            "kam davis": "+2000",
+            "bryant wesco": "+2000",
+            "adam randall": "+3000",
+            "troy stellato": "+3000",
+            "malik benson": "+4000",
+            "brock glenn": "+4500",
+            "jakhi douglas": "+4500",
+            "hykeem williams": "+8000",
+            "kentron poitier": "+9000",
+            "kyle morlock": "+9000",
+            "jalen brown": "+9000"
+        }
+    },
+    "utah state @ boise st": {
+        "ftd": {
+            "ashton jeanty": "+140"
+        },
+        "attd": {
+            "ashton jeanty": "-2000"
+        },
+        "2+td": {
+            "ashton jeanty": "-350"
+        }
+    },
+    "old dominion @ coastal car": {},
+    "south alabama @ arkansas st": {},
+    "james madison @ ul monroe": {},
+    "louisiana @ southern miss": {},
+    "tennessee @ arkansas": {
+        "ftd": {
+            "dylan sampson": "+270",
+            "jaquinden jackson": "+650",
+            "nico iamaleava": "+750",
+            "taylen green": "+1000",
+            "desean bishop": "+1000",
+            "donte thornton": "+1200",
+            "bru mccoy": "+1200",
+            "squirrel white": "+1300",
+            "chris brazzell": "+1400",
+            "andrew armstrong": "+1800",
+            "holden staes": "+2200",
+            "isaiah sategna": "+2500",
+            "tyrone broden": "+2500",
+            "isaac teslaa": "+3000",
+            "luke hasz": "+3500",
+            "rodney hill": "+4500"
+        },
+        "pass_yd": {
+            "taylen green": {
+                "191.5": "-115/-115"
+            },
+            "nico iamaleava": {
+                "240.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "taylen green": {
+                "1.5": "+150/-200"
+            },
+            "nico iamaleava": {
+                "1.5": "-165/+130"
+            }
+        },
+        "team_ftd": {
+            "jaquinden jackson": "+250",
+            "taylen green": "+400",
+            "andrew armstrong": "+500",
+            "isaiah sategna": "+750",
+            "tyrone broden": "+850",
+            "isaac teslaa": "+900",
+            "luke hasz": "+1200",
+            "ty washington": "+1200",
+            "braylen russell": "+1400",
+            "dylan sampson": "+160",
+            "nico iamaleava": "+475",
+            "bru mccoy": "+700",
+            "desean bishop": "+750",
+            "donte thornton": "+750",
+            "squirrel white": "+850",
+            "chris brazzell": "+900",
+            "holden staes": "+1500"
+        },
+        "attd": {
+            "dylan sampson": "-450",
+            "nico iamaleava": "-150",
+            "jaquinden jackson": "-135",
+            "taylen green": "+120",
+            "desean bishop": "+145",
+            "donte thornton": "+165",
+            "bru mccoy": "+170",
+            "squirrel white": "+175",
+            "andrew armstrong": "+185",
+            "chris brazzell": "+200",
+            "isaiah sategna": "+275",
+            "tyrone broden": "+300",
+            "holden staes": "+375",
+            "isaac teslaa": "+375",
+            "luke hasz": "+425",
+            "rodney hill": "+550"
+        },
+        "2+td": {
+            "dylan sampson": "-115",
+            "nico iamaleava": "+340",
+            "jaquinden jackson": "+375",
+            "taylen green": "+650",
+            "desean bishop": "+750",
+            "andrew armstrong": "+1200",
+            "bru mccoy": "+1200",
+            "donte thornton": "+1200",
+            "squirrel white": "+1400",
+            "chris brazzell": "+1500",
+            "isaiah sategna": "+2500",
+            "tyrone broden": "+3000",
+            "isaac teslaa": "+4000",
+            "holden staes": "+4000",
+            "luke hasz": "+4500",
+            "rodney hill": "+5000"
+        }
+    },
+    "usc @ minnesota": {
+        "ftd": {
+            "woody marks": "+360",
+            "darius taylor": "+550",
+            "zachariah branch": "+950",
+            "jakobi lane": "+1000",
+            "kyron hudson": "+1000",
+            "daniel jackson": "+1400",
+            "quinten joyner": "+1400",
+            "miller moss": "+2000",
+            "makai lemon": "+2000",
+            "max brosmer": "+2200",
+            "elijah spencer": "+2200",
+            "jameson geers": "+2500",
+            "kade eldridge": "+2500",
+            "lemeke brockington": "+2800"
+        },
+        "pass_yd": {
+            "miller moss": {
+                "288.5": "-115/-115"
+            },
+            "max brosmer": {
+                "200.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "miller moss": {
+                "2.5": "+105/-140"
+            },
+            "max brosmer": {
+                "1.5": "+165/-225"
+            }
+        },
+        "team_ftd": {
+            "darius taylor": "+200",
+            "daniel jackson": "+525",
+            "elijah spencer": "+800",
+            "max brosmer": "+900",
+            "jameson geers": "+1200",
+            "lemeke brockington": "+1200",
+            "woody marks": "+200",
+            "jakobi lane": "+575",
+            "zachariah branch": "+600",
+            "kyron hudson": "+650",
+            "quinten joyner": "+900",
+            "miller moss": "+1200",
+            "makai lemon": "+1400",
+            "kade eldridge": "+1800"
+        },
+        "attd": {
+            "woody marks": "-250",
+            "darius taylor": "-125",
+            "jakobi lane": "+145",
+            "zachariah branch": "+160",
+            "kyron hudson": "+170",
+            "daniel jackson": "+195",
+            "quinten joyner": "+220",
+            "miller moss": "+320",
+            "elijah spencer": "+340",
+            "max brosmer": "+360",
+            "makai lemon": "+375",
+            "lemeke brockington": "+400",
+            "jameson geers": "+425",
+            "kade eldridge": "+425"
+        },
+        "2+td": {
+            "woody marks": "+220",
+            "darius taylor": "+400",
+            "jakobi lane": "+1100",
+            "zachariah branch": "+1200",
+            "daniel jackson": "+1400",
+            "kyron hudson": "+1400",
+            "quinten joyner": "+1600",
+            "miller moss": "+2200",
+            "elijah spencer": "+2800",
+            "max brosmer": "+3000",
+            "jameson geers": "+4000",
+            "lemeke brockington": "+4000",
+            "makai lemon": "+4000",
+            "kade eldridge": "+5000"
+        }
+    },
+    "baylor @ iowa state": {},
+    "nevada @ san jose st": {},
+    "ucf @ florida": {
+        "ftd": {
+            "rj harvey": "+400",
+            "montrell johnson": "+550",
+            "kj jefferson": "+850",
+            "kobe hudson": "+850",
+            "trent whittemore": "+1000",
+            "elijhah badger": "+1000",
+            "eugene wilson": "+1000",
+            "randy pittman,": "+1200",
+            "chimere dike": "+1400",
+            "penny boone": "+1600",
+            "treyaun webb": "+1600",
+            "myles montgomery": "+1800",
+            "jakobi jackson": "+1800",
+            "j jones": "+1800",
+            "graham mertz": "+1800",
+            "javarrius johnson": "+2000",
+            "arlis boardingham": "+2000",
+            "chauncey magwood": "+2200",
+            "evan morris": "+2200",
+            "johnny richardson": "+2200",
+            "aidan mizell": "+2200",
+            "hayden hansen": "+2200",
+            "kahleil jackson": "+2200"
+        },
+        "pass_yd": {
+            "kj jefferson": {
+                "206.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "kj jefferson": {
+                "1.5": "+100/-130"
+            }
+        },
+        "team_ftd": {
+            "montrell johnson": "+250",
+            "elijhah badger": "+500",
+            "eugene wilson": "+500",
+            "chimere dike": "+700",
+            "treyaun webb": "+800",
+            "jakobi jackson": "+900",
+            "graham mertz": "+900",
+            "arlis boardingham": "+1100",
+            "aidan mizell": "+1200",
+            "hayden hansen": "+1200",
+            "kahleil jackson": "+1200",
+            "rj harvey": "+190",
+            "kj jefferson": "+400",
+            "kobe hudson": "+400",
+            "trent whittemore": "+500",
+            "randy pittman,": "+650",
+            "peny boone": "+800",
+            "myles montgomery": "+900",
+            "j jones": "+900",
+            "javarrius johnson": "+1100",
+            "chauncey magwood": "+1200",
+            "evan morris": "+1200",
+            "johnny richardson": "+1200"
+        },
+        "attd": {
+            "rj harvey": "-300",
+            "montrell johnson": "-190",
+            "kj jefferson": "-120",
+            "kobe hudson": "-120",
+            "trent whittemore": "+100",
+            "elijhah badger": "+110",
+            "eugene wilson": "+110",
+            "randy pittman,": "+135",
+            "chimere dike": "+160",
+            "penny boone": "+175",
+            "treyaun webb": "+175",
+            "myles montgomery": "+185",
+            "j jones": "+185",
+            "jakobi jackson": "+200",
+            "graham mertz": "+200",
+            "javarrius johnson": "+225",
+            "arlis boardingham": "+240",
+            "chauncey magwood": "+260",
+            "evan morris": "+260",
+            "johnny richardson": "+260",
+            "aidan mizell": "+275",
+            "hayden hansen": "+275",
+            "kahleil jackson": "+275"
+        },
+        "2+td": {
+            "rj harvey": "+120",
+            "montrell johnson": "+200",
+            "kj jefferson": "+400",
+            "kobe hudson": "+400",
+            "trent whittemore": "+500",
+            "elijhah badger": "+550",
+            "eugene wilson": "+550",
+            "randy pittman,": "+800",
+            "chimere dike": "+1100",
+            "penny boone": "+1200",
+            "treyaun webb": "+1400",
+            "myles montgomery": "+1600",
+            "j jones": "+1600",
+            "jakobi jackson": "+1600",
+            "graham mertz": "+1600",
+            "javarrius johnson": "+2000",
+            "arlis boardingham": "+2000",
+            "chauncey magwood": "+2500",
+            "evan morris": "+2500",
+            "johnny richardson": "+2500",
+            "aidan mizell": "+2500",
+            "hayden hansen": "+2500",
+            "kahleil jackson": "+2500"
+        }
+    },
+    "duke @ georgia tech": {},
+    "kansas @ arizona st": {
+        "ftd": {
+            "cameron skattebo": "+310",
+            "devin neal": "+450",
+            "sam leavitt": "+950",
+            "jordyn tyson": "+950",
+            "luke grimm": "+1100",
+            "jalon daniels": "+1200",
+            "daniel hishaw": "+1300",
+            "xavier guillory": "+1300",
+            "quentin skinner": "+1400",
+            "lawrence arnold": "+1400",
+            "chamon metayer": "+1700",
+            "melquan stovall": "+1900",
+            "decarlos brooks": "+2500",
+            "kyson brown": "+2500",
+            "jared casey": "+2500"
+        },
+        "pass_yd": {
+            "jalon daniels": {
+                "179.5": "-115/-115"
+            },
+            "sam leavitt": {
+                "212.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "sam leavitt": {
+                "1.5": "+145/-190"
+            },
+            "jalon daniels": {
+                "1.5": "+135/-175"
+            }
+        },
+        "team_ftd": {
+            "cam skattebo": "+135",
+            "sam leavitt": "+500",
+            "jordyn tyson": "+500",
+            "xavier guillory": "+750",
+            "chamon metayer": "+950",
+            "melquan stovall": "+1000",
+            "kyson brown": "+1400",
+            "decarlos brooks": "+1400",
+            "devin neal": "+195",
+            "jalon daniels": "+550",
+            "luke grimm": "+550",
+            "daniel hinshaw": "+650",
+            "quentin skinner": "+650",
+            "lawrence arnold": "+700",
+            "jared casey": "+1200"
+        },
+        "attd": {
+            "cameron skattebo": "-275",
+            "devin neal": "-165",
+            "sam leavitt": "+125",
+            "jordyn tyson": "+155",
+            "jalon daniels": "+160",
+            "luke grimm": "+160",
+            "daniel hishaw": "+220",
+            "quentin skinner": "+220",
+            "lawrence arnold": "+230",
+            "xavier guillory": "+240",
+            "chamon metayer": "+320",
+            "melquan stovall": "+333",
+            "decarlos brooks": "+400",
+            "kyson brown": "+400",
+            "jared casey": "+500"
+        },
+        "2+td": {
+            "cameron skattebo": "+165",
+            "devin neal": "+300",
+            "sam leavitt": "+800",
+            "jalon daniels": "+1000",
+            "luke grimm": "+1100",
+            "jordyn tyson": "+1100",
+            "daniel hishaw": "+1500",
+            "lawrence arnold": "+1600",
+            "quentin skinner": "+1800",
+            "xavier guillory": "+2000",
+            "decarlos brooks": "+2800",
+            "kyson brown": "+2800",
+            "chamon metayer": "+3000",
+            "melquan stovall": "+3500",
+            "jared casey": "+5500"
+        }
+    },
+    "hawai'i @ san diego st": {},
+    "miami @ california": {
+        "ftd": {
+            "damien martinez": "+475",
+            "xavier restrepo": "+600",
+            "jadyn ott": "+650",
+            "jacolby george": "+950",
+            "isaiah horton": "+1000",
+            "mark fletcher": "+1200",
+            "samuel brown": "+1200",
+            "elijah arroyo": "+1200",
+            "nyziah hunter": "+1300",
+            "cam ward": "+1400",
+            "mavin anderson": "+1500",
+            "jaivian thomas": "+1700",
+            "corey dyches": "+1700",
+            "jonathan brady": "+2000",
+            "fernando mendoza": "+2500"
+        },
+        "pass_yd": {
+            "fernando mendoza": {
+                "221.5": "-115/-115"
+            },
+            "cam ward": {
+                "309.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "fernando mendoza": {
+                "1.5": "+135/-175"
+            },
+            "cam ward": {
+                "2.5": "+110/-140"
+            }
+        },
+        "team_ftd": {
+            "jaydn ott": "+230",
+            "nyziah hunter": "+475",
+            "mavin anderson": "+600",
+            "jaivian thomas": "+700",
+            "jonathan brady": "+700",
+            "corey dyches": "+700",
+            "fernando mendoza": "+1000",
+            "damien matinez": "+280",
+            "xavier restrepo": "+375",
+            "jacolby george": "+600",
+            "isaiah horton": "+650",
+            "elijah arroyo": "+800",
+            "samuel brown": "+850",
+            "mark fletcher": "+900",
+            "cam ward": "+950"
+        },
+        "attd": {
+            "damien martinez": "-185",
+            "xavier restrepo": "-140",
+            "jadyn ott": "-120",
+            "jacolby george": "+140",
+            "nyziah hunter": "+160",
+            "isaiah horton": "+160",
+            "cam ward": "+170",
+            "mark fletcher": "+195",
+            "samuel brown": "+220",
+            "mavin anderson": "+220",
+            "elijah arroyo": "+220",
+            "jaivian thomas": "+230",
+            "corey dyches": "+260",
+            "jonathan brady": "+280",
+            "fernando mendoza": "+375"
+        },
+        "2+td": {
+            "damien martinez": "+260",
+            "xavier restrepo": "+425",
+            "jadyn ott": "+475",
+            "jacolby george": "+950",
+            "nyziah hunter": "+1100",
+            "isaiah horton": "+1200",
+            "cam ward": "+1200",
+            "mark fletcher": "+1500",
+            "samuel brown": "+1800",
+            "mavin anderson": "+1800",
+            "elijah arroyo": "+1800",
+            "jaivian thomas": "+2000",
+            "corey dyches": "+2200",
+            "jonathan brady": "+2500",
+            "fernando mendoza": "+3000"
+        }
+    },
+    "texas tech @ arizona": {
+        "ftd": {
+            "quali conley": "+280",
+            "tahj brooks": "+390",
+            "tetairoa mcmillan": "+550",
+            "josh kelly": "+1100",
+            "coy eakin": "+1300",
+            "montana lemonious craig": "+1400",
+            "kedrick reescano": "+1700",
+            "caleb douglas": "+1900",
+            "noah fifita": "+1900",
+            "jalin conyers": "+2000",
+            "jeremiah patterson": "+2000",
+            "keyan burnett": "+2200",
+            "cameron dickey": "+2500",
+            "behren morton": "+3000",
+            "drae mccray": "+3500"
+        },
+        "pass_yd": {
+            "behren morton": {
+                "248.5": "-115/-115"
+            },
+            "noah fifita": {
+                "275.5": "-115/-115"
+            }
+        },
+        "pass_td": {
+            "behren morton": {
+                "1.5": "-150/+115"
+            },
+            "noah fifita": {
+                "2.5": "+125/-160"
+            }
+        },
+        "team_ftd": {
+            "quali conley": "+125",
+            "tetairoa mcmillan": "+270",
+            "montana lemonious craig": "+850",
+            "kedrick reescano": "+1000",
+            "noah fifita": "+1100",
+            "jeremiah patterson": "+1200",
+            "keyan burnett": "+1300",
+            "tahj brooks": "+140",
+            "josh kelly": "+475",
+            "coy eakin": "+600",
+            "jalin conyers": "+850",
+            "caleb douglas": "+900",
+            "cameron dickey": "+1100",
+            "behren morton": "+1300",
+            "drae mccray": "+1500"
+        },
+        "attd": {
+            "quali conley": "-600",
+            "tetairoa mcmillan": "-275",
+            "tahj brooks": "-275",
+            "josh kelly": "+110",
+            "coy eakin": "+140",
+            "montana lemonious craig": "+160",
+            "caleb douglas": "+220",
+            "jalin conyers": "+230",
+            "kedrick reescano": "+230",
+            "cameron dickey": "+240",
+            "jeremiah patterson": "+240",
+            "noah fifita": "+260",
+            "behren morton": "+300",
+            "keyan burnett": "+340",
+            "drae mccray": "+475"
+        },
+        "2+td": {
+            "quali conley": "-140",
+            "tahj brooks": "+165",
+            "tetairoa mcmillan": "+180",
+            "josh kelly": "+700",
+            "coy eakin": "+900",
+            "montana lemonious craig": "+1000",
+            "noah fifita": "+1700",
+            "kedrick reescano": "+1800",
+            "jalin conyers": "+2000",
+            "cameron dickey": "+2000",
+            "caleb douglas": "+2000",
+            "behren morton": "+2200",
+            "jeremiah patterson": "+2500",
+            "keyan burnett": "+3300",
+            "drae mccray": "+5000"
+        }
+    },
+    "bryant @ brown": {},
+    "princeton university @ columbia": {},
+    "c connecticut @ yale": {},
+    "delaware @ monmouth u": {},
+    "albany @ cornell": {},
+    "drake @ valparaiso": {},
+    "marist @ davidson": {},
+    "morehead st @ butler": {},
+    "penn @ dartmouth": {},
+    "st francis pa @ delaware st": {},
+    "norfolk st @ sacred heart": {},
+    "long island @ duquesne": {}
+}

@@ -1,0 +1,93 @@
+{
+    "germany @ serbia": {
+        "spread": {
+            "2.5": "-108/-112"
+        },
+        "total": {
+            "176": "-112/-108"
+        },
+        "ml": "+120/-142",
+        "pts": {
+            "aleksa avramovic": "7.5 -120/-110",
+            "andreas obst": "9.5 -120/-110",
+            "bogdan bogdanovic": "22.5 -115/-115",
+            "daniel theis": "10.5 -115/-115",
+            "dennis schroder": "16.5 -120/-110",
+            "filip petrusev": "6.5 -135/+100",
+            "franz wagner": "17.5 -120/-110",
+            "johannes thiemann": "6.5 -115/-115",
+            "johannes voigtmann": "5.5 +100/-135",
+            "marko guduric": "9.5 -115/-115",
+            "moritz wagner": "9.5 -115/-115",
+            "nikola jovic": "7.5 -115/-115",
+            "nikola milutinov": "13.5 -115/-115",
+            "ognjen dobric": "8.5 -115/-115",
+            "stefan jovic": "6.5 -115/-115",
+            "vanja marinkovic": "6.5 +100/-135"
+        },
+        "reb": {
+            "andreas obst": "1.5 +100/-135",
+            "bogdan bogdanovic": "3.5 -135/+100",
+            "daniel theis": "5.5 -135/+100",
+            "franz wagner": "5.5 -115/-115",
+            "johannes thiemann": "4.5 +100/-135",
+            "johannes voigtmann": "5.5 +110/-150",
+            "moritz wagner": "3.5 -145/+110",
+            "nikola milutinov": "8.5 -150/+110",
+            "stefan jovic": "1.5 +110/-150"
+        },
+        "ast": {
+            "andreas obst": "1.5 -185/+135",
+            "bogdan bogdanovic": "3.5 -145/+110",
+            "daniel theis": "1.5 -150/+110",
+            "dennis schroder": "6.5 -115/-115",
+            "franz wagner": "2.5 -115/-115",
+            "johannes voigtmann": "2.5 -105/-130",
+            "maodo lo": "2.5 +100/-135",
+            "marko guduric": "3.5 +100/-130",
+            "moritz wagner": "1.5 +170/-240",
+            "nikola jovic": "1.5 -210/+155",
+            "nikola milutinov": "1.5 -210/+155",
+            "ognjen dobric": "0.5 -185/+135",
+            "stefan jovic": "5.5 -115/-115"
+        },
+        "3ptm": {
+            "andreas obst": "2.5 +125/-165",
+            "bogdan bogdanovic": "2.5 -115/-115",
+            "dennis schroder": "1.5 -160/+120",
+            "franz wagner": "1.5 -190/+140",
+            "vanja marinkovic": "1.5 +125/-165"
+        },
+        "blk": {
+            "daniel theis": "0.5 -115/-115",
+            "nikola milutinov": "0.5 +110/-150"
+        },
+        "stl": {
+            "aleksa avramovic": "1.5 +125/-165",
+            "bogdan bogdanovic": "1.5 -180/+135",
+            "daniel theis": "0.5 -120/-110",
+            "dennis schroder": "1.5 +100/-135",
+            "nikola milutinov": "0.5 +145/-195"
+        },
+        "1h_spread": {
+            "1.5": "-120/-110"
+        },
+        "1h_total": {
+            "88": "-110/-120"
+        },
+        "1h_ml": "+110/-140",
+        "1q_spread": {
+            "0.5": "-115/-115"
+        },
+        "1q_total": {
+            "44.5": "-105/-125"
+        },
+        "1q_ml": "-105/-125",
+        "away_total": {
+            "87.5": "-115/-115"
+        },
+        "home_total": {
+            "89.5": "-105/-125"
+        }
+    }
+}

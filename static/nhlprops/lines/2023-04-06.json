@@ -1,0 +1,198 @@
+{
+    "cbj @ nj": {
+        "line": {
+            "line": 1.5,
+            "odds": "+145,-170"
+        },
+        "total": {
+            "line": 7.0,
+            "odds": "+100,-120"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+330,-410"
+        }
+    },
+    "min @ pit": {
+        "line": {
+            "line": 1.5,
+            "odds": "-230,+195"
+        },
+        "total": {
+            "line": 6.0,
+            "odds": "-115,-105"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+110,-130"
+        }
+    },
+    "wsh @ mtl": {
+        "line": {
+            "line": -1.5,
+            "odds": "-180,+155"
+        },
+        "total": {
+            "line": 6.5,
+            "odds": "+100,-120"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+135,-155"
+        }
+    },
+    "tor @ bos": {
+        "line": {
+            "line": 1.5,
+            "odds": "-200,+170"
+        },
+        "total": {
+            "line": 6.0,
+            "odds": "-105,-115"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+130,-150"
+        }
+    },
+    "buf @ det": {
+        "line": {
+            "line": -1.5,
+            "odds": "+215,-255"
+        },
+        "total": {
+            "line": 6.5,
+            "odds": "-130,+110"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "-105,-115"
+        }
+    },
+    "ott @ fla": {
+        "line": {
+            "line": 1.5,
+            "odds": "-110,-110"
+        },
+        "total": {
+            "line": 7.0,
+            "odds": "+105,-125"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+200,-240"
+        }
+    },
+    "tb @ nyi": {
+        "line": {
+            "line": 1.5,
+            "odds": "-205,+175"
+        },
+        "total": {
+            "line": 6.0,
+            "odds": "+100,-120"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+135,-155"
+        }
+    },
+    "car @ nsh": {
+        "line": {
+            "line": -1.5,
+            "odds": "+135,-155"
+        },
+        "total": {
+            "line": 5.5,
+            "odds": "-105,-115"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "-205,+175"
+        }
+    },
+    "nyr @ stl": {
+        "line": {
+            "line": -1.5,
+            "odds": "+150,-175"
+        },
+        "total": {
+            "line": 6.5,
+            "odds": "-120,+100"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "-165,+140"
+        }
+    },
+    "phi @ dal": {
+        "line": {
+            "line": 1.5,
+            "odds": "-120,+100"
+        },
+        "total": {
+            "line": 6.0,
+            "odds": "-115,-105"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+230,-275"
+        }
+    },
+    "chi @ van": {
+        "line": {
+            "line": 1.5,
+            "odds": "-130,+110"
+        },
+        "total": {
+            "line": 6.5,
+            "odds": "-120,+100"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+195,-230"
+        }
+    },
+    "la @ vgk": {
+        "line": {
+            "line": 1.5,
+            "odds": "-250,+210"
+        },
+        "total": {
+            "line": 6.0,
+            "odds": "-110,-110"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+100,-120"
+        }
+    },
+    "ari @ sea": {
+        "line": {
+            "line": 1.5,
+            "odds": "+110,-130"
+        },
+        "total": {
+            "line": 6.5,
+            "odds": "-110,-110"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+275,-330"
+        }
+    },
+    "col @ sj": {
+        "line": {
+            "line": -1.5,
+            "odds": "+110,-130"
+        },
+        "total": {
+            "line": 6.5,
+            "odds": "-120,+100"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "-230,+195"
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "charvis thornton": {
+        "fairVal": "-200",
+        "implied": "66.7%",
+        "ev": "-15.3",
+        "odds": {
+            "fd": "-370",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "-200",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "louisiana tech",
+        "ou": "avg(-200)",
+        "line": -370
+    },
+    "smoke harris": {
+        "fairVal": "-175",
+        "implied": "63.6%",
+        "ev": "-11.9",
+        "odds": {
+            "fd": "-260",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "-175",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "louisiana tech",
+        "ou": "avg(-175)",
+        "line": -260
+    },
+    "cyrus allen": {
+        "fairVal": "-150",
+        "implied": "60.0%",
+        "ev": "-8.4",
+        "odds": {
+            "fd": "-190",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "-150",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "louisiana tech",
+        "ou": "avg(-150)",
+        "line": -190
+    },
+    "julien lewis": {
+        "fairVal": "+137",
+        "implied": "42.2%",
+        "ev": "5.5",
+        "odds": {
+            "fd": "150",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+137",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "louisiana tech",
+        "ou": "avg(+137)",
+        "line": 150
+    },
+    "tyre shelton": {
+        "fairVal": "+150",
+        "implied": "40.0%",
+        "ev": "0.0",
+        "odds": {
+            "fd": "150",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+150",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "louisiana tech",
+        "ou": "avg(+150)",
+        "line": 150
+    },
+    "nate jones": {
+        "fairVal": "+175",
+        "implied": "36.4%",
+        "ev": "9.1",
+        "odds": {
+            "fd": "200",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+175",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "louisiana tech",
+        "ou": "avg(+175)",
+        "line": 200
+    },
+    "tru edwards": {
+        "fairVal": "+175",
+        "implied": "36.4%",
+        "ev": "-18.2",
+        "odds": {
+            "fd": "125",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+175",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "louisiana tech",
+        "ou": "avg(+175)",
+        "line": 125
+    },
+    "hank bachmeier": {
+        "fairVal": "+275",
+        "implied": "26.7%",
+        "ev": "14.7",
+        "odds": {
+            "fd": "330",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+275",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "louisiana tech",
+        "ou": "avg(+275)",
+        "line": 330
+    },
+    "jalen bracey": {
+        "fairVal": "+125",
+        "implied": "44.4%",
+        "ev": "-2.2",
+        "odds": {
+            "fd": "120",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+125",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "florida intl",
+        "ou": "avg(+125)",
+        "line": 120
+    },
+    "kris mitchell": {
+        "fairVal": "+125",
+        "implied": "44.4%",
+        "ev": "1.8",
+        "odds": {
+            "fd": "130",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+125",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "florida intl",
+        "ou": "avg(+125)",
+        "line": 129
+    },
+    "shomari lawrence": {
+        "fairVal": "+125",
+        "implied": "44.4%",
+        "ev": "0.0",
+        "odds": {
+            "fd": "125",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+125",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "florida intl",
+        "ou": "avg(+125)",
+        "line": 125
+    },
+    "grayson james": {
+        "fairVal": "+150",
+        "implied": "40.0%",
+        "ev": "6.0",
+        "odds": {
+            "fd": "165",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+150",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "florida intl",
+        "ou": "avg(+150)",
+        "line": 165
+    },
+    "josiah miamen": {
+        "fairVal": "+200",
+        "implied": "33.3%",
+        "ev": "9.7",
+        "odds": {
+            "fd": "230",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+200",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "florida intl",
+        "ou": "avg(+200)",
+        "line": 229
+    },
+    "kejon owens": {
+        "fairVal": "+210",
+        "implied": "32.3%",
+        "ev": "12.9",
+        "odds": {
+            "fd": "250",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+210",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "florida intl",
+        "ou": "avg(+210)",
+        "line": 250
+    },
+    "dean patterson": {
+        "fairVal": "+300",
+        "implied": "25.0%",
+        "ev": "2.3",
+        "odds": {
+            "fd": "310",
+            "dk": "-",
+            "mgm": "-",
+            "bet365": "+300",
+            "kambi": "-"
+        },
+        "book": "fd",
+        "team": "florida intl",
+        "ou": "avg(+300)",
+        "line": 309
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "fla @ bos": {
+        "line": {
+            "line": 1.5,
+            "odds": "-130,+110"
+        },
+        "total": {
+            "line": 6.0,
+            "odds": "-120,+100"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+190,-225"
+        }
+    },
+    "sea @ col": {
+        "line": {
+            "line": 1.5,
+            "odds": "-135,+115"
+        },
+        "total": {
+            "line": 5.5,
+            "odds": "-120,+100"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+180,-210"
+        }
+    },
+    "nyr @ nj": {
+        "line": {
+            "line": 1.5,
+            "odds": "-255,+215"
+        },
+        "total": {
+            "line": 5.5,
+            "odds": "+105,-125"
+        },
+        "moneyline": {
+            "line": 0,
+            "odds": "+100,-120"
+        }
+    }
+}

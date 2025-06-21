@@ -1,0 +1,62 @@
+{
+    "usa @ canada": {},
+    "germany @ serbia": {
+        "ml": "108/-132",
+        "total": {
+            "175.5": "-113/-113",
+            "173.5": "-150/118",
+            "174.5": "-136/106",
+            "176.5": "-102/-125",
+            "177.5": "108/-138"
+        },
+        "spread": {
+            "2.5": "-120/-106",
+            "3.5": "-138/108",
+            "-1.5": "116/-148",
+            "1.5": "-104/-122",
+            "4.5": "-158/124"
+        },
+        "pts": {
+            "moritz wagner": "9.5 -114/-114",
+            "daniel theis": "11.5 -102/-130",
+            "dennis schroder": "17.5 -138/104",
+            "franz wagner": "16.5 -138/104",
+            "nikola jovic": "7.5 -102/-130",
+            "bogdan bogdanovic": "20.5 -138/104",
+            "nikola milutinov": "13.5 -130/-102",
+            "1st quarter odd or even total points": "0 -113/-113"
+        },
+        "reb": {
+            "moritz wagner": "4.5 -102/-130",
+            "franz wagner": "6.5 118/-158",
+            "daniel theis": "6.5 110/-146",
+            "nikola milutinov": "9.5 104/-138",
+            "bogdan bogdanovic": "3.5 -138/104"
+        },
+        "ast": {
+            "franz wagner": "2.5 -114/-114",
+            "stefan jovic": "5.5 -114/-114",
+            "dennis schroder": "6.5 -138/104",
+            "bogdan bogdanovic": "4.5 -114/-114"
+        },
+        "3ptm": {
+            "dennis schroder": "2.5 110/-146",
+            "franz wagner": "2.5 140/-188",
+            "bogdan bogdanovic": "2.5 -114/-114"
+        },
+        "1h_total": {
+            "86.5": "-113/-113"
+        },
+        "1h_ml": "102/-130",
+        "1h_spread": {
+            "0.5": "-108/-118"
+        },
+        "1q_ml": "100/-128",
+        "1q_total": {
+            "43.5": "-125/-102"
+        },
+        "1q_spread": {
+            "0.5": "-115/-111"
+        }
+    }
+}

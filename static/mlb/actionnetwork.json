@@ -1,0 +1,1307 @@
+{
+    "col": {
+        "jordan beck": {
+            "hr": {
+                "fanduel": "470",
+                "mgm": "425/-600"
+            }
+        },
+        "brendan rodgers": {
+            "hr": {
+                "fanduel": "360",
+                "mgm": "350/-450"
+            }
+        },
+        "brenton doyle": {
+            "hr": {
+                "fanduel": "320",
+                "mgm": "280/-350",
+                "betrivers": "300/-455"
+            }
+        },
+        "ezequiel tovar": {
+            "hr": {
+                "fanduel": "285",
+                "mgm": "270/-350"
+            }
+        },
+        "jacob stallings": {
+            "hr": {
+                "fanduel": "500",
+                "mgm": "500/-750"
+            }
+        },
+        "charlie blackmon": {
+            "hr": {
+                "fanduel": "460",
+                "mgm": "475/-650"
+            }
+        },
+        "nolan jones": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "425/-600"
+            }
+        },
+        "ryan mcmahon": {
+            "hr": {
+                "fanduel": "390",
+                "mgm": "400/-550"
+            }
+        },
+        "michael toglia": {
+            "hr": {
+                "fanduel": "340",
+                "mgm": "350/-450"
+            }
+        }
+    },
+    "lad": {
+        "freddie freeman": {
+            "hr": {
+                "fanduel": "480",
+                "mgm": "575/-800"
+            }
+        },
+        "will smith": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "500/-750"
+            }
+        },
+        "teoscar hernandez": {
+            "hr": {
+                "fanduel": "370",
+                "mgm": "360/-500"
+            }
+        },
+        "chris taylor": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "775/-1400"
+            }
+        },
+        "max muncy": {
+            "hr": {
+                "fanduel": "450"
+            }
+        },
+        "mookie betts": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "400/-550"
+            }
+        },
+        "shohei ohtani": {
+            "hr": {
+                "fanduel": "300",
+                "mgm": "340/-450"
+            }
+        },
+        "enrique hernandez": {
+            "hr": {
+                "fanduel": "1000",
+                "mgm": "750/-1200"
+            }
+        },
+        "tommy edman": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "675/-1100"
+            }
+        },
+        "miguel rojas": {
+            "hr": {
+                "mgm": "950/-2000"
+            }
+        }
+    },
+    "sf": {
+        "jerar encarnacion": {
+            "hr": {
+                "fanduel": "500",
+                "mgm": "575/-900"
+            }
+        },
+        "grant mccray": {
+            "hr": {
+                "fanduel": "480"
+            }
+        },
+        "matt chapman": {
+            "hr": {
+                "fanduel": "390",
+                "mgm": "360/-500"
+            }
+        },
+        "patrick bailey": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "700/-1200"
+            }
+        },
+        "lamonte wade": {
+            "hr": {
+                "fanduel": "480",
+                "mgm": "575/-800",
+                "betrivers": "450/-835"
+            }
+        },
+        "michael conforto": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "475/-650"
+            }
+        },
+        "heliot ramos": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "625/-900"
+            }
+        },
+        "thairo estrada": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "950/-2000"
+            }
+        },
+        "tyler fitzgerald": {
+            "hr": {
+                "fanduel": "630",
+                "mgm": "550/-800"
+            }
+        },
+        "casey schmitt": {
+            "hr": {
+                "mgm": "875/-1600"
+            }
+        },
+        "mike yastrzemski": {
+            "hr": {
+                "mgm": "340/-450"
+            }
+        },
+        "curt casali": {
+            "hr": {
+                "mgm": "1150/-2500"
+            }
+        }
+    },
+    "hou": {
+        "jose altuve": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "750/-1200"
+            }
+        },
+        "yordan alvarez": {
+            "hr": {
+                "fanduel": "300",
+                "mgm": "300/-375"
+            }
+        },
+        "jon singleton": {
+            "hr": {
+                "fanduel": "630"
+            }
+        },
+        "jake meyers": {
+            "hr": {
+                "fanduel": "630",
+                "mgm": "775/-1200"
+            }
+        },
+        "mauricio dubon": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "1300/-3000"
+            }
+        },
+        "yainer diaz": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "675/-1100"
+            }
+        },
+        "ben gamel": {
+            "hr": {
+                "fanduel": "830",
+                "mgm": "825/-1600"
+            }
+        },
+        "alex bregman": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "675/-1100"
+            }
+        },
+        "jeremy pena": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "875/-1600"
+            }
+        },
+        "zach dezenzo": {
+            "hr": {
+                "mgm": "725/-1200"
+            }
+        }
+    },
+    "mil": {
+        "garrett mitchell": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "1000/-2000"
+            }
+        },
+        "brice turang": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "1300/-3000"
+            }
+        },
+        "william contreras": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "525/-750"
+            }
+        },
+        "rhys hoskins": {
+            "hr": {
+                "fanduel": "400",
+                "mgm": "450/-650"
+            }
+        },
+        "willy adames": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "500/-700"
+            }
+        },
+        "jackson chourio": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "725/-1100"
+            }
+        },
+        "joey ortiz": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "1150/-2500"
+            }
+        },
+        "gary sanchez": {
+            "hr": {
+                "mgm": "575/-900"
+            }
+        },
+        "sal frelick": {
+            "hr": {
+                "mgm": "1600/-10000"
+            }
+        },
+        "jake bauers": {
+            "hr": {
+                "mgm": "600/-900"
+            }
+        },
+        "blake perkins": {
+            "hr": {
+                "mgm": "1450/-5000"
+            }
+        }
+    },
+    "bos": {
+        "triston casas": {
+            "hr": {
+                "fanduel": "630",
+                "mgm": "775/-1200"
+            }
+        },
+        "tyler oneill": {
+            "hr": {
+                "fanduel": "350",
+                "mgm": "375/-550"
+            }
+        },
+        "wilyer abreu": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "550/-800"
+            }
+        },
+        "connor wong": {
+            "hr": {
+                "fanduel": "750"
+            }
+        },
+        "rafael devers": {
+            "hr": {
+                "fanduel": "400",
+                "mgm": "450/-650"
+            }
+        },
+        "ceddanne rafaela": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "750/-1200"
+            }
+        },
+        "jarren duran": {
+            "hr": {
+                "fanduel": "800",
+                "mgm": "675/-1100"
+            }
+        },
+        "masataka yoshida": {
+            "hr": {
+                "fanduel": "830",
+                "mgm": "1100/-2500"
+            }
+        },
+        "david hamilton": {
+            "hr": {
+                "fanduel": "1060",
+                "mgm": "950/-2000"
+            }
+        },
+        "danny jansen": {
+            "hr": {
+                "mgm": "500/-700"
+            }
+        }
+    },
+    "mia": {
+        "derek hill": {
+            "hr": {
+                "fanduel": "630",
+                "mgm": "875/-1600"
+            }
+        },
+        "kyle stowers": {
+            "hr": {
+                "fanduel": "400",
+                "mgm": "425/-600"
+            }
+        },
+        "jesus sanchez": {
+            "hr": {
+                "fanduel": "340",
+                "mgm": "350/-450"
+            }
+        },
+        "connor norby": {
+            "hr": {
+                "fanduel": "370",
+                "mgm": "425/-600"
+            }
+        },
+        "nick fortes": {
+            "hr": {
+                "fanduel": "700",
+                "mgm": "1050/-2000"
+            }
+        },
+        "vidal brujan": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "1150/-3000"
+            }
+        },
+        "otto lopez": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "675/-1100"
+            }
+        },
+        "jake burger": {
+            "hr": {
+                "fanduel": "300",
+                "mgm": "290/-375"
+            }
+        },
+        "jonah bride": {
+            "hr": {
+                "fanduel": "800",
+                "mgm": "825/-1400"
+            }
+        }
+    },
+    "nym": {
+        "francisco alvarez": {
+            "hr": {
+                "fanduel": "680",
+                "mgm": "725/-1200"
+            }
+        },
+        "jesse winker": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "950/-2000"
+            }
+        },
+        "jeff mcneil": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "800/-1400"
+            }
+        },
+        "francisco lindor": {
+            "hr": {
+                "fanduel": "430",
+                "mgm": "425/-600"
+            }
+        },
+        "starling marte": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "875/-1600"
+            }
+        },
+        "brandon nimmo": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "525/-750"
+            }
+        },
+        "mark vientos": {
+            "hr": {
+                "fanduel": "470",
+                "mgm": "400/-550"
+            }
+        },
+        "pete alonso": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "425/-650"
+            }
+        },
+        "jd martinez": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "525/-750"
+            }
+        }
+    },
+    "tor": {
+        "addison barger": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "825/-1400"
+            }
+        },
+        "joey loperfido": {
+            "hr": {
+                "fanduel": "870"
+            }
+        },
+        "spencer horwitz": {
+            "hr": {
+                "fanduel": "680",
+                "mgm": "875/-1600"
+            }
+        },
+        "george springer": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "550/-800"
+            }
+        },
+        "alejandro kirk": {
+            "hr": {
+                "fanduel": "1060",
+                "mgm": "950/-2000"
+            }
+        },
+        "daulton varsho": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "675/-1100"
+            }
+        },
+        "ernie clement": {
+            "hr": {
+                "fanduel": "1100",
+                "mgm": "1150/-2500"
+            }
+        },
+        "will wagner": {
+            "hr": {
+                "fanduel": "1300"
+            }
+        },
+        "vladimir guerrero": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "500/-700"
+            }
+        },
+        "leo jimenez": {
+            "hr": {
+                "mgm": "1150/-2500"
+            }
+        },
+        "brian serven": {
+            "hr": {
+                "mgm": "1250/-3000"
+            }
+        }
+    },
+    "kc": {
+        "freddy fermin": {
+            "hr": {
+                "fanduel": "830",
+                "mgm": "850/-1600"
+            }
+        },
+        "kyle isbel": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "1150/-2500"
+            }
+        },
+        "paul dejong": {
+            "hr": {
+                "fanduel": "470",
+                "mgm": "675/-1100"
+            }
+        },
+        "salvador perez": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "525/-750"
+            }
+        },
+        "vinnie pasquantino": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "575/-900"
+            }
+        },
+        "mj melendez": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "500/-700"
+            }
+        },
+        "michael massey": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "575/-900"
+            }
+        },
+        "bobby witt": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "475/-650"
+            }
+        },
+        "adam frazier": {
+            "hr": {
+                "fanduel": "1400",
+                "mgm": "1300/-3000"
+            }
+        }
+    },
+    "stl": {
+        "masyn winn": {
+            "hr": {
+                "fanduel": "1000",
+                "mgm": "1150/-2500"
+            }
+        },
+        "paul goldschmidt": {
+            "hr": {
+                "fanduel": "540",
+                "mgm": "575/-900",
+                "betrivers": "550/-1115"
+            }
+        },
+        "ivan herrera": {
+            "hr": {
+                "fanduel": "1000",
+                "mgm": "1000/-2500"
+            }
+        },
+        "lars nootbaar": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "775/-1400"
+            }
+        },
+        "luken baker": {
+            "hr": {
+                "fanduel": "440",
+                "mgm": "575/-900"
+            }
+        },
+        "victor scott": {
+            "hr": {
+                "fanduel": "1400",
+                "mgm": "850/-1600"
+            }
+        },
+        "alec burleson": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "575/-900"
+            }
+        },
+        "nolan arenado": {
+            "hr": {
+                "fanduel": "680",
+                "mgm": "725/-1200"
+            }
+        },
+        "brendan donovan": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "850/-1600"
+            }
+        },
+        "pedro pages": {
+            "hr": {
+                "mgm": "1000/-2000"
+            }
+        }
+    },
+    "tex": {
+        "travis jankowski": {
+            "hr": {
+                "fanduel": "1060",
+                "mgm": "1250/-3000"
+            }
+        },
+        "jonah heim": {
+            "hr": {
+                "fanduel": "440",
+                "mgm": "525/-750"
+            }
+        },
+        "nathaniel lowe": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "675/-1000",
+                "betrivers": "500/-910"
+            }
+        },
+        "corey seager": {
+            "hr": {
+                "fanduel": "265",
+                "mgm": "270/-350"
+            }
+        },
+        "marcus semien": {
+            "hr": {
+                "fanduel": "400",
+                "mgm": "450/-650"
+            }
+        },
+        "robbie grossman": {
+            "hr": {
+                "fanduel": "630",
+                "mgm": "675/-1100"
+            }
+        },
+        "adolis garcia": {
+            "hr": {
+                "fanduel": "350",
+                "mgm": "320/-400"
+            }
+        },
+        "josh jung": {
+            "hr": {
+                "fanduel": "430",
+                "mgm": "475/-650"
+            }
+        },
+        "ezequiel duran": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "775/-1400"
+            }
+        }
+    },
+    "phi": {
+        "johan rojas": {
+            "hr": {
+                "fanduel": "1060",
+                "mgm": "1500/-5000"
+            }
+        },
+        "jt realmuto": {
+            "hr": {
+                "fanduel": "630",
+                "mgm": "725/-1100"
+            }
+        },
+        "brandon marsh": {
+            "hr": {
+                "fanduel": "830",
+                "mgm": "1000/-2000"
+            }
+        },
+        "bryce harper": {
+            "hr": {
+                "fanduel": "500",
+                "mgm": "550/-800"
+            }
+        },
+        "bryson stott": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "1150/-2500"
+            }
+        },
+        "kyle schwarber": {
+            "hr": {
+                "fanduel": "400",
+                "mgm": "450/-650",
+                "betrivers": "400/-670"
+            }
+        },
+        "trea turner": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "575/-800"
+            }
+        },
+        "nick castellanos": {
+            "hr": {
+                "fanduel": "680",
+                "mgm": "750/-1200"
+            }
+        },
+        "alec bohm": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "850/-1600"
+            }
+        }
+    },
+    "laa": {
+        "michael stefanic": {
+            "hr": {
+                "fanduel": "1100",
+                "mgm": "1900"
+            }
+        },
+        "jo adell": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "500/-700"
+            }
+        },
+        "zach neto": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "575/-900"
+            }
+        },
+        "taylor ward": {
+            "hr": {
+                "fanduel": "430",
+                "mgm": "525/-750"
+            }
+        },
+        "mickey moniak": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "725/-1200"
+            }
+        },
+        "matt thaiss": {
+            "hr": {
+                "fanduel": "630",
+                "mgm": "850/-1600"
+            }
+        },
+        "anthony rendon": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "800/-1400"
+            }
+        },
+        "niko kavadas": {
+            "hr": {
+                "fanduel": "830",
+                "mgm": "825/-1400"
+            }
+        },
+        "nolan schanuel": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "1250/-3000"
+            }
+        },
+        "logan ohoppe": {
+            "hr": {
+                "mgm": "575/-800"
+            }
+        }
+    },
+    "sd": {
+        "donovan solano": {
+            "hr": {
+                "fanduel": "1100",
+                "mgm": "1000/-2000"
+            }
+        },
+        "tyler wade": {
+            "hr": {
+                "fanduel": "1500",
+                "mgm": "1750/-10000"
+            }
+        },
+        "jake cronenworth": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "525/-750"
+            }
+        },
+        "jurickson profar": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "575/-900"
+            }
+        },
+        "manny machado": {
+            "hr": {
+                "fanduel": "470",
+                "mgm": "475/-650"
+            }
+        },
+        "kyle higashioka": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "625/-1000"
+            }
+        },
+        "jackson merrill": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "500/-700"
+            }
+        },
+        "david peralta": {
+            "hr": {
+                "fanduel": "1000",
+                "mgm": "800/-1400"
+            }
+        },
+        "luis arraez": {
+            "hr": {
+                "fanduel": "1500",
+                "mgm": "1050/-2500"
+            }
+        },
+        "xander bogaerts": {
+            "hr": {
+                "mgm": "1000/-2000"
+            }
+        }
+    },
+    "ari": {
+        "jose herrera": {
+            "hr": {
+                "fanduel": "1500",
+                "mgm": "2000"
+            }
+        },
+        "eugenio suarez": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "650/-1000",
+                "betrivers": "550/-1115"
+            }
+        },
+        "randal grichuk": {
+            "hr": {
+                "fanduel": "680",
+                "mgm": "725/-1200"
+            }
+        },
+        "jake mccarthy": {
+            "hr": {
+                "fanduel": "1200",
+                "mgm": "1450/-5000"
+            }
+        },
+        "corbin carroll": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "725/-1200"
+            }
+        },
+        "kevin newman": {
+            "hr": {
+                "fanduel": "1500",
+                "mgm": "1750/-10000"
+            }
+        },
+        "lourdes gurriel": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "850/-1600"
+            }
+        },
+        "geraldo perdomo": {
+            "hr": {
+                "fanduel": "1500",
+                "mgm": "1650/-10000"
+            }
+        },
+        "josh bell": {
+            "hr": {
+                "fanduel": "830",
+                "mgm": "725/-1200"
+            }
+        }
+    },
+    "det": {
+        "jace jung": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "600/-900"
+            }
+        },
+        "spencer torkelson": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "525/-750",
+                "betrivers": "375/-625"
+            }
+        },
+        "riley greene": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "650/-1000"
+            }
+        },
+        "dillon dingler": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "675/-1100"
+            }
+        },
+        "zach mckinstry": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "900/-1600"
+            }
+        },
+        "trey sweeney": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "775/-1200"
+            }
+        },
+        "parker meadows": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "725/-1100"
+            }
+        },
+        "kerry carpenter": {
+            "hr": {
+                "fanduel": "480",
+                "mgm": "575/-900"
+            }
+        },
+        "colt keith": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "1050/-2500"
+            }
+        },
+        "matt vierling": {
+            "hr": {
+                "mgm": "700/-1100"
+            }
+        }
+    },
+    "bal": {
+        "ramon urias": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "1000/-2000"
+            }
+        },
+        "colton cowser": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "500/-750"
+            }
+        },
+        "ryan ohearn": {
+            "hr": {
+                "fanduel": "540",
+                "mgm": "625/-1000"
+            }
+        },
+        "adley rutschman": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "675/-1100"
+            }
+        },
+        "gunnar henderson": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "500/-700"
+            }
+        },
+        "cedric mullins": {
+            "hr": {
+                "fanduel": "680",
+                "mgm": "800/-1400"
+            }
+        },
+        "anthony santander": {
+            "hr": {
+                "fanduel": "440",
+                "mgm": "375/-500"
+            }
+        },
+        "jackson holliday": {
+            "hr": {
+                "fanduel": "750",
+                "mgm": "775/-1200"
+            }
+        },
+        "eloy jimenez": {
+            "hr": {
+                "fanduel": "540"
+            }
+        }
+    },
+    "chw": {
+        "gavin sheets": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "700/-1100"
+            }
+        },
+        "andrew vaughn": {
+            "hr": {
+                "fanduel": "500",
+                "mgm": "725/-1200"
+            }
+        },
+        "andrew benintendi": {
+            "hr": {
+                "fanduel": "800",
+                "mgm": "650/-1000"
+            }
+        },
+        "nicky lopez": {
+            "hr": {
+                "fanduel": "1500",
+                "mgm": "1500/-5000"
+            }
+        },
+        "miguel vargas": {
+            "hr": {
+                "fanduel": "800",
+                "mgm": "1000/-2500"
+            }
+        },
+        "dominic fletcher": {
+            "hr": {
+                "fanduel": "1100",
+                "mgm": "1150/-3000"
+            }
+        },
+        "lenyn sosa": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "1050/-2500"
+            }
+        },
+        "korey lee": {
+            "hr": {
+                "fanduel": "830",
+                "mgm": "950/-2000"
+            }
+        },
+        "luis robert": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "500/-700"
+            }
+        }
+    },
+    "cin": {
+        "ty france": {
+            "hr": {
+                "fanduel": "500",
+                "mgm": "475/-700"
+            }
+        },
+        "dominic smith": {
+            "hr": {
+                "fanduel": "560",
+                "mgm": "600/-900"
+            }
+        },
+        "tyler stephenson": {
+            "hr": {
+                "fanduel": "400",
+                "mgm": "375/-550"
+            }
+        },
+        "jonathan india": {
+            "hr": {
+                "fanduel": "450",
+                "mgm": "400/-550"
+            }
+        },
+        "elly de la cruz": {
+            "hr": {
+                "fanduel": "350",
+                "mgm": "375/-550"
+            }
+        },
+        "spencer steer": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "375/-500"
+            }
+        },
+        "noelvi marte": {
+            "hr": {
+                "fanduel": "600",
+                "mgm": "550/-800"
+            }
+        },
+        "tj friedl": {
+            "hr": {
+                "fanduel": "520",
+                "mgm": "550/-800",
+                "betrivers": "525/-910"
+            }
+        },
+        "santiago espinal": {
+            "hr": {
+                "fanduel": "1000",
+                "mgm": "1000/-2000"
+            }
+        }
+    },
+    "oak": {
+        "seth brown": {
+            "hr": {
+                "fanduel": "320",
+                "mgm": "425/-600"
+            }
+        },
+        "jj bleday": {
+            "hr": {
+                "fanduel": "400",
+                "mgm": "450/-650"
+            }
+        },
+        "shea langeliers": {
+            "hr": {
+                "fanduel": "280"
+            }
+        },
+        "brent rooker": {
+            "hr": {
+                "fanduel": "240",
+                "mgm": "260/-350"
+            }
+        },
+        "lawrence butler": {
+            "hr": {
+                "fanduel": "340",
+                "mgm": "375/-500"
+            }
+        },
+        "zack gelof": {
+            "hr": {
+                "fanduel": "470",
+                "mgm": "500/-700"
+            }
+        },
+        "daz cameron": {
+            "hr": {
+                "fanduel": "500",
+                "mgm": "775/-1200"
+            }
+        },
+        "max schuemann": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "850/-1600"
+            }
+        },
+        "jacob wilson": {
+            "hr": {
+                "fanduel": "870",
+                "mgm": "625/-1000"
+            }
+        },
+        "kyle mccann": {
+            "hr": {
+                "mgm": "450/-650"
+            }
+        }
+    },
+    "atl": {
+        "ramon laureano": {
+            "hr": {
+                "fanduel": "800",
+                "mgm": "750/-1200"
+            }
+        },
+        "gio urshela": {
+            "hr": {
+                "fanduel": "1100",
+                "mgm": "1350/-3000"
+            }
+        },
+        "jorge soler": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "450/-650"
+            }
+        },
+        "orlando arcia": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "950/-2000"
+            }
+        },
+        "whit merrifield": {
+            "hr": {
+                "fanduel": "900",
+                "mgm": "1100/-2500"
+            }
+        },
+        "travis darnaud": {
+            "hr": {
+                "fanduel": "680",
+                "mgm": "700/-1200"
+            }
+        },
+        "marcell ozuna": {
+            "hr": {
+                "fanduel": "420",
+                "mgm": "425/-600"
+            }
+        },
+        "matt olson": {
+            "hr": {
+                "fanduel": "540",
+                "mgm": "525/-750"
+            }
+        },
+        "michael harris": {
+            "hr": {
+                "fanduel": "1000",
+                "mgm": "950/-2000"
+            }
+        }
+    }
+}
