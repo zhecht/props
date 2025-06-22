@@ -2200,7 +2200,10 @@ def writeSavantExpected(date):
 		json.dump(expected, fh, indent=4)
 
 	for team in expectedHist:
-		with open(f"{prefix}static/historical/{team}.json", "w") as fh:
+		t = team
+		if ".json" not in t:
+			t += ".json"
+		with open(f"{prefix}static/historical/{team}", "w") as fh:
 			json.dump(expectedHist[team], fh)
 
 	hist_sorted = nested_dict()
