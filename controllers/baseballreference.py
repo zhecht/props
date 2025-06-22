@@ -1705,6 +1705,7 @@ def writeBarrels(date):
 
 	barrels = []
 	for team, players in expectedHist.items():
+		team = team.replace(".json", "")
 		game = teamGame.get(team, "")
 		with open(f"static/splits/mlb/{team}.json") as fh:
 			splits = json.load(fh)
@@ -2156,7 +2157,7 @@ def writeSavantExpected(date):
 	expectedHist = nested_dict()
 
 	for team in os.listdir(f"{prefix}static/historical"):
-		with open(f"{prefix}static/historical/{team}.json") as fh:
+		with open(f"{prefix}static/historical/{team}") as fh:
 			expectedHist[team] = json.load(fh)
 
 	writeQualified()
