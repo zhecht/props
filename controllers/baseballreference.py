@@ -2156,7 +2156,8 @@ def writeQualified():
 def writeSavantExpected(date):
 	expectedHist = nested_dict()
 
-	for team in os.listdir(f"{prefix}static/historical"):
+	for team in os.listdir(f"{prefix}static/historical/"):
+		team = team.replace(".json", "")
 		with open(f"{prefix}static/historical/{team}") as fh:
 			expectedHist[team] = json.load(fh)
 
@@ -2189,20 +2190,22 @@ def writeSavantExpected(date):
 			player = f"{first} {last}"
 
 			row["dt"] = date
-			expected[team][player] = row.copy()
+			keys = ["grouping_code", "pa", "bip", "launch_angle_avg", "sweet_spot_percent", "exit_velocity_avg", "exit_velocity_max", "distance_max", "distance_avg", "distance_hr_avg", "hard_hit_ct", "hard_hit_percent", "barrel_ct", "barrels_per_bip", "barrels_per_pa", "ba", "est_ba", "slg", "est_slg", "woba", "est_woba", "wobacon", "est_wobacon", "dt"]
+			parsedRow = {}
+			for k in row:
+				if k in keys:
+					parsedRow[k] = row[k]
 
+			expected[team][player] = parsedRow.copy()
 
 			expectedHist.setdefault(team, {})
 			expectedHist[team].setdefault(player, {})
-			expectedHist[team][player][date] = row.copy()
+			expectedHist[team][player][date] = parsedRow.copy()
 
 	with open(f"{prefix}static/baseballreference/expected.json", "w") as fh:
 		json.dump(expected, fh, indent=4)
 
 	for team in expectedHist:
-		t = team
-		if ".json" not in t:
-			t += ".json"
 		with open(f"{prefix}static/historical/{team}", "w") as fh:
 			json.dump(expectedHist[team], fh)
 
@@ -2704,3 +2707,39 @@ if __name__ == "__main__":
 
 	if args.commit:
 		commitChanges()
+
+
+	# loop through old hist_analysis
+	if False:
+		d = nested_dict()
+		with open("t.json") as fh:
+			hist = json.load(fh)
+
+		for team, players in hist.items():
+			with open(f"static/historical/{team}") as fh:
+				t = json.load(fh)
+
+			os.system(f"rm static/historical/{team}")
+			for player in players:
+				for dt, j in hist[team][player].items():
+					d[team][player][dt] = j.copy()
+
+		for team in d:
+			with open(f"static/historical/{team}.json", "w") as fh:
+				json.dump(d[team], fh)
+
+	if False:
+		for team in os.listdir("static/historical/"):
+			with open(f"static/historical/{team}") as fh:
+				teamData = json.load(fh)
+
+			d = nested_dict()
+			for player, dts in teamData.items():
+				for dt, j in dts.items():
+					keys = ["grouping_code", "pa", "bip", "launch_angle_avg", "sweet_spot_percent", "exit_velocity_avg", "exit_velocity_max", "distance_max", "distance_avg", "distance_hr_avg", "hard_hit_ct", "hard_hit_percent", "barrel_ct", "barrels_per_bip", "barrels_per_pa", "ba", "est_ba", "slg", "est_slg", "woba", "est_woba", "wobacon", "est_wobacon", "dt"]
+					for k in j:
+						if k in keys:
+							d[player][dt][k] = j[k]
+
+			with open(f"static/historical/{team}", "w") as fh:
+				json.dump(d, fh)
