@@ -1695,6 +1695,9 @@ def writeBarrels(date):
 	with open("static/baseballreference/homer_logs.json") as fh:
 		homerLogs = json.load(fh)
 
+	with open(f"static/baseballreference/barrel_logs.json") as fh:
+		brlLogs = json.load(fh)
+
 	b = "https://api.github.com/repos/zhecht/odds/contents/static"
 	hdrs = {"Accept": "application/vnd.github.v3.raw"}
 	response = requests.get(f"{b}/dingers/ev.json", headers=hdrs)
@@ -1769,6 +1772,14 @@ def writeBarrels(date):
 						diff = round(diff, 2)
 					game_trends[key]["5G"] = diff
 
+
+			brlLog = brlLogs[team].get(player, {})
+			if brlLog:
+				game_trends["barrel_ct"]["5G"] = sum(brlLog["brl"][-5:])
+				game_trends["barrel_ct"]["3G"] = sum(brlLog["brl"][-3:])
+				game_trends["hard_hit_ct"]["5G"] = sum(brlLog["hh"][-5:])
+				game_trends["hard_hit_ct"]["3G"] = sum(brlLog["hh"][-3:])
+
 			bppFactor = playerFactor = ""
 			if game in bppFactors and player in bppFactors[game].get("players",[]):
 				bppFactor = bppFactors[game]["hr"]
@@ -1827,6 +1838,56 @@ def writeBarrels(date):
 
 	with open("static/baseballreference/barrels.json", "w") as fh:
 		json.dump(barrels, fh)
+
+def writeBarrelHistory():
+
+	data = nested_dict()
+	for team in os.listdir("static/historical/"):
+		team = team.replace(".json", "")
+
+		with open(f"static/splits/mlb_feed/{team}.json") as fh:
+			feed = json.load(fh)
+
+		for player, dtPas in feed.items():
+			for dt_pa, j in sorted(dtPas.items()):
+				y,m,d,pa = map(str, dt_pa.split("-"))
+				dt = f"{y}-{m}-{d}"
+				hh = float(j["evo"] or 0) >= 95
+
+				data[team].setdefault(dt, {})
+				data[team][dt].setdefault(player, {})
+
+				for key in ["evo", "dist", "la"]:
+					data[team][dt][player].setdefault(key, [])
+					data[team][dt][player][key].append(j[key])
+				
+				for key in ["brl", "hh"]:
+					data[team][dt][player].setdefault(key, [])
+
+				data[team][dt][player]["brl"].append(1 if isBarrel(j) else 0)
+				data[team][dt][player]["hh"].append(1 if hh else 0)
+
+	res = nested_dict()
+	for team, dts in data.items():
+		for dt, players in dts.items():
+
+			for player in players:
+				for key in ["100mph", "300ft", "brl", "hh"]:
+					res[team][player].setdefault(key, [])
+
+				d = data[team][dt][player]
+				res[team][player]["100mph"].append(len([x for x in d["evo"] if float(x or 0) >= 100]))
+				res[team][player]["300ft"].append(len([x for x in d["dist"] if int(x or 0) >= 300]))
+				res[team][player]["brl"].append(sum(d["brl"]))
+				res[team][player]["hh"].append(sum(d["hh"]))
+
+	for team, players in res.items():
+		for player in players:
+			res[team][player]["totBrl"] = sum(res[team][player]["brl"])
+			res[team][player]["totHH"] = sum(res[team][player]["hh"])
+
+	with open(f"static/baseballreference/barrel_logs.json", "w") as fh:
+		json.dump(res, fh)
 
 
 def writeHomerLogs():
@@ -2708,38 +2769,4 @@ if __name__ == "__main__":
 	if args.commit:
 		commitChanges()
 
-
-	# loop through old hist_analysis
-	if False:
-		d = nested_dict()
-		with open("t.json") as fh:
-			hist = json.load(fh)
-
-		for team, players in hist.items():
-			with open(f"static/historical/{team}") as fh:
-				t = json.load(fh)
-
-			os.system(f"rm static/historical/{team}")
-			for player in players:
-				for dt, j in hist[team][player].items():
-					d[team][player][dt] = j.copy()
-
-		for team in d:
-			with open(f"static/historical/{team}.json", "w") as fh:
-				json.dump(d[team], fh)
-
-	if False:
-		for team in os.listdir("static/historical/"):
-			with open(f"static/historical/{team}") as fh:
-				teamData = json.load(fh)
-
-			d = nested_dict()
-			for player, dts in teamData.items():
-				for dt, j in dts.items():
-					keys = ["grouping_code", "pa", "bip", "launch_angle_avg", "sweet_spot_percent", "exit_velocity_avg", "exit_velocity_max", "distance_max", "distance_avg", "distance_hr_avg", "hard_hit_ct", "hard_hit_percent", "barrel_ct", "barrels_per_bip", "barrels_per_pa", "ba", "est_ba", "slg", "est_slg", "woba", "est_woba", "wobacon", "est_wobacon", "dt"]
-					for k in j:
-						if k in keys:
-							d[player][dt][k] = j[k]
-
-			with open(f"static/historical/{team}", "w") as fh:
-				json.dump(d, fh)
+	#writeBarrelHistory()
