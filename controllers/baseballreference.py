@@ -2158,7 +2158,7 @@ def writeSavantExpected(date):
 
 	for team in os.listdir(f"{prefix}static/historical/"):
 		team = team.replace(".json", "")
-		with open(f"{prefix}static/historical/{team}") as fh:
+		with open(f"{prefix}static/historical/{team}.json") as fh:
 			expectedHist[team] = json.load(fh)
 
 	writeQualified()
@@ -2206,7 +2206,7 @@ def writeSavantExpected(date):
 		json.dump(expected, fh, indent=4)
 
 	for team in expectedHist:
-		with open(f"{prefix}static/historical/{team}", "w") as fh:
+		with open(f"{prefix}static/historical/{team}.json", "w") as fh:
 			json.dump(expectedHist[team], fh)
 
 	hist_sorted = nested_dict()
