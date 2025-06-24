@@ -1,4 +1,18 @@
 {
+    "mia @ sf": {
+        "mike yastrzemski": {
+            "pn": "565/-1140"
+        },
+        "willy adames": {
+            "pn": "596/-1251"
+        },
+        "rafael devers": {
+            "pn": "324/-502"
+        },
+        "heliot ramos": {
+            "pn": "611/-1312"
+        }
+    },
     "ath @ det": {
         "kerry carpenter": {
             "pn": "532/-1031"
@@ -33,18 +47,21 @@
             "pn": "573/-1169"
         }
     },
-    "mia @ sf": {
-        "mike yastrzemski": {
-            "pn": "565/-1140"
+    "tb @ kc": {
+        "salvador perez": {
+            "pn": "435/-754"
         },
-        "willy adames": {
-            "pn": "596/-1251"
+        "bobby witt": {
+            "pn": "341/-538"
         },
-        "rafael devers": {
-            "pn": "324/-502"
+        "yandy diaz": {
+            "pn": "499/-929"
         },
-        "heliot ramos": {
-            "pn": "611/-1312"
+        "christopher morel": {
+            "pn": "472/-853"
+        },
+        "junior caminero": {
+            "pn": "453/-802"
         }
     },
     "atl @ nym": {
@@ -79,23 +96,6 @@
         },
         "kyle schwarber": {
             "pn": "431/-745"
-        }
-    },
-    "tb @ kc": {
-        "salvador perez": {
-            "pn": "435/-754"
-        },
-        "bobby witt": {
-            "pn": "341/-538"
-        },
-        "yandy diaz": {
-            "pn": "499/-929"
-        },
-        "christopher morel": {
-            "pn": "472/-853"
-        },
-        "junior caminero": {
-            "pn": "453/-802"
         }
     }
 }
