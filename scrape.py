@@ -1668,6 +1668,9 @@ async def writeMGMFromHTML(data, html, sport, game):
 
 		prop = f"{prefix}{prop}"
 
+		if prop == "f5_total":
+			continue
+
 		if " either " in prop or "exact" in prop or prop.endswith("1st inning runs") or "winner" in prop:
 			continue
 
