@@ -1869,15 +1869,13 @@ def writeBarrelHistory():
 
 	res = nested_dict()
 	for team, dts in data.items():
-		for dt, players in dts.items():
+		for dt, players in sorted(dts.items()):
 
 			for player in players:
 				for key in ["100mph", "300ft", "brl", "hh"]:
 					res[team][player].setdefault(key, [])
 
 				d = data[team][dt][player]
-				if player == "freddie freeman":
-					print(dt, d)
 				res[team][player]["100mph"].append(len([x for x in d["evo"] if float(x or 0) >= 100]))
 				res[team][player]["300ft"].append(len([x for x in d["dist"] if int(x or 0) >= 300]))
 				res[team][player]["brl"].append(sum(d["brl"]))
