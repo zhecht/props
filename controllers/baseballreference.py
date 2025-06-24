@@ -1876,6 +1876,8 @@ def writeBarrelHistory():
 					res[team][player].setdefault(key, [])
 
 				d = data[team][dt][player]
+				if player == "freddie freeman":
+					print(dt, d)
 				res[team][player]["100mph"].append(len([x for x in d["evo"] if float(x or 0) >= 100]))
 				res[team][player]["300ft"].append(len([x for x in d["dist"] if int(x or 0) >= 300]))
 				res[team][player]["brl"].append(sum(d["brl"]))
@@ -2732,6 +2734,7 @@ if __name__ == "__main__":
 		writeTrades()
 	elif args.brl:
 		writeHomerLogs()
+		writeBarrelHistory()
 		writeBarrels(date)
 	elif args.cron:
 		writeRankings()
@@ -2744,6 +2747,7 @@ if __name__ == "__main__":
 		writeSavantParkFactors()
 		writeSavantPercentiles()
 		writeHomerLogs()
+		writeBarrelHistory()
 		writeBarrels(date)
 		writeSavantExpectedHR()
 		writeSavantPitcherAdvanced()
