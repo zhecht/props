@@ -1704,7 +1704,10 @@ async def writeMGMFromHTML(data, html, sport, game):
 
 			for i in range(0, len(odds), 2):
 				line = str(float(lines[i].text.strip().split(" ")[-1]))
-				data[game][prop][line] = odds[i].text.strip()+"/"+odds[i+1].text.strip()
+				try:
+					data[game][prop][line] = odds[i].text.strip()+"/"+odds[i+1].text.strip()
+				except:
+					continue
 		elif prop in ["fgs", "atgs"]:
 			for player, o in zip(lines, odds):
 				player = parsePlayer(player.text.strip())

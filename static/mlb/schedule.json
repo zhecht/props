@@ -7333,40 +7333,40 @@
             "start": ""
         },
         {
+            "game": "ari @ chw",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696080/diamondbacks-white-sox",
+            "score": "10-0",
+            "start": ""
+        },
+        {
+            "game": "pit @ mil",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696082/pirates-brewers",
+            "score": "5-4",
+            "start": ""
+        },
+        {
+            "game": "sea @ min",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696083/mariners-twins",
+            "score": "11-2",
+            "start": ""
+        },
+        {
             "game": "chc @ stl",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696081/cubs-cardinals",
             "score": "2-8",
             "start": ""
         },
         {
-            "game": "ari @ chw",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696080",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
-            "game": "pit @ mil",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696082",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
-            "game": "sea @ min",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696083",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
             "game": "bos @ laa",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696084",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696084/red-sox-angels",
+            "score": "5-9",
+            "start": ""
         },
         {
             "game": "wsh @ sd",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696085",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696085/nationals-padres",
+            "score": "10-6",
+            "start": ""
         }
     ],
     "2025-06-24": [
