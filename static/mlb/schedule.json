@@ -7444,21 +7444,21 @@
         },
         {
             "game": "bos @ laa",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696098",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696098/red-sox-angels",
+            "score": "2-3",
+            "start": ""
         },
         {
             "game": "wsh @ sd",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696100",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696100/nationals-padres",
+            "score": "3-4",
+            "start": ""
         },
         {
             "game": "mia @ sf",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696099",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696099/marlins-giants",
+            "score": "4-2",
+            "start": ""
         }
     ],
     "2025-06-25": [
