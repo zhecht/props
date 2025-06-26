@@ -7506,51 +7506,51 @@
         },
         {
             "game": "atl @ nym",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696101",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696101/braves-mets",
+            "score": "3-7",
+            "start": ""
         },
         {
             "game": "nyy @ cin",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696102",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696102/yankees-reds",
+            "score": "7-1",
+            "start": ""
         },
         {
             "game": "sea @ min",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696110",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696110/mariners-twins",
+            "score": "0-2",
+            "start": ""
         },
         {
             "game": "tb @ kc",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696111",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696111/rays-royals",
+            "score": "3-0",
+            "start": ""
         },
         {
             "game": "chc @ stl",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696107",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696107/cubs-cardinals",
+            "score": "8-0",
+            "start": ""
         },
         {
             "game": "phi @ hou",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696108",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696108/phillies-astros",
+            "score": "0-2",
+            "start": ""
         },
         {
             "game": "lad @ col",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696112",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696112/dodgers-rockies",
+            "score": "8-1",
+            "start": ""
         },
         {
             "game": "mia @ sf",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696114/marlins-giants",
-            "score": "",
-            "start": "9:45 PM"
+            "score": "8-5",
+            "start": ""
         }
     ],
     "2025-06-26": [
