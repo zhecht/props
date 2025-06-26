@@ -137,7 +137,10 @@ def writeStats(sport, date):
 							k = "so"
 						if "-" in k:
 							k1,k2 = map(str, k.split("-"))
-							v1,v2 = map(int, v.split("-"))
+							try:
+								v1,v2 = map(int, v.split("-"))
+							except:
+								continue
 							stats[team][player][k1] = v1
 							stats[team][player][k2] = v2
 						elif "." in v:
