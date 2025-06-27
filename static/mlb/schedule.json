@@ -7567,6 +7567,12 @@
             "start": ""
         },
         {
+            "game": "sea @ min",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696121/mariners-twins",
+            "score": "1-10",
+            "start": ""
+        },
+        {
             "game": "phi @ hou",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696120/phillies-astros",
             "score": "1-2",
@@ -7597,16 +7603,10 @@
             "start": ""
         },
         {
-            "game": "sea @ min",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696121/mariners-twins",
-            "score": "",
-            "start": "1:10 PM"
-        },
-        {
             "game": "atl @ nym",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696116",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696116/braves-mets",
+            "score": "0-4",
+            "start": ""
         }
     ],
     "2025-06-27": [
