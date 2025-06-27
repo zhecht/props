@@ -28,32 +28,32 @@
                 "val": 2.2
             }
         },
-        "drew rasmussen": {
-            "pitchesPerPlate": {
-                "rank": 38,
-                "rankSuffix": "38th",
-                "rankClass": "negative",
-                "val": 3.9
-            },
-            "k/bb": {
-                "rank": 23,
-                "rankSuffix": "23rd",
-                "rankClass": "negative",
-                "val": 3.6
-            }
-        },
         "shane baz": {
             "pitchesPerPlate": {
-                "rank": 42,
-                "rankSuffix": "42nd",
+                "rank": 37,
+                "rankSuffix": "37th",
                 "rankClass": "negative",
                 "val": 3.9
             },
             "k/bb": {
-                "rank": 53,
-                "rankSuffix": "53rd",
+                "rank": 51,
+                "rankSuffix": "51st",
                 "rankClass": "negative",
-                "val": 2.3
+                "val": 2.5
+            }
+        },
+        "drew rasmussen": {
+            "pitchesPerPlate": {
+                "rank": 39,
+                "rankSuffix": "39th",
+                "rankClass": "negative",
+                "val": 3.9
+            },
+            "k/bb": {
+                "rank": 24,
+                "rankSuffix": "24th",
+                "rankClass": "negative",
+                "val": 3.6
             }
         },
         "ryan pepiot": {
@@ -94,8 +94,8 @@
                 "val": 4.0
             },
             "k/bb": {
-                "rank": 48,
-                "rankSuffix": "48th",
+                "rank": 49,
+                "rankSuffix": "49th",
                 "rankClass": "negative",
                 "val": 2.5
             }
@@ -116,24 +116,10 @@
                 "val": 5.9
             }
         },
-        "andre pallante": {
-            "pitchesPerPlate": {
-                "rank": 15,
-                "rankSuffix": "15th",
-                "rankClass": "",
-                "val": 3.7
-            },
-            "k/bb": {
-                "rank": 60,
-                "rankSuffix": "60th",
-                "rankClass": "negative",
-                "val": 2.1
-            }
-        },
         "sonny gray": {
             "pitchesPerPlate": {
-                "rank": 17,
-                "rankSuffix": "17th",
+                "rank": 16,
+                "rankSuffix": "16th",
                 "rankClass": "",
                 "val": 3.7
             },
@@ -142,6 +128,20 @@
                 "rankSuffix": "6th",
                 "rankClass": "positive",
                 "val": 5.3
+            }
+        },
+        "andre pallante": {
+            "pitchesPerPlate": {
+                "rank": 18,
+                "rankSuffix": "18th",
+                "rankClass": "",
+                "val": 3.7
+            },
+            "k/bb": {
+                "rank": 65,
+                "rankSuffix": "65th",
+                "rankClass": "negative",
+                "val": 2.1
             }
         },
         "erick fedde": {
@@ -176,16 +176,16 @@
         },
         "hunter brown": {
             "pitchesPerPlate": {
-                "rank": 68,
-                "rankSuffix": "68th",
+                "rank": 69,
+                "rankSuffix": "69th",
                 "rankClass": "negative",
                 "val": 4.1
             },
             "k/bb": {
-                "rank": 19,
-                "rankSuffix": "19th",
+                "rank": 17,
+                "rankSuffix": "17th",
                 "rankClass": "",
-                "val": 3.9
+                "val": 4.2
             }
         }
     },
@@ -212,16 +212,16 @@
                 "val": 4.0
             },
             "k/bb": {
-                "rank": 50,
-                "rankSuffix": "50th",
+                "rank": 52,
+                "rankSuffix": "52nd",
                 "rankClass": "negative",
                 "val": 2.5
             }
         },
         "chris sale": {
             "pitchesPerPlate": {
-                "rank": 61,
-                "rankSuffix": "61st",
+                "rank": 62,
+                "rankSuffix": "62nd",
                 "rankClass": "negative",
                 "val": 4.0
             },
@@ -250,8 +250,8 @@
         },
         "chris bassitt": {
             "pitchesPerPlate": {
-                "rank": 29,
-                "rankSuffix": "29th",
+                "rank": 30,
+                "rankSuffix": "30th",
                 "rankClass": "negative",
                 "val": 3.8
             },
@@ -264,16 +264,16 @@
         },
         "kevin gausman": {
             "pitchesPerPlate": {
-                "rank": 62,
-                "rankSuffix": "62nd",
+                "rank": 61,
+                "rankSuffix": "61st",
                 "rankClass": "negative",
                 "val": 4.0
             },
             "k/bb": {
-                "rank": 26,
-                "rankSuffix": "26th",
+                "rank": 24,
+                "rankSuffix": "24th",
                 "rankClass": "negative",
-                "val": 3.5
+                "val": 3.6
             }
         }
     },
@@ -286,8 +286,8 @@
                 "val": 3.7
             },
             "k/bb": {
-                "rank": 36,
-                "rankSuffix": "36th",
+                "rank": 37,
+                "rankSuffix": "37th",
                 "rankClass": "negative",
                 "val": 3.1
             }
@@ -300,24 +300,24 @@
                 "val": 3.8
             },
             "k/bb": {
-                "rank": 25,
-                "rankSuffix": "25th",
+                "rank": 27,
+                "rankSuffix": "27th",
                 "rankClass": "negative",
                 "val": 3.6
             }
         },
         "michael lorenzen": {
             "pitchesPerPlate": {
-                "rank": 34,
-                "rankSuffix": "34th",
+                "rank": 28,
+                "rankSuffix": "28th",
                 "rankClass": "negative",
                 "val": 3.8
             },
             "k/bb": {
-                "rank": 51,
-                "rankSuffix": "51st",
+                "rank": 46,
+                "rankSuffix": "46th",
                 "rankClass": "negative",
-                "val": 2.5
+                "val": 2.6
             }
         },
         "seth lugo": {
@@ -328,8 +328,8 @@
                 "val": 4.0
             },
             "k/bb": {
-                "rank": 39,
-                "rankSuffix": "39th",
+                "rank": 40,
+                "rankSuffix": "40th",
                 "rankClass": "negative",
                 "val": 3.0
             }
@@ -344,22 +344,22 @@
                 "val": 3.7
             },
             "k/bb": {
-                "rank": 30,
-                "rankSuffix": "30th",
+                "rank": 31,
+                "rankSuffix": "31st",
                 "rankClass": "negative",
                 "val": 3.3
             }
         },
         "chris paddack": {
             "pitchesPerPlate": {
-                "rank": 46,
-                "rankSuffix": "46th",
+                "rank": 45,
+                "rankSuffix": "45th",
                 "rankClass": "negative",
                 "val": 3.9
             },
             "k/bb": {
-                "rank": 48,
-                "rankSuffix": "48th",
+                "rank": 49,
+                "rankSuffix": "49th",
                 "rankClass": "negative",
                 "val": 2.5
             }
@@ -388,16 +388,16 @@
                 "val": 3.7
             },
             "k/bb": {
-                "rank": 28,
-                "rankSuffix": "28th",
+                "rank": 29,
+                "rankSuffix": "29th",
                 "rankClass": "negative",
                 "val": 3.3
             }
         },
         "nick lodolo": {
             "pitchesPerPlate": {
-                "rank": 40,
-                "rankSuffix": "40th",
+                "rank": 41,
+                "rankSuffix": "41st",
                 "rankClass": "negative",
                 "val": 3.9
             },
@@ -416,8 +416,8 @@
                 "val": 4.0
             },
             "k/bb": {
-                "rank": 64,
-                "rankSuffix": "64th",
+                "rank": 63,
+                "rankSuffix": "63rd",
                 "rankClass": "negative",
                 "val": 2.1
             }
@@ -432,8 +432,8 @@
                 "val": 3.7
             },
             "k/bb": {
-                "rank": 46,
-                "rankSuffix": "46th",
+                "rank": 47,
+                "rankSuffix": "47th",
                 "rankClass": "negative",
                 "val": 2.5
             }
@@ -490,8 +490,8 @@
                 "val": 3.7
             },
             "k/bb": {
-                "rank": 52,
-                "rankSuffix": "52nd",
+                "rank": 53,
+                "rankSuffix": "53rd",
                 "rankClass": "negative",
                 "val": 2.4
             }
@@ -532,15 +532,15 @@
                 "val": 4.0
             },
             "k/bb": {
-                "rank": 63,
-                "rankSuffix": "63rd",
+                "rank": 62,
+                "rankSuffix": "62nd",
                 "rankClass": "negative",
                 "val": 2.1
             }
         }
     },
-    "phi": {
-        "cristopher sanchez": {
+    "nym": {
+        "david peterson": {
             "pitchesPerPlate": {
                 "rank": 13,
                 "rankSuffix": "13th",
@@ -548,10 +548,84 @@
                 "val": 3.7
             },
             "k/bb": {
+                "rank": 48,
+                "rankSuffix": "48th",
+                "rankClass": "negative",
+                "val": 2.5
+            }
+        },
+        "clay holmes": {
+            "pitchesPerPlate": {
+                "rank": 44,
+                "rankSuffix": "44th",
+                "rankClass": "negative",
+                "val": 3.9
+            },
+            "k/bb": {
+                "rank": 60,
+                "rankSuffix": "60th",
+                "rankClass": "negative",
+                "val": 2.1
+            }
+        }
+    },
+    "sd": {
+        "randy vasquez": {
+            "pitchesPerPlate": {
+                "rank": 14,
+                "rankSuffix": "14th",
+                "rankClass": "",
+                "val": 3.7
+            },
+            "k/bb": {
+                "rank": 73,
+                "rankSuffix": "73rd",
+                "rankClass": "negative",
+                "val": 1.2
+            }
+        },
+        "nick pivetta": {
+            "pitchesPerPlate": {
+                "rank": 40,
+                "rankSuffix": "40th",
+                "rankClass": "negative",
+                "val": 3.9
+            },
+            "k/bb": {
+                "rank": 18,
+                "rankSuffix": "18th",
+                "rankClass": "",
+                "val": 4.2
+            }
+        },
+        "dylan cease": {
+            "pitchesPerPlate": {
+                "rank": 64,
+                "rankSuffix": "64th",
+                "rankClass": "negative",
+                "val": 4.1
+            },
+            "k/bb": {
                 "rank": 30,
                 "rankSuffix": "30th",
                 "rankClass": "negative",
                 "val": 3.3
+            }
+        }
+    },
+    "phi": {
+        "cristopher sanchez": {
+            "pitchesPerPlate": {
+                "rank": 15,
+                "rankSuffix": "15th",
+                "rankClass": "",
+                "val": 3.7
+            },
+            "k/bb": {
+                "rank": 23,
+                "rankSuffix": "23rd",
+                "rankClass": "negative",
+                "val": 3.7
             }
         },
         "jesus luzardo": {
@@ -562,8 +636,8 @@
                 "val": 4.0
             },
             "k/bb": {
-                "rank": 24,
-                "rankSuffix": "24th",
+                "rank": 26,
+                "rankSuffix": "26th",
                 "rankClass": "negative",
                 "val": 3.6
             }
@@ -583,85 +657,11 @@
             }
         }
     },
-    "nym": {
-        "david peterson": {
-            "pitchesPerPlate": {
-                "rank": 14,
-                "rankSuffix": "14th",
-                "rankClass": "",
-                "val": 3.7
-            },
-            "k/bb": {
-                "rank": 47,
-                "rankSuffix": "47th",
-                "rankClass": "negative",
-                "val": 2.5
-            }
-        },
-        "clay holmes": {
-            "pitchesPerPlate": {
-                "rank": 44,
-                "rankSuffix": "44th",
-                "rankClass": "negative",
-                "val": 3.9
-            },
-            "k/bb": {
-                "rank": 61,
-                "rankSuffix": "61st",
-                "rankClass": "negative",
-                "val": 2.1
-            }
-        }
-    },
-    "sd": {
-        "randy vasquez": {
-            "pitchesPerPlate": {
-                "rank": 16,
-                "rankSuffix": "16th",
-                "rankClass": "",
-                "val": 3.7
-            },
-            "k/bb": {
-                "rank": 73,
-                "rankSuffix": "73rd",
-                "rankClass": "negative",
-                "val": 1.2
-            }
-        },
-        "nick pivetta": {
-            "pitchesPerPlate": {
-                "rank": 39,
-                "rankSuffix": "39th",
-                "rankClass": "negative",
-                "val": 3.9
-            },
-            "k/bb": {
-                "rank": 17,
-                "rankSuffix": "17th",
-                "rankClass": "",
-                "val": 4.2
-            }
-        },
-        "dylan cease": {
-            "pitchesPerPlate": {
-                "rank": 64,
-                "rankSuffix": "64th",
-                "rankClass": "negative",
-                "val": 4.1
-            },
-            "k/bb": {
-                "rank": 29,
-                "rankSuffix": "29th",
-                "rankClass": "negative",
-                "val": 3.3
-            }
-        }
-    },
     "pit": {
         "bailey falter": {
             "pitchesPerPlate": {
-                "rank": 18,
-                "rankSuffix": "18th",
+                "rank": 17,
+                "rankSuffix": "17th",
                 "rankClass": "",
                 "val": 3.7
             },
@@ -680,22 +680,22 @@
                 "val": 3.8
             },
             "k/bb": {
-                "rank": 37,
-                "rankSuffix": "37th",
+                "rank": 38,
+                "rankSuffix": "38th",
                 "rankClass": "negative",
                 "val": 3.0
             }
         },
         "andrew heaney": {
             "pitchesPerPlate": {
-                "rank": 32,
-                "rankSuffix": "32nd",
+                "rank": 33,
+                "rankSuffix": "33rd",
                 "rankClass": "negative",
                 "val": 3.8
             },
             "k/bb": {
-                "rank": 62,
-                "rankSuffix": "62nd",
+                "rank": 61,
+                "rankSuffix": "61st",
                 "rankClass": "negative",
                 "val": 2.1
             }
@@ -770,22 +770,22 @@
                 "val": 3.8
             },
             "k/bb": {
-                "rank": 40,
-                "rankSuffix": "40th",
+                "rank": 41,
+                "rankSuffix": "41st",
                 "rankClass": "negative",
                 "val": 2.9
             }
         },
         "dean kremer": {
             "pitchesPerPlate": {
-                "rank": 31,
-                "rankSuffix": "31st",
+                "rank": 32,
+                "rankSuffix": "32nd",
                 "rankClass": "negative",
                 "val": 3.8
             },
             "k/bb": {
-                "rank": 38,
-                "rankSuffix": "38th",
+                "rank": 39,
+                "rankSuffix": "39th",
                 "rankClass": "negative",
                 "val": 3.0
             }
@@ -808,14 +808,14 @@
         },
         "matthew boyd": {
             "pitchesPerPlate": {
-                "rank": 41,
-                "rankSuffix": "41st",
+                "rank": 42,
+                "rankSuffix": "42nd",
                 "rankClass": "negative",
                 "val": 3.9
             },
             "k/bb": {
-                "rank": 18,
-                "rankSuffix": "18th",
+                "rank": 19,
+                "rankSuffix": "19th",
                 "rankClass": "",
                 "val": 3.9
             }
@@ -838,30 +838,30 @@
         },
         "jeffrey springs": {
             "pitchesPerPlate": {
-                "rank": 45,
-                "rankSuffix": "45th",
+                "rank": 47,
+                "rankSuffix": "47th",
                 "rankClass": "negative",
                 "val": 3.9
             },
             "k/bb": {
-                "rank": 54,
-                "rankSuffix": "54th",
+                "rank": 57,
+                "rankSuffix": "57th",
                 "rankClass": "negative",
-                "val": 2.3
+                "val": 2.2
             }
         }
     },
     "ari": {
         "zac gallen": {
             "pitchesPerPlate": {
-                "rank": 30,
-                "rankSuffix": "30th",
+                "rank": 31,
+                "rankSuffix": "31st",
                 "rankClass": "negative",
                 "val": 3.8
             },
             "k/bb": {
-                "rank": 65,
-                "rankSuffix": "65th",
+                "rank": 64,
+                "rankSuffix": "64th",
                 "rankClass": "negative",
                 "val": 2.1
             }
@@ -882,8 +882,8 @@
         },
         "merrill kelly": {
             "pitchesPerPlate": {
-                "rank": 47,
-                "rankSuffix": "47th",
+                "rank": 46,
+                "rankSuffix": "46th",
                 "rankClass": "negative",
                 "val": 3.9
             },
@@ -898,8 +898,8 @@
     "sf": {
         "logan webb": {
             "pitchesPerPlate": {
-                "rank": 33,
-                "rankSuffix": "33rd",
+                "rank": 34,
+                "rankSuffix": "34th",
                 "rankClass": "negative",
                 "val": 3.8
             },
@@ -918,8 +918,8 @@
                 "val": 4.0
             },
             "k/bb": {
-                "rank": 41,
-                "rankSuffix": "41st",
+                "rank": 42,
+                "rankSuffix": "42nd",
                 "rankClass": "negative",
                 "val": 2.9
             }
@@ -948,8 +948,8 @@
                 "val": 4.1
             },
             "k/bb": {
-                "rank": 26,
-                "rankSuffix": "26th",
+                "rank": 28,
+                "rankSuffix": "28th",
                 "rankClass": "negative",
                 "val": 3.5
             }
@@ -958,8 +958,8 @@
     "chw": {
         "sean burke": {
             "pitchesPerPlate": {
-                "rank": 37,
-                "rankSuffix": "37th",
+                "rank": 38,
+                "rankSuffix": "38th",
                 "rankClass": "negative",
                 "val": 3.9
             },
@@ -971,8 +971,8 @@
             }
         }
     },
-    "cle": {
-        "tanner bibee": {
+    "mil": {
+        "chad patrick": {
             "pitchesPerPlate": {
                 "rank": 48,
                 "rankSuffix": "48th",
@@ -980,52 +980,8 @@
                 "val": 3.9
             },
             "k/bb": {
-                "rank": 42,
-                "rankSuffix": "42nd",
-                "rankClass": "negative",
-                "val": 2.9
-            }
-        },
-        "luis ortiz": {
-            "pitchesPerPlate": {
-                "rank": 52,
-                "rankSuffix": "52nd",
-                "rankClass": "negative",
-                "val": 4.0
-            },
-            "k/bb": {
-                "rank": 57,
-                "rankSuffix": "57th",
-                "rankClass": "negative",
-                "val": 2.2
-            }
-        },
-        "gavin williams": {
-            "pitchesPerPlate": {
-                "rank": 73,
-                "rankSuffix": "73rd",
-                "rankClass": "negative",
-                "val": 4.2
-            },
-            "k/bb": {
-                "rank": 69,
-                "rankSuffix": "69th",
-                "rankClass": "negative",
-                "val": 1.8
-            }
-        }
-    },
-    "mil": {
-        "chad patrick": {
-            "pitchesPerPlate": {
-                "rank": 49,
-                "rankSuffix": "49th",
-                "rankClass": "negative",
-                "val": 3.9
-            },
-            "k/bb": {
-                "rank": 35,
-                "rankSuffix": "35th",
+                "rank": 36,
+                "rankSuffix": "36th",
                 "rankClass": "negative",
                 "val": 3.1
             }
@@ -1042,6 +998,50 @@
                 "rankSuffix": "43rd",
                 "rankClass": "negative",
                 "val": 2.9
+            }
+        }
+    },
+    "cle": {
+        "tanner bibee": {
+            "pitchesPerPlate": {
+                "rank": 49,
+                "rankSuffix": "49th",
+                "rankClass": "negative",
+                "val": 3.9
+            },
+            "k/bb": {
+                "rank": 35,
+                "rankSuffix": "35th",
+                "rankClass": "negative",
+                "val": 3.2
+            }
+        },
+        "luis ortiz": {
+            "pitchesPerPlate": {
+                "rank": 52,
+                "rankSuffix": "52nd",
+                "rankClass": "negative",
+                "val": 4.0
+            },
+            "k/bb": {
+                "rank": 56,
+                "rankSuffix": "56th",
+                "rankClass": "negative",
+                "val": 2.2
+            }
+        },
+        "gavin williams": {
+            "pitchesPerPlate": {
+                "rank": 73,
+                "rankSuffix": "73rd",
+                "rankClass": "negative",
+                "val": 4.2
+            },
+            "k/bb": {
+                "rank": 69,
+                "rankSuffix": "69th",
+                "rankClass": "negative",
+                "val": 1.8
             }
         }
     },
@@ -1064,8 +1064,8 @@
     "lad": {
         "yoshinobu yamamoto": {
             "pitchesPerPlate": {
-                "rank": 69,
-                "rankSuffix": "69th",
+                "rank": 68,
+                "rankSuffix": "68th",
                 "rankClass": "negative",
                 "val": 4.1
             },
