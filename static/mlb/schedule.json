@@ -7623,6 +7623,12 @@
             "start": ""
         },
         {
+            "game": "tb @ bal",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696131/rays-orioles",
+            "score": "8-22",
+            "start": ""
+        },
+        {
             "game": "min @ det",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696125/twins-tigers",
             "score": "4-1",
@@ -7641,26 +7647,20 @@
             "start": ""
         },
         {
-            "game": "tb @ bal",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696131",
-            "score": "",
-            "start": "LIVE"
+            "game": "tor @ bos",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696132/blue-jays-red-sox",
+            "score": "9-0",
+            "start": ""
         },
         {
-            "game": "tor @ bos",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696132",
-            "score": "",
-            "start": "LIVE"
+            "game": "sf @ chw",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696137/giants-white-sox",
+            "score": "3-1",
+            "start": ""
         },
         {
             "game": "phi @ atl",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696128",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
-            "game": "sf @ chw",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696137",
             "score": "",
             "start": "LIVE"
         },
