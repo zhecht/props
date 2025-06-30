@@ -109,7 +109,8 @@ def linearRegression(x, y):
 	return {"slope": slope, "intercept": intercept, "predicted_y": predicted_y}
 
 def isBarrel(data):
-	evo = int(round(float(data["evo"] or 0)))
+	#evo = int(round(float(data["evo"] or 0)))
+	evo = int(float(data["evo"] or 0))
 	la = int(data["la"] or 0)
 	if evo < 98:
 		return False
