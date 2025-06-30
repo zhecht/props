@@ -1774,11 +1774,13 @@ def writeBarrels(date):
 
 
 			brlLog = brlLogs[team].get(player, {})
+			brlCntTest = 0
 			if brlLog:
 				game_trends["barrel_ct"]["5G"] = sum(brlLog["brl"][-5:])
 				game_trends["barrel_ct"]["3G"] = sum(brlLog["brl"][-3:])
 				game_trends["hard_hit_ct"]["5G"] = sum(brlLog["hh"][-5:])
 				game_trends["hard_hit_ct"]["3G"] = sum(brlLog["hh"][-3:])
+				brlCntTest = brlLog["totBrl"]
 
 			bppFactor = playerFactor = ""
 			if game in bppFactors and player in bppFactors[game].get("players",[]):
@@ -1791,7 +1793,8 @@ def writeBarrels(date):
 				"player": player,
 				"homerLogs": homerLogs.get(player, {}),
 				"game_trends": game_trends,
-				"bpp": bppFactor, "playerFactor": playerFactor
+				"bpp": bppFactor, "playerFactor": playerFactor,
+				"brlCntTest": brlCntTest
 			}
 
 			for key in ["bip", "pa", "barrel_ct", "barrels_per_bip", "launch_angle_avg", "sweet_spot_percent", "hard_hit_ct", "hard_hit_percent", "exit_velocity_avg", "distance_hr_avg", "distance_avg"]:
