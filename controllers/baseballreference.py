@@ -1867,6 +1867,8 @@ def writeBarrelHistory():
 				for key in ["brl", "hh"]:
 					data[team][dt][player].setdefault(key, [])
 
+				if player == "seth brown":
+					print(dt, isBarrel(j))
 				data[team][dt][player]["brl"].append(1 if isBarrel(j) else 0)
 				data[team][dt][player]["hh"].append(1 if hh else 0)
 
