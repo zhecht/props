@@ -1,7 +1,82 @@
 {
+    "det @ wsh": {
+        "spencer torkelson": {
+            "pn": "429/-738"
+        },
+        "kerry carpenter": {
+            "pn": "349/-555"
+        },
+        "riley greene": {
+            "pn": "420/-717"
+        },
+        "james wood": {
+            "pn": "556/-1111"
+        }
+    },
+    "chw @ lad": {
+        "freddie freeman": {
+            "pn": "477/-865"
+        },
+        "max muncy": {
+            "pn": "386/-635"
+        },
+        "mookie betts": {
+            "pn": "513/-971"
+        },
+        "teoscar hernandez": {
+            "pn": "468/-842"
+        },
+        "michael conforto": {
+            "pn": "539/-1051"
+        },
+        "shohei ohtani": {
+            "pn": "172/-236"
+        },
+        "will smith": {
+            "pn": "476/-864"
+        },
+        "miguel vargas": {
+            "pn": "560/-1124"
+        },
+        "andy pages": {
+            "pn": "451/-794"
+        }
+    },
+    "laa @ atl": {
+        "marcell ozuna": {
+            "pn": "422/-721"
+        },
+        "mike trout": {
+            "pn": "310/-474"
+        },
+        "taylor ward": {
+            "pn": "460/-820"
+        },
+        "matt olson": {
+            "pn": "304/-463"
+        },
+        "ronald acuna": {
+            "pn": "360/-578"
+        },
+        "austin riley": {
+            "pn": "311/-475"
+        },
+        "jo adell": {
+            "pn": "399/-666"
+        },
+        "sean murphy": {
+            "pn": "449/-789"
+        },
+        "logan ohoppe": {
+            "pn": "482/-880"
+        },
+        "zach neto": {
+            "pn": "436/-757"
+        }
+    },
     "ath @ tb": {
         "danny jansen": {
-            "pn": "545/-1073"
+            "pn": "538/-1049"
         },
         "yandy diaz": {
             "pn": "380/-621"
@@ -19,7 +94,7 @@
             "pn": "515/-977"
         },
         "lawrence butler": {
-            "pn": "522/-997"
+            "pn": "528/-1017"
         },
         "tyler soderstrom": {
             "pn": "575/-1177"
@@ -52,17 +127,6 @@
         },
         "fernando tatis": {
             "pn": "566/-1145"
-        }
-    },
-    "det @ wsh": {
-        "spencer torkelson": {
-            "pn": "429/-738"
-        },
-        "kerry carpenter": {
-            "pn": "349/-555"
-        },
-        "riley greene": {
-            "pn": "420/-717"
         }
     },
     "cin @ bos": {
@@ -101,38 +165,6 @@
         },
         "roman anthony": {
             "pn": "532/-1029"
-        }
-    },
-    "laa @ atl": {
-        "marcell ozuna": {
-            "pn": "422/-721"
-        },
-        "mike trout": {
-            "pn": "310/-474"
-        },
-        "taylor ward": {
-            "pn": "460/-820"
-        },
-        "matt olson": {
-            "pn": "304/-463"
-        },
-        "ronald acuna": {
-            "pn": "360/-578"
-        },
-        "austin riley": {
-            "pn": "311/-475"
-        },
-        "jo adell": {
-            "pn": "399/-666"
-        },
-        "sean murphy": {
-            "pn": "449/-789"
-        },
-        "logan ohoppe": {
-            "pn": "482/-880"
-        },
-        "zach neto": {
-            "pn": "436/-757"
         }
     }
 }
