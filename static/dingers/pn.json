@@ -13,122 +13,6 @@
             "pn": "556/-1111"
         }
     },
-    "chw @ lad": {
-        "freddie freeman": {
-            "pn": "477/-865"
-        },
-        "max muncy": {
-            "pn": "386/-635"
-        },
-        "mookie betts": {
-            "pn": "513/-971"
-        },
-        "teoscar hernandez": {
-            "pn": "468/-842"
-        },
-        "michael conforto": {
-            "pn": "539/-1051"
-        },
-        "shohei ohtani": {
-            "pn": "172/-236"
-        },
-        "will smith": {
-            "pn": "476/-864"
-        },
-        "miguel vargas": {
-            "pn": "560/-1124"
-        },
-        "andy pages": {
-            "pn": "451/-794"
-        }
-    },
-    "laa @ atl": {
-        "marcell ozuna": {
-            "pn": "422/-721"
-        },
-        "mike trout": {
-            "pn": "310/-474"
-        },
-        "taylor ward": {
-            "pn": "460/-820"
-        },
-        "matt olson": {
-            "pn": "304/-463"
-        },
-        "ronald acuna": {
-            "pn": "360/-578"
-        },
-        "austin riley": {
-            "pn": "311/-475"
-        },
-        "jo adell": {
-            "pn": "399/-666"
-        },
-        "sean murphy": {
-            "pn": "449/-789"
-        },
-        "logan ohoppe": {
-            "pn": "482/-880"
-        },
-        "zach neto": {
-            "pn": "436/-757"
-        }
-    },
-    "ath @ tb": {
-        "danny jansen": {
-            "pn": "538/-1049"
-        },
-        "yandy diaz": {
-            "pn": "380/-621"
-        },
-        "christopher morel": {
-            "pn": "368/-595"
-        },
-        "junior caminero": {
-            "pn": "347/-551"
-        },
-        "brent rooker": {
-            "pn": "436/-755"
-        },
-        "shea langeliers": {
-            "pn": "515/-977"
-        },
-        "lawrence butler": {
-            "pn": "528/-1017"
-        },
-        "tyler soderstrom": {
-            "pn": "575/-1177"
-        },
-        "nick kurtz": {
-            "pn": "449/-790"
-        }
-    },
-    "sd @ phi": {
-        "bryce harper": {
-            "pn": "323/-500"
-        },
-        "nick castellanos": {
-            "pn": "524/-1004"
-        },
-        "jt realmuto": {
-            "pn": "565/-1142"
-        },
-        "max kepler": {
-            "pn": "446/-782"
-        },
-        "trea turner": {
-            "pn": "509/-960"
-        },
-        "kyle schwarber": {
-            "pn": "250/-364"
-        },
-        "manny machado": {
-            "pn": "420/-717"
-        },
-        "fernando tatis": {
-            "pn": "566/-1145"
-        }
-    },
     "cin @ bos": {
         "tyler stephenson": {
             "pn": "569/-1155"
@@ -165,6 +49,162 @@
         },
         "roman anthony": {
             "pn": "532/-1029"
+        }
+    },
+    "laa @ atl": {
+        "marcell ozuna": {
+            "pn": "422/-721"
+        },
+        "mike trout": {
+            "pn": "310/-474"
+        },
+        "taylor ward": {
+            "pn": "460/-820"
+        },
+        "matt olson": {
+            "pn": "304/-463"
+        },
+        "ronald acuna": {
+            "pn": "360/-578"
+        },
+        "austin riley": {
+            "pn": "311/-475"
+        },
+        "jo adell": {
+            "pn": "399/-666"
+        },
+        "sean murphy": {
+            "pn": "449/-789"
+        },
+        "logan ohoppe": {
+            "pn": "482/-880"
+        },
+        "zach neto": {
+            "pn": "436/-757"
+        }
+    },
+    "min @ mia": {
+        "byron buxton": {
+            "pn": "401/-669"
+        },
+        "matt wallner": {
+            "pn": "418/-710"
+        },
+        "royce lewis": {
+            "pn": "601/-1271"
+        }
+    },
+    "hou @ col": {
+        "christian walker": {
+            "pn": "379/-620"
+        },
+        "ryan mcmahon": {
+            "pn": "561/-1125"
+        },
+        "michael toglia": {
+            "pn": "337/-528"
+        },
+        "isaac paredes": {
+            "pn": "406/-683"
+        },
+        "yainer diaz": {
+            "pn": "559/-1121"
+        },
+        "brenton doyle": {
+            "pn": "516/-980"
+        },
+        "jordan beck": {
+            "pn": "375/-609"
+        },
+        "braxton fulford": {
+            "pn": "612/-1317"
+        },
+        "cam smith": {
+            "pn": "562/-1130"
+        }
+    },
+    "sd @ phi": {
+        "bryce harper": {
+            "pn": "323/-500"
+        },
+        "nick castellanos": {
+            "pn": "524/-1004"
+        },
+        "jt realmuto": {
+            "pn": "565/-1142"
+        },
+        "max kepler": {
+            "pn": "446/-782"
+        },
+        "trea turner": {
+            "pn": "509/-960"
+        },
+        "kyle schwarber": {
+            "pn": "250/-364"
+        },
+        "manny machado": {
+            "pn": "420/-717"
+        },
+        "fernando tatis": {
+            "pn": "566/-1145"
+        }
+    },
+    "ath @ tb": {
+        "danny jansen": {
+            "pn": "538/-1049"
+        },
+        "yandy diaz": {
+            "pn": "380/-621"
+        },
+        "christopher morel": {
+            "pn": "368/-595"
+        },
+        "junior caminero": {
+            "pn": "347/-551"
+        },
+        "brent rooker": {
+            "pn": "436/-755"
+        },
+        "shea langeliers": {
+            "pn": "515/-977"
+        },
+        "lawrence butler": {
+            "pn": "528/-1017"
+        },
+        "tyler soderstrom": {
+            "pn": "575/-1177"
+        },
+        "nick kurtz": {
+            "pn": "449/-790"
+        }
+    },
+    "chw @ lad": {
+        "freddie freeman": {
+            "pn": "477/-865"
+        },
+        "max muncy": {
+            "pn": "386/-635"
+        },
+        "mookie betts": {
+            "pn": "513/-971"
+        },
+        "teoscar hernandez": {
+            "pn": "468/-842"
+        },
+        "michael conforto": {
+            "pn": "539/-1051"
+        },
+        "shohei ohtani": {
+            "pn": "172/-236"
+        },
+        "will smith": {
+            "pn": "476/-864"
+        },
+        "miguel vargas": {
+            "pn": "560/-1124"
+        },
+        "andy pages": {
+            "pn": "451/-794"
         }
     }
 }
