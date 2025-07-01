@@ -1719,6 +1719,9 @@ def writeBarrels(date):
 			hrLogs = []
 			dtLogs = []
 
+			if player == "rafael devers" and team == "bos":
+				continue
+
 			if "P" in roster[team].get(player, "") or data["grouping_code"][0] == "Pitcher":
 				continue
 
