@@ -7967,6 +7967,12 @@
             "start": "Postponed"
         },
         {
+            "game": "ath @ tb",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696184/athletics-rays",
+            "score": "4-3",
+            "start": ""
+        },
+        {
             "game": "cin @ bos",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696179/reds-red-sox",
             "score": "",
@@ -7979,16 +7985,10 @@
             "start": "Postponed"
         },
         {
-            "game": "ath @ tb",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696184",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
             "game": "laa @ atl",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696178",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696178/angels-braves",
+            "score": "4-0",
+            "start": ""
         },
         {
             "game": "bal @ tex",
@@ -8022,9 +8022,9 @@
         },
         {
             "game": "chw @ lad",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696190/white-sox-dodgers",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696190",
             "score": "",
-            "start": "10:10 PM"
+            "start": "LIVE"
         }
     ],
     "2025-07-02": [
