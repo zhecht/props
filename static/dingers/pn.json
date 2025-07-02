@@ -1,4 +1,41 @@
 {
+    "min @ mia": {
+        "jesus sanchez": {
+            "pn": "532/-1029"
+        },
+        "kyle stowers": {
+            "pn": "491/-906"
+        },
+        "agustin ramirez": {
+            "pn": "470/-847"
+        },
+        "byron buxton": {
+            "pn": "337/-528"
+        },
+        "royce lewis": {
+            "pn": "556/-1110"
+        },
+        "matt wallner": {
+            "pn": "376/-613"
+        }
+    },
+    "bal @ tex": {
+        "cedric mullins": {
+            "pn": "528/-1018"
+        },
+        "ryan ohearn": {
+            "pn": "554/-1102"
+        },
+        "colton cowser": {
+            "pn": "427/-733"
+        },
+        "gunnar henderson": {
+            "pn": "349/-553"
+        },
+        "jackson holliday": {
+            "pn": "567/-1147"
+        }
+    },
     "nyy @ tor": {
         "giancarlo stanton": {
             "pn": "294/-443"
@@ -31,24 +68,33 @@
             "pn": "450/-791"
         }
     },
-    "min @ mia": {
-        "jesus sanchez": {
-            "pn": "532/-1029"
+    "chw @ lad": {
+        "freddie freeman": {
+            "pn": "434/-752"
         },
-        "kyle stowers": {
-            "pn": "491/-906"
+        "max muncy": {
+            "pn": "358/-573"
         },
-        "agustin ramirez": {
-            "pn": "470/-847"
+        "mookie betts": {
+            "pn": "447/-784"
         },
-        "byron buxton": {
-            "pn": "337/-528"
+        "teoscar hernandez": {
+            "pn": "433/-749"
         },
-        "royce lewis": {
-            "pn": "556/-1110"
+        "michael conforto": {
+            "pn": "604/-1283"
         },
-        "matt wallner": {
-            "pn": "376/-613"
+        "shohei ohtani": {
+            "pn": "162/-221"
+        },
+        "will smith": {
+            "pn": "417/-708"
+        },
+        "miguel vargas": {
+            "pn": "545/-1072"
+        },
+        "andy pages": {
+            "pn": "424/-727"
         }
     }
 }

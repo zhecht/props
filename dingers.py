@@ -1461,10 +1461,6 @@ def writeStatsPage(date):
 	response = requests.get(url, headers=headers)
 	lineups = response.json()
 
-	if date == "2025-05-26":
-		lineups["nyy"]["pitcher"] = "ryan yarbrough"
-		lineups["sd"]["pitcher"] = "randy vasquez"
-
 	url = "https://api.github.com/repos/zhecht/odds/contents/static/mlb/weather.json"
 	response = requests.get(url, headers=headers)
 	weather = response.json()
@@ -1520,8 +1516,6 @@ def writeStatsPage(date):
 	teamGame = {}
 	opps = {}
 	for game in schedule[date]:
-		if "-gm2" in game["game"]:
-			continue
 		a,h = map(str, game["game"].split(" @ "))
 		teamGame[a] = game
 		teamGame[h] = game
@@ -1555,212 +1549,219 @@ def writeStatsPage(date):
 			isAway = False
 			startSortable = 0
 			oppRank = oppRankSeason = oppRankPer6 = oppRankClass = ""
-			try: # game info
-				game = teamGame[team]["game"]
-				start = teamGame[team]["start"]
-				startSortable = convertToSortable(start)
-				away,home = map(str, game.split(" @ "))
-				if away == team:
-					isAway = True
-				opp = opps[team]
-				p = "opp_" if not isPitcher else ""
-				oppRankings = rankings[opp].get(f"{p}{convertRankingsProp(prop)}")
-				pitcher = lineups[opp]["pitcher"]
-				pitcherLR = leftOrRight[opp].get(pitcher, "")
-				gameWeather = weather.get(game, {})
 
-				if home in parkFactors:
-					stadiumRank = parkFactors[home]["hrRank"]
+			gs = [""]
+			if prop == "hr":
+				gs.append("-gm2")
 
-				if oppRankings:
-					oppRank = oppRankings["rankSuffix"]
-					oppRankSeason = oppRankings["season"]
-					oppRankPer6 = round(float(oppRankSeason) * 6.0 / 9.0, 2)
-					oppRankClass = oppRankings["rankClass"]
-					if oppRankClass and isPitcher:
-						oppRankClass = "positive" if oppRankClass == "negative" else "negative"
-			except:
-				if isPitcher:
-					continue
+			for g in gs:
+				try: # game info
+					team = f"{team}{g}"
+					game = teamGame[team]["game"]
+					start = teamGame[team]["start"]
+					startSortable = convertToSortable(start)
+					away,home = map(str, game.split(" @ "))
+					if away == team:
+						isAway = True
+					opp = opps[team]
+					p = "opp_" if not isPitcher else ""
+					oppRankings = rankings[opp].get(f"{p}{convertRankingsProp(prop)}")
+					pitcher = lineups[opp]["pitcher"]
+					pitcherLR = leftOrRight[opp].get(pitcher, "")
+					gameWeather = weather.get(game, {})
 
-			try:
-				ah = "away" if isAway else "home"
-				ahIdx = 0 if isAway else 1
-				spread = next(iter(pinny[game]["spread"]))
-				total = next(iter(pinny[game]["total"]))
-				tt = pinny[game].get(f"{ah}_total", "")
-				ttOU = ""
-				if tt:
-					tt = next(iter(tt))
-					ttOU = pinny[game][f"{ah}_total"][tt]
-				gameLines = {
-					"ml": pinny[game]["ml"].split("/")[ahIdx],
-					"tt": tt, "ttOU": ttOU,
-					"spread": f"""{spread} {pinny[game]["spread"][spread]}""",
-					"total": total,
-					"totalOU": pinny[game]["total"][total]
-					#"total": f"""{total} {pinny[game]["total"][total]}""",
-				}
-			except:
-				gameLines = {}
+					if home in parkFactors:
+						stadiumRank = parkFactors[home]["hrRank"]
 
-
-			pitcherData = {}
-			pitcherSummary = ""
-			babip = ""
-			if pitcher in advanced:
-				p = pitcher
-				pitcherData = advanced[p]
-				#pitcherSummary = f"{advanced[p]['p_era']} ERA, {advanced[p]['batting_avg']} AVG, {advanced[p]['xba']} xAVG, {babip} BABIP, {advanced[p]['slg_percent']} SLG, {advanced[p]['xslg']} xSLG, {advanced[p]['woba']} WOBA, {advanced[p]['xwoba']} xWOBA, {advanced[p]['barrel_batted_rate']}% Barrel Batted"
-				pitcherSummary = f"{advanced[p]['p_era']} ERA, {advanced[p]['xba']} xBA, {advanced[p]['xwoba']} xWOBA, {advanced[p]['barrel_batted_rate']}% Barrel"
-
-			for player, position in roster[team].items():
-				try:
-					order = lineups[team]["batters"].index(player)+1
+					if oppRankings:
+						oppRank = oppRankings["rankSuffix"]
+						oppRankSeason = oppRankings["season"]
+						oppRankPer6 = round(float(oppRankSeason) * 6.0 / 9.0, 2)
+						oppRankClass = oppRankings["rankClass"]
+						if oppRankClass and isPitcher:
+							oppRankClass = "positive" if oppRankClass == "negative" else "negative"
 				except:
-					order = "-"
-
-				if not isPitcher and "P" in position:
-					continue
-
-				dailyLines = {"line": line}
-
-				try:
-					if prop in ["hr"]:
-						maxOdds = (0, "")
-						for book, ou in dingerOdds[game][player].items():
-							if book in ["pn"]:
-								continue
-							o = int(ou.split("/")[0])
-							if o > maxOdds[0]:
-								maxOdds = (o, book)
-						dailyLines = {"line": "0.5", "odds": maxOdds[0], "book": maxOdds[1]}
-					elif prop in ["h"]:
-						dailyLines = daily[date][game][prop][player][str(line)]
-					else:
-						nearestMid = {"line": "", "diff": 100}
-						for l, d in daily[date][game][prop][player].items():
-							if abs(d["implied"] - 50) < nearestMid["diff"]:
-								nearestMid["line"] = l
-								nearestMid["diff"] = abs(d["implied"] - 50)
-						dailyLines = daily[date][game][prop][player][nearestMid["line"]].copy()
-				except:
-					pass
-
-				if isPitcher:
-					if team not in lineups or player != lineups[team]["pitcher"]:
+					if isPitcher or g:
 						continue
-					pitcher = player
 
-				bvpStats = bvpData[team].get(player+' v '+pitcher, {})
-				bvp = ""
-				bvpHR = bvpAvg = bvpH = 0
-				if bvpStats and bvpStats["ab"]:
-					#bvp = f"{bvpStats['h']}-{bvpStats['ab']}, {bvpStats['hr']} HR, {bvpStats['rbi']} RBI, {bvpStats['so']} SO"
-					bvp = f"{bvpStats['h']}-{bvpStats['ab']}, {bvpStats['hr']} HR"
-					bvpHR = bvpStats["hr"]
-					bvpH = bvpStats["h"]
-					if bvpStats["ab"]:
-						bvpAvg = bvpStats["h"] / bvpStats["ab"]
+				try:
+					ah = "away" if isAway else "home"
+					ahIdx = 0 if isAway else 1
+					spread = next(iter(pinny[game]["spread"]))
+					total = next(iter(pinny[game]["total"]))
+					tt = pinny[game].get(f"{ah}_total", "")
+					ttOU = ""
+					if tt:
+						tt = next(iter(tt))
+						ttOU = pinny[game][f"{ah}_total"][tt]
+					gameLines = {
+						"ml": pinny[game]["ml"].split("/")[ahIdx],
+						"tt": tt, "ttOU": ttOU,
+						"spread": f"""{spread} {pinny[game]["spread"][spread]}""",
+						"total": total,
+						"totalOU": pinny[game]["total"][total]
+						#"total": f"""{total} {pinny[game]["total"][total]}""",
+					}
+				except:
+					gameLines = {}
 
-				savantData = expected[team].get(player, {})
-				if isPitcher:
-					savantData = advanced.get(player, {})
-					pitcherData = savantData
 
-				#if player == "mackenzie gore":
-				#	print(savantData)
+				pitcherData = {}
+				pitcherSummary = ""
+				babip = ""
+				if pitcher in advanced:
+					p = pitcher
+					pitcherData = advanced[p]
+					#pitcherSummary = f"{advanced[p]['p_era']} ERA, {advanced[p]['batting_avg']} AVG, {advanced[p]['xba']} xAVG, {babip} BABIP, {advanced[p]['slg_percent']} SLG, {advanced[p]['xslg']} xSLG, {advanced[p]['woba']} WOBA, {advanced[p]['xwoba']} xWOBA, {advanced[p]['barrel_batted_rate']}% Barrel Batted"
+					pitcherSummary = f"{advanced[p]['p_era']} ERA, {advanced[p]['xba']} xBA, {advanced[p]['xwoba']} xWOBA, {advanced[p]['barrel_batted_rate']}% Barrel"
 
-				feedKeys = sorted(feed.get(player, {}).keys())
-				evos = [feed[player][k]["evo"] for k in [k for k in feedKeys]]
-				dists = [feed[player][k]["dist"] for k in [k for k in feedKeys]]
-				hrParks = [feed[player][k]["hr/park"].split("/")[0] for k in [k for k in feedKeys]]
-				results = [feed[player][k]["result"] for k in [k for k in feedKeys]]
+				for player, position in roster[team].items():
+					try:
+						order = lineups[team]["batters"].index(player)+1
+					except:
+						order = "-"
 
-				#if player == "shohei ohtani":
-				#	print(player, results, evos, dists, hrParks)
-				over100 = over300ft = 0
-				if len(dists[-lastAB:]):
-					over300ft = round(len([x for x in dists[-lastAB:] if x and int(x) >= 300]) * 100 / len(dists[-lastAB:]))
-					sortData.setdefault("dist", [])
-					sortData["dist"].append((over300ft, player))
+					if not isPitcher and "P" in position:
+						continue
 
-					over100 =round( len([x for x in evos[-lastAB:] if x and float(x) >= 100]) * 100 / len(evos[-lastAB:]))
-					sortData.setdefault("evo", [])
-					sortData["evo"].append((over100, player))
+					dailyLines = {"line": line}
 
-				playerStats = teamStats.get(player, {})
-				dtSplits, logs, awayHomeSplits, playerYears = [], [], [], []
-				longLogs = []
-				hitRate = hitRateL10 = hitRateLYR = totGames = 0
-				if playerStats:
-					dtSplits = playerStats["dt"]
-					awayHomeSplits = playerStats["awayHome"]
-					totGames = len(dtSplits)
-					logs = playerStats.get(prop, [])
+					try:
+						if prop in ["hr"]:
+							maxOdds = (0, "")
+							for book, ou in dingerOdds[game][player].items():
+								if book in ["pn"]:
+									continue
+								o = int(ou.split("/")[0])
+								if o > maxOdds[0]:
+									maxOdds = (o, book)
+							dailyLines = {"line": "0.5", "odds": maxOdds[0], "book": maxOdds[1]}
+						elif prop in ["h"]:
+							dailyLines = daily[date][game][prop][player][str(line)]
+						else:
+							nearestMid = {"line": "", "diff": 100}
+							for l, d in daily[date][game][prop][player].items():
+								if abs(d["implied"] - 50) < nearestMid["diff"]:
+									nearestMid["line"] = l
+									nearestMid["diff"] = abs(d["implied"] - 50)
+							dailyLines = daily[date][game][prop][player][nearestMid["line"]].copy()
+					except:
+						pass
 
-					if totGames:
-						hitRate = round(len([x for x in logs if x > float(dailyLines["line"])]) * 100 / totGames)
-						hitRateL10 = round(len([x for x in logs[-10:] if x > float(dailyLines["line"])]) * 100 / min(totGames, 10))
+					if isPitcher:
+						if team not in lineups or player != lineups[team]["pitcher"]:
+							continue
+						pitcher = player
 
-				playerStatsHist = teamStatsHist.get(player, {})
-				playerYears = sorted(list(playerStatsHist.keys()), reverse=True)
-				if lastYear in playerStatsHist:
-					playerStatsHist = playerStatsHist[lastYear]
-					longLogs = playerStatsHist.get(prop, [])[::-1]
-					longLogs.extend(logs)
-				else:
-					playerStatsHist = {}
-					longLogs = logs
-				dtSplitsLYR, logsLYR = [], []
-				if playerStatsHist:
-					dtSplitsLYR = playerStatsHist["date"][::-1]
-					totGamesLYR = len(dtSplitsLYR)
-					logsLYR = playerStatsHist.get(prop, [])[::-1]
+					bvpStats = bvpData[team].get(player+' v '+pitcher, {})
+					bvp = ""
+					bvpHR = bvpAvg = bvpH = 0
+					if bvpStats and bvpStats["ab"]:
+						#bvp = f"{bvpStats['h']}-{bvpStats['ab']}, {bvpStats['hr']} HR, {bvpStats['rbi']} RBI, {bvpStats['so']} SO"
+						bvp = f"{bvpStats['h']}-{bvpStats['ab']}, {bvpStats['hr']} HR"
+						bvpHR = bvpStats["hr"]
+						bvpH = bvpStats["h"]
+						if bvpStats["ab"]:
+							bvpAvg = bvpStats["h"] / bvpStats["ab"]
 
-					if totGamesLYR:
-						hitRateLYR = round(len([x for x in logsLYR if x > float(dailyLines["line"])]) * 100 / totGamesLYR)
+					savantData = expected[team].get(player, {})
+					if isPitcher:
+						savantData = advanced.get(player, {})
+						pitcherData = savantData
 
-				bppFactor = playerFactor = playerFactorColor = ""
-				roof = False
-				if game in bppFactors and player in bppFactors[game].get("players",[]):
-					p = "hr" if prop == "hr" else "1b"
-					bppFactor = bppFactors[game].get(p, "")
-					playerFactor = bppFactors[game]["players"][player].get(p, "")
-					playerFactorColor = bppFactors[game]["players"][player].get(f"{p}-color", "")
-					roof = bppFactors[game]["roof"]
+					#if player == "mackenzie gore":
+					#	print(savantData)
 
-				data.append({
-					"player": player, "team": team, "opp": opp,
-					"game": game, "start": start, "startSortable": startSortable,
-					"bvpStats": bvpStats,
-					"bvp": bvp, "pitcher": pitcher, "pitcherSummary": pitcherSummary,
-					"homerLogs": homerLogs.get(player, {}),
-					"pitcherData": pitcherData,
-					"bvpHR": bvpHR, "bvpAvg": bvpAvg, "bvpH": bvpH,
-					"order": order,
-					"prop": prop, "line": dailyLines["line"], "playerHandicap": dailyLines["line"],
-					"book": dailyLines.get("book", ""), "bookOdds": {},
-					"ba": savantData.get("ba", "-"), "xba": savantData.get("est_ba", "-"),
-					"xwoba": savantData.get("est_woba", "-"),
-					"savant": savantData,
-					"feed": {
-						"evo": [float(x or 0.0) for x in evos],
-						"dist": [int(x or 0) for x in dists],
-						"hr/park": hrParks,
-						"result": results, "keys": feedKeys
-					},
-					"logs": logs, "longLogs": longLogs, "dtSplits": dtSplits, "awayHomeSplits": awayHomeSplits,
-					"hitRate": hitRate, "hitRateL10": hitRateL10, "hitRateLYR": hitRateLYR,
-					"oppRank": oppRank, "oppRankClass": oppRankClass,
-					"oppRankSeason": oppRankSeason, "oppRankPer6": oppRankPer6,
-					"weather": gameWeather, "stadiumRank": stadiumRank,
-					"100-evo": over100, "300-ft": over300ft,
-					"playerYears": playerYears,
-					"daily": dailyLines, "gameLines": gameLines,
-					# bpp
-					"bpp": bppFactor, "playerFactor": playerFactor, "playerFactorColor": playerFactorColor
-				})
+					feedKeys = sorted(feed.get(player, {}).keys())
+					evos = [feed[player][k]["evo"] for k in [k for k in feedKeys]]
+					dists = [feed[player][k]["dist"] for k in [k for k in feedKeys]]
+					hrParks = [feed[player][k]["hr/park"].split("/")[0] for k in [k for k in feedKeys]]
+					results = [feed[player][k]["result"] for k in [k for k in feedKeys]]
+
+					#if player == "shohei ohtani":
+					#	print(player, results, evos, dists, hrParks)
+					over100 = over300ft = 0
+					if len(dists[-lastAB:]):
+						over300ft = round(len([x for x in dists[-lastAB:] if x and int(x) >= 300]) * 100 / len(dists[-lastAB:]))
+						sortData.setdefault("dist", [])
+						sortData["dist"].append((over300ft, player))
+
+						over100 =round( len([x for x in evos[-lastAB:] if x and float(x) >= 100]) * 100 / len(evos[-lastAB:]))
+						sortData.setdefault("evo", [])
+						sortData["evo"].append((over100, player))
+
+					playerStats = teamStats.get(player, {})
+					dtSplits, logs, awayHomeSplits, playerYears = [], [], [], []
+					longLogs = []
+					hitRate = hitRateL10 = hitRateLYR = totGames = 0
+					if playerStats:
+						dtSplits = playerStats["dt"]
+						awayHomeSplits = playerStats["awayHome"]
+						totGames = len(dtSplits)
+						logs = playerStats.get(prop, [])
+
+						if totGames:
+							hitRate = round(len([x for x in logs if x > float(dailyLines["line"])]) * 100 / totGames)
+							hitRateL10 = round(len([x for x in logs[-10:] if x > float(dailyLines["line"])]) * 100 / min(totGames, 10))
+
+					playerStatsHist = teamStatsHist.get(player, {})
+					playerYears = sorted(list(playerStatsHist.keys()), reverse=True)
+					if lastYear in playerStatsHist:
+						playerStatsHist = playerStatsHist[lastYear]
+						longLogs = playerStatsHist.get(prop, [])[::-1]
+						longLogs.extend(logs)
+					else:
+						playerStatsHist = {}
+						longLogs = logs
+					dtSplitsLYR, logsLYR = [], []
+					if playerStatsHist:
+						dtSplitsLYR = playerStatsHist["date"][::-1]
+						totGamesLYR = len(dtSplitsLYR)
+						logsLYR = playerStatsHist.get(prop, [])[::-1]
+
+						if totGamesLYR:
+							hitRateLYR = round(len([x for x in logsLYR if x > float(dailyLines["line"])]) * 100 / totGamesLYR)
+
+					bppFactor = playerFactor = playerFactorColor = ""
+					roof = False
+					if game in bppFactors and player in bppFactors[game].get("players",[]):
+						p = "hr" if prop == "hr" else "1b"
+						bppFactor = bppFactors[game].get(p, "")
+						playerFactor = bppFactors[game]["players"][player].get(p, "")
+						playerFactorColor = bppFactors[game]["players"][player].get(f"{p}-color", "")
+						roof = bppFactors[game]["roof"]
+
+					data.append({
+						"player": player, "team": team, "opp": opp,
+						"game": game, "start": start, "startSortable": startSortable,
+						"bvpStats": bvpStats,
+						"bvp": bvp, "pitcher": pitcher, "pitcherSummary": pitcherSummary,
+						"homerLogs": homerLogs.get(player, {}),
+						"pitcherData": pitcherData,
+						"bvpHR": bvpHR, "bvpAvg": bvpAvg, "bvpH": bvpH,
+						"order": order,
+						"prop": prop, "line": dailyLines["line"], "playerHandicap": dailyLines["line"],
+						"book": dailyLines.get("book", ""), "bookOdds": {},
+						"ba": savantData.get("ba", "-"), "xba": savantData.get("est_ba", "-"),
+						"xwoba": savantData.get("est_woba", "-"),
+						"savant": savantData,
+						"feed": {
+							"evo": [float(x or 0.0) for x in evos],
+							"dist": [int(x or 0) for x in dists],
+							"hr/park": hrParks,
+							"result": results, "keys": feedKeys
+						},
+						"logs": logs, "longLogs": longLogs, "dtSplits": dtSplits, "awayHomeSplits": awayHomeSplits,
+						"hitRate": hitRate, "hitRateL10": hitRateL10, "hitRateLYR": hitRateLYR,
+						"oppRank": oppRank, "oppRankClass": oppRankClass,
+						"oppRankSeason": oppRankSeason, "oppRankPer6": oppRankPer6,
+						"weather": gameWeather, "stadiumRank": stadiumRank,
+						"100-evo": over100, "300-ft": over300ft,
+						"playerYears": playerYears,
+						"daily": dailyLines, "gameLines": gameLines,
+						# bpp
+						"bpp": bppFactor, "playerFactor": playerFactor, "playerFactorColor": playerFactorColor
+					})
 
 		if prop == "hr":
 			with open(f"static/mlb/stats_bvp.json", "w") as fh:
